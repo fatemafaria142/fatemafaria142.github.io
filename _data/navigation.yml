@@ -1,0 +1,26 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+  
+  - title: "News"
+    url: /news/
+    
+  - title: "Research"
+    url: /research/
+    
+  - title: "Publications"
+    url: /publications/  
+
+  - title: "Teachings"
+    url: /teaching/   
+
+  - title: "Services"
+    url: /services/    
+    
+  - title: "Education"
+    url: /education/
+    
+  - title: "CV"
+    url: /cv/
+    
