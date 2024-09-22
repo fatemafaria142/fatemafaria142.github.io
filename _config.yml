@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mukaffi Bin Moin"
+title                    : "Fatema Tuj Johora Faria"
 title_separator          : "-"
 name                     : &name "Mukaffi Bin Moin"
 description              : &description "Website"
-url                      : https://Mukaffi28.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fatemafaria142.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Mukaffi28/https://Mukaffi28.github.io"
+repository               : "fatemafaria142/https://fatemafaria142.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.jpg # Open Graph/Twitter default site image
+og_image                 : profile1.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
