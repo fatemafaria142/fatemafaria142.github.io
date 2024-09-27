@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-## Mentoring
+<!-- ## Mentoring
 
 <p style="text-align:justify;color:black; font-family:Georgia">
 I enjoy advising young researchers, managing and guiding them, fostering interpersonal relationships, and 
@@ -93,4 +93,4 @@ I contributed as a problem setter and judge in various contests. Find the detail
 + <span style="color:brown;font-family:Georgia;">Convener</span>, <span style="color:black;font-family:Georgia;">Programming Skill Development Committee, Department of CSE, AUST</span><span style="font-family:Courier New;color:black;">  [2019-2022]</span>
 + <span style="color:brown;font-family:Georgia;">Programming Contest Coordinator</span>, <span style="color:black;font-family:Georgia;">Department of Computer Science and Engineering, AUST</span><span style="font-family:Courier New;color:black;">  [2019-2022]</span>
 + <span style="color:brown;font-family:Georgia;">Facilitator</span>, <span style="color:black;font-family:Georgia;">Training on Python and Artificial Intelligence, Directorate of Secondary and Higher Education, Bangladesh</span><span style="font-family:Courier New;color:black;">  [2022]</span>
-+ <span style="color:brown;font-family:Georgia;">Mentor</span>, <span style="color:black;font-family:Georgia;">National Hackathon on Frontier Technologies, Startup Bangladesh, Bangladesh Computer Council, ICT Division</span><span style="font-family:Courier New;color:black;">  [2020]</span>
++ <span style="color:brown;font-family:Georgia;">Mentor</span>, <span style="color:black;font-family:Georgia;">National Hackathon on Frontier Technologies, Startup Bangladesh, Bangladesh Computer Council, ICT Division</span><span style="font-family:Courier New;color:black;">  [2020]</span> -->
