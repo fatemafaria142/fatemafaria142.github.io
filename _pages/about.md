@@ -33,12 +33,12 @@ My research focuses on <em>Medical Image Analysis</em>, <em>Computer Vision</em>
 </p>
 
 ## Recent News ⚡
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> [Ben-Sarc](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095) published in [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing)!</span>
+<!-- + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> [Ben-Sarc](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095) published in [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[April 2024]</span> [BFRD](https://www.sciencedirect.com/science/article/abs/pii/S0925231224005034) published in [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[January 2024]</span> [Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2023]</span> One paper of my undergraduate thesis group got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2023]</span> I will supervise Three undergraduate thesis groups starting this semester!</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2023]</span> [CLAA](https://ieeexplore.ieee.org/document/10298556/) got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers).</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2023]</span> [CLAA](https://ieeexplore.ieee.org/document/10298556/) got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers).</span>  -->
 
 <script>
 function playMusic(){
