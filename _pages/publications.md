@@ -11,7 +11,7 @@ author_profile: true
 ## 2024
 ---------
 <!-- Paper 01 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language**</span>](https://arxiv.org/abs/2405.02937) (<span style="color:red"><strong>Q2</strong></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study**</span>](https://arxiv.org/abs/2405.02937) (<span style="color:red"><strong>Q2</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong> Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, Faisal Muhammad Shah</font>
 </span>
