@@ -56,7 +56,7 @@ author_profile: true
 <!-- Paper 02 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework**</span>](https://arxiv.org/abs/2311.11142) (<span style="color:red"><strong>Q2</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong> Mukaffi Bin Moin, Ahmed Al Wase, Mehidi Ahmmed, Md Rabius Sani, and Tashreef Muhammad.</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong> Mukaffi Bin Moin, Ahmed Al Wase, Md Rabius Sani, Khan Md Hasib, and Mohammad Shafiul Alam.</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
