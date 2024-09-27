@@ -63,9 +63,9 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC) </em></font> ([CCWC 2023](https://ieee-ccwc.org/#))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#vashantor2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/370123763_Classification_of_Potato_Disease_with_Digital_Image_Processing_Technique_A_Hybrid_Deep_Learning_Framework)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Classification-of-Potato-Disease-A-Hybrid-Deep-Learning-Framework)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://github.com/Mukaffi28/Potato-Disease)] [<a style="color:red;" href="#" onclick="$('#vashantor2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#potato2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/370123763_Classification_of_Potato_Disease_with_Digital_Image_Processing_Technique_A_Hybrid_Deep_Learning_Framework)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Classification-of-Potato-Disease-A-Hybrid-Deep-Learning-Framework)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://github.com/Mukaffi28/Potato-Disease)] [<a style="color:red;" href="#" onclick="$('#potato2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
-<div id="vashantor2023_bib" class="bib" style="display:none;">
+<div id="potato2023_bib" class="bib" style="display:none;">
 	<pre>
 	  @INPROCEEDINGS{10099162,
   		author={Faria, Fatema Tuj Johora and Bin Moin, Mukaffi and Al Wase, Ahmed and Sani, Md. Rabius and Hasib, Khan Md and Alam, Mohammad Shafiul},
@@ -80,7 +80,7 @@ author_profile: true
 	</pre>
 </div>
 
-<div id="vashantor2023_abstract" class="abstract" style="display:none;">
+<div id="potato2023_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			Potatoes are among the major vegetables in agricultural regions, and it is farmed and utilized all over the world. Potatoes are a high-protein food with several health benefits, but there are numerous diseases associated with potatoes that hamper production. In this research, we developed a hybrid approach that employs image processing and combines MobileNet V2 with LSTM, GRU, and Bidirectional LSTM to evaluate potato disease classes known as Black Scurf, Common Scab, Blackleg, Dry Rot, Pink Rot, Healthy, and Miscellaneous. We examined the outcomes of each architecture after applying it independently to determine the optimal architecture configuration for categorizing potato diseases. In terms of accuracy, the results show that the hybrid MobileNet V2-GRU with Stochastic Gradient Descent optimizer strategy exceeds the other alternative. On the test dataset, we achieved 99% accuracy.
