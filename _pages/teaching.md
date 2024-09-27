@@ -4,7 +4,7 @@ permalink: /teaching/
 title: ""
 ---
 
-> <p>"When one teaches, two learn" <br> &nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
+<!-- > <p>"When one teaches, two learn" <br> &nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
  
 
 ## Current Position
@@ -207,4 +207,4 @@ Copyright (c) 2024 G. M. Shahariar Shibli. All Rights Reserved. Do not use or co
 
 
 
-
+ -->
