@@ -11,7 +11,7 @@ author_profile: true
 ## 2024
 ---------
 <!-- Paper 01 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study**</span>](https://arxiv.org/abs/2405.02937) (<span style="color:red"><strong>Q2</strong></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study**</span>](https://arxiv.org/abs/2405.02937) (<span style="color:red"></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong> Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, Faisal Muhammad Shah</font>
 </span>
@@ -20,19 +20,19 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> 4th International Conference on Computing and Communication Networks (ICCCNet-2024)  </em></font> ([ICCCNet 2024](https://icccn.co.uk/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#NLI2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.02937)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Large-Language-Models-Over-Transformer-Models-for-Bangla-NLI)] [[<span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#NLI2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#NLI2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.02937)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Large-Language-Models-Over-Transformer-Models-for-Bangla-NLI)] <span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#NLI2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="NLI2023_bib" class="bib" style="display:none;">
 	<pre>
 	  @misc{faria2024unravelingdominancelargelanguage,
-      title={Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study}, 
-      author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Asif Iftekher Fahim and Pronay Debnath and Faisal Muhammad Shah},
-      year={2024},
-      eprint={2405.02937},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2405.02937}, 
-	  }
+      	title={Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study}, 
+      	author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Asif Iftekher Fahim and Pronay Debnath and Faisal Muhammad Shah},
+      	year={2024},
+      	eprint={2405.02937},
+      	archivePrefix={arXiv},
+      	primaryClass={cs.CL},
+      	url={https://arxiv.org/abs/2405.02937}, 
+	  	}
 	</pre>
 </div>
 
@@ -44,7 +44,39 @@ author_profile: true
 	</p>
 </div> 
 
+<!-- Paper 01 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study**</span>](https://arxiv.org/abs/2405.02937) (<span style="color:red"></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong> Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, Faisal Muhammad Shah</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 4th International Conference on Computing and Communication Networks (ICCCNet-2024)  </em></font> ([ICCCNet 2024](https://icccn.co.uk/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#NLI2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.02937)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Large-Language-Models-Over-Transformer-Models-for-Bangla-NLI)] <span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#NLI2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
+<div id="NLI2023_bib" class="bib" style="display:none;">
+	<pre>
+	  @misc{faria2024unravelingdominancelargelanguage,
+      	title={Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study}, 
+      	author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Asif Iftekher Fahim and Pronay Debnath and Faisal Muhammad Shah},
+      	year={2024},
+      	eprint={2405.02937},
+      	archivePrefix={arXiv},
+      	primaryClass={cs.CL},
+      	url={https://arxiv.org/abs/2405.02937}, 
+	  	}
+	</pre>
+</div>
+
+<div id="NLI2023_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			Natural Language Inference (NLI) is a cornerstone of Natural Language Processing (NLP), providing insights into the entailment relationships between text pairings. It is a critical component of Natural Language Understanding (NLU), demonstrating the ability to extract information from spoken or written interactions. NLI is mainly concerned with determining the entailment relationship between two statements, known as the premise and hypothesis. When the premise logically implies the hypothesis, the pair is labeled "entailment". If the hypothesis contradicts the premise, the pair receives the "contradiction" label. When there is insufficient evidence to establish a connection, the pair is described as "neutral". Despite the success of Large Language Models (LLMs) in various tasks, their effectiveness in NLI remains constrained by issues like low-resource domain accuracy, model overconfidence, and difficulty in capturing human judgment disagreements. This study addresses the underexplored area of evaluating LLMs in low-resourced languages such as Bengali. Through a comprehensive evaluation, we assess the performance of prominent LLMs and state-of-the-art (SOTA) models in Bengali NLP tasks, focusing on natural language inference. Utilizing the XNLI dataset, we conduct zero-shot and few-shot evaluations, comparing LLMs like GPT-3.5 Turbo and Gemini 1.5 Pro with models such as BanglaBERT, Bangla BERT Base, DistilBERT, mBERT, and sahajBERT. Our findings reveal that while LLMs can achieve comparable or superior performance to fine-tuned SOTA models in few-shot scenarios, further research is necessary to enhance our understanding of LLMs in languages with modest resources like Bengali. This study underscores the importance of continued efforts in exploring LLM capabilities across diverse linguistic contexts
+		</font>
+	</p>
+</div> 
 
 ## 2023
 ---------
