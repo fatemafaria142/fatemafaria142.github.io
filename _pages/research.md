@@ -146,8 +146,8 @@ and generation are essential for any NLP application that deals with semantics.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A self-annotated corpus for sarcasm detection from Bengali social media comments and its baseline evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. <em>Natural Language Processing</em>. [[PDF]](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095)</span> -->
 
-## 10. Text Normalization
-<p style="text-align:justify; color:black; font-family:Georgia">
+<!-- ## 10. Text Normalization
+<p style="text-align:justify; color:black; font-family:Georgia"> -->
 <!-- Text normalization in Natural Language Processing (NLP) refers to the process of converting the text into a 
 more consistent and standard form. Back transliteration is a specific type of text normalization that involves 
 converting transliterated text (text that has been converted from one script to another) back to its original 
@@ -157,12 +157,12 @@ original script might be represented by the same character in the Latin script, 
 determine the correct original character during back transliteration. Additionally, the process may need 
 to handle ambiguities and variations in the way people transliterate text.
 </p> -->
-### Related Paper:
+<!-- ### Related Paper: -->
 <!-- + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Automatic Back Transliteration of Romanized Bengali (Banglish) to Bengali</span>. GMS Shibli, MTR Shawon, AH Nibir, MZ Miandad, NC Mandal. <em>Iran Journal of Computer Science</em>. [[PDF]](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)</span>
  -->
 
-## 11. Explainable AI (XAI)
-<p style="text-align:justify; color:black; font-family:Georgia">
+<!-- ## 11. Explainable AI (XAI)
+<p style="text-align:justify; color:black; font-family:Georgia"> -->
 <!-- Explainable AI in medical image processing, especially when using pretrained models, refers to the ability 
 of the AI system to not only accurately classify medical conditions from images but also to provide insights 
 into the reasoning behind its decisions. For instance, in brain tumor classification, the AI would not only 
@@ -175,13 +175,13 @@ process is transparent and understandable to human experts, allowing healthcare 
 effectively interpret the AI's analysis for better patient outcomes. This is particularly important in 
 healthcare, where the reasoning behind a diagnosis can be as crucial as the diagnosis itself. -->
 </p>
-### Related Paper:
+<!-- ### Related Paper: -->
 <!-- + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span>. MTR Shawon, GMS Shibli, F Ahmed, SKS Joy. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2308.00608.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span>. A Mustari, R Ahmed, A Tasnim, JS Juthi and GM Shahariar. <em>ICCIT 2023</em>. [[PDF]](https://arxiv.org/pdf/2402.15905.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-sensitive Deep Neural Networks with Supervised Contrastive Learning</span>. D Nath and GM Shahariar. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07603.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span>. MA Rahman, AS Tanim, S Islam, F Pranto, GM Shahariar, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2309.05747.pdf)</span> -->
 
-## 12. Culinary Text Classification
+<!-- ## 12. Culinary Text Classification -->
 <p style="text-align:justify; color:black; font-family:Georgia">
 <!-- This specialized area of text classification focuses on analyzing and categorizing text data related to food, 
 recipes, cooking techniques, and cuisine types. It's a niche within the broader field of text classification 
@@ -189,11 +189,11 @@ that deals specifically with culinary content, using NLP techniques to understan
 on their ingredients, cooking methods, regional origins, dietary restrictions, or any other relevant culinary 
 genre distinctions. -->
 </p>
-### Related Paper:
+<!-- ### Related Paper: -->
 <!-- + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span>. N Sakib, GM Shahariar, MM Kabir, MK Hasan, H Mahmud. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2310.15693.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset Based on Active Learning</span>. N Sakib, GM Shahariar, MM Kabir, MK Hasan, H Mahmud. <em>MIET 2022</em>. [[PDF]](https://arxiv.org/pdf/2303.16778.pdf)</span> -->
 
-## Funding
+<!-- ## Funding -->
 <!-- <span style="font-family:Trebuchet MS; color:black;">
 <b>Project ID</b>: <span style="color:#6E2C00">ARP/2021/CSE/01/2</span><br/>
 <b>Project Title</b>: [Bengali Fake Reviews: A Benchmark Dataset and Detection System](https://www.aust.edu/news/1037)<br/>
