@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="color:black; font-family:Georgia;">Most recent publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?hl=en&user=GBaSF7MAAAAJ&view_op=list_works&sortby=pubdate"><em>[Google Scholar]</em></a> profile.</span><br>
+<span style="color:black; font-family:Georgia;">Most recent publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</span><br>
 <span style="color:black; font-family:Georgia;">[*] denotes equal contribution</span>
 
 ## 2024
@@ -19,16 +19,16 @@ author_profile: true
 
 
 <!-- Paper 01 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Vashantor: a large-scale multilingual benchmark dataset for automated translation of bangla regional dialects to bangla language.**</span>](https://arxiv.org/abs/2311.11142) (<span style="color:red"><strong>(Q2)</strong></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Vashantor: a large-scale multilingual benchmark dataset for automated translation of bangla regional dialects to bangla language.**</span>](https://arxiv.org/abs/2311.11142) (<span style="color:red"><strong>Q2</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar</strong>, Tahmid Hasan, Anindya Iqbal and Gias Uddin</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong> Mukaffi Bin Moin, Ahmed Al Wase, Mehidi Ahmmed, Md Rabius Sani, and Tashreef Muhammad.</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Journal:</strong><em> Natural Language Processing Journal </em></font> ([Natural Language Processing](https://www.sciencedirect.com/journal/natural-language-processing-journal))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#vashantor2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2311.11142)] [[<span style ="color:red"><font size="3">Code</font></span>](hhttps://github.com/Mukaffi28/Vashantor-A-Large-scale-Multilingual-Benchmark-Dataset)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/bj5jgk878b/2)] [<a style="color:red;" href="#" onclick="$('#vashantor2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#vashantor2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2311.11142)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/Vashantor-A-Large-scale-Multilingual-Benchmark-Dataset)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/bj5jgk878b/2)] [<a style="color:red;" href="#" onclick="$('#vashantor2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="vashantor2023_bib" class="bib" style="display:none;">
 	<pre>
