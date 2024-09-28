@@ -10,7 +10,17 @@ author_profile: true
 
 ## 2024
 --------- 
-
+<!-- Paper 11 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span>](https://www.mdpi.com/journal/electronics)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> , Laith H. Baniata, Hayder Albayati, Mohammad H. Baniata, Majdi Alsaaideh, Mohannad A. Khair, and Sangwoo Kang</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> Engineering Applications of Artificial Intelligence </em></font>  ([Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence))
+</span>
+<br>
+[[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
 
 <!-- Paper 10 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts**</span>]()<br>
@@ -22,19 +32,9 @@ author_profile: true
 	<font size="3"><strong>Journal:</strong><em> Engineering Applications of Artificial Intelligence </em></font>  ([Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#Disaster_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)] [<a style="color:red;" href="#" onclick="$('#Disaster_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
 
-<div id="" class="bib" style="display:none;">
-	<pre>
-	</pre>
-</div>
 
-<div id="" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;font-family:Monaco;"> 
-		<font size="3">
-		</font>
-	</p>
-</div>
 
 <!-- Paper 09 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language**</span>]()<br>
@@ -46,7 +46,7 @@ author_profile: true
 	<font size="3"><strong>Journal:</strong><em> International Journal of Disaster Risk Reduction </em></font>  ([Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#Disaster_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/BanglaCalamityMMD-A-Comprehensive-Benchmark-Dataset-for-Multimodal-Disaster-Identification)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/7dggbjn5sd/1)] [<a style="color:red;" href="#" onclick="$('#Disaster_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/BanglaCalamityMMD-A-Comprehensive-Benchmark-Dataset-for-Multimodal-Disaster-Identification)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/7dggbjn5sd/1)] 
 
 <div id="" class="bib" style="display:none;">
 	<pre>
@@ -70,8 +70,6 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> Submitted to an A* Rank Conference </em></font> 
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#Meme2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]] [[<span style ="color:red"><font size="3">Code</font></span>]] [[<span style ="color:red"><font size="3">Dataset</font></span>]] [<a style="color:red;" href="#" onclick="$('#Meme2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
-
 <div id="" class="bib" style="display:none;">
 	<pre>
 	</pre>
@@ -96,7 +94,7 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> Submitted to an A* Rank Conference </em></font> 
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#Tack2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]] [[<span style ="color:red"><font size="3">Code</font></span>]] [[<span style ="color:red"><font size="3">Dataset</font></span>]] [<a style="color:red;" href="#" onclick="$('#Tack2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+<!-- [<a style="color:red;" href="#" onclick="$('#Tack2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]] [[<span style ="color:red"><font size="3">Code</font></span>]] [[<span style ="color:red"><font size="3">Dataset</font></span>]] [<a style="color:red;" href="#" onclick="$('#Tack2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>]  -->
 
 <div id="" class="bib" style="display:none;">
 	<pre>

@@ -18,7 +18,7 @@ Supervisor: <a style="color:brown;" href="https://cse.buet.ac.bd/faculty_list/de
 Bachelor of Science (B.Sc.)<br/>
 Computer Science and Engineering <br/>
 Duration: 2019 - 2023 <br/>
-CGPA: <b>3.302/4.00</b> scale (Ranked <b>83<sup>th</sup> Among 133 Students</b>) <br/>
+CGPA: <b>3.302/4.00</b> scale (Ranked <b>83<sup>th</sup></b>) <br/>
 </span>
 
 <!-- HSC -->
