@@ -37,7 +37,7 @@ author_profile: true
 
 
 <!-- Paper 09 -->
-📌 <span style="color:blue;font-family:Trebuchet MS;">**BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language**</span><br> (<span style="color:red"><strong>Q1</strong></span>)<br>
+📌 <span style="color:blue;font-family:Trebuchet MS;">**BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language**</span>(<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Busra Kamal Rafa, Swarnajit Saha, Md. Mahfuzur Rahman, Khan Md Hasib, and M. F. Mridha</font>
 </span>
