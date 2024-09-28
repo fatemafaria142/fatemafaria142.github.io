@@ -45,4 +45,4 @@ GPA: <b>5.00/5.00</b> scale <br/>
 🏆 <span style="color:brown">Dean's List of Honor (Ranked <b>1<sup>st</sup></b>)</span>, Ahsanullah University of Science and Technology, 22 December, 2018<br/>
 🏆 <span style="color:brown">Government Scholarship</span>, SSC, Dhaka Board, 2011 <br/>
 🏆 <span style="color:brown">Government Scholarship</span>, JSC, Dhaka Board, 2008 <br/> -->
-</span> 
+<!-- </span>  -->
