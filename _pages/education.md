@@ -19,11 +19,12 @@ Bachelor of Science (B.Sc.)<br/>
 Computer Science and Engineering <br/>
 Duration: 2019 - 2023 <br/>
 CGPA: <b>3.302/4.00</b> scale (Ranked <b>83<sup>th</sup></b>) <br/>
+<b>Supervisor:</b> <a href="https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam" target="_blank">Dr. Mohammad Shafiul Alam</a>, Professor, Department of CSE, AUST
 </span>
 
 <!-- HSC -->
 <span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px"><b><a href="http://dhakacollege.edu.bd/" target="_blank">National Ideal College</a></b></span><br/>
+<span style="color:black; font-size:20px"><b><a href="https://www.facebook.com/nic132078/" target="_blank">National Ideal College</a></b></span><br/>
 Higher Secondary Certificate (HSC)<br/>
 Duration: 2015 - 2017 <br/>
 GPA: <b>5.00/5.00</b> scale <br/>
@@ -31,7 +32,7 @@ GPA: <b>5.00/5.00</b> scale <br/>
 
 <!-- SSC -->
 <span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px"><b><a href="https://iscm.edu.bd/" target="_blank">Motijheel Model School & College</a></b></span><br/>
+<span style="color:black; font-size:20px"><b><a href="https://mmodel.edu.bd/" target="_blank">Motijheel Model School & College</a></b></span><br/>
 Secondary School Certificate (SSC) <br/>
 Duration: 2013 - 2015 <br/>
 GPA: <b>5.00/5.00</b> scale <br/>

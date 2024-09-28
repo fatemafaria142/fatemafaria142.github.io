@@ -17,7 +17,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Engineering Applications of Artificial Intelligence </em></font>  ([Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence))
+	<font size="3"><strong>Journal:</strong><em> Under Review in MDPI Electronics </em></font>  ([Engineering Applications of Artificial Intelligence](https://www.mdpi.com/journal/electronics))
 </span>
 <br>
 [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
@@ -29,7 +29,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Engineering Applications of Artificial Intelligence </em></font>  ([Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence))
+	<font size="3"><strong>Journal:</strong><em> Under Review in Engineering Applications of Artificial Intelligence </em></font>  ([Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence))
 </span>
 <br>
 [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
@@ -43,7 +43,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> International Journal of Disaster Risk Reduction </em></font>  ([Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction))
+	<font size="3"><strong>Journal:</strong><em> Under Review in International Journal of Disaster Risk Reduction </em></font>  ([Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction))
 </span>
 <br>
 [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/BanglaCalamityMMD-A-Comprehensive-Benchmark-Dataset-for-Multimodal-Disaster-Identification)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/7dggbjn5sd/1)] 
