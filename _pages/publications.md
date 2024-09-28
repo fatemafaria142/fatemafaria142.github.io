@@ -23,7 +23,7 @@ author_profile: true
 <!-- [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)] -->
 
 <!-- Paper 10 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts**</span>]()<br>
+📌 <span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts**</span>(<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, Md Saddam Hossain Mukta, and M. F. Mridha</font>
 </span>
@@ -61,7 +61,7 @@ author_profile: true
 </div>
 
 <!-- Paper 08 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali MemesBanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes**</span>]()<br>
+📌 <span style="color:blue;font-family:Trebuchet MS;">**BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali MemesBanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes**</span><br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, and Faisal Muhammad Shah.</font>
 </span>
@@ -85,7 +85,7 @@ author_profile: true
 
 
 <!-- Paper 07 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Tackling Hallucination in Bengali NLP: Enhancing Paraphrase Generation, Reading Comprehension, and Formal Application Writing Using LLMs with Few-Shot Learning, Fine-Tuning, and RAG**</span>]<br>
+📌 <span style="color:blue;font-family:Trebuchet MS;">**Tackling Hallucination in Bengali NLP: Enhancing Paraphrase Generation, Reading Comprehension, and Formal Application Writing Using LLMs with Few-Shot Learning, Fine-Tuning, and RAG**</span><br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Saidur Rahman Sujon, Ahmadul Karim Chowdhury, <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin and Faisal Muhammad Shah</font>
 </span>
