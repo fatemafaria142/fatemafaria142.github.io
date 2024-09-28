@@ -9,8 +9,115 @@ author_profile: true
 <span style="color:black; font-family:Georgia;">[*] denotes equal contribution</span>
 
 ## 2024
----------
-<!-- Paper 01 -->
+--------- 
+
+<!-- Paper 05 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis**</span>](https://arxiv.org/abs/2407.19528) (<span style="color:red"></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria*,</strong> Mukaffi Bin Moin*, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy and Mohammad Shafiul Alam</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> The IEEE Region 10 Symposium (TENSYMP 2024) </em></font> ([TENSYMP 2024](https://ieeedelhi-tensymp2024.org/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#Motamot2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2407.19528)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/Bengali-Political-Sentiment-Analysis)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/hdhnrrwdz2/1)] [<a style="color:red;" href="#" onclick="$('#Motamot2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="Motamot2024_bib" class="bib" style="display:none;">
+	<pre>
+	  @misc{faria2024motamotdatasetrevealingsupremacy,
+      		title={Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis}, 
+      		author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Rabeya Islam Mumu and Md Mahabubul Alam Abir and Abrar Nawar Alfy and Mohammad Shafiul Alam},
+     		year={2024},
+      		eprint={2407.19528},
+      		archivePrefix={arXiv},
+      		primaryClass={cs.CL},
+      		url={https://arxiv.org/abs/2407.19528}, 
+			}
+	</pre>
+</div>
+
+<div id="Motamot2024_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			Sentiment analysis is the process of identifying and categorizing people's emotions or opinions regarding various topics. Analyzing political sentiment is critical for understanding the complexities of public opinion processes, especially during election seasons. It gives significant information on voter preferences, attitudes, and current trends. In this study, we investigate political sentiment analysis during Bangladeshi elections, specifically examining how effectively Pre-trained Language Models (PLMs) and Large Language Models (LLMs) capture complex sentiment characteristics. Our study centers on the creation of the "Motamot" dataset, comprising 7,058 instances annotated with positive and negative sentiments, sourced from diverse online newspaper portals, forming a comprehensive resource for political sentiment analysis. We meticulously evaluate the performance of various PLMs including BanglaBERT, Bangla BERT Base, XLM-RoBERTa, mBERT, and sahajBERT, alongside LLMs such as Gemini 1.5 Pro and GPT 3.5 Turbo. Moreover, we explore zero-shot and few-shot learning strategies to enhance our understanding of political sentiment analysis methodologies. Our findings underscore BanglaBERT's commendable accuracy of 88.10% among PLMs. However, the exploration into LLMs reveals even more promising results. Through the adept application of Few-Shot learning techniques, Gemini 1.5 Pro achieves an impressive accuracy of 96.33%, surpassing the remarkable performance of GPT 3.5 Turbo, which stands at 94%. This underscores Gemini 1.5 Pro's status as the superior performer in this comparison.
+		</font>
+	</p>
+</div>
+
+<!-- Paper 04 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**</span>](https://arxiv.org/abs/2405.07332) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Mohammad Shafiul Alam*, <strong style="color:green">Fatema Tuj Johora Faria*,</strong> Mukaffi Bin Moin*, Ahmed Al Wase, Md. Rabius Sani and Khan Md Hasib</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> Pattern Recognition and Image Analysis </em></font> ([Pattern Recognition and Image Analysis](https://link.springer.com/journal/11493))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#Potato2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07332)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/ExplainableAI-PotatoGAN-Cutting-Edge-Disease-Identification-for-Potatoes)] <span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#Potato2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="Potato2024_bib" class="bib" style="display:none;">
+	<pre>
+		@misc{alam2024potatogansutilizinggenerativeadversarial,
+      		title={PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification}, 
+      		author={Mohammad Shafiul Alam and Fatema Tuj Johora Faria and Mukaffi Bin Moin and Ahmed Al Wase and Md. Rabius Sani and Khan Md Hasib},
+      		year={2024},
+      		eprint={2405.07332},
+      		archivePrefix={arXiv},
+      		primaryClass={cs.CV},
+      		url={https://arxiv.org/abs/2405.07332}, 
+		}
+	</pre> 
+</div>
+
+<div id="Potato2024_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			Numerous applications have resulted from the automation of agricultural disease segmentation using deep learning techniques. However, when applied to new conditions, these applications frequently face the difficulty of overfitting, resulting in lower segmentation performance. In the context of potato farming, where diseases have a large influence on yields, it is critical for the agricultural economy to quickly and properly identify these diseases. Traditional data augmentation approaches, such as rotation, flip, and translation, have limitations and frequently fail to provide strong generalization results. To address these issues, our research employs a novel approach termed as PotatoGANs. In this novel data augmentation approach, two types of Generative Adversarial Networks (GANs) are utilized to generate synthetic potato disease images from healthy potato images. This approach not only expands the dataset but also adds variety, which helps to enhance model generalization. Using the Inception score as a measure, our experiments show the better quality and realisticness of the images created by PotatoGANs, emphasizing their capacity to resemble real disease images closely. The CycleGAN model outperforms the Pix2Pix GAN model in terms of image quality, as evidenced by its higher IS scores CycleGAN achieves higher Inception scores (IS) of 1.2001 and 1.0900 for black scurf and common scab, respectively. This synthetic data can significantly improve the training of large neural networks. It also reduces data collection costs while enhancing data diversity and generalization capabilities. Our work improves interpretability by combining three gradient-based Explainable AI algorithms (GradCAM, GradCAM++, and ScoreCAM) with three distinct CNN architectures (DenseNet169, Resnet152 V2, InceptionResNet V2) for potato disease classification.
+		</font>
+	</p>
+</div> 
+
+
+<!-- Paper 03 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**</span>](https://arxiv.org/abs/2405.07338) <br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Pronay Debnath, Asif Iftekher Fahim, Faisal Muhammad Shah</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> Journal of Visual Communication and Image Representation  </em></font> ([Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#Retina2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07338)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation)] <span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#Retina2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="Retina2024_bib" class="bib" style="display:none;">
+	<pre>
+	  @misc{faria2024explainableconvolutionalneuralnetworks,
+      		title={Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images}, 
+      		author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Pronay Debnath and Asif Iftekher Fahim and Faisal Muhammad Shah},
+      		year={2024},
+      		eprint={2405.07338},
+      		archivePrefix={arXiv},
+      		primaryClass={eess.IV},
+      		url={https://arxiv.org/abs/2405.07338}, 
+		}
+	</pre>
+</div>
+
+<div id="Retina2024_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			Our research focuses on the critical field of early diagnosis of disease by examining retinal blood vessels in fundus images. While automatic segmentation of retinal blood vessels holds promise for early detection, accurate analysis remains challenging due to the limitations of existing methods, which often lack discrimination power and are susceptible to influences from pathological regions. Our research in fundus image analysis advances deep learning-based classification using eight pre-trained CNN models. To enhance interpretability, we utilize Explainable AI techniques such as Grad-CAM, Grad-CAM++, Score-CAM, Faster Score-CAM, and Layer CAM. These techniques illuminate the decision-making processes of the models, fostering transparency and trust in their predictions. Expanding our exploration, we investigate ten models, including TransUNet with ResNet backbones, Attention U-Net with DenseNet and ResNet backbones, and Swin-UNET. Incorporating diverse architectures such as ResNet50V2, ResNet101V2, ResNet152V2, and DenseNet121 among others, this comprehensive study deepens our insights into attention mechanisms for enhanced fundus image analysis. Among the evaluated models for fundus image classification, ResNet101 emerged with the highest accuracy, achieving an impressive 94.17%. On the other end of the spectrum, EfficientNetB0 exhibited the lowest accuracy among the models, achieving a score of 88.33%. Furthermore, in the domain of fundus image segmentation, Swin-Unet demonstrated a Mean Pixel Accuracy of 86.19%, showcasing its effectiveness in accurately delineating regions of interest within fundus images. Conversely, Attention U-Net with DenseNet201 backbone exhibited the lowest Mean Pixel Accuracy among the evaluated models, achieving a score of 75.87%.
+		</font>
+	</p>
+</div> 
+
+
+
+
+<!-- Paper 02 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study**</span>](https://arxiv.org/abs/2405.02937) <br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, Faisal Muhammad Shah</font>
@@ -25,13 +132,13 @@ author_profile: true
 <div id="NLI2023_bib" class="bib" style="display:none;">
 	<pre>
 	  @misc{faria2024unravelingdominancelargelanguage,
-      	title={Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study}, 
-      	author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Asif Iftekher Fahim and Pronay Debnath and Faisal Muhammad Shah},
-      	year={2024},
-      	eprint={2405.02937},
-      	archivePrefix={arXiv},
-      	primaryClass={cs.CL},
-      	url={https://arxiv.org/abs/2405.02937}, 
+      		title={Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study}, 
+      		author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Asif Iftekher Fahim and Pronay Debnath and Faisal Muhammad Shah},
+      		year={2024},
+      		eprint={2405.02937},
+      		archivePrefix={arXiv},
+      		primaryClass={cs.CL},
+      		url={https://arxiv.org/abs/2405.02937}, 
 	  	}
 	</pre>
 </div>
@@ -118,7 +225,7 @@ author_profile: true
 
 
 <!-- Paper 02 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework**</span>](https://arxiv.org/abs/2311.11142) (<span style="color:red"></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework**</span>](https://ieeexplore.ieee.org/document/10099162) (<span style="color:red"></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Ahmed Al Wase, Md Rabius Sani, Khan Md Hasib, and Mohammad Shafiul Alam.</font>
 </span>
