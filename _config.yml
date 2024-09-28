@@ -82,15 +82,14 @@ analytics:
 author:
   name             : "Fatema Tuj Johora Faria"
   avatar           : "profile1.png"
-  bio              : "Researcher || NLP & Multimodal"
+  bio              : "Researcher || Gen AI & Multimodal"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=tU258wwAAAAJ&hl=en"
-  email            : "mukaffi28@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/G-Shahariar"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57844100100"
-  semanticscholar  : "https://www.semanticscholar.org/author/G.-M.-Shahariar/100649170"
+  googlescholar    : "https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en"
+  email            : "fatema.faria142@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Fatema-Faria"
+  semanticscholar  : #"https://www.semanticscholar.org/author/G.-M.-Shahariar/100649170"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Mukaffi28"
+  github           : "fatemafaria142"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mukaffi-bin-moin"
-  orcid            : "https://orcid.org/0009-0001-9634-5809"
+  linkedin         : "fatema142"
+  orcid            : #"https://orcid.org/0009-0001-9634-5809"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
