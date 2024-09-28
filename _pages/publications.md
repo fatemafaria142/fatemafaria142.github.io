@@ -11,8 +11,8 @@ author_profile: true
 ## 2024
 --------- 
 
-<!-- Paper 05 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**</span>](https://arxiv.org/abs/2409.09504) (<span style="color:red"></span>)<br>
+<!-- Paper 06 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**</span>](https://arxiv.org/abs/2409.09504)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Md. Mahfuzur Rahman, Md Morshed Alam Shanto, Asif Iftekher Fahim and Md. Moinul Hoque</font>
 </span>
@@ -21,7 +21,7 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> 18th International Conference on Information Technology and Applications (ICITA 2024) </em></font> ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#Uddessho2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2407.19528)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/Bengali-Political-Sentiment-Analysis)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/mzxmt8tfjs/1)] [<a style="color:red;" href="#" onclick="$('#Uddessho2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#Uddessho2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2409.09504)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Uddessho-An-Benchmark-Dataset-for-Multimodal-Author-Intent-Classification-in-Bangla-Language)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/mzxmt8tfjs/1)] [<a style="color:red;" href="#" onclick="$('#Uddessho2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="Uddessho2024_bib" class="bib" style="display:none;">
 	<pre>
@@ -46,7 +46,7 @@ author_profile: true
 </div>
 
 <!-- Paper 05 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis**</span>](https://arxiv.org/abs/2407.19528) (<span style="color:red"></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis**</span>](https://arxiv.org/abs/2407.19528)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria*,</strong> Mukaffi Bin Moin*, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy and Mohammad Shafiul Alam</font>
 </span>
@@ -186,7 +186,7 @@ author_profile: true
 </div> 
 
 <!-- Paper 01 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification**</span>](https://arxiv.org/abs/2405.04610) (<span style="color:red"></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification**</span>](https://arxiv.org/abs/2405.04610)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Mukaffi Bin Moin, <strong style="color:green">Fatema Tuj Johora Faria,</strong> Swarnajit Saha, Busra Kamal Rafa, Mohammad Shafiul Alam</font>
 </span>
