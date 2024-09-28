@@ -12,6 +12,40 @@ author_profile: true
 --------- 
 
 <!-- Paper 05 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**</span>](https://arxiv.org/abs/2409.09504) (<span style="color:red"></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Md. Mahfuzur Rahman, Md Morshed Alam Shanto, Asif Iftekher Fahim and Md. Moinul Hoque</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 18th International Conference on Information Technology and Applications (ICITA 2024) </em></font> ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#Uddessho2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2407.19528)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/Bengali-Political-Sentiment-Analysis)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/mzxmt8tfjs/1)] [<a style="color:red;" href="#" onclick="$('#Uddessho2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="Uddessho2024_bib" class="bib" style="display:none;">
+	<pre>
+	  @misc{faria2024uddesshoextensivebenchmarkdataset,
+      		title={Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language}, 
+      		author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Md. Mahfuzur Rahman and Md Morshed Alam Shanto and Asif Iftekher Fahim and Md. Moinul Hoque},
+      		year={2024},
+      		eprint={2409.09504},
+      		archivePrefix={arXiv},
+      		primaryClass={cs.CL},
+      		url={https://arxiv.org/abs/2409.09504}, 
+		}
+	</pre>
+</div>
+
+<div id="Uddessho2024_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			With the increasing popularity of daily information sharing and acquisition on the Internet, this paper introduces an innovative approach for intent classification in Bangla language, focusing on social media posts where individuals share their thoughts and opinions. The proposed method leverages multimodal data with particular emphasis on authorship identification, aiming to understand the underlying purpose behind textual content, especially in the context of varied user-generated posts on social media. Current methods often face challenges in low-resource languages like Bangla, particularly when author traits intricately link with intent, as observed in social media posts. To address this, we present the Multimodal-based Author Bangla Intent Classification (MABIC) framework, utilizing text and images to gain deeper insights into the conveyed intentions. We have created a dataset named "Uddessho," comprising 3,048 instances sourced from social media. Our methodology comprises two approaches for classifying textual intent and multimodal author intent, incorporating early fusion and late fusion techniques. In our experiments, the unimodal approach achieved an accuracy of 64.53% in interpreting Bangla textual intent. In contrast, our multimodal approach significantly outperformed traditional unimodal methods, achieving an accuracy of 76.19%. This represents an improvement of 11.66%. To our best knowledge, this is the first research work on multimodal-based author intent classification for low-resource Bangla language social media posts.
+		</font>
+	</p>
+</div>
+
+<!-- Paper 05 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis**</span>](https://arxiv.org/abs/2407.19528) (<span style="color:red"></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria*,</strong> Mukaffi Bin Moin*, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy and Mohammad Shafiul Alam</font>
@@ -33,7 +67,7 @@ author_profile: true
       		archivePrefix={arXiv},
       		primaryClass={cs.CL},
       		url={https://arxiv.org/abs/2407.19528}, 
-			}
+		}
 	</pre>
 </div>
 
@@ -55,7 +89,7 @@ author_profile: true
 	<font size="3"><strong>Journal:</strong><em> Pattern Recognition and Image Analysis </em></font> ([Pattern Recognition and Image Analysis](https://link.springer.com/journal/11493))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#Potato2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07332)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/ExplainableAI-PotatoGAN-Cutting-Edge-Disease-Identification-for-Potatoes)] <span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#Potato2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#Potato2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07332)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/ExplainableAI-PotatoGAN-Cutting-Edge-Disease-Identification-for-Potatoes)] [<a style="color:red;" href="#" onclick="$('#Potato2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="Potato2024_bib" class="bib" style="display:none;">
 	<pre>
@@ -90,7 +124,7 @@ author_profile: true
 	<font size="3"><strong>Journal:</strong><em> Journal of Visual Communication and Image Representation  </em></font> ([Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#Retina2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07338)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation)] <span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#Retina2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#Retina2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07338)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation)]  [<a style="color:red;" href="#" onclick="$('#Retina2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="Retina2024_bib" class="bib" style="display:none;">
 	<pre>
@@ -127,7 +161,7 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> 4th International Conference on Computing and Communication Networks (ICCCNet-2024)  </em></font> ([ICCCNet 2024](https://icccn.co.uk/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#NLI2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.02937)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Large-Language-Models-Over-Transformer-Models-for-Bangla-NLI)] <span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#NLI2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#NLI2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.02937)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Large-Language-Models-Over-Transformer-Models-for-Bangla-NLI)] [<a style="color:red;" href="#" onclick="$('#NLI2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="NLI2023_bib" class="bib" style="display:none;">
 	<pre>
