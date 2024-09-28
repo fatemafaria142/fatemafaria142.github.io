@@ -17,11 +17,11 @@ redirect_from:
 <!-- + <span style="font-family:Georgia; color:black;">shahariar_shibli[DOT]cse[AT]aust[DOT]edu</span> -->
 
 ## Social Media
-<!-- <span style="color:black; font-family:Georgia;">
-You can find me on [LinkedIn](https://www.linkedin.com/in/shahariar-shibli/) and [Twitter](https://twitter.com/G_M_Shahariar).
-</span> -->
+<span style="color:black; font-family:Georgia;">
+You can find me on [LinkedIn](https://www.linkedin.com/in/fatema142/).
+</span>
 
-## Office
+<!-- ## Office -->
 <!-- [Office website](https://aust.edu/cse/faculty_member/mr_g_m_shahariar)
 <address>
 <span style="color:black; font-family:Georgia;">
