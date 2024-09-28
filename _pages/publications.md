@@ -11,6 +11,116 @@ author_profile: true
 ## 2024
 --------- 
 
+
+<!-- Paper 10 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts**</span>]()<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong>, Mukaffi Bin Moin, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, Md Saddam Hossain Mukta, and M. F. Mridha</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> Engineering Applications of Artificial Intelligence </em></font>  ([Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#Disaster_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]()] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/7dggbjn5sd/1)] [<a style="color:red;" href="#" onclick="$('#Disaster_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="" class="bib" style="display:none;">
+	<pre>
+	</pre>
+</div>
+
+<div id="" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+		</font>
+	</p>
+</div>
+
+<!-- Paper 09 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language**</span>]()<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong>, Mukaffi Bin Moin, Busra Kamal Rafa, Swarnajit Saha, Md. Mahfuzur Rahman, Khan Md Hasib, and M. F. Mridha</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> International Journal of Disaster Risk Reduction </em></font>  ([Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#Disaster_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]()] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/BanglaCalamityMMD-A-Comprehensive-Benchmark-Dataset-for-Multimodal-Disaster-Identification)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/7dggbjn5sd/1)] [<a style="color:red;" href="#" onclick="$('#Disaster_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="" class="bib" style="display:none;">
+	<pre>
+	</pre>
+</div>
+
+<div id="" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+		</font>
+	</p>
+</div>
+
+<!-- Paper 08 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali MemesBanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes**</span>]()<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong>, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, and Faisal Muhammad Shah.</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> Submitted to an A* Rank Conference </em></font> 
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#Meme2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]()] [[<span style ="color:red"><font size="3">Code</font></span>]()] [[<span style ="color:red"><font size="3">Dataset</font></span>]()] [<a style="color:red;" href="#" onclick="$('#Meme2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="" class="bib" style="display:none;">
+	<pre>
+	</pre>
+</div>
+
+<div id="" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+		</font>
+	</p>
+</div>
+
+
+
+<!-- Paper 07 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Tackling Hallucination in Bengali NLP: Enhancing Paraphrase Generation, Reading Comprehension, and Formal Application Writing Using LLMs with Few-Shot Learning, Fine-Tuning, and RAG**</span>]()<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Saidur Rahman Sujon, Ahmadul Karim Chowdhury, <strong style="color:green">Fatema Tuj Johora Faria,</strong>, Mukaffi Bin Moin and Faisal Muhammad Shah</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> Submitted to an A* Rank Conference </em></font> 
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#Tack2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]()] [[<span style ="color:red"><font size="3">Code</font></span>]()] [[<span style ="color:red"><font size="3">Dataset</font></span>]()] [<a style="color:red;" href="#" onclick="$('#Tack2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="" class="bib" style="display:none;">
+	<pre>
+	</pre>
+</div>
+
+<div id="" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+		</font>
+	</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Paper 06 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**</span>](https://arxiv.org/abs/2409.09504)<br>
 <span style="color:black;font-family:Georgia">
@@ -195,7 +305,7 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> 4th International Conference on Computing and Communication Networks (ICCCNet-2024)  </em></font> ([ICCCNet 2024](https://icccn.co.uk/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#lung2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.04610)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification)] <span style ="color:red"> [<a style="color:red;" href="#" onclick="$('#lung2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#lung2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.04610)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification)][<a style="color:red;" href="#" onclick="$('#lung2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="lung2023_bib" class="bib" style="display:none;">
 	<pre>
