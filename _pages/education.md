@@ -17,7 +17,7 @@ Supervisor: <a style="color:brown;" href="https://cse.buet.ac.bd/faculty_list/de
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
 Bachelor of Science (B.Sc.)<br/>
 Computer Science and Engineering <br/>
-Duration: 2014 - 2018 <br/>
+Duration: 2019 - 2023 <br/>
 CGPA: <b>3.302/4.00</b> scale (Ranked <b>83<sup>th</sup> Among 133 Students</b>) <br/>
 </span>
 
