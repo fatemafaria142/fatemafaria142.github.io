@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /teaching/
+permalink: /work/
 title: ""
 ---
 
