@@ -15,17 +15,14 @@ author_profile: true
 
 # 2023
 
-<!-- + <span style="font-family:Monaco; color:black;"><span style="color:brown">[November]</span> - One paper of my undergraduate thesis group got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> -  I will supervise Three undergraduate thesis groups starting this semester!</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> - Worked as a <span style="color:red;">Reviewer</span> of [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications). <span style="color:red;">[Elsevier Q1 journal]</span></span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> - Worked as a <span style="color:red;">Reviewer</span> of [International Journal of Human-Computer Interaction](https://www.tandfonline.com/loi/hihc20). <span style="color:red;">[Taylor and Francis Q1 journal]</span> </span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> - Worked as a <span style="color:red;">Reviewer</span> at [EMNLP 2023](https://2023.emnlp.org/). <span style="color:red;">[Core A* conference]</span> </span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July]</span> - Our paper [CLAA](https://ieeexplore.ieee.org/document/10298556/) got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers). <span style="color:red;">[Core A* conference]</span> </span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July]</span> - Three of our papers got accepted at [BIM 2023](https://confbim.com/). </span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer. </span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[February]</span> -  One paper got published at [ECCE 2023](https://webs.cuet.ac.bd/ecce/). <span style="color:red;">[Best Paper Award]</span></span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> -  One paper got published at [ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), SADIC, Springer Nature. </span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> -  One paper got accepted at [ICNLP 2023](http://www.icnlp.net/index.html). </span> -->
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November]</span> - Defended undergraduate thesis on "Generative Adversarial Networks for Crop Disease: A Case Study with Potato Disease Classification and Instance Segmentation" </span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> -  Secured 7<sup>th</sup> poistion at DL Sprint 2.0 - BUET CSE Fest 2023. [DL Sprint 2.0](https://www.kaggle.com/competitions/dlsprint2/discussion/433389)</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July]</span> - Participate in DL Sprint 2.0 - BUET CSE Fest 2023. [DL Sprint 2.0](https://www.kaggle.com/competitions/dlsprint2/overview)  </span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  Secured 1<sup>st</sup> poistion at RESEARCH SYMPOSIUM 2023: AN INTRA-AUST RESEARCH EXHIBITION [RESEARCH SYMPOSIUM 2023](https://aust.edu/events/1996)</span> 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  Attended the RESEARCH SYMPOSIUM 2023: AN INTRA-AUST RESEARCH EXHIBITION [RESEARCH SYMPOSIUM 2023](https://aust.edu/events/1996)</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[April]</span> -  One paper got published at [CCWC 2023](https://webs.cuet.ac.bd/ecce/). <span style="color:red;">[Best Paper Award]</span></span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[March]</span> - Attended the 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC 2023) (Virtual), Las Vegas, NV, USA. </span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[February]</span> -  One paper got accepted at [IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)CCWC 2023](http://www.icnlp.net/index.html). </span>
 
 
 # 2022

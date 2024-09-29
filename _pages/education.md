@@ -40,7 +40,7 @@ GPA: <b>5.00/5.00</b> scale <br/>
 
 ## Awards
 <span style="font-family:Georgia; color:black">
-🏆 <span style="color:brown">Poster Presentation</span>, secured <b>1<sup>st</sup> <a href="https://aust.edu/events/1996" target="_blank"> RESEARCH SYMPOSIUM 2023: AN INTRA-AUST RESEARCH EXHIBITION </a> organized by AUST Research and Publication Club [[<span style ="color:red"><font size="3">Poster Link</font></span>](https://drive.google.com/file/d/1JN8cEUTWAilZpNsZaIxPVusiHxqc4OZA/view?usp=sharing)]<br/>
+🏆 <span style="color:brown">Poster Presentation</span>, secured <b>1<sup>st</sup> position<a href="https://aust.edu/events/1996" target="_blank"> RESEARCH SYMPOSIUM 2023: AN INTRA-AUST RESEARCH EXHIBITION </a> organized by AUST Research and Publication Club [[<span style ="color:red"><font size="3">Poster Link</font></span>](https://drive.google.com/file/d/1JN8cEUTWAilZpNsZaIxPVusiHxqc4OZA/view?usp=sharing)]<br/>
 <!-- 🏆 <span style="color:brown">Khan Bahadur Ahsanullah Medal</span>, Ahsanullah University of Science and Technology, 24 July, 2023 <br/> -->
 <!-- 🏆 <span style="color:brown">Best Paper Award</span>, 2023 International Conference on Electrical, Computer and Communication Engineering (ECCE) <br/>
 🏆 <span style="color:brown">Dean's List of Honor (Ranked <b>1<sup>st</sup></b>)</span>, Ahsanullah University of Science and Technology, 22 December, 2018<br/>
