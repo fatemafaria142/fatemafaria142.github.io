@@ -34,7 +34,7 @@ Sentiment analysis is a way to find and categorize feelings expressed in text, e
 </p>  
 
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis</span>. Fatema Tuj Johora Faria*, Mukaffi Bin Moin*, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy and Mohammad Shafiul Alam <span style="color:green;"><em> Presented in The IEEE Region 10 Symposium (TENSYMP 2024)</em></span>. [[PDF]](https://arxiv.org/pdf/2407.19528)</span>   
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis</span>. Fatema Tuj Johora Faria<b>*</b>, Mukaffi Bin Moin<b>*</b>, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy and Mohammad Shafiul Alam <span style="color:green;"><em> Presented in The IEEE Region 10 Symposium (TENSYMP 2024)</em></span>. [[PDF]](https://arxiv.org/pdf/2407.19528)</span>   
 
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis </span>. Fatema Tuj Johora Faria, Laith H. Baniata, Hayder Albayati, Mohammad H. Baniata, Majdi Alsaaideh, Mohannad A. Khair, and Sangwoo Kang. <span style="color:green;"><em> Under Review in MDPI Electronics</em></span>.</span>  
 
@@ -109,7 +109,7 @@ Generative Adversarial Networks (GANs) have revolutionized the field of machine 
 </p>  
 
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification</span>. Mohammad Shafiul Alam<sup>*</sup>, Fatema Tuj Johora Faria<sup>*</sup>, Mukaffi Bin Moin<sup>*</sup>, Ahmed Al Wase, Md. Rabius Sani and Khan Md Hasib. <span style="color:green;"><em> Under Review in Pattern Recognition and Image Analysis</em></span>. [[PDF]](https://arxiv.org/pdf/2405.07332)</span>   
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification</span>. Mohammad Shafiul Alam<b>*</b>, Fatema Tuj Johora Faria<b>*</b>, Mukaffi Bin Moin<b>*</b>, Ahmed Al Wase, Md. Rabius Sani and Khan Md Hasib. <span style="color:green;"><em> Under Review in Pattern Recognition and Image Analysis</em></span>. [[PDF]](https://arxiv.org/pdf/2405.07332)</span>   
 
 
 ## 10. Computer Vision Applications in Agriculture
