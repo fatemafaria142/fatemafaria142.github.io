@@ -20,7 +20,7 @@ author_profile: true
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[July]</span> - Participate in DL Sprint 2.0 - BUET CSE Fest 2023. [DL Sprint 2.0](https://www.kaggle.com/competitions/dlsprint2/overview)  </span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  Secured 1<sup>st</sup> poistion at RESEARCH SYMPOSIUM 2023: AN INTRA-AUST RESEARCH EXHIBITION [RESEARCH SYMPOSIUM 2023](https://aust.edu/events/1996)</span> 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  Attended the RESEARCH SYMPOSIUM 2023: AN INTRA-AUST RESEARCH EXHIBITION [RESEARCH SYMPOSIUM 2023](https://aust.edu/events/1996)</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[April]</span> -  One paper got published at [CCWC 2023](https://ieee-ccwc.org/). <span style="color:red;">[Best Paper Award]</span></span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[April]</span> -  One paper got published at [CCWC 2023](https://ieee-ccwc.org/).
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[March]</span> - Attended the 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC 2023) (Virtual), Las Vegas, NV, USA. </span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[February]</span> -  One paper got accepted at IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC) [CCWC 2023](https://ieee-ccwc.org/). </span>
 
