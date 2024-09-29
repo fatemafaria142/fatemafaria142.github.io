@@ -22,14 +22,5 @@ author_profile: true
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  Attended the RESEARCH SYMPOSIUM 2023: AN INTRA-AUST RESEARCH EXHIBITION [RESEARCH SYMPOSIUM 2023](https://aust.edu/events/1996)</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[April]</span> -  One paper got published at [CCWC 2023](https://ieee-ccwc.org/). <span style="color:red;">[Best Paper Award]</span></span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[March]</span> - Attended the 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC 2023) (Virtual), Las Vegas, NV, USA. </span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[February]</span> -  One paper got accepted at [IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)CCWC 2023](https://ieee-ccwc.org/). </span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[February]</span> -  One paper got accepted at IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC) [CCWC 2023](https://ieee-ccwc.org/). </span>
 
-
-# 2022
-
-<!-- + <span style="font-family:Monaco; color:black;"><span style="color:brown">[November]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature. </span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> -  One paper got published at [ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), LNNS, Springer Nature. </span> -->
-
-# 2019
-
-<!-- + <span style="font-family:Monaco; color:black;"><span style="color:brown">[December]</span> -  One paper got published at [IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/). </span> -->
