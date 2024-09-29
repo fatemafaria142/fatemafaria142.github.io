@@ -109,7 +109,7 @@ Generative Adversarial Networks (GANs) have revolutionized the field of machine 
 </p>  
 
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification</span>. Mohammad Shafiul Alam*, Fatema Tuj Johora Faria*, Mukaffi Bin Moin*, Ahmed Al Wase, Md. Rabius Sani and Khan Md Hasib. <span style="color:green;"><em> Under Review in Pattern Recognition and Image Analysis</em></span>. [[PDF]](https://arxiv.org/pdf/2405.07332)</span>   
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification</span>. Mohammad Shafiul Alam<sup>*</sup>, Fatema Tuj Johora Faria<sup>*</sup>, Mukaffi Bin Moin<sup>*</sup>, Ahmed Al Wase, Md. Rabius Sani and Khan Md Hasib. <span style="color:green;"><em> Under Review in Pattern Recognition and Image Analysis</em></span>. [[PDF]](https://arxiv.org/pdf/2405.07332)</span>   
 
 
 ## 10. Computer Vision Applications in Agriculture
