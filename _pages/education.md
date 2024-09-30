@@ -18,7 +18,7 @@ Supervisor: <a style="color:brown;" href="https://cse.buet.ac.bd/faculty_list/de
 Bachelor of Science (B.Sc.)<br/>
 Computer Science and Engineering <br/>
 Duration: 2019 - 2023 <br/>
-CGPA: <b>3.302/4.00</b> scale (Ranked <b>83<sup>th</sup></b>) <br/>
+CGPA: <b>3.302/4.00</b> scale (Ranked <b>83<sup>rd</sup></b>) <br/>
 <b>Supervisor:</b> <a href="https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam" target="_blank">Dr. Mohammad Shafiul Alam</a>, Professor, Department of CSE, AUST
 </span>
 
