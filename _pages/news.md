@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 2024
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September]</span> - Attended the IEEE Region 10 Symposium at Netaji Subhas University of Technology (NSUT), New Delhi. ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September]</span> - Attended the IEEE Region 10 Symposium at Netaji Subhas University of Technology (NSUT), New Delhi ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> -  One paper got accepted at 18th International Conference on Information Technology and Applications ([ICITA 2024](https://www.icita.world/#/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
