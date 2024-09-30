@@ -11,6 +11,8 @@ author_profile: true
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  joined as an Application Developer (Gen AI) at [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/). 
+
 <!-- + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Our paper [Ben-Sarc](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095) published in [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing)! <span style="color:red;">[Cambridge Q1 journal]</span></span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> - Worked as a <span style="color:red;">Reviewer</span> of [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing). <span style="color:red;">[Elsevier Q1 journal]</span></span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> - Worked as a <span style="color:red;">Reviewer</span> of [Telematics and Informatics](https://www.sciencedirect.com/journal/telematics-and-informatics). <span style="color:red;">[Elsevier Q1 journal]</span></span>
