@@ -52,7 +52,7 @@ author_profile: true
 </div>
 
 <!-- Paper 11 -->
-📌 <span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span><br>
+📌 <span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span>
 <span style="color:black;font-family:Georgia"> (<span style="color:red"><strong>Q2</strong></span>) <br>
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H. Baniata, Hayder Albayati, Mohammad H. Baniata, Majdi Alsaaideh, Mohannad A. Khair, and Sangwoo Kang</font>
 </span>
