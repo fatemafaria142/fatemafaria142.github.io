@@ -11,13 +11,13 @@ redirect_from:
 <span style="color:black; font-family:Georgia">Greetings! 👽</span>
 
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am  Fatema Tuj Johora Faria, currently working as a Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian Bangladesh LTD</a>. I obtained my Bachelor's degree in Computer Science and Engineering from the <a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</a>
+<p style="text-align:justify; color:black; font-family:Georgia">I am  Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian Bangladesh LTD</a>. I obtained my Bachelor's degree in Computer Science and Engineering from the <a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</a>
 </p>
 
 
 <p style="text-align:justify;color:black; font-family:Georgia">
-My primary research interests encompass <em>Large Language Models (LLMs)</em>, <em>Large Vision Models (LVMs)</em>, <em>Computer Vision</em>, <em>Medical Imaging</em>, <em>Natural Language Processing (NLP)</em>, <em>Generative Adversarial Networks (GANs)</em>, <em>Explainable Artificial Intelligence (XAI)</em>, <em>Machine Learning</em>, and <em>Deep Learning with a focus on practical applications</em>. 
-<span style="color:green;"><em>I am open to collaborative opportunities that align with my research goals and passions. For any inquiries or potential collaborations, feel free to reach out via email.</em></span>
+My primary research interests encompass <em>Large Language Models (LLMs)</em>, <em>Large Vision Models (LVMs)</em>, <em>Computer Vision</em>, <em>Medical Imaging</em>, <em>Natural Language Processing (NLP)</em>, <em>Generative Adversarial Networks (GANs)</em>, <em>Explainable Artificial Intelligence (XAI)</em>, <em>Machine Learning</em>, and <em>Deep Learning with a focus on practical applications</em>. I am open to collaborative opportunities that align with my research goals and passions. 
+<span style="color:green;"><em>For any inquiries or potential collaborations, feel free to reach out via email.</em></span>
 </p>
 
 ## Recent News ⚡
