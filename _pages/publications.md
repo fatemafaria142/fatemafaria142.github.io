@@ -10,16 +10,7 @@ author_profile: true
 
 ## 2024
 --------- 
-<!-- Paper 11 -->
-📌 <span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span><br>
-<span style="color:black;font-family:Georgia"> 
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H. Baniata, Hayder Albayati, Mohammad H. Baniata, Majdi Alsaaideh, Mohannad A. Khair, and Sangwoo Kang</font>
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under Review in MDPI Electronics </em></font>  ([Electronics](https://www.mdpi.com/journal/electronics))
-</span>
-<br>
+
 <!-- [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)] -->
 
 <!-- Paper 10 -->
@@ -59,6 +50,19 @@ author_profile: true
 		</font>
 	</p>
 </div>
+
+<br>
+
+<!-- Paper 11 -->
+📌 <span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span><br>
+<span style="color:black;font-family:Georgia"> 
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H. Baniata, Hayder Albayati, Mohammad H. Baniata, Majdi Alsaaideh, Mohannad A. Khair, and Sangwoo Kang</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> Under Review in MDPI Electronics </em></font>  ([Electronics](https://www.mdpi.com/journal/electronics))
+</span>
+<br>
 
 <!-- Paper 08 -->
 📌 <span style="color:blue;font-family:Trebuchet MS;">**BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali MemesBanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes**</span><br>
