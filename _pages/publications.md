@@ -51,8 +51,6 @@ author_profile: true
 	</p>
 </div>
 
-<br>
-
 <!-- Paper 11 -->
 📌 <span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span><br>
 <span style="color:black;font-family:Georgia"> 
