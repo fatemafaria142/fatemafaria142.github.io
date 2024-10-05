@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:black; font-family:Georgia">Greetings! 👽</span>
+<span style="color:black; font-family:Georgia">Greetings!!!</span>
 
 
 <p style="text-align:justify; color:black; font-family:Georgia">I am  Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian Bangladesh LTD</a>. I obtained my Bachelor's degree in Computer Science and Engineering from the <a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</a>
