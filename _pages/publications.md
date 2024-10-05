@@ -11,7 +11,7 @@ author_profile: true
 ## 2024
 --------- 
 
-<!-- [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)] -->
+
 
 <!-- Paper 10 -->
 📌 <span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts** </span> (<span style="color:red"><strong>Q1</strong></span>)<br>
@@ -96,7 +96,7 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> Submitted to an A* Rank Conference </em></font> 
 </span>
 <br>
-<!-- [<a style="color:red;" href="#" onclick="$('#Tack2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]] [[<span style ="color:red"><font size="3">Code</font></span>]] [[<span style ="color:red"><font size="3">Dataset</font></span>]] [<a style="color:red;" href="#" onclick="$('#Tack2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>]  -->
+
 
 <div id="" class="bib" style="display:none;">
 	<pre>

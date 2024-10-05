@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <p style="text-align:justify; color:black; font-family:Georgia">
-My research delves into the realms of 
+My research delves into the realms of Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Natural Language Processing, Generative Adversarial Networks, Explainable Artificial Intelligence, Machine Learning, and Deep Learning and their applications. Below are some of the research areas I have worked on or am currently exploring.
 </p> 
 
 
