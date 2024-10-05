@@ -37,3 +37,7 @@ My research focuses on <em>Medical Image Analysis</em>, <em>Computer Vision</em>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Joined as an Application Developer (AI/ML) at [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/)
+
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nmfcbs1wc2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
