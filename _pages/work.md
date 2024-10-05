@@ -7,7 +7,7 @@ title: ""
 ## Professional Experience
 <!-- Senior Lecturer -->
 <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:#6E2C00">Application Developer (Gen AI)</span><br/>
+<span style="color:#6E2C00">Application Developer (AI/ML)</span><br/>
 [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/)<br/> 
 <span style="color:#6E2C00"><em>May 2024 - Present</em></span> 
 
