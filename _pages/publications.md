@@ -20,7 +20,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under Review in Engineering Applications of Artificial Intelligence </em></font>  ([Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence))
+	<font size="3"><strong>Journal:</strong><em> Under Review in Online Social Networks and Media </em></font>  ([Online Social Networks and Media](https://www.sciencedirect.com/journal/online-social-networks-and-media))
 </span>
 <br>
 [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
@@ -369,7 +369,7 @@ author_profile: true
 
 
 <!-- Paper 02 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework**</span>](https://ieeexplore.ieee.org/document/10099162) (<span style="color:red"></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework**</span>](https://ieeexplore.ieee.org/document/10099162)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Ahmed Al Wase, Md Rabius Sani, Khan Md Hasib, and Mohammad Shafiul Alam.</font>
 </span>
