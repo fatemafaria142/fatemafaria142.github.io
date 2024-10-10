@@ -35,7 +35,7 @@ Sentiment analysis is a way to find and categorize feelings expressed in text, e
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis</span>. Fatema Tuj Johora Faria<b>*</b>, Mukaffi Bin Moin<b>*</b>, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy and Mohammad Shafiul Alam <span style="color:green;"><em> Presented in The IEEE Region 10 Symposium (TENSYMP 2024)</em></span>. [[PDF]](https://arxiv.org/pdf/2407.19528)</span>   
 
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis </span>. Fatema Tuj Johora Faria, Laith H. Baniata, Hayder Albayati, Mohammad H. Baniata, Majdi Alsaaideh, Mohannad A. Khair, and Sangwoo Kang. <span style="color:green;"><em> Under Review in MDPI Mathematics</em></span>.</span>  
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis </span>. Fatema Tuj Johora Faria, Laith H. Baniata, and Sangwoo Kang. <span style="color:green;"><em> Under Review in MDPI Mathematics</em></span>.</span>  
 
 ## 3. Natural Language Inference 
 <p style="text-align:justify; color:black; font-family:Georgia"> 
