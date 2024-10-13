@@ -13,9 +13,16 @@ redirect_from:
 <br>
 
 ## Email
-+ <span style="font-family:Georgia; color:black;">fatema.faria142@gmail.com [Personal]</span><br/>
-+ <span style="font-family:Georgia; color:black;">fatema.faria@disys.com [Official]</span><br/>
-+ <span style="font-family:Georgia; color:black;">fatema.faria@dexian.com [Official]</span><br/>
++ <span style="font-family:Georgia; color:black;">
+  <a href="mailto:fatema.faria142@gmail.com" style="color:black;">fatema.faria142@gmail.com [Personal]</a>
+</span><br/>
++ <span style="font-family:Georgia; color:black;">
+  <a href="mailto:fatema.faria@disys.com" style="color:black;">fatema.faria@disys.com [Official]</a>
+</span><br/>
++ <span style="font-family:Georgia; color:black;">
+  <a href="mailto:fatema.faria@dexian.com" style="color:black;">fatema.faria@dexian.com [Official]</a>
+</span><br/>
+
 
 ## Social Media
 <span style="color:black; font-family:Georgia;">
