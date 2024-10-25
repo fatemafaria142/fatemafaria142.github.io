@@ -190,7 +190,7 @@ author_profile: true
 </div>
 
 <!-- Paper 04 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**</span>](https://arxiv.org/abs/2405.07332) <br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**</span>](https://arxiv.org/abs/2405.07332) (<span style="color:red"><strong>Q2</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Mohammad Shafiul Alam*, <strong style="color:green">Fatema Tuj Johora Faria*</strong>, Mukaffi Bin Moin*, Ahmed Al Wase, Md. Rabius Sani and Khan Md Hasib</font>
 </span>
@@ -225,7 +225,7 @@ author_profile: true
 
 
 <!-- Paper 03 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**</span>](https://arxiv.org/abs/2405.07338) <br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**</span>](https://arxiv.org/abs/2405.07338) (<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Pronay Debnath, Asif Iftekher Fahim, Faisal Muhammad Shah</font>
 </span>
@@ -334,7 +334,7 @@ author_profile: true
 
 
 <!-- Paper 01 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language**</span>](https://arxiv.org/abs/2311.11142) (<span style="color:red"><strong>Q2</strong></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language**</span>](https://arxiv.org/abs/2311.11142) (<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Ahmed Al Wase, Mehidi Ahmmed, Md Rabius Sani, and Tashreef Muhammad.</font>
 </span>
