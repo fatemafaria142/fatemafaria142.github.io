@@ -20,7 +20,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under Review in Online Social Networks and Media </em></font>  ([Online Social Networks and Media](https://www.sciencedirect.com/journal/online-social-networks-and-media))
+	<font size="3"><strong>Journal:</strong><em> Neurocomputing </em></font>  ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing))
 </span>
 <br>
 [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
@@ -231,7 +231,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under Review in Journal of Visual Communication and Image Representation  </em></font> ([Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation))
+	<font size="3"><strong>Journal:</strong><em> Under Review in Journal of Visual Communication and Image Representation  </em></font> ([Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#Retina2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07338)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation)]  [<a style="color:red;" href="#" onclick="$('#Retina2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
