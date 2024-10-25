@@ -23,9 +23,7 @@ author_profile: true
 	<font size="3"><strong>Journal:</strong><em> Under Review in Online Social Networks and Media </em></font>  ([Online Social Networks and Media](https://www.sciencedirect.com/journal/online-social-networks-and-media))
 </span>
 <br>
-[<span style="color: white; background-color: red; padding: 5px 10px; font-size: 16px; text-decoration: none; border-radius: 5px;">Code</span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)
-[<span style="color: white; background-color: red; padding: 5px 10px; font-size: 16px; text-decoration: none; border-radius: 5px;">Dataset</span>](https://data.mendeley.com/datasets/k5pbz9795f/1)
-
+[[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
 
 
 

@@ -21,7 +21,7 @@ My primary research interests encompass <em>Large Language Models (LLMs)</em>, <
 </p>
 
 ## Recent News ⚡
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 4th International Conference on Computing and Communication Networks, Manchester, United Kingdom ([ICCCNet-2024](https://icccn.co.uk/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[September]</span> - Attended the IEEE Region 10 Symposium at Netaji Subhas University of Technology (NSUT), New Delhi ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> -  One paper got accepted at 18th International Conference on Information Technology and Applications ([ICITA 2024](https://www.icita.world/#/)). 
