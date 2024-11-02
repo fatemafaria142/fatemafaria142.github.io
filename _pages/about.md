@@ -29,9 +29,8 @@ My primary research interests include:
     <li><em>Deep Learning with a focus on practical applications</em></li>
 </ul>
 </p>
-<p style="color:black;">I am open to collaborative opportunities that align with my research goals and passions.</p>
-<p><span style="color:green;"><em>For any inquiries or potential collaborations, please feel free to reach out via email.</em></span>
-</p>
+<p style="color:black;">I am open to collaborative opportunities that align with my research goals and passions.</p> <span style="color:green;"><em>For any inquiries or potential collaborations, please feel free to reach out via email.</em></span>
+
 
 ## Recent News ⚡
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
