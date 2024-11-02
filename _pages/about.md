@@ -10,15 +10,33 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings!!!</span>
 
-
-<p style="text-align:justify; color:black; font-family:Georgia">I am  Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian Bangladesh LTD</a>. I obtained my Bachelor's degree in Computer Science and Engineering from the <a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</a>
+<p style="text-align:justify; color:black; font-family:Georgia">
+I am Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at 
+<a href="https://www.linkedin.com/company/dexiansolutions/" style="color:black;">Dexian Bangladesh Ltd</a>. 
+I specialize in building generative AI-based applications, with expertise in working with Large Language Models (LLMs), Multi-Agent Systems, and Retrieval-Augmented Generation (RAG) solutions. 
+I completed my Bachelor’s degree in Computer Science and Engineering from 
+<a href="https://aust.edu/" style="color:black;">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh</a>.
 </p>
 
 
-<p style="text-align:justify;color:black; font-family:Georgia">
-My primary research interests encompass <em>Large Language Models (LLMs)</em>, <em>Large Vision Models (LVMs)</em>, <em>Computer Vision</em>, <em>Medical Imaging</em>, <em>Natural Language Processing (NLP)</em>, <em>Generative Adversarial Networks (GANs)</em>, <em>Explainable Artificial Intelligence (XAI)</em>, <em>Machine Learning</em>, and <em>Deep Learning with a focus on practical applications</em>. I am open to collaborative opportunities that align with my research goals and passions. 
-<span style="color:green;"><em>For any inquiries or potential collaborations, feel free to reach out via email.</em></span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+My primary research interests include:
+<ul style="color:black; font-family:Georgia; margin-left: 20px;">
+    <li><em>Large Language Models (LLMs)</em></li>
+    <li><em>Large Vision Models (LVMs)</em></li>
+    <li><em>Computer Vision</em></li>
+    <li><em>Mutlimodal Deep Learning</em></li>
+    <li><em>Medical Image Analysis</em></li>
+    <li><em>Natural Language Processing (NLP)</em></li>
+    <li><em>Generative Adversarial Networks (GANs)</em></li>
+    <li><em>Explainable Artificial Intelligence (XAI)</em></li>
+    <li><em>Deep Learning with a focus on practical applications</em></li>
+</ul>
+I am open to collaborative opportunities that align with my research goals and passions. 
+<span style="color:green;"><em>For any inquiries or potential collaborations, please feel free to reach out via email.</em></span>
 </p>
+
 
 ## Recent News ⚡
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
