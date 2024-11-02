@@ -12,11 +12,12 @@ redirect_from:
 
 <p style="text-align:justify; color:black; font-family:Georgia">
 I am Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at 
-<a href="https://www.linkedin.com/company/dexiansolutions/" style="color:black;">Dexian Bangladesh Ltd</a>. 
-I specialize in building generative AI-based applications, with expertise in working with Large Language Models (LLMs), Multi-Agent Systems, and Retrieval-Augmented Generation (RAG) solutions. 
+<a href="https://www.linkedin.com/company/dexiansolutions/" style="color:lightblue; font-weight:bold;">Dexian Bangladesh Ltd</a>. 
+I specialize in building generative AI-based applications, with expertise in working with Large Language Models (LLMs), LLM-Based Multi-Agent Systems, and Retrieval-Augmented Generation (RAG) solutions. 
 I completed my Bachelor’s degree in Computer Science and Engineering from 
-<a href="https://aust.edu/" style="color:black;">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh</a>.
+<a href="https://aust.edu/" style="color:lightblue; font-weight:bold;">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh</a>.
 </p>
+
 
 
 
@@ -33,7 +34,7 @@ My primary research interests include:
     <li><em>Explainable Artificial Intelligence (XAI)</em></li>
     <li><em>Deep Learning with a focus on practical applications</em></li>
 </ul>
-I am open to collaborative opportunities that align with my research goals and passions. 
+</p>I am open to collaborative opportunities that align with my research goals and passions.</p>
 <span style="color:green;"><em>For any inquiries or potential collaborations, please feel free to reach out via email.</em></span>
 </p>
 
