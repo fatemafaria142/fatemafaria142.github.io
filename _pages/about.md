@@ -10,15 +10,9 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings!!!</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia">
-I am Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at 
-<a href="https://www.linkedin.com/company/dexiansolutions/" style="color:blue; font-weight:bold;">Dexian Bangladesh Ltd</a>. 
-I specialize in building generative AI-based applications, with expertise in working with Large Language Models (LLMs), LLM-Based Multi-Agent Systems, and Retrieval-Augmented Generation (RAG) solutions. 
-I completed my Bachelor’s degree in Computer Science and Engineering from 
-<a href="https://aust.edu/" style="color:blue; font-weight:bold;">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh</a>.
+
+<p style="text-align:justify; color:black; font-family:Georgia">I am  Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian Bangladesh LTD</a>. I obtained my Bachelor's degree in Computer Science and Engineering from the <a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</a>
 </p>
-
-
 
 
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -34,10 +28,10 @@ My primary research interests include:
     <li><em>Explainable Artificial Intelligence (XAI)</em></li>
     <li><em>Deep Learning with a focus on practical applications</em></li>
 </ul>
-</p style="color:black;">I am open to collaborative opportunities that align with my research goals and passions.</p>
+</p>
+<p>I am open to collaborative opportunities that align with my research goals and passions.
 <span style="color:green;"><em>For any inquiries or potential collaborations, please feel free to reach out via email.</em></span>
 </p>
-
 
 ## Recent News ⚡
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
