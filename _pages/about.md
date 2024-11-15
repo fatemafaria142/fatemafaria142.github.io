@@ -32,7 +32,6 @@ My primary research interests include:
 
 <p style="color:black; display:inline;">I am open to collaborative opportunities that align with my research goals and passions. <span style="color:green; display:inline;"><em> For any inquiries or potential collaborations, please feel free to reach out via email.</em></span> </p> 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nmfcbs1wc2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 ## Recent News ⚡
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
@@ -44,3 +43,4 @@ My primary research interests include:
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Joined as an Application Developer (AI/ML) at [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/)
 
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nmfcbs1wc2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
