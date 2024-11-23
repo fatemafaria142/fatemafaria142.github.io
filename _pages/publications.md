@@ -197,7 +197,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em>Under Review in Journal of Intelligent Information Systems </em></font> ([Journal of Intelligent Information Systems](https://link.springer.com/journal/10844))
+	<font size="3"><strong>Journal:</strong><em> Under Review in Journal of Intelligent Information Systems </em></font> ([Journal of Intelligent Information Systems](https://link.springer.com/journal/10844))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#Potato2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07332)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/ExplainableAI-PotatoGAN-Cutting-Edge-Disease-Identification-for-Potatoes)] [<a style="color:red;" href="#" onclick="$('#Potato2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
