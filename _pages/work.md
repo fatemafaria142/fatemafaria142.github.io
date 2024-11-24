@@ -13,7 +13,7 @@ title: ""
 
 <ul style="font-family:Trebuchet MS; color:black;"> 
 
-<li>Built <b style="color:#389EDA">Dexian Innovation Insights</b>, , an LLM-based multi-agent recommendation system designed to identify emerging trends within a company’s internal projects. The system analyzes previous project data in AI/ML technology and compares it with external data to provide valuable insights that help the company stay ahead of technological trends and assist decision-makers by offering data-driven guidance on project directions and potential areas for innovation.
+<li>Built <b style="color:#389EDA">Dexian Innovation Insights</b>, an LLM-based multi-agent recommendation system designed to identify emerging trends within a company’s internal projects. The system analyzes previous project data in AI/ML technology and compares it with external data to provide valuable insights that help the company stay ahead of technological trends and assist decision-makers by offering data-driven guidance on project directions and potential areas for innovation.
 <br>
 <b>Technology used:</b> Python, LangChain, CrewAI, Azure OpenAI, React JS, Tailwind CSS, FastAPI</li> 
 
@@ -21,7 +21,7 @@ title: ""
 <br>
 <b>Technology used:</b> Python, LangChain, CrewAI, Azure OpenAI, React JS, Tailwind CSS, FastAPI</li> 
 
-<li>Developed the <b style="color:#389EDA">RFP Matcher</b>, an advanced RAG solution to extract key information and summaries from Request for Proposal (RFP) documents using domain-specific multitask prompts. The system evaluates proposal responses and incorporates a Past Experience Matcher Score to compare bids, aiding in the prediction of potential win or loss outcomes.
+<li>Developed the <b style="color:#389EDA">RFP Matcher</b>, an advanced RAG solution to extract key information and summaries from Request for Proposal (RFP) documents using domain-specific multitask prompts. The system evaluates proposal responses and incorporates a Past Experience Matcher Score to compare bids, aiding in the prediction of potential win or loss outcomes. Additionally, the system generates a Table of ZContent, which serves as a structured guide for writing proposals for new bids. 
 <br>
 <b>Technology used:</b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
 
@@ -29,8 +29,6 @@ title: ""
 <br>
 <b>Technology used:</b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
 </ul>
-
-
 
 ## Research Experience 
 <span style="font-family:Trebuchet MS; color:black;">
