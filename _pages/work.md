@@ -12,6 +12,10 @@ title: ""
 <span style="color:#6E2C00"><em>May 2024 - Present</em></span> 
 
 <ul style="font-family:Trebuchet MS; color:black;"> 
+<li>Developed the <b style="color:#389EDA">Agricultural Economics Chatbot</b>, an LLMs-based multi-document Q&A system for improving information retrieval in the agricultural sector. The chatbot aggregates data from multiple sources, provides timely answers, and enhances decision-making by delivering real-time insights specific to agricultural economics. 
+<br>
+<b>Technology used:</b> Python, LangChain, Azure OpenAI, React JS, Tailwind CSS, Flask API 
+</li> 
 
 <li>Built <b style="color:#389EDA">Dexian Innovation Insights</b>, an LLM-based multi-agent recommendation system designed to identify emerging trends within a company’s internal projects. The system analyzes previous project data in AI/ML technology and compares it with external data to provide valuable insights that help the company stay ahead of technological trends and assist decision-makers by offering data-driven guidance on project directions and potential areas for innovation.
 <br>
@@ -29,6 +33,8 @@ title: ""
 <br>
 <b>Technology used:</b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
 </ul>
+
+
 
 ## Research Experience 
 <span style="font-family:Trebuchet MS; color:black;">
