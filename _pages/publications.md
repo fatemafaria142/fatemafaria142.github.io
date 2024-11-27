@@ -58,7 +58,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Accepted in MDPI Mathematics </em></font>  ([Mathematics](https://www.mdpi.com/journal/mathematics))
+	<font size="3"><strong>Journal:</strong><em> Published in MDPI Mathematics </em></font>  ([Mathematics](https://www.mdpi.com/journal/mathematics))
 </span>
 <br>
 
