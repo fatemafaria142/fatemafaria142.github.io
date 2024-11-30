@@ -25,7 +25,7 @@ title: ""
 <br>
 <b>Technology used:</b> Python, LangChain, CrewAI, Azure OpenAI, React JS, Tailwind CSS, FastAPI</li> 
 
-<li>Developed the <b style="color:#389EDA">RFP Matcher</b>, an advanced RAG solution to extract key information and summaries from Request for Proposal (RFP) documents using domain-specific multitask prompts. The system evaluates proposal responses and incorporates a Past Experience Matcher Score to compare bids, aiding in the prediction of potential win or loss outcomes. Additionally, the system generates a Table of Content, which serves as a structured guide for writing proposals for new bids. 
+<li>Developed the <b style="color:#389EDA">RFPMatcher</b>, an advanced RAG solution to extract key information and summaries from Request for Proposal (RFP) documents using domain-specific multitask prompts. The system evaluates proposal responses and incorporates a Past Experience Matcher Score to compare bids, aiding in the prediction of potential win or loss outcomes. Additionally, the system generates a Table of Content, which serves as a structured guide for writing proposals for new bids. 
 <br>
 <b>Technology used:</b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
 
