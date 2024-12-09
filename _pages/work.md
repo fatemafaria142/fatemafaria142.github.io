@@ -27,7 +27,7 @@ title: ""
 
 <li>Developed the <b style="color:#389EDA">RFPMatcher</b>, an advanced RAG solution to extract key information and summaries from Request for Proposal (RFP) documents using domain-specific multitask prompts. The system evaluates proposal responses and incorporates a Past Experience Matcher Score to compare bids, aiding in the prediction of potential win or loss outcomes. Additionally, the system generates a Table of Content, which serves as a structured guide for writing proposals for new bids. 
 <br>
-<b>Technology used:</b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
+<b>Technology used:</b> Python, LlamaIndex, Azure OpenAI, AlloyDB, CouchDB, SQL, React JS, Tailwind CSS, FastAPI</li> 
 
 <li>Currently working on <b style="color:#389EDA">KnowledgeEngine</b>, an LLM-based Multi-Document innovative RAG Q&A system for retrieving early retirement insurance information. It analyzes internal reports and legal guidelines to provide context-aware answers with references. The system uses task-specific prompts to calculate retirement insurance costs, benefits, and tax implications.
 <br>
