@@ -19,7 +19,7 @@ redirect_from:
 My primary research interests include:
 <ul style="color:black; font-family:Georgia; margin-left: 20px;">
     <li><em>Large Language Models (LLMs)</em></li>
-    <li><em>Large Vision Models (LVMs)</em></li>
+    <li><em>Large Multimodal Models (LMMs)</em></li>
     <li><em>Computer Vision</em></li>
     <li><em>Mutlimodal Deep Learning</em></li>
     <li><em>Medical Image Analysis</em></li>
