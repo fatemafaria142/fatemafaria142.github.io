@@ -22,12 +22,11 @@ My primary research interests include:
     <li><em>Vision Language Models (VLMs)</em></li>
     <li><em>Large Vision Models (LVMs)</em></li>
     <li><em>Computer Vision</em></li>
-    <li><em>Mutlimodal Deep Learning</em></li>
-    <li><em>Medical Image Analysis</em></li>
     <li><em>Natural Language Processing (NLP)</em></li>
+    <li><em>Medical Image Analysis</em></li>
     <li><em>Generative Adversarial Networks (GANs)</em></li>
-    <li><em>Explainable Artificial Intelligence (XAI)</em></li>
-    <li><em>Deep Learning with a focus on practical applications</em></li>
+    <li><em>Explainable AI (XAI)</em></li>
+    <li><em>Machine Learning and its Applications</em></li>
 </ul>
 </p>
 
