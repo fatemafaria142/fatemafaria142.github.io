@@ -11,7 +11,7 @@ redirect_from:
 <span style="color:black; font-family:Georgia">Greetings!!!</span>
 
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am  Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian Bangladesh LTD</a>. I specialize in building generative AI-based applications, with expertise in working with Large Language Models (LLMs), LLM-Based Multi-Agent Systems, and Retrieval-Augmented Generation (RAG) solutions. I completed my Bachelor’s degree in Computer Science and Engineering from the <a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</a>
+<p style="text-align:justify; color:black; font-family:Georgia">I am  Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian Bangladesh LTD</a>. I specialize in building generative AI-based applications, with expertise in working with Large Language Models (LLMs), Vision Language Models (VLMs), LLM-Based Multi-Agent Systems, and Retrieval-Augmented Generation (RAG) solutions. I completed my Bachelor’s degree in Computer Science and Engineering from the <a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</a>
 </p>
 
 
