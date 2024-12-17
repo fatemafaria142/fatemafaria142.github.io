@@ -20,7 +20,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under Review in Neurocomputing </em></font>  ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing))
+	<font size="3"><strong>Journal:</strong><em> Under Review in International Journal of Information Management Data Insights </em></font>  ([International Journal of Information Management Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights))
 </span>
 <br>
 [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
