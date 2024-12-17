@@ -55,7 +55,7 @@ Text generation tasks involve creating human-like text using models, especially 
 </p>  
 
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Tackling Hallucination in Bengali NLP: Enhancing Paraphrase Generation, Reading Comprehension, and Formal Application Writing Using LLMs with Few-Shot Learning, Fine-Tuning, and RAG
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learning, RAG, and Fine-Tuning Techniques
 </span>. Saidur Rahman Sujon, Ahmadul Karim Chowdhury, Fatema Tuj Johora Faria, Mukaffi Bin Moin and Faisal Muhammad Shah <span style="color:green;"><em> Submitted to an A* Rank Conference</em></span>.</span>  
 
 ### Ongoing Work:

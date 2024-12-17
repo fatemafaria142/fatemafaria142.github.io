@@ -87,7 +87,7 @@ author_profile: true
 
 
 <!-- Paper 07 -->
-📌 <span style="color:blue;font-family:Trebuchet MS;">**Tackling Hallucination in Bengali NLP: Enhancing Paraphrase Generation, Reading Comprehension, and Formal Application Writing Using LLMs with Few-Shot Learning, Fine-Tuning, and RAG**</span><br>
+📌 <span style="color:blue;font-family:Trebuchet MS;">**Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learning, RAG, and Fine-Tuning Techniques**</span><br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Saidur Rahman Sujon, Ahmadul Karim Chowdhury, <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin and Faisal Muhammad Shah</font>
 </span>
