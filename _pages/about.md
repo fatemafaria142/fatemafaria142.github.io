@@ -43,4 +43,8 @@ My primary research interests include:
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Joined as an Application Developer (AI/ML) at [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/)
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nmfcbs1wc2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nmfcbs1wc2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
+
+
+<style> .container { display: flex; justify-content: space-between; /* Centers the globe in the middle */ align-items: center; /* Vertically centers the content */ height: 300px; /* Full viewport height */ } .empty-div { flex: 1; /* Ensures the empty divs take equal space */ } #globe-container { width: 300px; /* Adjust the width */ height: 300px; /* Adjust the height */ } </style>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3fzStEwZikHkPYfOiN-DYAYIjjubNusYaXK6bqtbWsw&cl=ffffff&w=a"></script>
