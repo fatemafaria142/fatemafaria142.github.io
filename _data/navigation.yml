@@ -14,8 +14,8 @@ main:
 
   - title: "Work Experience"
     url: /work/   
-  - title: "Resarch Experience"
-    url: /ResarchExperience/     
+  # - title: "Resarch Experience"
+  #   url: /ResarchExperience/     
 
   - title: "Datasets"
     url: /datasets/    
