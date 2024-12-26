@@ -13,14 +13,14 @@ redirect_from:
 <br>
 
 ## Email
-+ <span style="font-family:Georgia; color:black;">
-  <a href="mailto:fatema.faria142@gmail.com" style="color:black;">fatema.faria142@gmail.com [Personal]</a>
++ <span style="font-family:Georgia; color:#97C4DA;">
+  <a href="mailto:fatema.faria142@gmail.com" style="color:#97C4DA;">fatema.faria142@gmail.com [Personal]</a>
 </span><br/>
-+ <span style="font-family:Georgia; color:black;">
-  <a href="mailto:fatema.faria@disys.com" style="color:black;">fatema.faria@disys.com [Official]</a>
++ <span style="font-family:Georgia; color:#97C4DA;">
+  <a href="mailto:fatema.faria@disys.com" style="color:#97C4DA;">fatema.faria@disys.com [Official]</a>
 </span><br/>
-+ <span style="font-family:Georgia; color:black;">
-  <a href="mailto:fatema.faria@dexian.com" style="color:black;">fatema.faria@dexian.com [Official]</a>
++ <span style="font-family:Georgia; color:#97C4DA;">
+  <a href="mailto:fatema.faria@dexian.com" style="color:#97C4DA;">fatema.faria@dexian.com [Official]</a>
 </span><br/>
 
 
