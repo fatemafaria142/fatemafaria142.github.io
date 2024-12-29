@@ -69,17 +69,17 @@ author_profile: true
 
 <div id="Motamot2024_bib" class="bib" style="display:none;">
 	<pre>
-		@INPROCEEDINGS{10752197,
-      		author={Johora Faria, Fatema Tuj and Moin, Mukaffi Bin and Mumu, Rabeya Islam and Alam Abir, Md Mahabubul and Alfy, Abrar Nawar and Alam, Mohammad Shafiul},
-      		booktitle={2024 IEEE Region 10 Symposium (TENSYMP)}, 
-      		title={Motamot: A Dataset for Revealing the Supremacy of Large Language Models Over Transformer Models in Bengali Political Sentiment Analysis}, 
-      		year={2024},
-      		volume={},
-      		number={},
-      		pages={1-8},
-      		keywords={Sentiment analysis;Analytical models;Accuracy;Voting;Large language models;Transformers;Market research;Few shot learning;Portals;IEEE Regions;Political Sentiment Analysis;Pre-trained Language Models;Large Language Models;Gem-ini 1.5 Pro;GPT 3.5 Turbo;Zero-shot Learning;Fewshot Learning;Low-resource Language},
-      		doi={10.1109/TENSYMP61132.2024.10752197}
-			}
+	@INPROCEEDINGS{10752197,
+      	author={Johora Faria, Fatema Tuj and Moin, Mukaffi Bin and Mumu, Rabeya Islam and Alam Abir, Md Mahabubul and Alfy, Abrar Nawar and Alam, Mohammad Shafiul},
+      	booktitle={2024 IEEE Region 10 Symposium (TENSYMP)}, 
+      	title={Motamot: A Dataset for Revealing the Supremacy of Large Language Models Over Transformer Models in Bengali Political Sentiment Analysis}, 
+      	year={2024},
+      	volume={},
+      	number={},
+      	pages={1-8},
+      	keywords={Sentiment analysis;Analytical models;Accuracy;Voting;Large language models;Transformers;Market research;Few shot learning;Portals;IEEE Regions;Political Sentiment Analysis;Pre-trained Language Models;Large Language Models;Gem-ini 1.5 Pro;GPT 3.5 Turbo;Zero-shot Learning;Fewshot Learning;Low-resource Language},
+      	doi={10.1109/TENSYMP61132.2024.10752197}
+		}
    </pre>
 </div>
 
