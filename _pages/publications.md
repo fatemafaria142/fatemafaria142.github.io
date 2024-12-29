@@ -16,11 +16,12 @@ author_profile: true
 <span style="color:black;font-family:Georgia">  
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H. Baniata, and Sangwoo Kang</font>
 </span>
-<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Journal:</strong><em> Published in MDPI Mathematics </em></font>  ([Mathematics](https://www.mdpi.com/journal/mathematics))
 </span>
 <br>
+[[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Bangla-Hate-Speech-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://www.kaggle.com/datasets/naurosromim/bdshs)]
+
 
 
 <!-- Paper 10 -->
