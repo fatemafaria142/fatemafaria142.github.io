@@ -16,6 +16,7 @@ author_profile: true
 <span style="color:black;font-family:Georgia">  
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H. Baniata, and Sangwoo Kang</font>
 </span>
+<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Journal:</strong><em> Published in MDPI Mathematics </em></font>  ([Mathematics](https://www.mdpi.com/journal/mathematics))
 </span>
