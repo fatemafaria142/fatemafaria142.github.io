@@ -32,7 +32,7 @@ title: ""
 <br>
 <b><span style="color:green; display:inline;"> Technology used: </span> </b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
 
-<li>Built <b style="color:#389EDA">Dexian Innovation Insights</b>, an LLM-based multi-agent recommendation system designed to identify emerging trends within a company’s internal projects. The system analyzes previous project data in AI/ML technology and compares it with external data to provide valuable insights that help the company stay ahead of technological trends and assist decision-makers by offering data-driven guidance on project directions and potential areas for innovation.
+<li>Built <b style="color:#389EDA">Dexian Innovation Insights</b>, an LLM-based multi-agent recommendation system that identifies emerging trends within a company's internal project data, compares them with external data, and generates detailed reports summarizing the insights. This system helps the company stay ahead of technological trends and supports decision-makers by offering data-driven guidance on project directions and potential areas for innovation.
 <br>
 <b><span style="color:green; display:inline;"> Technology used: </span></b> Python, LangChain, CrewAI, Azure OpenAI, React JS, Tailwind CSS, FastAPI</li> 
 
