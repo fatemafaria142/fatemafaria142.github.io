@@ -21,7 +21,6 @@ author_profile: true
 	<font size="3"><strong>Journal:</strong><em> Published in MDPI Mathematics </em></font>  ([Mathematics](https://www.mdpi.com/journal/mathematics))
 </span>
 <br>
-<br>
 [<a style="color:red;" href="#" onclick="$('#Hate2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.mdpi.com/2227-7390/12/23/3687)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Bangla-Hate-Speech-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://www.kaggle.com/datasets/naurosromim/bdshs)] [<a style="color:red;" href="#" onclick="$('#Hate2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="Hate2024_bib" class="bib" style="display:none;">
