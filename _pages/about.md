@@ -33,14 +33,14 @@ My primary research interests include:
 <p style="color:black; display:inline;">I am open to collaborative opportunities that align with my research goals and passions. <span style="color:green; display:inline;"><em> For any inquiries or potential collaborations, please feel free to reach out via email.</em></span> </p> 
 
 ## Recent News ⚡
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November]</span> -  One paper got published in MDPI Mathematics 2024, Volume 12, Issue 23 ([Mathematics](https://www.mdpi.com/journal/mathematics)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> - Attended the 4th International Conference on Computing and Communication Networks, Manchester, United Kingdom ([ICCCNet-2024](https://icccn.co.uk/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September]</span> - Attended the IEEE Region 10 Symposium at Netaji Subhas University of Technology (NSUT), New Delhi ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> -  One paper got accepted at 18th International Conference on Information Technology and Applications ([ICITA 2024](https://www.icita.world/#/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Joined as an Application Developer (AI/ML) at [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/)
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2024]</span> -  One paper got published in MDPI Mathematics 2024, Volume 12, Issue 23 ([Mathematics](https://www.mdpi.com/journal/mathematics)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2024]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2024]</span> - Attended the 4th International Conference on Computing and Communication Networks, Manchester, United Kingdom ([ICCCNet-2024](https://icccn.co.uk/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September 2024]</span> - Attended the IEEE Region 10 Symposium at Netaji Subhas University of Technology (NSUT), New Delhi ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August 2024]</span> -  One paper got accepted at 18th International Conference on Information Technology and Applications ([ICITA 2024](https://www.icita.world/#/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2024]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Joined as an Application Developer (AI/ML) at [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/)
 
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nmfcbs1wc2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
