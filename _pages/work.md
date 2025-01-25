@@ -28,13 +28,17 @@ title: ""
 
 <ul style="font-family:Trebuchet MS; color:black;"> 
 
-<li>Currently developing <b style="color:#389EDA">Org Info</b>, a vision-language model (VLM)-based application designed to simplify the extraction, management, and querying of organizational hierarchy data. The application automates the extraction of hierarchical information from uploaded images of organizational charts, stores the data in a structured database, and provides a chatbot interface for intuitive user interaction.
-<br>
-<b><span style="color:green; display:inline;"> Technology used: </span> </b> Python, LangChain, Azure OpenAI, OpenCV, SQL, SQL Alchemy, React JS, FastAPI</li> 
-
 <li>Currently working on <b style="color:#389EDA">KnowledgeEngine</b>, an LLM-based Multi-Document innovative RAG Q&A system for retrieving early retirement insurance information. It analyzes internal reports and legal guidelines to provide context-aware answers with references. The system uses task-specific prompts to calculate retirement insurance costs, benefits, and tax implications.
 <br>
 <b><span style="color:green; display:inline;"> Technology used: </span> </b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
+
+<li>Currently developing <b style="color:#389EDA">CaseAligner</b>, an LLM-powered application that generates tailored PowerPoint presentations for case studies based on specific Practice and Industry categories using internal project data. The application features a dynamic chat interface for interacting with individual slides, advanced summarization functionality for concise summaries of entire presentations or specific slides, and a robust search interface to locate information across generated case studies. Additionally, it enables users to regenerate specific slides for customization, automating content creation.
+<br>
+<b><span style="color:green; display:inline;"> Technology used: </span> </b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, FastAPI</li> 
+
+<li>Implemented <b style="color:#389EDA">Org Info</b>, a vision-language model (VLM)-based application designed to simplify the extraction, management, and querying of organizational hierarchy data. The application automates the extraction of hierarchical information from uploaded images of organizational charts, stores the data in a structured database, and provides a chat interface for intuitive user interaction.
+<br>
+<b><span style="color:green; display:inline;"> Technology used: </span> </b> Python, LangChain, Azure OpenAI, OpenCV, SQL, SQL Alchemy, React JS, FastAPI</li> 
 
 <li>Designed <b style="color:#389EDA">AgentDexi</b>, an LLM-based multi-agent system and RAG solution that analyzes job demand across various companies to provide actionable insights. This solution empowers technical recruiters to optimize their hiring strategies by aligning recruitment efforts with current industry trends and enables customization to meet specific needs for more targeted and effective outcomes.
 <br>
