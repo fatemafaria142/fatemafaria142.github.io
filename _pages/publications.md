@@ -11,41 +11,38 @@ author_profile: true
 ## 2025
 --------- 
 <!-- Paper 1 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span>](https://www.mdpi.com/2227-7390/12/23/3687) (<span style="color:red"><strong>Q1</strong></span>)
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language**</span>](https://www.preprints.org/manuscript/202501.1587/v1) (<span style="color:red"><strong>Q2</strong></span>)
 <span style="color:black;font-family:Georgia">  
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H. Baniata, and Sangwoo Kang</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H Baniata, Mohammad H Baniata, Mohannad A Khair, Ahmed Ibrahim Bani Ata, Chayut Bunterngchit, and Sangwoo Kang</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Published in MDPI Mathematics </em></font>  ([Mathematics](https://www.mdpi.com/journal/mathematics))
+	<font size="3"><strong>Journal:</strong><em> Under review in MDPI Electronics </em></font>  ([Electronics](https://www.mdpi.com/journal/electronics))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#hate2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.mdpi.com/2227-7390/12/23/3687)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/Bangla-Hate-Speech-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://www.kaggle.com/datasets/naurosromim/bdshs)] [<a style="color:red;" href="#" onclick="$('#Hate2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#sentiment2025_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.mdpi.com/2227-7390/12/23/3687)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/SentimentFormer-A-Transformer-Based-Multi-Modal-Fusion-Framework-for-Sentiment-Analysis-of-Memes)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://drive.google.com/file/d/12jxFuMz7jtE1kN9fi1ckspgHcKZhkT_B/view)] [<a style="color:red;" href="#" onclick="$('#sentiment2025_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
-<div id="Hate2024_bib" class="bib" style="display:none;">
+<div id="sentiment2025_bib" class="bib" style="display:none;">
 	<pre>
-	@Article{math12233687,
-	AUTHOR = {Faria, Fatema Tuj Johora and Baniata, Laith H. and Kang, Sangwoo},
-	TITLE = {Investigating the Predominance of Large Language Models in Low-Resource Bangla Language over Transformer Models for Hate Speech Detection: A Comparative Analysis},
-	JOURNAL = {Mathematics},
-	VOLUME = {12},
-	YEAR = {2024},
-	NUMBER = {23},
-	ARTICLE-NUMBER = {3687},
-	URL = {https://www.mdpi.com/2227-7390/12/23/3687},
-	ISSN = {2227-7390},
-	DOI = {10.3390/math12233687}
-	}
+	@article{202501.1587,
+	doi = {10.20944/preprints202501.1587.v1},
+	url = {https://doi.org/10.20944/preprints202501.1587.v1},
+	year = 2025,
+	month = {January},
+	publisher = {Preprints},
+	author = {Fatema Tuj Johora Faria and Laith H. Baniata and Mohammad H. Baniata and Mohannad A. Khair and Ahmed Ibrahim Bani Ata and Chayut Bunterngchit and Sangwoo Kang},
+	title = {SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language},
+	journal = {Preprints}
+}
 	</pre>
 	
 	
 </div>
 
-<div id="hate2024_abstract" class="abstract" style="display:none;">
+<div id="sentiment2025_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
-			The rise in abusive language on social media is a significant threat to mental health and social cohesion. For Bengali speakers, the need for effective detection is critical. However, current methods fall short in addressing the massive volume of content. Improved techniques are urgently needed to combat online hate speech in Bengali. Traditional machine learning techniques, while useful, often require large, linguistically diverse datasets to train models effectively. This paper addresses the urgent need for improved hate speech detection methods in Bengali, aiming to fill the existing research gap. Contextual understanding is crucial in differentiating between harmful speech and benign expressions. Large language models (LLMs) have shown state-of-the-art performance in various natural language tasks due to their extensive training on vast amounts of data. We explore the application of LLMs, specifically GPT-3.5 Turbo and Gemini 1.5 Pro, for Bengali hate speech detection using Zero-Shot and Few-Shot Learning approaches. Unlike conventional methods, Zero-Shot Learning identifies hate speech without task-specific training data, making it highly adaptable to new datasets and languages. Few-Shot Learning, on the other hand, requires minimal labeled examples, allowing for efficient model training with limited resources. Our experimental results show that LLMs outperform traditional approaches. In this study, we evaluate GPT-3.5 Turbo and Gemini 1.5 Pro on multiple datasets. To further enhance our study, we consider the distribution of comments in different datasets and the challenge of class imbalance, which can affect model performance. The BD-SHS dataset consists of 35,197 comments in the training set, 7542 in the validation set, and 7542 in the test set. The Bengali Hate Speech Dataset v1.0 and v2.0 include comments distributed across various hate categories: personal hate (629), political hate (1771), religious hate (502), geopolitical hate (1179), and gender abusive hate (316). The Bengali Hate Dataset comprises 7500 non-hate and 7500 hate comments. GPT-3.5 Turbo achieved impressive results with 97.33%, 98.42%, and 98.53% accuracy. In contrast, Gemini 1.5 Pro showed lower performance across all datasets. Specifically, GPT-3.5 Turbo excelled with significantly higher accuracy compared to Gemini 1.5 Pro. These outcomes highlight a 6.28% increase in accuracy compared to traditional methods, which achieved 92.25%. Our research contributes to the growing body of literature on LLM applications in natural language processing, particularly in the context of low-resource languages.
-
+			Social media has increasingly relied on memes as a tool for expressing opinions, making meme sentiment analysis an emerging area of interest for researchers. While much of the research has focused on English-language memes, under-Resource languages, such as Bengali, have received limited attention. Given the surge in social media use, the need for sentiment analysis of memes in these languages has become critical. One of the primary challenges in this field is the lack of benchmark datasets, particularly in languages with fewer resources. To address this, we used the MemoSen dataset, designed for Bengali, which consists of 4,368 memes annotated with three sentiment labels: positive, negative, and neutral. MemoSen is divided into training (70%), test (20%), and validation (10%) sets, with an imbalanced class distribution: 1,349 memes in the positive class, 2,728 in the negative class, and 291 in the neutral class. Our approach leverages advanced deep learning techniques for multimodal sentiment analysis in Bengali, introducing three hybrid approaches. SentimentTextFormer is a text-based, fine-tuned model that utilizes state-of-the-art transformer architectures to accurately extract sentiment-related insights from Bengali text, capturing nuanced linguistic features. SentimentImageFormer is an image-based model that employs cutting-edge transformer-based techniques for precise sentiment classification through visual data. Lastly, SentimentFormer is a hybrid model that seamlessly integrates both text and image modalities using fusion strategies. Early Fusion combines textual and visual features at the input level, enabling the model to jointly learn from both modalities. Late Fusion merges the outputs of separate text and image models, preserving their individual strengths for the final prediction. Intermediate Fusion integrates textual and visual features at intermediate layers, refining their interactions during processing. These fusion strategies combine the strengths of both textual and visual data, enhancing sentiment analysis by exploiting complementary information from multiple sources. The performance of our models was evaluated using various accuracy metrics, with SentimentTextFormer achieving 73.31% accuracy and SentimentImageFormer attaining 64.72%. The hybrid model, SentimentFormer (SwiftFormer with mBERT), employing Intermediate Fusion, shows a notable improvement in accuracy, achieving 79.04%, outperforming SentimentTextFormer by 5.73% and SentimentImageFormer by 14.32%. Among the fusion strategies, SentimentFormer (SwiftFormer with mBERT) achieved the highest accuracy of 79.04%, highlighting the effectiveness of our fusion technique and the reliability of our multimodal framework in improving sentiment analysis accuracy across diverse modalities.
 		</font>
 	</p>
 </div>
