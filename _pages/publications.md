@@ -20,7 +20,7 @@ author_profile: true
 	<font size="3"><strong>Journal:</strong><em> Under review in MDPI Electronics </em></font>  ([Electronics](https://www.mdpi.com/journal/electronics))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#sentiment2025_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.mdpi.com/2227-7390/12/23/3687)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/SentimentFormer-A-Transformer-Based-Multi-Modal-Fusion-Framework-for-Sentiment-Analysis-of-Memes)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://drive.google.com/file/d/12jxFuMz7jtE1kN9fi1ckspgHcKZhkT_B/view)] [<a style="color:red;" href="#" onclick="$('#sentiment2025_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#sentiment2025_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.preprints.org/manuscript/202501.1587/v1)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/SentimentFormer-A-Transformer-Based-Multi-Modal-Fusion-Framework-for-Sentiment-Analysis-of-Memes)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://drive.google.com/file/d/12jxFuMz7jtE1kN9fi1ckspgHcKZhkT_B/view)] [<a style="color:red;" href="#" onclick="$('#sentiment2025_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="sentiment2025_bib" class="bib" style="display:none;">
 	<pre>
@@ -33,7 +33,7 @@ author_profile: true
 	author = {Fatema Tuj Johora Faria and Laith H. Baniata and Mohammad H. Baniata and Mohannad A. Khair and Ahmed Ibrahim Bani Ata and Chayut Bunterngchit and Sangwoo Kang},
 	title = {SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language},
 	journal = {Preprints}
-}
+    }
 	</pre>
 	
 	
