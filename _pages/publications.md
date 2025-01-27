@@ -12,7 +12,7 @@ author_profile: true
 --------- 
 
 <!-- Paper 1 -->
-📌 <span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span> (<span style="color:red"><strong>Q1</strong></span>)
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span>](https://www.mdpi.com/2227-7390/12/23/3687) (<span style="color:red"><strong>Q1</strong></span>)
 <span style="color:black;font-family:Georgia">  
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H. Baniata, and Sangwoo Kang</font>
 </span>
@@ -56,7 +56,7 @@ author_profile: true
 
 
 <!-- Paper 02 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis**</span>](https://arxiv.org/abs/2407.19528)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis**</span>](https://ieeexplore.ieee.org/document/10752197)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria*</strong>, Mukaffi Bin Moin*, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy and Mohammad Shafiul Alam</font>
 </span>
