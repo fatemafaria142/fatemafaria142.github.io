@@ -32,7 +32,7 @@ title: ""
 <br>
 <b><span style="color:green; display:inline;"> Technology used: </span> </b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
 
-<li>Currently developing <b style="color:#389EDA">CaseAligner</b>, an LLM-powered application that generates tailored PowerPoint presentations for case studies based on specific Practice and Industry categories using internal project data. The application features a dynamic chat interface for interacting with individual slides, advanced summarization functionality for concise summaries of entire presentations or specific slides, and a robust search interface to locate information across generated case studies. Additionally, it enables users to regenerate specific slides for customization, automating content creation.
+<li>Developed <b style="color:#389EDA">CaseAligner</b>, an LLM-powered application that generates tailored PowerPoint presentations for case studies based on specific Practice and Industry categories using internal project data. The application features a dynamic chat interface for interacting with individual slides, advanced summarization functionality for concise summaries of entire presentations or specific slides, and a robust search interface to locate information across generated case studies. Additionally, it enables users to regenerate specific slides for customization, automating content creation.
 <br>
 <b><span style="color:green; display:inline;"> Technology used: </span> </b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, FastAPI</li> 
 
