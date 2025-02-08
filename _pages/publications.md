@@ -17,7 +17,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under review in MDPI Electronics </em></font>  ([Electronics](https://www.mdpi.com/journal/electronics))
+	<font size="3"><strong>Journal:</strong><em> Accepted in MDPI Electronics </em></font>  ([Electronics](https://www.mdpi.com/journal/electronics))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#sentiment2025_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.preprints.org/manuscript/202501.1587/v1)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/SentimentFormer-A-Transformer-Based-Multi-Modal-Fusion-Framework-for-Sentiment-Analysis-of-Memes)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://drive.google.com/file/d/12jxFuMz7jtE1kN9fi1ckspgHcKZhkT_B/view)] [<a style="color:red;" href="#" onclick="$('#sentiment2025_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 

@@ -4,7 +4,8 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-
+# 2025
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> -  One paper got accepted in MDPI Electronics ([Electronics](https://www.mdpi.com/journal/electronics)). <span style="color:red"> [MDPI Q2 Journal]</span> 
 # 2024
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[December]</span> - Working as a Reviewer for the Journal of Medical Internet Research ([JMIR](https://www.jmir.org/)).
 <span style="color:red"> [JMIR Q1 Journal]</span>
