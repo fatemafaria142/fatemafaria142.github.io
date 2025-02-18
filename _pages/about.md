@@ -33,7 +33,7 @@ My primary research interests include:
 <p style="color:black; display:inline;">I am open to collaborative opportunities that align with my research goals and passions. <span style="color:green; display:inline;"><em> For any inquiries or potential collaborations, please feel free to reach out via email.</em></span> </p> 
 
 ## Recent News ⚡
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[February 2025]</span> -  One paper got published in MDPI Electronics ([Electronics](https://www.mdpi.com/journal/electronics)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[February 2025]</span> -  One paper got published in MDPI Electronics, 2025, 14(4), 799 ([Electronics](https://www.mdpi.com/journal/electronics)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2024]</span> -  One paper got published in MDPI Mathematics 2024, Volume 12, Issue 23 ([Mathematics](https://www.mdpi.com/journal/mathematics)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2024]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2024]</span> - Attended the 4th International Conference on Computing and Communication Networks, Manchester, United Kingdom ([ICCCNet-2024](https://icccn.co.uk/)). 
