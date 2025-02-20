@@ -24,7 +24,7 @@ author_profile: true
 
 <div id="sentiment2025_bib" class="bib" style="display:none;">
 	<pre>
-@Article{electronics14040799,
+    @Article{electronics14040799,
     AUTHOR = {Faria, Fatema Tuj Johora and Baniata, Laith H. and Baniata, Mohammad H. and Khair, Mohannad A. and Bani Ata, Ahmed Ibrahim and Bunterngchit, Chayut and Kang, Sangwoo},
     TITLE = {SentimentFormer: A Transformer-Based Multimodal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language},
     JOURNAL = {Electronics},
