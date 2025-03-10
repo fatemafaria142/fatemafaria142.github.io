@@ -52,11 +52,6 @@ title: ""
 <br>
 <b><span style="color:green; display:inline;"> Technologies used: </span></b> Python, LangChain, CrewAI, Azure OpenAI, React JS, Tailwind CSS, FastAPI</li> 
 
-<li>Developed the <b style="color:#389EDA">Agricultural Economics Chatbot</b>, an LLMs-based multi-document Q&A system for improving information retrieval in the agricultural sector. The chatbot aggregates data from multiple sources, provides timely answers, and enhances decision-making by delivering real-time insights specific to agricultural economics. 
-<br>
-<b><span style="color:green; display:inline;"> Technologies used: </span></b> Python, LangChain, Azure OpenAI, React JS, Tailwind CSS, Flask API 
-</li> 
-
 </ul>
 
 
