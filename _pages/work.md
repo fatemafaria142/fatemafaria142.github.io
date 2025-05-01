@@ -16,7 +16,6 @@ title: ""
 <li>Conducted research on <b style="color:blue">"Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis."</b> This work was supported by the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under the grant<b><span style="color:green; display:inline;"> NRF-2022R1A2C1005316</span></b>.</li>
 
 <li>Carried out research on <b style="color:blue">"SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in the Under-Resourced Bangla Language."</b> This work was supported by the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under the grant <b><span style="color:green; display:inline;">NRF-2022R1A2C1005316</span></b>.</li>
-</ul>
 
 <li>Currently working on the research titled <b style="color:blue">"Dissecting the Reasoning Capabilities of Vision-Language Models in Medical Visual Question Answering: An Zero-shot Chain-of-Thought Approach."</li>
 </ul>
