@@ -74,7 +74,7 @@ title: ""
   <li>
     <b style="color:#6E2C00">Project 5: <span style="color:#389EDA">KnowledgeEngine</span></b>
     <ul style="list-style-type: circle;">
-      <li>Developed an LLM-based, multi-document RAG Q\&A system for internal document information retrieval.</li>
+      <li>Developed an LLM-based, multi-document RAG Q&A system for internal document information retrieval.</li>
       <li>Implemented a chat conversation interface with document page references for information sources.</li>
       <li>Ensured data security with dedicated knowledge bases for each user session.</li>
      <li>Created an admin panel with document upload functionality and comprehensive document management capabilities.</li>
