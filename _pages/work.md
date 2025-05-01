@@ -31,9 +31,9 @@ title: ""
     <b style="color:#6E2C00">Project 1: <span style="color:#389EDA">RFPMatcher</span></b>
     <ul style="list-style-type: circle;">
       <li>Developed a RAG solution to extract key information from Request for Proposal (RFP) documents.</li>
-      <li>Built a system that evaluates new RFPs against past responses using a customized Past Experience Matcher score.</li>
-      <li>Compared previous bids and supported prediction of potential win/loss outcomes.</li>
-      <li>Generated Tables of Contents from RFPs to assist in writing new proposals.</li>
+      <li>Built a system that evaluates new RFP documents against previous Request for Responses using a customized Past Experience Matcher score.</li>
+      <li>Compared bids from previous Requests for Responses and aided in predicting potential win or loss outcomes for new proposals.</li>
+      <li>Generated Tables of Contents based on new Request for Proposal documents to assist in writing proposals for new bids.</li>
       <li><b><span style="color:green;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, AlloyDB, CouchDB, React JS, FastAPI</li>
     </ul>
   </li>
@@ -41,9 +41,9 @@ title: ""
   <li>
     <b style="color:#6E2C00">Project 2: <span style="color:#389EDA">AgentDexi</span></b>
     <ul style="list-style-type: circle;">
-      <li>Designed an LLM-based multi-agent system for generating customer intelligence by analyzing job demand.</li>
-      <li>Developed a RAG solution to identify technological trends in external job descriptions.</li>
-      <li>Created interactive charts to help technical recruiters optimize hiring strategies.</li>
+      <li>Designed an LLM-based multi-agent system to generate customer intelligence by analyzing job demand.</li>
+      <li>Developed an RAG solution to identify technological trends in job descriptions across external companies.</li>
+      <li>Created interactive graphical charts to help technical recruiters view insights and optimize hiring strategies.</li>
       <li><b><span style="color:green;">Technologies used:</span></b> Python, LangChain, CrewAI, Azure OpenAI, React JS, FastAPI</li>
     </ul>
   </li>
@@ -51,10 +51,10 @@ title: ""
   <li>
     <b style="color:#6E2C00">Project 3: <span style="color:#389EDA">CaseAligner</span></b>
     <ul style="list-style-type: circle;">
-      <li>Built an LLM-powered app to generate tailored PowerPoint case study presentations by practice area and industry.</li>
-      <li>Implemented a chat interface for slide-specific queries and contextual responses.</li>
-      <li>Developed a comprehensive search tool across generated case studies.</li>
-      <li>Enabled exports in official templates and created an admin panel to manage the knowledge base.</li>
+      <li>Built an LLM-powered application that generates tailored PowerPoint presentations for case studies based on practice area and industry selections.</li>
+      <li>Implemented an interactive chat interface allowing users to query specific slide content and receive instant contextual responses.</li>
+      <li>Created export capabilities for downloading slides in company's official template.</li>
+      <li>Designed an admin panel for authorized users to download and edit the knowledge base of case studies.</li>
       <li><b><span style="color:green;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, React JS, FastAPI</li>
     </ul>
   </li>
@@ -62,9 +62,11 @@ title: ""
   <li>
     <b style="color:#6E2C00">Project 4: <span style="color:#389EDA">Org Info</span></b>
     <ul style="list-style-type: circle;">
-      <li>Implemented a VLM-based agent to extract organizational hierarchy from uploaded organograms.</li>
-      <li>Created a relational database to store hierarchical data and visualized it using OrgChart.</li>
-      <li>Developed a chat interface for interacting with org data and scheduled regular syncs from Bullhorn.</li>
+      <li>Implemented a VLM-based agent for extracting hierarchical information from organizational organograms.</li>
+      <li>Created a relational database to store organizational hierarchy data.</li>
+      <li>Developed an OrgChart framework to intuitively display hierarchical information based on user-selected organization name and department.</li>
+      <li>Built an chat interface enabling users to interact with specific organizational hierarchical information.</li>
+      <li>Set up scheduled jobs to fetch organizational data from Bullhorn every 30 days and visualized organizational information in OrgChart.</li>
       <li><b><span style="color:green;">Technologies used:</span></b> Python, LangChain, LangGraph, Azure OpenAI, OpenCV, Azure SQL, React JS, FastAPI</li>
     </ul>
   </li>
@@ -72,9 +74,10 @@ title: ""
   <li>
     <b style="color:#6E2C00">Project 5: <span style="color:#389EDA">KnowledgeEngine</span></b>
     <ul style="list-style-type: circle;">
-      <li>Developed an LLM-based multi-document RAG Q&A system for internal knowledge retrieval.</li>
-      <li>Created a conversational interface referencing source documents and secured user sessions via dedicated knowledge bases.</li>
-      <li>Built an admin panel for uploading and managing documents.</li>
+      <li>Developed an LLM-based, multi-document RAG Q\&A system for internal document information retrieval.</li>
+      <li>Implemented a chat conversation interface with document page references for information sources.</li>
+      <li>Ensured data security with dedicated knowledge bases for each user session.</li>
+     <li>Created an admin panel with document upload functionality and comprehensive document management capabilities.</li>
       <li><b><span style="color:green;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, FastAPI</li>
     </ul>
   </li>
