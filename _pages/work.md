@@ -22,7 +22,7 @@ title: ""
 ## Professional Experience
 <span style="font-family:Trebuchet MS; color:black;">
 <span style="color:#6E2C00">Application Developer (AI/ML)</span><br/>
-<a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian Bangladesh LTD.</a><br/>
+<a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited.</a><br/>
 <span style="color:#6E2C00"><em>May 2024 - Present</em></span>
 
 <ul style="font-family:Trebuchet MS; color:black; list-style-type: square;">
