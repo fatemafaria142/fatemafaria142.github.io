@@ -18,39 +18,58 @@ title: ""
 <li>Carried out research on <b style="color:blue">"SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in the Under-Resourced Bangla Language."</b> This work was supported by the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under the grant <b><span style="color:green; display:inline;">NRF-2022R1A2C1005316</span></b>.</li>
 </ul>
 
+<li>Currently working on the research titled <b style="color:blue">"Dissecting the Reasoning Capabilities of Vision-Language Models in Medical Visual Question Answering: An Zero-shot Chain-of-Thought Approach."</li>
+</ul>
 
 ## Professional Experience
-<!-- Senior Lecturer -->
 <span style="font-family:Trebuchet MS; color:black;">
 <span style="color:#6E2C00">Application Developer (AI/ML)</span><br/>
 [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/)<br/> 
 <span style="color:#6E2C00"><em>May 2024 - Present</em></span> 
 
-<ul style="font-family:Trebuchet MS; color:black;"> 
+<ul style="font-family:Trebuchet MS; color:black;">
 
-<li>Developed the <b style="color:#389EDA">RFPMatcher</b>, an advanced RAG solution to extract key information and summaries from Request for Proposal (RFP) documents using domain-specific multitask prompts. The system evaluates proposal responses and incorporates a Past Experience Matcher Score to compare bids, aiding in the prediction of potential win or loss outcomes. Additionally, the system generates a Table of Content, which serves as a structured guide for writing proposals for new bids. 
-<br>
-<b><span style="color:green; display:inline;"> Technologies used: </span></b> Python, LlamaIndex, Azure OpenAI, AlloyDB, CouchDB, SQL, React JS, Tailwind CSS, FastAPI</li> 
+<li>
+  <b style="color:#6E2C00">Project 1: <span style="color:#389EDA">RFPMatcher</span></b><br/>
+  Developed a RAG solution to extract key information from Request for Proposal (RFP) documents.<br/>
+  Built a system that evaluates new RFPs against past responses using a customized Past Experience Matcher score.<br/>
+  Compared previous bids and supported prediction of potential win/loss outcomes.<br/>
+  Generated Tables of Contents from RFPs to assist in writing new proposals.<br/>
+  <b><span style="color:green; display:inline;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, AlloyDB, CouchDB, React JS, FastAPI
+</li>
 
-<li>Designed the <b style="color:#389EDA">CaseAligner</b>, an LLM-powered application that generates tailored PowerPoint presentations for case studies based on specific Practice and Industry categories using internal project data. The application features a dynamic chat interface for interacting with individual slides, advanced summarization functionality for concise summaries of entire presentations or specific slides, and a robust search interface to locate information across generated case studies. Additionally, it enables users to regenerate specific slides for customization, automating content creation.
-<br>
-<b><span style="color:green; display:inline;"> Technologies used: </span> </b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, FastAPI</li> 
+<li>
+  <b style="color:#6E2C00">Project 2: <span style="color:#389EDA">AgentDexi</span></b><br/>
+  Designed an LLM-based multi-agent system for generating customer intelligence by analyzing job demand.<br/>
+  Developed a RAG solution to identify technological trends in external job descriptions.<br/>
+  Created interactive charts to help technical recruiters optimize hiring strategies.<br/>
+  <b><span style="color:green; display:inline;">Technologies used:</span></b> Python, LangChain, CrewAI, Azure OpenAI, React JS, FastAPI
+</li>
 
-<li>Worked on <b style="color:#389EDA">KnowledgeEngine</b>, an LLM-based Multi-Document innovative RAG Q&A system for retrieving early retirement insurance information. It analyzes internal reports and legal guidelines to provide context-aware answers with references. The system uses task-specific prompts to calculate retirement insurance costs, benefits, and tax implications. Each user has a dedicated knowledge base to ensure data security and privacy for uploaded information.
-<br>
-<b><span style="color:green; display:inline;"> Technologies used: </span> </b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, Tailwind CSS, FastAPI</li> 
+<li>
+  <b style="color:#6E2C00">Project 3: <span style="color:#389EDA">CaseAligner</span></b><br/>
+  Built an LLM-powered app to generate tailored PowerPoint case study presentations by practice area and industry.<br/>
+  Implemented a chat interface for slide-specific queries and contextual responses.<br/>
+  Developed a comprehensive search tool across generated case studies.<br/>
+  Enabled exports in official templates and created an admin panel to manage the knowledge base.<br/>
+  <b><span style="color:green; display:inline;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, React JS, FastAPI
+</li>
 
-<li>Implemented <b style="color:#389EDA">Org Info</b>, a vision-language model (VLM)-based application designed to simplify the extraction, management, and querying of organizational hierarchy data. The application automates the extraction of hierarchical information from uploaded images of organizational charts, stores the data in a structured database, and provides a chat interface for intuitive user interaction.
-<br>
-<b><span style="color:green; display:inline;"> Technologies used: </span> </b> Python, LangChain, Azure OpenAI, OpenCV, SQL, SQL Alchemy, React JS, FastAPI</li> 
+<li>
+  <b style="color:#6E2C00">Project 4: <span style="color:#389EDA">Org Info</span></b><br/>
+  Implemented a VLM-based agent to extract organizational hierarchy from uploaded organograms.<br/>
+  Created a relational database to store hierarchical data and visualized it using OrgChart.<br/>
+  Developed a chat interface for interacting with org data and scheduled regular syncs from Bullhorn.<br/>
+  <b><span style="color:green; display:inline;">Technologies used:</span></b> Python, LangChain, LangGraph, Azure OpenAI, OpenCV, Azure SQL, React JS, FastAPI
+</li>
 
-<li>Designed <b style="color:#389EDA">AgentDexi</b>, an LLM-based multi-agent system and RAG solution that analyzes job demand across various companies to provide actionable insights. This solution empowers technical recruiters to optimize their hiring strategies by aligning recruitment efforts with current industry trends and enables customization to meet specific needs for more targeted and effective outcomes.
-<br>
-<b><span style="color:green; display:inline;"> Technologies used: </span></b> Python, LangChain, CrewAI, Azure OpenAI, React JS, Tailwind CSS, FastAPI</li> 
-
-<li>Built <b style="color:#389EDA">Dexian Innovation Insights</b>, an LLM-based multi-agent recommendation system that identifies emerging trends within a company's internal project data, compares them with external data, and generates detailed reports summarizing the insights with interactive graphs and charts. This system helps the company stay ahead of technological trends and supports decision-makers by offering data-driven guidance on project directions and potential areas for innovation.
-<br>
-<b><span style="color:green; display:inline;"> Technologies used: </span></b> Python, LangChain, CrewAI, Azure OpenAI, React JS, Tailwind CSS, FastAPI</li> 
+<li>
+  <b style="color:#6E2C00">Project 5: <span style="color:#389EDA">KnowledgeEngine</span></b><br/>
+  Developed an LLM-based multi-document RAG Q&A system for internal knowledge retrieval.<br/>
+  Created a conversational interface referencing source documents and secured user sessions via dedicated knowledge bases.<br/>
+  Built an admin panel for uploading and managing documents.<br/>
+  <b><span style="color:green; display:inline;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, AlloyDB, React JS, FastAPI
+</li>
 
 </ul>
 
