@@ -59,7 +59,7 @@ Text generation tasks involve creating human-like text using models, especially 
 
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00"> Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learning, RAG, and Fine-Tuning Techniques
-</span>. Saidur Rahman Sujon, Ahmadul Karim Chowdhury, Fatema Tuj Johora Faria, Mukaffi Bin Moin and Faisal Muhammad Shah <span style="color:green;"><em> Submitted to an A* Rank Conference</em></span>.</span>  
+</span>. Saidur Rahman Sujon, Ahmadul Karim Chowdhury, Fatema Tuj Johora Faria, Mukaffi Bin Moin and Faisal Muhammad Shah <span style="color:green;"><em> Submitted to 2025 IEEE 9th International Conference on Software Engineering & Computer Systems (ICSECS)</em></span>.</span>  
 
 ### Ongoing Work:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">MindSpeak-Bangla: A Domain-Specific Dataset for Automatic Chain-of-Thought Adaptation in Mental Health Support for Low-Resource Bengali Language Settings</span>.</span>
