@@ -18,7 +18,7 @@ author_profile: true
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> -  One paper got accepted at 18th International Conference on Information Technology and Applications ([ICITA 2024](https://www.icita.world/#/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Joined as an Application Developer (AI/ML) at [Dexian Bangladesh LTD.](https://www.linkedin.com/company/dexiansolutions/)
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Joined as an Application Developer (AI/ML) at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/)
 
 
 
