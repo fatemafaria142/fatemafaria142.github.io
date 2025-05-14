@@ -19,14 +19,15 @@ redirect_from:
 My primary research interests include:
 <ul style="color:black; font-family:Georgia; margin-left: 20px;">
     <li><em>Large Language Models (LLMs)</em></li>
+    <li><em>LLM Agents</em></li>
+     <li><em>Natural Language Processing</em></li>
     <li><em>Vision-Language Models (VLMs)</em></li>
+    <li><em>Multimodal AI</em></li>
+    <li><em>Trustworthy AI</em></li>
     <li><em>Large Vision Models (LVMs)</em></li>
     <li><em>Computer Vision</em></li>
-    <li><em>Natural Language Processing</em></li>
     <li><em>Medical Image Analysis</em></li>
-    <li><em>Generative Adversarial Networks</em></li>
     <li><em>Explainable AI (XAI)</em></li>
-    <li><em>Machine Learning and its Applications</em></li>
 </ul>
 </p>
 
@@ -43,13 +44,3 @@ My primary research interests include:
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Joined as an Application Developer (AI/ML) at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/)
 
-
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nmfcbs1wc2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
-
-<!-- 
-<style> .container { display: flex; justify-content: space-between; /* Centers the globe in the middle */ align-items: center; /* Vertically centers the content */ height: 300px; /* Full viewport height */ } .empty-div { flex: 1; /* Ensures the empty divs take equal space */ } #globe-container { width: 300px; /* Adjust the width */ height: 300px; /* Adjust the height */ } 
-
-</style>
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3fzStEwZikHkPYfOiN-DYAYIjjubNusYaXK6bqtbWsw&cl=ffffff&w=a"></script> -->

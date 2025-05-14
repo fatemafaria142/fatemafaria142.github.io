@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <p style="text-align:justify; color:black; font-family:Georgia">
-My research delves into the realms of Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Natural Language Processing, Generative Adversarial Networks, Explainable Artificial Intelligence, Machine Learning, and Deep Learning and their applications. Below are some of the research areas I have worked on or am currently exploring.
+My research focuses on advancing the fields of Large Language Models, LLM Agents, Natural Language Processing, Vision-Language Models, Large Vision Models, Multimodal AI, Trustworthy AI, Computer Vision, Medical Imaging Analysis, and Explainable AI. I am deeply engaged in exploring their theoretical foundations as well as practical applications across diverse domains. Below are some of the research areas I have worked on or am currently investigating.
 </p> 
 
 ## 1. Sentiment Analysis and Hate Speech Detection in Social Media 
