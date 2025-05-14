@@ -27,7 +27,7 @@ My primary research interests include:
     <li><em>Large Vision Models (LVMs)</em></li>
     <li><em>Computer Vision</em></li>
     <li><em>Medical Image Analysis</em></li>
-    <li><em>Explainable AI (XAI)</em></li>
+    <li><em>Explainable AI</em></li>
 </ul>
 </p>
 
