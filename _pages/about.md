@@ -20,14 +20,12 @@ My primary research interests include:
 <ul style="color:black; font-family:Georgia; margin-left: 20px;">
     <li><em>Large Language Models (LLMs)</em></li>
     <li><em>LLM Agents</em></li>
-     <li><em>Natural Language Processing</em></li>
+     <li><em>NLP for Social Good</em></li>
     <li><em>Vision-Language Models (VLMs)</em></li>
     <li><em>Multimodal AI</em></li>
     <li><em>Trustworthy AI</em></li>
     <li><em>Large Vision Models (LVMs)</em></li>
     <li><em>Computer Vision</em></li>
-    <li><em>Medical Image Analysis</em></li>
-    <li><em>Explainable AI</em></li>
 </ul>
 </p>
 
