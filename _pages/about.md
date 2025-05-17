@@ -24,6 +24,7 @@ My primary research interests include:
     <li><em>Vision-Language Models (VLMs)</em></li>
     <li><em>Multimodal AI</em></li>
     <li><em>Trustworthy AI</em></li>
+    <li><em>Multimodal Agents</em></li>
     <li><em>Large Vision Models (LVMs)</em></li>
     <li><em>Computer Vision</em></li>
 </ul>
