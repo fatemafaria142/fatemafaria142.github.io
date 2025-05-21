@@ -6,9 +6,9 @@ title: ""
 
 ## Research Experience 
 <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:#6E2C00">Research Assistant</span><br/>
+<span style="color:#6E2C00">Remote Research Assistant</span><br/>
 [Supervisor: <span style="color:black; display:inline;"> Dr. Laith H. Baniata </span>](https://www.researchgate.net/profile/Laith-Baniata)<br/>
-[Assistant Professor, Gachon University, South Korea](https://www.gachon.ac.kr/sites/eng/index.do/)<br/>
+[Research Professor, Gachon University, South Korea](https://www.gachon.ac.kr/sites/eng/index.do/)<br/>
 [Email: laith@gachon.ac.kr](mailto:laith@gachon.ac.kr)<br/>
 <span style="color:#6E2C00"><em>June 2024 - Present</em></span>
 <ul style="font-family:Trebuchet MS; color:black;">
