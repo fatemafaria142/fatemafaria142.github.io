@@ -26,15 +26,16 @@ Multimodal deep learning is a method that improves understanding by combining im
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language</span>. Fatema Tuj Johora Faria, Laith H. Baniata, Mohammad H. Baniata, Mohannad A. Khair, Ahmed Ibrahim Bani Ata, Chayut Bunterngchit, Sangwoo Kang. <span style="color:green;"><em> Published in MDPI Electronics (Q2)</em></span>. [[PDF]](https://www.mdpi.com/2079-9292/14/4/799)</span>  
 
+
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts </span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, Md Saddam Hossain Mukta, and M. F. Mridha. <span style="color:green;"><em> Accepted in International Journal of Information Management Data Insights (Q1)</em></span>.</span>  
+
+
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language</span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Md Morshed Alam Shanto, Asif Iftekher Fahim and Md. Moinul Hoque. <span style="color:green;"><em> Accepted in 18th International Conference on Information Technology and Applications (ICITA 2024)</em></span>. [[PDF]](https://arxiv.org/pdf/2409.09504)</span>   
 
 
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">BanglaCalamityMMD: A Comprehensive Benchmark Dataset
 for Multimodal Disaster Identification in the Low-Resource Bangla Language
 </span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Busra Kamal Rafa, Swarnajit Saha, Md. Mahfuzur Rahman, Khan Md Hasib, and M. F. Mridha. <span style="color:green;"><em> Under Review in International Journal of Disaster Risk Reduction (Q1)</em></span>.</span>  
-
-
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts </span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, Md Saddam Hossain Mukta, and M. F. Mridha. <span style="color:green;"><em> Under Review in International Journal of Information Management Data Insights (Q1)</em></span>.</span>  
 
 
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes</span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, and Faisal Muhammad Shah. <span style="color:green;"><em> Submitted to 2025 9th International Conference on Vision, Image and Signal Processing (ICVISP 2025)</em></span>.</span>  
