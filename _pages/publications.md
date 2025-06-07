@@ -144,7 +144,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under Review in International Journal of Information Management Data Insights </em></font>  ([International Journal of Information Management Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights))
+	<font size="3"><strong>Journal:</strong><em> Accepted in International Journal of Information Management Data Insights </em></font>  ([International Journal of Information Management Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights))
 </span>
 <br>
 [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
@@ -158,7 +158,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under Review in International Journal of Disaster Risk Reduction </em></font>  ([Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction))
+	<font size="3"><strong>Journal:</strong><em> Under Review in International Journal of Disaster Risk Reduction </em></font>  ([International Journal of Disaster Risk Reduction](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction))
 </span>
 <br>
 [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/BanglaCalamityMMD-A-Comprehensive-Benchmark-Dataset-for-Multimodal-Disaster-Identification)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/7dggbjn5sd/1)] 
@@ -183,7 +183,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> Submitted to an A* Rank Conference </em></font> 
+	<font size="3"><strong>Conference:</strong><em> Under Review in 2025 9th International Conference on Vision, Image and Signal Processing </em></font>  ([ICVISP 2025](https://www.icvisp.org/))
 </span>
 <br>
 <div id="" class="bib" style="display:none;">
@@ -207,7 +207,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> Submitted to an A* Rank Conference </em></font> 
+	<font size="3"><strong>Conference:</strong><em> Under Review in 2025 IEEE 9th International Conference on Software Engineering & Computer Systems </em></font>  ([2025 IEEE 9th ICSECS](https://icsecs.umpsa.edu.my/index.php/en/))
 </span>
 <br>
 
