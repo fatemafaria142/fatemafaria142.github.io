@@ -102,7 +102,7 @@ author_profile: true
 <!-- Paper 02 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis**</span>](https://ieeexplore.ieee.org/document/10752197)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria*</strong>, Mukaffi Bin Moin*, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy and Mohammad Shafiul Alam</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria*</strong>, Mukaffi Bin Moin*, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy, and Mohammad Shafiul Alam</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
@@ -203,7 +203,7 @@ author_profile: true
 <!-- Paper 6 -->
 📌 <span style="color:blue;font-family:Trebuchet MS;">**Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learning, RAG, and Fine-Tuning Techniques**</span><br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Saidur Rahman Sujon, Ahmadul Karim Chowdhury, <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin and Faisal Muhammad Shah</font>
+	<font size="3"><strong>Authors</strong>: Saidur Rahman Sujon, Ahmadul Karim Chowdhury, <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, and Faisal Muhammad Shah</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
@@ -238,7 +238,7 @@ author_profile: true
 <!-- Paper 7 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**</span>](https://arxiv.org/abs/2409.09504)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Md Morshed Alam Shanto, Asif Iftekher Fahim and Md. Moinul Hoque</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Md Morshed Alam Shanto, Asif Iftekher Fahim, and Md. Moinul Hoque</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
@@ -275,7 +275,7 @@ author_profile: true
 <!-- Paper 8 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**</span>](https://arxiv.org/abs/2405.07332) (<span style="color:red"><strong>Q2</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Mohammad Shafiul Alam*, <strong style="color:green">Fatema Tuj Johora Faria*</strong>, Mukaffi Bin Moin*, Ahmed Al Wase, Md. Rabius Sani and Khan Md Hasib</font>
+	<font size="3"><strong>Authors</strong>: Mohammad Shafiul Alam*, <strong style="color:green">Fatema Tuj Johora Faria*</strong>, Mukaffi Bin Moin*, Ahmed Al Wase, Md. Rabius Sani, and Khan Md Hasib</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
@@ -310,7 +310,7 @@ author_profile: true
 <!-- Paper 9 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**</span>](https://arxiv.org/abs/2405.07338) (<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Pronay Debnath, Asif Iftekher Fahim, Faisal Muhammad Shah</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Pronay Debnath, Asif Iftekher Fahim, and Faisal Muhammad Shah</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
@@ -347,7 +347,7 @@ author_profile: true
 <!-- Paper 10 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study**</span>](https://arxiv.org/abs/2405.02937) <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, Faisal Muhammad Shah</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria,</strong> Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, and Faisal Muhammad Shah</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
@@ -381,7 +381,7 @@ author_profile: true
 <!-- Paper 11 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification**</span>](https://arxiv.org/abs/2405.04610)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Mukaffi Bin Moin, <strong style="color:green">Fatema Tuj Johora Faria,</strong> Swarnajit Saha, Busra Kamal Rafa, Mohammad Shafiul Alam</font>
+	<font size="3"><strong>Authors</strong>: Mukaffi Bin Moin, <strong style="color:green">Fatema Tuj Johora Faria,</strong> Swarnajit Saha, Busra Kamal Rafa, and Mohammad Shafiul Alam</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
