@@ -24,14 +24,12 @@ Sentiment analysis is a way to find and categorize feelings expressed in text, e
 Multimodal deep learning is a method that improves understanding by combining images and text. This approach uses three main techniques: early fusion, late fusion, and intermediate fusion. In early fusion, raw images and text are combined into a single input before the model processes them. This allows the model to learn a shared representation, but it can also make it sensitive to noise from either the images or the text. Late fusion works differently. Here, images and text are processed separately using different models. The results are combined later on. This method is flexible and allows each model to be optimized independently, but it might miss important connections between the two modalities that could improve performance. Intermediate fusion is a middle ground. It combines features from images and text at different stages of processing. This way, it keeps the unique qualities of each type of data while also sharing useful information between them. A major challenge in using multimodal deep learning for the Bangla language is the lack of annotated datasets that pair images and text. Most existing datasets are not diverse enough, which can lead to models that don't work well in different situations. There is still a significant need for high-quality, labeled image-text datasets in Bangla. </p>  
 
 ### Related Paper:
+
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts </span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, and M. F. Mridha. <span style="color:green;"><em> Published in International Journal of Information Management Data Insights (Q1)</em></span>.</span>  
+
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language</span>. Fatema Tuj Johora Faria, Laith H. Baniata, Mohammad H. Baniata, Mohannad A. Khair, Ahmed Ibrahim Bani Ata, Chayut Bunterngchit, Sangwoo Kang. <span style="color:green;"><em> Published in MDPI Electronics (Q2)</em></span>. [[PDF]](https://www.mdpi.com/2079-9292/14/4/799)</span>  
 
-
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts </span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, Md Saddam Hossain Mukta, and M. F. Mridha. <span style="color:green;"><em> Accepted in International Journal of Information Management Data Insights (Q1)</em></span>.</span>  
-
-
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language</span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Md Morshed Alam Shanto, Asif Iftekher Fahim and Md. Moinul Hoque. <span style="color:green;"><em> Accepted in 18th International Conference on Information Technology and Applications (ICITA 2024)</em></span>. [[PDF]](https://arxiv.org/pdf/2409.09504)</span>   
-
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language</span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Md Morshed Alam Shanto, Asif Iftekher Fahim and Md. Moinul Hoque. <span style="color:green;"><em> Published in 18th International Conference on Information Technology and Applications (ICITA 2024)</em></span>. [[PDF]](https://arxiv.org/pdf/2409.09504)</span>   
 
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">BanglaCalamityMMD: A Comprehensive Benchmark Dataset
 for Multimodal Disaster Identification in the Low-Resource Bangla Language
@@ -39,8 +37,6 @@ for Multimodal Disaster Identification in the Low-Resource Bangla Language
 
 
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes</span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, and Faisal Muhammad Shah. <span style="color:green;"><em> Submitted to 2025 9th International Conference on Vision, Image and Signal Processing (ICVISP 2025)</em></span>.</span>  
-
-
 
 
 ## 3. Natural Language Inference 
