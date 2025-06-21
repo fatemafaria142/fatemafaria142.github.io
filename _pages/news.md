@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 # 2025
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2025]</span> -  One paper got published in International Journal of Information Management Data Insights
+Volume 5, Issue 2, December 2025, 100347 ([IJIM Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights)).
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2025]</span> -  One paper got published in Proceedings of International Conference on Information Technology and Applications ([ICITA 2024](https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32)).
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[February]</span> -  One paper got published in the Special Issue on Machine Learning Advances and Applications on Natural Language Processing (NLP) in Electronics, 2025, 14(4), 799. ([Electronics](https://www.mdpi.com/journal/electronics)). <span style="color:red"> [MDPI Q2 Journal]</span> 
 
 # 2024
