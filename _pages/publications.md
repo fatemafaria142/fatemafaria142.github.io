@@ -26,18 +26,18 @@ author_profile: true
 <div id="FakeNews2025_bib" class="bib" style="display:none;">
 	<pre>
 	@article{FARIA2025100347,
-    title = {MultiBanFakeDetect: Integrating advanced fusion techniques for multimodal detection of Bangla fake news in under-resourced contexts},
-    journal = {International Journal of Information Management Data Insights},
-    volume = {5},
-    number = {2},
-    pages = {100347},
-    year = {2025},
-    issn = {2667-0968},
-    doi = {https://doi.org/10.1016/j.jjimei.2025.100347},
-    url = {https://www.sciencedirect.com/science/article/pii/S2667096825000291},
-    author = {Fatema Tuj Johora Faria and Mukaffi Bin Moin and Zayeed Hasan and Md. Arafat Alam Khandaker and Niful Islam and Khan Md Hasib and M.F. Mridha},
-    keywords = {Fake news detection, Multimodal dataset, Textual analysis, Visual analysis, Bangla language, Under-resource, Fusion techniques, Deep learning},
-    abstract = {The rise of false news in recent years poses significant risks to society. As misinformation spreads rapidly, automated detection systems are essential to mitigate its impact. However, most existing methods rely solely on textual analysis, limiting their effectiveness. The challenge is further compounded by the lack of a large-scale, multimodal dataset for Bangla fake news detection, as existing datasets are either small or unimodal. To address this, we introduce MultiBanFakeDetect, a novel multimodal dataset integrating both textual and visual information. This dataset comprises manually curated real and fake news samples from various online sources. Additionally, we propose MultiFusionFake, a hybrid multimodal fake news detection framework that fuses text and image modalities using an Early Fusion approach while also comparing Late and Intermediate fusion techniques. Our experiments show that MultiFusionFake, combining DenseNet-169 and mBERT, achieves 79.69% accuracy, outperforming the text-only mBERT model’s 73.13%, reflecting a 6.56 percentage point improvement. These results underscore the advantages of multimodal over unimodal methods. To the best of our knowledge, this is the first study on multimodal fake news detection in the under-resourced Bangla context, offering a promising approach to combating online misinformation.}
+      title = {MultiBanFakeDetect: Integrating advanced fusion techniques for multimodal detection of Bangla fake news in under-resourced contexts},
+      journal = {International Journal of Information Management Data Insights},
+      volume = {5},
+      number = {2},
+      pages = {100347},
+      year = {2025},
+      issn = {2667-0968},
+      doi = {https://doi.org/10.1016/j.jjimei.2025.100347},
+      url = {https://www.sciencedirect.com/science/article/pii/S2667096825000291},
+      author = {Fatema Tuj Johora Faria and Mukaffi Bin Moin and Zayeed Hasan and Md. Arafat Alam Khandaker and Niful Islam and Khan Md Hasib and M.F. Mridha},
+      keywords = {Fake news detection, Multimodal dataset, Textual analysis, Visual analysis, Bangla language, Under-resource, Fusion techniques, Deep learning},
+      abstract = {The rise of false news in recent years poses significant risks to society. As misinformation spreads rapidly, automated detection systems are essential to mitigate its impact. However, most existing methods rely solely on textual analysis, limiting their effectiveness. The challenge is further compounded by the lack of a large-scale, multimodal dataset for Bangla fake news detection, as existing datasets are either small or unimodal. To address this, we introduce MultiBanFakeDetect, a novel multimodal dataset integrating both textual and visual information. This dataset comprises manually curated real and fake news samples from various online sources. Additionally, we propose MultiFusionFake, a hybrid multimodal fake news detection framework that fuses text and image modalities using an Early Fusion approach while also comparing Late and Intermediate fusion techniques. Our experiments show that MultiFusionFake, combining DenseNet-169 and mBERT, achieves 79.69% accuracy, outperforming the text-only mBERT model’s 73.13%, reflecting a 6.56 percentage point improvement. These results underscore the advantages of multimodal over unimodal methods. To the best of our knowledge, this is the first study on multimodal fake news detection in the under-resourced Bangla context, offering a promising approach to combating online misinformation.}
 }
    </pre>
 </div>
