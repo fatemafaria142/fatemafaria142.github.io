@@ -257,11 +257,6 @@ author_profile: true
 
 
 
-
-
-
-
-
 <!-- Paper 7 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**</span>](https://arxiv.org/abs/2409.09504)<br>
 <span style="color:black;font-family:Georgia">
@@ -300,28 +295,28 @@ author_profile: true
 
 
 <!-- Paper 8 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**</span>](https://arxiv.org/abs/2405.07332) (<span style="color:red"><strong>Q2</strong></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**</span>](https://arxiv.org/abs/2405.07332)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Mohammad Shafiul Alam*, <strong style="color:green">Fatema Tuj Johora Faria*</strong>, Mukaffi Bin Moin*, Ahmed Al Wase, Md. Rabius Sani, and Khan Md Hasib</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria*</strong>, Mukaffi Bin Moin*, Mohammad Shafiul Alam*, Ahmed Al Wase, Md. Rabius Sani, and Khan Md Hasib</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Under Review in Journal of Intelligent Information Systems </em></font> ([Journal of Intelligent Information Systems](https://link.springer.com/journal/10844))
+	<font size="3"><strong>Conference:</strong><em> Under Review in 11th IEEE International Conference on Sustainable Technology and Engineering </em></font> ([IEEE i-COSTE 2025](https://i-coste.org/))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#Potato2024_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2405.07332)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/Mukaffi28/ExplainableAI-PotatoGAN-Cutting-Edge-Disease-Identification-for-Potatoes)] [<a style="color:red;" href="#" onclick="$('#Potato2024_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="Potato2024_bib" class="bib" style="display:none;">
 	<pre>
-		@misc{alam2024potatogansutilizinggenerativeadversarial,
-      		title={PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification}, 
-      		author={Mohammad Shafiul Alam and Fatema Tuj Johora Faria and Mukaffi Bin Moin and Ahmed Al Wase and Md. Rabius Sani and Khan Md Hasib},
-      		year={2024},
-      		eprint={2405.07332},
-      		archivePrefix={arXiv},
-      		primaryClass={cs.CV},
-      		url={https://arxiv.org/abs/2405.07332}, 
-		}
+		@misc{faria2025potatogansutilizinggenerativeadversarial,
+          title={PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification}, 
+          author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Mohammad Shafiul Alam and Ahmed Al Wase and Md. Rabius Sani and Khan Md Hasib},
+          year={2025},
+          eprint={2405.07332},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV},
+          url={https://arxiv.org/abs/2405.07332}, 
+}
 	</pre> 
 </div>
 
