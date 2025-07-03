@@ -54,6 +54,46 @@ author_profile: true
 
 ## 2024
 --------- 
+<!-- Paper 01 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts**</span>](https://www.sciencedirect.com/science/article/pii/S2667096825000291)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, and M. F. Mridha</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Journal:</strong><em> International Journal of Information Management Data Insights </em></font> ([IJIM Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#FakeNews2025_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.sciencedirect.com/science/article/pii/S2667096825000291)] [[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)] [<a style="color:red;" href="#" onclick="$('#FakeNews2025_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="FakeNews2025_bib" class="bib" style="display:none;">
+	<pre>
+	@article{FARIA2025100347,
+title = {MultiBanFakeDetect: Integrating advanced fusion techniques for multimodal detection of Bangla fake news in under-resourced contexts},
+journal = {International Journal of Information Management Data Insights},
+volume = {5},
+number = {2},
+pages = {100347},
+year = {2025},
+issn = {2667-0968},
+doi = {https://doi.org/10.1016/j.jjimei.2025.100347},
+url = {https://www.sciencedirect.com/science/article/pii/S2667096825000291},
+author = {Fatema Tuj Johora Faria and Mukaffi Bin Moin and Zayeed Hasan and Md. Arafat Alam Khandaker and Niful Islam and Khan Md Hasib and M.F. Mridha},
+keywords = {Fake news detection, Multimodal dataset, Textual analysis, Visual analysis, Bangla language, Under-resource, Fusion techniques, Deep learning},
+abstract = {The rise of false news in recent years poses significant risks to society. As misinformation spreads rapidly, automated detection systems are essential to mitigate its impact. However, most existing methods rely solely on textual analysis, limiting their effectiveness. The challenge is further compounded by the lack of a large-scale, multimodal dataset for Bangla fake news detection, as existing datasets are either small or unimodal. To address this, we introduce MultiBanFakeDetect, a novel multimodal dataset integrating both textual and visual information. This dataset comprises manually curated real and fake news samples from various online sources. Additionally, we propose MultiFusionFake, a hybrid multimodal fake news detection framework that fuses text and image modalities using an Early Fusion approach while also comparing Late and Intermediate fusion techniques. Our experiments show that MultiFusionFake, combining DenseNet-169 and mBERT, achieves 79.69% accuracy, outperforming the text-only mBERT model’s 73.13%, reflecting a 6.56 percentage point improvement. These results underscore the advantages of multimodal over unimodal methods. To the best of our knowledge, this is the first study on multimodal fake news detection in the under-resourced Bangla context, offering a promising approach to combating online misinformation.}
+}
+   </pre>
+</div>
+
+<div id="Motamot2024_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			Sentiment analysis is the process of identifying and categorizing people's emotions or opinions regarding various topics. Analyzing political sentiment is critical for understanding the complexities of public opinion processes, especially during election seasons. It gives significant information on voter preferences, attitudes, and current trends. In this study, we investigate political sentiment analysis during Bangladeshi elections, specifically examining how effectively Pre-trained Language Models (PLMs) and Large Language Models (LLMs) capture complex sentiment characteristics. Our study centers on the creation of the "Motamot" dataset, comprising 7,058 instances annotated with positive and negative sentiments, sourced from diverse online newspaper portals, forming a comprehensive resource for political sentiment analysis. We meticulously evaluate the performance of various PLMs including BanglaBERT, Bangla BERT Base, XLM-RoBERTa, mBERT, and sahajBERT, alongside LLMs such as Gemini 1.5 Pro and GPT 3.5 Turbo. Moreover, we explore zero-shot and few-shot learning strategies to enhance our understanding of political sentiment analysis methodologies. Our findings underscore BanglaBERT's commendable accuracy of 88.10% among PLMs. However, the exploration into LLMs reveals even more promising results. Through the adept application of Few-Shot learning techniques, Gemini 1.5 Pro achieves an impressive accuracy of 96.33%, surpassing the remarkable performance of GPT 3.5 Turbo, which stands at 94%. This underscores Gemini 1.5 Pro's status as the superior performer in this comparison.
+		</font>
+	</p>
+</div>
+
+
 
 <!-- Paper 1 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis**</span>](https://www.mdpi.com/2227-7390/12/23/3687) (<span style="color:red"><strong>Q1</strong></span>)
@@ -134,21 +174,6 @@ author_profile: true
 		</font>
 	</p>
 </div>
-
-
-
-<!-- Paper 3 -->
-📌 <span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts** </span> (<span style="color:red"><strong>Q1</strong></span>)<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, and M. F. Mridha</font>
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Journal:</strong><em> Accepted in International Journal of Information Management Data Insights </em></font>  ([International Journal of Information Management Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights))
-</span>
-<br>
-[[<span style ="color:red"><font size="3">Code</font></span>](https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)]
-
 
 
 <!-- Paper 4 -->
