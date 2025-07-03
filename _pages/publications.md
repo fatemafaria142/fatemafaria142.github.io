@@ -53,7 +53,7 @@ author_profile: true
 
 
 <!-- Paper 1 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language**</span>](https://www.mdpi.com/2079-9292/14/4/799) (<span style="color:red"><strong>Q2</strong></span>)
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language**</span>](https://www.mdpi.com/2079-9292/14/4/799) (<span style="color:red"><strong>Q1</strong></span>)
 <span style="color:black;font-family:Georgia">  
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Laith H Baniata, Mohammad H Baniata, Mohannad A Khair, Ahmed Ibrahim Bani Ata, Chayut Bunterngchit, and Sangwoo Kang</font>
 </span>
