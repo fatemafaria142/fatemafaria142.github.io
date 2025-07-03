@@ -31,13 +31,15 @@ title: ""
 <ul style="font-family:Trebuchet MS; color:black; list-style-type: square;">
 
   <li>
-    <b style="color:#6E2C00">Project 1: <span style="color:#389EDA">RFPMatcher</span></b>
+    <b style="color:#6E2C00">Project 1: <span style="color:#389EDA">ShareFlow Agent (Ongoing)</span></b>
     <ul style="list-style-type: circle;">
-      <li>Developed a Retrieval-Augmented Generation (RAG) solution using Chain of Thought prompting to extract key information from Request for Proposal (RFP) documents.</li>
-      <li>Built a Past Experience Matcher system that uses Automatic Chain-of-Thought prompting alongside in-context learning and preset questions to extract requirements from RFPs, then matches them against a master database of prior proposal responses.</li>
-      <li>Enabled the system to generate Yes/No decisions with detailed explanations of how similar requirements were addressed in the past, aiding in the prediction of potential win/loss outcomes for new proposals.</li>
-      <li>Generated dynamic Tables of Contents (TOC) based on extracted key information and historical experience to streamline and structure the proposal writing process for new bids.</li>
-      <li><b><span style="color:green;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, AlloyDB, CouchDB, React JS, FastAPI</li>
+      <li>Developed a custom SharePoint-integrated ReAct Agentic RAG system that enables users to create their own tools by providing the agent name, instructions, description, and uploaded files.</li>
+      <li>Implemented session-based chat functionality ensuring each user's conversations with individual agents are kept separate, with full history retention for context-aware interactions.</li>
+      <li>Generated leading questions based on the agent's instructions and description to guide user interactions.</li>
+      <li>Integrated a user interface to display the list of agents created by the user or shared with them, along with an update feature that allows users to modify existing agents.</li>
+      <li>Designed a sharing functionality that allows users to share their agents with others for collaborative use.</li>
+      <li>Guided and mentored junior application developers to support their technical development, promote best practices, and ensure the delivery of high-quality, maintainable solutions.</li>
+      <li><b><span style="color:green;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, Azure SQL, AlloyDB, React JS, FastAPI</li>
     </ul>
   </li>
 
@@ -54,7 +56,7 @@ title: ""
   </li>
 
   <li>
-    <b style="color:#6E2C00">Project 1: <span style="color:#389EDA">RFPMatcher</span></b>
+    <b style="color:#6E2C00">Project 3: <span style="color:#389EDA">RFPMatcher</span></b>
     <ul style="list-style-type: circle;">
       <li>Developed a Retrieval-Augmented Generation (RAG) solution using Chain of Thought prompting to extract key information from Request for Proposal (RFP) documents.</li>
       <li>Built a Past Experience Matcher system that uses Automatic Chain-of-Thought prompting alongside in-context learning and preset questions to extract requirements from RFPs, then matches them against a master database of prior proposal responses.</li>
@@ -65,7 +67,7 @@ title: ""
   </li>
 
   <li>
-    <b style="color:#6E2C00">Project 3: <span style="color:#389EDA">CaseAligner</span></b>
+    <b style="color:#6E2C00">Project 4: <span style="color:#389EDA">CaseAligner</span></b>
     <ul style="list-style-type: circle;">
       <li>Built an LLM-based application using zero-shot prompting to generate PowerPoint presentations for case studies based on selected practice areas and industries.</li>
       <li>Implemented an interactive chat interface allowing users to query specific slide content and receive instant contextual responses.</li>
@@ -77,7 +79,7 @@ title: ""
   </li>
 
   <li>
-    <b style="color:#6E2C00">Project 4: <span style="color:#389EDA">KnowledgeEngine</span></b>
+    <b style="color:#6E2C00">Project 5: <span style="color:#389EDA">KnowledgeEngine</span></b>
     <ul style="list-style-type: circle;">
       <li>Developed an LLM-based, multi-document RAG Q&A system for internal document information retrieval.</li>
       <li>Implemented a chat conversation interface with document page references for information sources.</li>
@@ -88,7 +90,7 @@ title: ""
   </li>
 
   <li>
-    <b style="color:#6E2C00">Project 5: <span style="color:#389EDA">AgentDexi</span></b>
+    <b style="color:#6E2C00">Project 6: <span style="color:#389EDA">AgentDexi</span></b>
     <ul style="list-style-type: circle;">
       <li>Designed an LLM-based multi-agent system to generate customer intelligence by analyzing job demand.</li>
       <li>Developed an RAG solution to identify technological trends in job descriptions across external companies.</li>
