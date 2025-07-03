@@ -12,7 +12,7 @@ author_profile: true
 ---------
 
 <!-- Paper 01 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts**</span>](https://www.sciencedirect.com/science/article/pii/S2667096825000291)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts**</span>](https://www.sciencedirect.com/science/article/pii/S2667096825000291) (<span style="color:red"><strong>Q2</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">Fatema Tuj Johora Faria</strong>, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, and M. F. Mridha</font>
 </span>
