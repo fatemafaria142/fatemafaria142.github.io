@@ -23,6 +23,7 @@ My primary research interests include:
     <li><em>Large Multimodal Models (LMMs)</em></li>
     <li><em>NLP for Social Good</em></li>
     <li><em>NLP for Low-Resource Languages</em></li>
+    <li><em>AI in Healthcare</em></li>
     <li><em>Vision-Language Models (VLMs)</em></li>
     <li><em>Trustworthy AI</em></li>
     <li><em>Multimodal Agents</em></li>

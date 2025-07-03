@@ -54,6 +54,17 @@ title: ""
   </li>
 
   <li>
+    <b style="color:#6E2C00">Project 1: <span style="color:#389EDA">RFPMatcher</span></b>
+    <ul style="list-style-type: circle;">
+      <li>Developed a Retrieval-Augmented Generation (RAG) solution using Chain of Thought prompting to extract key information from Request for Proposal (RFP) documents.</li>
+      <li>Built a Past Experience Matcher system that uses Automatic Chain-of-Thought prompting alongside in-context learning and preset questions to extract requirements from RFPs, then matches them against a master database of prior proposal responses.</li>
+      <li>Enabled the system to generate Yes/No decisions with detailed explanations of how similar requirements were addressed in the past, aiding in the prediction of potential win/loss outcomes for new proposals.</li>
+      <li>Generated dynamic Tables of Contents (TOC) based on extracted key information and historical experience to streamline and structure the proposal writing process for new bids.</li>
+      <li><b><span style="color:green;">Technologies used:</span></b> Python, LlamaIndex, Azure OpenAI, AlloyDB, CouchDB, React JS, FastAPI</li>
+    </ul>
+  </li>
+
+  <li>
     <b style="color:#6E2C00">Project 3: <span style="color:#389EDA">CaseAligner</span></b>
     <ul style="list-style-type: circle;">
       <li>Built an LLM-based application using zero-shot prompting to generate PowerPoint presentations for case studies based on selected practice areas and industries.</li>
