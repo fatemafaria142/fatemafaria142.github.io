@@ -15,31 +15,162 @@ I am <strong>Fatema Tuj Johora Faria</strong>, currently serving as an Applicati
 <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. 
 I specialize in designing and developing generative AI-based applications, with a strong focus on 
 <em>Large Language Models (LLMs)</em>, <em>Vision-Language Models (VLMs)</em>, 
-<em>LLM-based agents and multi-agent architectures</em>, and <em>Retrieval-Augmented Generation (RAG)</em>. 
-My work centers around creating robust <strong>Proof of Concepts (PoCs)</strong> to validate innovative ideas and assess technical feasibility, architecting intelligent systems, crafting scalable AI pipelines, and deploying real-world applications across a variety of domains, while also solving complex challenges by translating research into production-ready systems that deliver tangible value.
+<em>LLM-based agents and their Multi-Agent Architecture</em>, and <em>Retrieval-Augmented Generation (RAG)</em>. My work centers around creating robust <strong>Proof of Concepts (PoCs)</strong> to validate innovative ideas and assess technical feasibility, architecting intelligent systems, crafting scalable AI pipelines, and deploying real-world applications across a variety of domains, while also solving complex challenges by translating research into production-ready systems that deliver tangible value.
 </p>
 
 
-<p style="text-align:justify; color:black; font-family:Georgia; font-size:16px;">
+<p style="text-align:justify; color:black; font-family:Georgia;">
     <strong>My primary research interests include:</strong>
 </p>
-<ul style="color:black; font-family:Georgia; font-size:15px; margin-left:30px; line-height:1.8; list-style-type:circle;">
-    <li><em>Large Language Models (LLMs)</em></li>
-    <li><em>LLM Agents</em></li>
-    <li><em>Large Multimodal Models (LMMs)</em></li>
-    <li><em>NLP for Social Good</em></li>
-    <li><em>NLP for Low-Resource Languages</em></li>
-    <li><em>AI in Healthcare</em></li>
-    <li><em>Vision-Language Models (VLMs)</em></li>
-    <li><em>Trustworthy AI</em></li>
-    <li><em>Multimodal Agents</em></li>
-    <li><em>Large Vision Models (LVMs)</em></li>
-    <li><em>Computer Vision</em></li>
+<ul style="color:black; font-family:Georgia; margin-left: 30px; padding-left: 0; list-style-type: none; line-height: 1.8;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>Large Language Models (LLMs)</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>LLM Agents</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>Large Multimodal Models (LMMs)</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>NLP for Social Good</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>NLP for Low-Resource Languages</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>AI in Healthcare</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>Vision-Language Models (VLMs)</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>Trustworthy AI</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>Multimodal Agents</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>Large Vision Models (LVMs)</em>
+    </li>
+    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+        <span style="
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            border: 2px solid blue;
+            border-radius: 50%;
+            display: inline-block;
+        "></span>
+        <em>Computer Vision</em>
+    </li>
 </ul>
 
-<p style="color:black; font-family:Georgia; font-size:15px; text-align:justify;">
+<p style="color:black; display:inline; font-family:Georgia">
     I am open to collaborative opportunities that align with my research goals and passions. 
-    <span style="color:green;"><em>For any inquiries or potential collaborations, please feel free to reach out via email at 
+    <span style="color:green; display:inline;"><em>For any inquiries or potential collaborations, please feel free to reach out via email at 
     <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a>.</em></span>
 </p>
 
