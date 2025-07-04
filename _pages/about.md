@@ -18,9 +18,8 @@ I specialize in designing and developing generative AI-based applications, with 
 <em>LLM-based agents and their Multi-Agent Architecture</em>, and <em>Retrieval-Augmented Generation (RAG)</em>. My work centers around creating robust <strong>Proof of Concepts (PoCs)</strong> to validate innovative ideas and assess technical feasibility, architecting intelligent systems, crafting scalable AI pipelines, and deploying real-world applications across a variety of domains, while also solving complex challenges by translating research into production-ready systems that deliver tangible value.
 </p>
 
-<p style="text-align:justify; color:black; font-family:Georgia;">
-    <strong>My primary research interests include:</strong>
-</p>
+## My Primary Research Interests Include: 📚
+
 <ul style="color:black; font-family:Georgia; margin-left: 30px; padding-left: 0; list-style-type: none; line-height: 1.6;">
     <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
