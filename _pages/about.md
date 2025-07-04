@@ -18,7 +18,6 @@ I specialize in designing and developing generative AI-based applications, with 
 <em>LLM-based agents and their Multi-Agent Architecture</em>, and <em>Retrieval-Augmented Generation (RAG)</em>. My work centers around creating robust <strong>Proof of Concepts (PoCs)</strong> to validate innovative ideas and assess technical feasibility, architecting intelligent systems, crafting scalable AI pipelines, and deploying real-world applications across a variety of domains, while also solving complex challenges by translating research into production-ready systems that deliver tangible value.
 </p>
 
-
 <p style="text-align:justify; color:black; font-family:Georgia;">
     <strong>My primary research interests include:</strong>
 </p>
@@ -30,7 +29,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -43,7 +42,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -56,7 +55,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -69,7 +68,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -82,7 +81,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -95,7 +94,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -108,7 +107,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -121,7 +120,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -134,7 +133,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -147,7 +146,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -160,7 +159,7 @@ I specialize in designing and developing generative AI-based applications, with 
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid blue;
+            border: 2px solid #4682B4;
             border-radius: 50%;
             display: inline-block;
         "></span>
@@ -168,10 +167,10 @@ I specialize in designing and developing generative AI-based applications, with 
     </li>
 </ul>
 
-<p style="color:black; display:inline; font-family:Georgia">
+
+<p style="color:black; font-family:Georgia; text-align:justify;">
     I am open to collaborative opportunities that align with my research goals and passions. 
-    <span style="color:green; display:inline;"><em>For any inquiries or potential collaborations, please feel free to reach out via email at 
-    <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a>.</em></span>
+    <em>If you have any inquiries or wish to discuss potential collaborations, please feel free to reach out. You can contact me via email at <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a>.</em>
 </p>
 
 ## Recent News ⚡
