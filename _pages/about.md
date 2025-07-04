@@ -10,14 +10,20 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings!!!</span>
 
-
-<p style="text-align:justify; color:black; font-family:Georgia">I am  Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. I specialize in building generative AI-based applications, with expertise in working with Large Language Models (LLMs), Vision-Language Models (VLMs), LLM-Based Multi-Agent Systems, and Retrieval-Augmented Generation (RAG). My technical proficiency allows me to tackle complex real-world problems and develop practical solutions across diverse domains. I completed my Bachelor’s degree in Computer Science and Engineering from the <a href="https://aust.edu/">Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</a>
+<p style="text-align:justify; color:black; font-family:Georgia"> 
+I am <strong>Fatema Tuj Johora Faria</strong>, currently serving as an Application Developer (AI/ML) at 
+<a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. 
+I specialize in designing and developing generative AI-based applications, with a strong focus on 
+<em>Large Language Models (LLMs)</em>, <em>Vision-Language Models (VLMs)</em>, 
+<em>LLM-based agents and multi-agent architectures</em>, and <em>Retrieval-Augmented Generation (RAG)</em>. 
+My work centers around creating robust <strong>Proof of Concepts (PoCs)</strong> to validate innovative ideas and assess technical feasibility, architecting intelligent systems, crafting scalable AI pipelines, and deploying real-world applications across a variety of domains, while also solving complex challenges by translating research into production-ready systems that deliver tangible value.
 </p>
 
 
-<p style="text-align:justify; color:black; font-family:Georgia">
-My primary research interests include:
-<ul style="color:black; font-family:Georgia; margin-left: 20px;">
+<p style="text-align:justify; color:black; font-family:Georgia; font-size:16px;">
+    <strong>My primary research interests include:</strong>
+</p>
+<ul style="color:black; font-family:Georgia; font-size:15px; margin-left:30px; line-height:1.8; list-style-type:circle;">
     <li><em>Large Language Models (LLMs)</em></li>
     <li><em>LLM Agents</em></li>
     <li><em>Large Multimodal Models (LMMs)</em></li>
@@ -30,9 +36,12 @@ My primary research interests include:
     <li><em>Large Vision Models (LVMs)</em></li>
     <li><em>Computer Vision</em></li>
 </ul>
-</p>
 
-<p style="color:black; display:inline;">I am open to collaborative opportunities that align with my research goals and passions. <span style="color:green; display:inline;"><em> For any inquiries or potential collaborations, please feel free to reach out via email.</em></span> </p> 
+<p style="color:black; font-family:Georgia; font-size:15px; text-align:justify;">
+    I am open to collaborative opportunities that align with my research goals and passions. 
+    <span style="color:green;"><em>For any inquiries or potential collaborations, please feel free to reach out via email at 
+    <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a>.</em></span>
+</p>
 
 ## Recent News ⚡
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2025]</span> -  One paper got published in International Journal of Information Management Data Insights
