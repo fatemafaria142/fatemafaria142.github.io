@@ -183,6 +183,7 @@ Volume 5, Issue 2, December 2025, 100347 ([IJIM Data Insights](https://www.scien
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[September 2024]</span> - Attended the IEEE Region 10 Symposium at Netaji Subhas University of Technology (NSUT), New Delhi ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[August 2024]</span> -  One paper got accepted at 18th International Conference on Information Technology and Applications ([ICITA 2024](https://www.icita.world/#/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2024]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2024]</span> - Started working as a Remote Research Assistant under a Funded Project of the National Research Foundation of Korea, contributing to multiple research efforts</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Joined as an Application Developer (AI/ML) at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/)
 
