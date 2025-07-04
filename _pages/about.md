@@ -21,145 +21,145 @@ I specialize in designing and developing generative AI-based applications, with 
 <p style="text-align:justify; color:black; font-family:Georgia;">
     <strong>My primary research interests include:</strong>
 </p>
-<ul style="color:black; font-family:Georgia; margin-left: 30px; padding-left: 0; list-style-type: none; line-height: 1.8;">
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+<ul style="color:black; font-family:Georgia; margin-left: 30px; padding-left: 0; list-style-type: none; line-height: 1.6;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>Large Language Models (LLMs)</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>LLM Agents</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>Large Multimodal Models (LMMs)</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>NLP for Social Good</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>NLP for Low-Resource Languages</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>AI in Healthcare</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>Vision-Language Models (VLMs)</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>Trustworthy AI</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>Multimodal Agents</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
         <em>Large Vision Models (LVMs)</em>
     </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 8px;">
+    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
         <span style="
             position: absolute;
             left: 0;
             top: 8px;
             width: 12px;
             height: 12px;
-            border: 2px solid #4682B4;
+            border: 2px solid #36c8f5;
             border-radius: 50%;
             display: inline-block;
         "></span>
