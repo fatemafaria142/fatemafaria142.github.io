@@ -10,13 +10,9 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings!!!</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia"> 
-I am <strong>Fatema Tuj Johora Faria</strong>, currently serving as an Application Developer (AI/ML) at 
-<a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. 
-I specialize in designing and developing generative AI-based applications, with a strong focus on 
-<em>Large Language Models (LLMs)</em>, <em>Vision-Language Models (VLMs)</em>, 
-<em>LLM-based agents and their Multi-Agent Architecture</em>, and <em>Retrieval-Augmented Generation (RAG)</em>. My work centers around creating robust <strong>Proof of Concepts (PoCs)</strong> to validate innovative ideas and assess technical feasibility, architecting intelligent systems, crafting scalable AI pipelines, and deploying real-world applications across a variety of domains, while also solving complex challenges by translating research into production-ready systems that deliver tangible value.
-</p>
+<p style="text-align:justify; color:black; font-family:Georgia"> I am <strong>Fatema Tuj Johora Faria</strong>, currently working as an Application Developer (AI/ML) at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting informed decision making. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users. </p> 
+
+<p style="text-align:justify; color:black; font-family:Georgia"> In my role, I build <strong><span style="color:green">Proof of Concepts (PoCs)</span></strong> to validate forward-thinking ideas and assess their technical feasibility. I am responsible for architecting intelligent systems, developing scalable AI pipelines tailored to domain-specific needs, and optimizing inference for both performance and cost efficiency. My work focuses on translating cutting-edge research into production-ready systems that solve real-world problems and deliver measurable business value across various domains. </p>
 
 ## My Primary Research Interests Include: 📚
 
