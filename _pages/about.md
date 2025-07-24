@@ -18,7 +18,7 @@ redirect_from:
 <p style="text-align:justify; color:black; font-family:Georgia; background-color:#e6f2ff; padding:12px; border-left:4px solid #007acc; border-radius:4px;">
     In my role, I focus on delivering high-impact work through the following key areas:
     <br><br>
-    <b style="color:#007acc;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I initiate and lead the development of PoCs to explore bold, forward-thinking ideas. This involves identifying client and stakeholder requirements, analyzing their alignment with business goals, and rapidly prototyping technical solutions. I then iterate based on feedback to assess feasibility, de-risk innovation, and enable informed decision-making for full-scale implementation.<br>
+    <b style="color:#007acc;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I lead the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.<br>
     <b style="color:#007acc;">(2)</b> <span style="color:green;">Leadership in Project Execution:</span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.<br>
     <b style="color:#007acc;">(3)</b> <span style="color:green;">Mentorship:</span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
 </p>
@@ -180,6 +180,8 @@ redirect_from:
 </p>
 
 ## Recent News ⚡
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2025]</span> -  Promoted to Senior Application Developer at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/)
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2025]</span> -  One paper got published in MDPI Mathematics 2025, 13(14), 2322 ([Mathematics](https://www.mdpi.com/journal/mathematics)).
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2025]</span> -  One paper got published in International Journal of Information Management Data Insights
 Volume 5, Issue 2, December 2025, 100347 ([IJIM Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights)).
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2025]</span> -  One paper got published in Proceedings of International Conference on Information Technology and Applications ([ICITA 2024](https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32)).
@@ -192,5 +194,5 @@ Volume 5, Issue 2, December 2025, 100347 ([IJIM Data Insights](https://www.scien
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2024]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2024]</span> - Started working as a Remote Research Assistant under a Funded Project of the National Research Foundation of Korea, contributing to multiple research efforts</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Joined as an Application Developer (AI/ML) at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/)
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Joined as an Application Developer at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/)
 
