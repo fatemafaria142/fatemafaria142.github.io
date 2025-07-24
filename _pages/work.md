@@ -29,11 +29,8 @@ title: ""
 <span style="color:#6E2C00"><em>July 2025 - Present</em></span>
 
 <ul style="font-family:Trebuchet MS; color:black; list-style-type: square;">
-
   <li>
-  <b style="color:#6E2C00; text-decoration: underline;">
-  Conversational Agent Platform: <span style="color:#389EDA">ShareFlow Agent (Ongoing)</span>
-</b>
+<b style="color:#6E2C00">Conversational Agent Platform: <span style="color:#389EDA">ShareFlow Agent (Ongoing)</span></b>
     <ul style="list-style-type: circle;">
       <li>Developed a custom SharePoint-integrated ReAct Agentic RAG system that enables users to create their own tools by providing the agent name, instructions, description, and uploaded files.</li>
       <li>Implemented session-based chat functionality ensuring each user's conversations with individual agents are kept separate, with full history retention for context-aware interactions.</li>
