@@ -10,13 +10,16 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings!!!</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia"> I am <strong>Fatema Tuj Johora Faria</strong>, currently working as an Senior Application Developer  at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting informed decision making. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users. </p> 
+<p style="text-align:justify; color:black; font-family:Georgia"> 
+  I am <strong>Fatema Tuj Johora Faria</strong>, currently working as a Senior Application Developer at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
+</p>
+
 
 <p style="text-align:justify; color:black; font-family:Georgia; background-color:#e6f2ff; padding:12px; border-left:4px solid #007acc; border-radius:4px;">
     In my role, I focus on delivering high-impact work through the following key areas:
     <br><br>
-    <b style="color:#007acc;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I build PoCs to validate forward-thinking ideas and assess their technical feasibility.<br><br>
-    <b style="color:#007acc;">(2)</b> <span style="color:green;">Leadership in Project Execution:</span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.<br><br>
+    <b style="color:#007acc;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I initiate and lead the development of PoCs to explore bold, forward-thinking ideas. This involves identifying client and stakeholder requirements, analyzing their alignment with business goals, and rapidly prototyping technical solutions. I then iterate based on feedback to assess feasibility, de-risk innovation, and enable informed decision-making for full-scale implementation.<br>
+    <b style="color:#007acc;">(2)</b> <span style="color:green;">Leadership in Project Execution:</span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.<br>
     <b style="color:#007acc;">(3)</b> <span style="color:green;">Mentorship:</span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
 </p>
 
