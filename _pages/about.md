@@ -179,7 +179,6 @@ redirect_from:
     <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.</em>
 </p>
 
-
 ## ⚡ Recent Highlights
 
 <style>
@@ -194,17 +193,13 @@ redirect_from:
     margin: 12px 0;
     box-shadow: 0 4px 10px rgba(0,0,0,0.06);
     transition: transform 0.2s ease;
-    border-left: 5px solid #0077cc;
   }
 
   .news-card:hover {
     transform: scale(1.015);
-    border-left-color: #0055aa;
   }
 
   .news-date {
-    background: #e0f0ff;
-    color: #005799;
     font-weight: 600;
     padding: 3px 10px;
     border-radius: 4px;
@@ -228,93 +223,119 @@ redirect_from:
     margin-top: 4px;
     font-size: 15px;
   }
+
+  /* Color coding by year */
+  .year-2025 {
+    border-left: 5px solid #0077cc;
+  }
+
+  .year-2025 .news-date {
+    background: #e0f0ff;
+    color: #005799;
+  }
+
+  .year-2024 {
+    border-left: 5px solid #28a745;
+  }
+
+  .year-2024 .news-date {
+    background: #e6f4ea;
+    color: #1b7e35;
+  }
+
+  .year-2023 {
+    border-left: 5px solid #ff9800;
+  }
+
+  .year-2023 .news-date {
+    background: #fff4e0;
+    color: #d27b00;
+  }
+
 </style>
 
 <div class="news-wrapper">
 
-<div class="news-card">
+<!-- 2025 -->
+<div class="news-card year-2025">
   <div class="news-date">July 2025</div>
   <div class="news-desc">Promoted to <strong>Senior Application Developer</strong> at 
     <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
   </div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2025">
   <div class="news-date">July 2025</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 13(14), 2322.
-  </div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 13(14), 2322.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2025">
   <div class="news-date">June 2025</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">IJIM Data Insights</a>, Vol 5, Issue 2.
-  </div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">IJIM Data Insights</a>, Vol 5, Issue 2.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2025">
   <div class="news-date">June 2025</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings</a>.
-  </div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings</a>.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2025">
   <div class="news-date">February 2025</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/electronics" target="_blank">MDPI Electronics</a>, Vol 14(4), 799.
-  </div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/electronics" target="_blank">MDPI Electronics</a>, Vol 14(4), 799.</div>
 </div>
 
-<div class="news-card">
+<!-- 2024 -->
+<div class="news-card year-2024">
   <div class="news-date">November 2024</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 12, Issue 23.
-  </div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 12, Issue 23.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2024">
   <div class="news-date">October 2024</div>
-  <div class="news-desc">Attended <a class="news-link" href="https://icita.world/" target="_blank">ICITA 2024</a>, Sydney, Australia.
-  </div>
+  <div class="news-desc">Attended <a class="news-link" href="https://icita.world/" target="_blank">ICITA 2024</a>, Sydney, Australia.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2024">
   <div class="news-date">October 2024</div>
-  <div class="news-desc">Attended <a class="news-link" href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>, Manchester, UK.
-  </div>
+  <div class="news-desc">Attended <a class="news-link" href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>, Manchester, UK.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2024">
   <div class="news-date">September 2024</div>
-  <div class="news-desc">Attended <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>, New Delhi.
-  </div>
+  <div class="news-desc">Attended <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>, New Delhi.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2024">
   <div class="news-date">August 2024</div>
-  <div class="news-desc">Paper accepted at <a class="news-link" href="https://www.icita.world/#/" target="_blank">ICITA 2024</a>.
-  </div>
+  <div class="news-desc">Paper accepted at <a class="news-link" href="https://www.icita.world/#/" target="_blank">ICITA 2024</a>.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2024">
   <div class="news-date">June 2024</div>
-  <div class="news-desc">Paper accepted at <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>.
-  </div>
+  <div class="news-desc">Paper accepted at <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>.</div>
 </div>
 
-<div class="news-card">
+<div class="news-card year-2024">
   <div class="news-date">June 2024</div>
-  <div class="news-desc">Started as Remote Research Assistant under NRF Korea Funded Project.
+  <div class="news-desc">Started as Remote Research Assistant under NRF Korea Funded Project.</div>
+</div>
+
+<div class="news-card year-2024">
+  <div class="news-date">May 2024</div>
+  <div class="news-desc">Two papers accepted at <a class="news-link" href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>.</div>
+</div>
+
+<div class="news-card year-2024">
+  <div class="news-date">May 2024</div>
+  <div class="news-desc">Joined as Application Developer at 
+    <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
   </div>
 </div>
 
-<div class="news-card">
-  <div class="news-date">May 2024</div>
-  <div class="news-desc">Two papers accepted at <a class="news-link" href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>.
-  </div>
-</div>
-
-<div class="news-card">
-  <div class="news-date">May 2024</div>
-  <div class="news-desc">Joined as Application Developer at <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
-  </div>
-</div>
+<!-- Example for 2023
+<div class="news-card year-2023">
+  <div class="news-date">December 2023</div>
+  <div class="news-desc">Example older event — add your 2023 news here if needed.</div>
+</div> -->
 
 </div>
