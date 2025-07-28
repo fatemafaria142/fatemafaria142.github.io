@@ -23,161 +23,83 @@ redirect_from:
     <b style="color:#007acc;">(3)</b> <span style="color:green;">Mentorship:</span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
 </p>
 
-## My Primary Research Interests Include: 📚
+# 📚 My Primary Research Interests
 
-<ul style="color:black; font-family:Georgia; margin-left: 30px; padding-left: 0; list-style-type: none; line-height: 1.6;">
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>Large Language Models (LLMs)</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>LLM Agents</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>Large Multimodal Models (LMMs)</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>NLP for Social Good</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>NLP for Low-Resource Languages</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>AI in Healthcare</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>Vision-Language Models (VLMs)</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>Trustworthy AI</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>Multimodal Agents</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>Large Vision Models (LVMs)</em>
-    </li>
-    <li style="position: relative; padding-left: 25px; margin-bottom: 4px;">
-        <span style="
-            position: absolute;
-            left: 0;
-            top: 8px;
-            width: 12px;
-            height: 12px;
-            border: 2px solid #36c8f5;
-            border-radius: 50%;
-            display: inline-block;
-        "></span>
-        <em>Computer Vision</em>
-    </li>
+<div style="font-family:Georgia, serif; color:#222; padding:10px;">
+
+<ul style="list-style-type:none; padding-left:0; line-height:1.8;">
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>Large Language Models (LLMs)</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>LLM Agents</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>Large Multimodal Models (LMMs)</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>NLP for Social Good</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>NLP for Low-Resource Languages</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>AI in Healthcare</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>Vision-Language Models (VLMs)</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>Trustworthy AI</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>Multimodal Agents</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>Large Vision Models (LVMs)</em>
+</li>
+
+<li style="position: relative; padding-left: 24px;">
+  <span style="position: absolute; left: 0; top: 6px; width: 10px; height: 10px; border: 2px solid #36c8f5; border-radius: 50%; display: inline-block;"></span>
+  <em>Computer Vision</em>
+</li>
+
 </ul>
 
+</div>
 
-<p style="color:black; font-family:Georgia; text-align:justify; background-color:#e6f2ff; padding:10px; border-left:4px solid #007acc; border-radius:4px;">
-    I am open to collaborative opportunities that align with my research goals and passions. 
-    <em>If you have any inquiries or wish to discuss potential collaborations, please feel free to reach out. You can contact me via email at 
-    <b>Personal:</b> <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a> or 
-    <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.</em>
-</p>
+---
+
+### 🤝 Let's Collaborate
+
+<div style="background-color:#e6f2ff; padding:12px; border-left:4px solid #007acc; border-radius:6px; font-family:Georgia; color:#222; line-height:1.6; text-align:justify;">
+I am always enthusiastic about engaging in meaningful research collaborations that align with my goals and passions. 
+
+If you are interested in working together or simply want to discuss potential ideas, feel free to reach out:
+
+- <strong>Personal:</strong> <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a>  
+- <strong>Official:</strong> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>
+</div>
 
 ## ⚡ Recent Highlights
 
