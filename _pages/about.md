@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <style>
   body {
     font-family: 'Inter', sans-serif;
