@@ -8,78 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:black; font-family:Georgia">Greetings!!!</span>
+<span style="color:black; font-weight:bold; font-family:Georgia;">Greetings!!!</span>
 
-<style>
-  body {
-    font-family: 'Inter', sans-serif;
-    color: #1a1a1a;
-    line-height: 1.6;
-    background-color: #f8fafc;
-  }
-
-  .about-container {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-
-  .greeting {
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: #1e40af;
-    margin-bottom: 1.5rem;
-    text-align: left;
-  }
-
-  .intro {
-    margin-bottom: 1.2rem;
-  }
-
-  .intro p {
-    font-size: 1rem;
-    text-align: justify;
-    margin: 0 0 0.8rem;
-  }
-
-  .intro strong {
-    color: #1e40af;
-    font-weight: 600;
-  }
-
-  @media (max-width: 600px) {
-    .greeting {
-      font-size: 1.1rem;
-    }
-
-    .intro p {
-      font-size: 0.95rem;
-    }
-
-    .about-container {
-      padding: 15px;
-    }
-  }
-</style>
-
-<div class="about-container">
-  <div class="greeting">Greetings!!!</div>
-
-  <div class="intro">
-    <p>
-      I am <strong>Fatema Tuj Johora Faria</strong>, currently working as a <strong>Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI-based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Large Multimodal Models (LMMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi-Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
-    </p>
-  </div>
-</div>
-
-<p style="text-align:justify; color:black; font-family:Georgia; background-color:#e6f2ff; padding:12px; border-left:4px solid #007acc; border-radius:4px;">
-    In my role, I focus on delivering high-impact work through the following key areas:
-    <br><br>
-    <b style="color:#007acc;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.<br>
-    <b style="color:#007acc;">(2)</b> <span style="color:green;">Leadership in Project Execution:</span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.<br>
-    <b style="color:#007acc;">(3)</b> <span style="color:green;">Mentorship:</span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
+<p style="text-align:justify; color:black; font-family:Georgia;"> 
+  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a 
+  <strong style="color:#1e40af;">Senior Application Developer</strong> at 
+  <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af; text-decoration:none;">Dexian (Bangladesh) Limited</a>.
+  My expertise lies in designing and developing generative AI-based applications with a strong focus on 
+  <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, 
+  Retrieval Augmented Generation (RAG), as well as 
+  <em>LLM Agents and their Multi-Agent Architectures</em> for automating complex tasks and supporting 
+  <em>data-driven insights and effective decision support</em>. I also specialize in designing 
+  user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
 </p>
 
+
+<p style="text-align:justify; color:black; font-family:Georgia; background-color:#ffffff; padding:12px; border-left:4px solid #007acc; border-radius:4px;">
+    In my role, I focus on delivering high-impact work through the following key areas:
+    <br><br>
+    <b style="color:#1e40af;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.<br>
+    <b style="color:#1e40af;">(2)</b> <span style="color:green;">Leadership in Project Execution:</span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.<br>
+    <b style="color:#1e40af;">(3)</b> <span style="color:green;">Mentorship:</span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
+</p>
 
 <style>
   .research-interests {
@@ -149,7 +99,7 @@ redirect_from:
 </style>
 
 <div class="research-interests">
-  <h2>My Primary Research Interests Include: 📚</h2>
+  <h2>## My Primary Research Interests Include: 📚</h2>
   <div class="research-grid">
     <ul>
       <li><em>Large Language Models (LLMs)</em></li>
@@ -169,13 +119,12 @@ redirect_from:
   </div>
 </div>
 
-<p style="color:black; font-family:Georgia; text-align:justify; background-color:#e6f2ff; padding:10px; border-left:4px solid #007acc; border-radius:4px;">
+<p style="color:black; font-family:Georgia; text-align:justify; background-color:#ffffff; padding:10px; border-left:4px solid #007acc; border-radius:4px;">
     I am open to collaborative opportunities that align with my research goals and passions. 
     <em>If you have any inquiries or wish to discuss potential collaborations, please feel free to reach out. You can contact me via email at 
     <b>Personal:</b> <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a> or 
     <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.</em>
 </p>
-
 
 ## ⚡ Recent Highlights
 
