@@ -16,23 +16,27 @@ redirect_from:
   }
 
   .about-container {
-    max-width: 1000px; /* Increased max-width for wider cards */
+    max-width: 1100px; /* Increased max-width for wider cards */
     margin: 0 auto;
     padding: 20px;
   }
 
   .greeting {
-    font-size: 1.4rem;
+    font-size: 1.2rem; /* Smaller greeting size */
     font-weight: 600;
     color: #1e40af;
     margin-bottom: 1.5rem;
     text-align: left;
   }
 
-  .intro, .focus-areas, .contact {
+  .intro {
+    margin-bottom: 1.2rem;
+  }
+
+  .focus-areas, .contact {
     background: #ffffff;
     border-radius: 8px;
-    padding: 20px; /* Slightly increased padding for better spacing */
+    padding: 20px; /* Increased padding for better spacing */
     margin-bottom: 1.2rem;
     border-left: 4px solid #3b82f6;
     box-shadow: 0 2px 10px rgba(0,0,0,0.05);
@@ -127,7 +131,7 @@ redirect_from:
 
   @media (max-width: 600px) {
     .greeting {
-      font-size: 1.5rem;
+      font-size: 1.1rem;
     }
 
     .intro p, .focus-areas p, .contact p, .research-grid li {
@@ -135,7 +139,7 @@ redirect_from:
     }
 
     .research-interests h2 {
-      font-size: 1.4rem;
+      font-size: 1.3rem;
     }
 
     .research-grid {
