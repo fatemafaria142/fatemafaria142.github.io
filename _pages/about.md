@@ -113,7 +113,6 @@ redirect_from:
         padding: 0 8px 0 12px;      /* left padding a bit larger for border effect */
         color: green;
         display: inline-block;
-        border-left: solid green;
         ">
         Proof of Concepts (PoCs):
       </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
@@ -124,7 +123,6 @@ redirect_from:
         padding: 0 8px 0 12px; 
         color: green;
         display: inline-block;
-        border-left: solid green;
         ">
         Leadership in Project Execution:
       </span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
@@ -135,7 +133,6 @@ redirect_from:
         padding: 0 8px 0 12px; 
         color: green;
         display: inline-block;
-        border-left: solid green;
         ">
         Mentorship:
       </span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
