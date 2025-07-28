@@ -102,24 +102,44 @@ redirect_from:
 <p style="text-align:justify; color:black; font-family:Georgia;"> 
   I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a <strong style="color:#1e40af;">Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
 </p>
-
 <div class="info-wrapper">
   <div class="info-card">
     <p style="text-align:justify; color:black; margin:0;">
       In my role, I focus on delivering high-impact work through the following key areas:
       <br><br>
       <b style="color:#1e40af;">(1)</b> 
-      <span style="border-left: 4px solid green; padding-left: 8px; font-weight: bold; color: green;">
+      <span style="
+        background-color: #e6f4ea;  /* light green background fill */
+        padding: 0 8px 0 12px;      /* left padding a bit larger for border effect */
+        font-weight: bold; 
+        color: green;
+        display: inline-block;
+        border-left: 4px solid green;
+        ">
         Proof of Concepts (PoCs):
       </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
       <br><br>
       <b style="color:#1e40af;">(2)</b> 
-      <span style="border-left: 4px solid green; padding-left: 8px; font-weight: bold; color: green;">
+      <span style="
+        background-color: #e6f4ea; 
+        padding: 0 8px 0 12px; 
+        font-weight: bold; 
+        color: green;
+        display: inline-block;
+        border-left: 4px solid green;
+        ">
         Leadership in Project Execution:
       </span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
       <br><br>
       <b style="color:#1e40af;">(3)</b> 
-      <span style="border-left: 4px solid green; padding-left: 8px; font-weight: bold; color: green;">
+      <span style="
+        background-color: #e6f4ea; 
+        padding: 0 8px 0 12px; 
+        font-weight: bold; 
+        color: green;
+        display: inline-block;
+        border-left: 4px solid green;
+        ">
         Mentorship:
       </span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
     </p>
