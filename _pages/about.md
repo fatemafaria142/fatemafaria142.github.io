@@ -10,10 +10,67 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings!!!</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia"> 
-  I am <strong>Fatema Tuj Johora Faria</strong>, currently working as a <strong>Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
-</p>
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+    color: #1a1a1a;
+    line-height: 1.6;
+    background-color: #f8fafc;
+  }
 
+  .about-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .greeting {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #1e40af;
+    margin-bottom: 1.5rem;
+    text-align: left;
+  }
+
+  .intro {
+    margin-bottom: 1.2rem;
+  }
+
+  .intro p {
+    font-size: 1rem;
+    text-align: justify;
+    margin: 0 0 0.8rem;
+  }
+
+  .intro strong {
+    color: #1e40af;
+    font-weight: 600;
+  }
+
+  @media (max-width: 600px) {
+    .greeting {
+      font-size: 1.1rem;
+    }
+
+    .intro p {
+      font-size: 0.95rem;
+    }
+
+    .about-container {
+      padding: 15px;
+    }
+  }
+</style>
+
+<div class="about-container">
+  <div class="greeting">Greetings!!!</div>
+
+  <div class="intro">
+    <p>
+      I am <strong>Fatema Tuj Johora Faria</strong>, currently working as a <strong>Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI-based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Large Multimodal Models (LMMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi-Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
+    </p>
+  </div>
+</div>
 
 <p style="text-align:justify; color:black; font-family:Georgia; background-color:#e6f2ff; padding:12px; border-left:4px solid #007acc; border-radius:4px;">
     In my role, I focus on delivering high-impact work through the following key areas:
