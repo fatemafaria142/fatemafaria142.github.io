@@ -80,24 +80,39 @@ redirect_from:
     color: #d27b00;
   }
 
+.info-wrapper {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.info-card {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 16px 20px;
+  margin: 12px 0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+  border-left: 5px solid #1e40af; /* blue border */
+}
+
+/* Optional: You can define more themes like .info-2025 if needed */
+
 </style>
 
-<span style="color:black; font-family:Georgia">Greetings!!!</span>
+<span style="color:black; font-family:Georgia; font-weight:bold;">Greetings!!!</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia"> 
-  I am <strong>Fatema Tuj Johora Faria</strong>, currently working as a <strong>Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
+<p style="text-align:justify; color:black; font-family:Georgia;"> 
+  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a <strong style="color:#1e40af;">Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af; text-decoration:none;">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
 </p>
 
-<div class="news-wrapper" style="font-family: 'Segoe UI', sans-serif;">
-  <div class="news-card" style="background:#ffffff; border-radius:10px; padding:16px 20px; margin:12px 0; box-shadow:0 4px 10px rgba(0,0,0,0.06);">
+<div class="info-wrapper">
+  <div class="info-card">
     <p style="text-align:justify; color:black; margin:0;">
       In my role, I focus on delivering high-impact work through the following key areas:
+      <br><br>
+      <b style="color:#1e40af;">(1)</b> <b style="color:green;">Proof of Concepts (PoCs):</b> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
       <br>
-      <b style="color:#1e40af;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
+      <b style="color:#1e40af;">(2)</b> <b style="color:green;">Leadership in Project Execution:</b> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
       <br>
-      <b style="color:#1e40af;">(2)</b> <span style="color:green;">Leadership in Project Execution:</span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
-      <br>
-      <b style="color:#1e40af;">(3)</b> <span style="color:green;">Mentorship:</span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
+      <b style="color:#1e40af;">(3)</b> <b style="color:green;">Mentorship:</b> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
     </p>
   </div>
 </div>
@@ -106,16 +121,6 @@ redirect_from:
   .research-interests {
     margin: 1.5rem 0;
   }
-
-  .research-interests h2 {
-    font-size: 1.4rem;
-    color: #1e40af;
-    margin-bottom: 1rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
   .research-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -169,9 +174,8 @@ redirect_from:
   }
 </style>
 
-<div class="research-interests">
-  <h2>My Primary Research Interests Include: 📚</h2>
-  <div class="research-grid">
+## My Primary Research Interests Include: 📚
+<div class="research-grid">
     <ul>
       <li><em>Large Language Models (LLMs)</em></li>
       <li><em>LLM Agents</em></li>
@@ -188,19 +192,20 @@ redirect_from:
       <li><em>Computer Vision</em></li>
     </ul>
   </div>
-</div>
 
-
-<div class="news-wrapper" style="font-family: 'Segoe UI', sans-serif;">
-  <div class="news-card" style="background:#ffffff; border-radius:10px; padding:16px 20px; margin:12px 0; box-shadow:0 4px 10px rgba(0,0,0,0.06); text-align:justify;">
-    I am open to collaborative opportunities that align with my research goals and passions. 
-    <em>
-      If you have any inquiries or wish to discuss potential collaborations, please feel free to reach out. You can contact me via email at 
-      <b>Personal:</b> <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a> or 
-      <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.
-    </em>
+<div class="info-wrapper">
+  <div class="info-card">
+    <p style="text-align:justify; color:black; margin:0;">
+      I am open to collaborative opportunities that align with my research goals and passions. 
+      <em>
+        If you have any inquiries or wish to discuss potential collaborations, please feel free to reach out. You can contact me via email at 
+        <b>Personal:</b> <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a> or 
+        <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.
+      </em>
+    </p>
   </div>
 </div>
+
 
 ## ⚡ Recent Highlights
 <div class="news-wrapper">
