@@ -92,7 +92,7 @@ redirect_from:
 </style>
 
 <div class="research-interests">
-  <h2>## My Primary Research Interests Include: 📚</h2>
+  <h2>My Primary Research Interests Include: 📚</h2>
   <div class="research-grid">
     <ul>
       <li><em>Large Language Models (LLMs)</em></li>
