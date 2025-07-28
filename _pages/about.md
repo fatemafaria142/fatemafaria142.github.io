@@ -100,7 +100,7 @@ redirect_from:
 <span style="color:black; font-family:Georgia; font-weight:bold;">Greetings!!!</span>
 
 <p style="text-align:justify; color:black; font-family:Georgia;"> 
-  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a <strong style="color:#1e40af;">Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af; text-decoration:none;">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
+  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a <strong style="color:#1e40af;">Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
 </p>
 
 <div class="info-wrapper">
@@ -141,16 +141,19 @@ redirect_from:
     color: #1a1a1a;
   }
 
-  .research-grid li::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 6px;
-    width: 10px;
-    height: 10px;
-    background: #3b82f6;
-    border-radius: 50%;
-  }
+.research-grid li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  background: transparent;
+  border: 2px solid #3b82f6;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
 
   .research-grid em {
     font-style: normal;
