@@ -180,64 +180,141 @@ redirect_from:
 </p>
 
 
-## ⚡ Recent News
+## ⚡ Recent Highlights
 
-<div style="font-family:Segoe UI, sans-serif; font-size:15px; line-height:1.6;">
+<style>
+  .news-wrapper {
+    font-family: 'Segoe UI', sans-serif;
+  }
 
-<div style="background:#f5f5f5; border-left:4px solid #ff8800; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#7a4f01;">[July 2025]</strong> Promoted to <strong>Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
+  .news-card {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin: 12px 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+    transition: transform 0.2s ease;
+    border-left: 5px solid #0077cc;
+  }
+
+  .news-card:hover {
+    transform: scale(1.015);
+    border-left-color: #0055aa;
+  }
+
+  .news-date {
+    background: #e0f0ff;
+    color: #005799;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 13px;
+    display: inline-block;
+    margin-bottom: 6px;
+  }
+
+  .news-link {
+    color: #0077cc;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .news-link:hover {
+    text-decoration: underline;
+  }
+
+  .news-desc {
+    color: #333;
+    margin-top: 4px;
+    font-size: 15px;
+  }
+</style>
+
+<div class="news-wrapper">
+
+<div class="news-card">
+  <div class="news-date">July 2025</div>
+  <div class="news-desc">Promoted to <strong>Senior Application Developer</strong> at 
+    <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#003366;">[July 2025]</strong> Paper published in <a href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 13(14), 2322.
+<div class="news-card">
+  <div class="news-date">July 2025</div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 13(14), 2322.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#003366;">[June 2025]</strong> Paper published in <a href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">IJIM Data Insights</a>, Vol 5, Issue 2.
+<div class="news-card">
+  <div class="news-date">June 2025</div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">IJIM Data Insights</a>, Vol 5, Issue 2.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#003366;">[June 2025]</strong> Paper published in <a href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings</a>.
+<div class="news-card">
+  <div class="news-date">June 2025</div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings</a>.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#003366;">[February 2025]</strong> Paper published in <a href="https://www.mdpi.com/journal/electronics" target="_blank">MDPI Electronics</a>, Vol 14(4), 799.
+<div class="news-card">
+  <div class="news-date">February 2025</div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/electronics" target="_blank">MDPI Electronics</a>, Vol 14(4), 799.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#003366;">[November 2024]</strong> Paper published in <a href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 12, Issue 23.
+<div class="news-card">
+  <div class="news-date">November 2024</div>
+  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 12, Issue 23.
+  </div>
 </div>
 
-<div style="background:#f5f5f5; border-left:4px solid #00b894; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#00695c;">[October 2024]</strong> Attended <a href="https://icita.world/" target="_blank">ICITA 2024</a>, Sydney, Australia.
+<div class="news-card">
+  <div class="news-date">October 2024</div>
+  <div class="news-desc">Attended <a class="news-link" href="https://icita.world/" target="_blank">ICITA 2024</a>, Sydney, Australia.
+  </div>
 </div>
 
-<div style="background:#f5f5f5; border-left:4px solid #00b894; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#00695c;">[October 2024]</strong> Attended <a href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>, Manchester, UK.
+<div class="news-card">
+  <div class="news-date">October 2024</div>
+  <div class="news-desc">Attended <a class="news-link" href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>, Manchester, UK.
+  </div>
 </div>
 
-<div style="background:#f5f5f5; border-left:4px solid #00b894; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#00695c;">[September 2024]</strong> Attended <a href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>, New Delhi.
+<div class="news-card">
+  <div class="news-date">September 2024</div>
+  <div class="news-desc">Attended <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>, New Delhi.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #6c5ce7; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#341f97;">[August 2024]</strong> Paper accepted at <a href="https://www.icita.world/#/" target="_blank">ICITA 2024</a>.
+<div class="news-card">
+  <div class="news-date">August 2024</div>
+  <div class="news-desc">Paper accepted at <a class="news-link" href="https://www.icita.world/#/" target="_blank">ICITA 2024</a>.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #6c5ce7; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#341f97;">[June 2024]</strong> Paper accepted at <a href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>.
+<div class="news-card">
+  <div class="news-date">June 2024</div>
+  <div class="news-desc">Paper accepted at <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #6c5ce7; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#341f97;">[June 2024]</strong> Started as Remote Research Assistant under NRF Korea Funded Project.
+<div class="news-card">
+  <div class="news-date">June 2024</div>
+  <div class="news-desc">Started as Remote Research Assistant under NRF Korea Funded Project.
+  </div>
 </div>
 
-<div style="background:#f9f9f9; border-left:4px solid #6c5ce7; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#341f97;">[May 2024]</strong> Two papers accepted at <a href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>.
+<div class="news-card">
+  <div class="news-date">May 2024</div>
+  <div class="news-desc">Two papers accepted at <a class="news-link" href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>.
+  </div>
 </div>
 
-<div style="background:#f5f5f5; border-left:4px solid #ff8800; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
-  <strong style="color:#7a4f01;">[May 2024]</strong> Joined as Application Developer at <a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
+<div class="news-card">
+  <div class="news-date">May 2024</div>
+  <div class="news-desc">Joined as Application Developer at <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
+  </div>
 </div>
 
 </div>
