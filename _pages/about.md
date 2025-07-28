@@ -108,14 +108,24 @@ redirect_from:
     <p style="text-align:justify; color:black; margin:0;">
       In my role, I focus on delivering high-impact work through the following key areas:
       <br><br>
-      <b style="color:#1e40af;">(1)</b> <b style="color:green;">Proof of Concepts (PoCs):</b> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
-      <br>
-      <b style="color:#1e40af;">(2)</b> <b style="color:green;">Leadership in Project Execution:</b> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
-      <br>
-      <b style="color:#1e40af;">(3)</b> <b style="color:green;">Mentorship:</b> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
+      <b style="color:#1e40af;">(1)</b> 
+      <span style="border-left: 4px solid green; padding-left: 8px; font-weight: bold; color: green;">
+        Proof of Concepts (PoCs):
+      </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
+      <br><br>
+      <b style="color:#1e40af;">(2)</b> 
+      <span style="border-left: 4px solid green; padding-left: 8px; font-weight: bold; color: green;">
+        Leadership in Project Execution:
+      </span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
+      <br><br>
+      <b style="color:#1e40af;">(3)</b> 
+      <span style="border-left: 4px solid green; padding-left: 8px; font-weight: bold; color: green;">
+        Mentorship:
+      </span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
     </p>
   </div>
 </div>
+
 
 <style>
   .research-interests {
