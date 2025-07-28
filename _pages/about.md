@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <style>
   body {
     font-family: 'Inter', sans-serif;
@@ -17,7 +16,7 @@ redirect_from:
   }
 
   .about-container {
-    max-width: 900px;
+    max-width: 1000px; /* Increased max-width for wider cards */
     margin: 0 auto;
     padding: 20px;
   }
@@ -33,7 +32,7 @@ redirect_from:
   .intro, .focus-areas, .contact {
     background: #ffffff;
     border-radius: 8px;
-    padding: 16px;
+    padding: 20px; /* Slightly increased padding for better spacing */
     margin-bottom: 1.2rem;
     border-left: 4px solid #3b82f6;
     box-shadow: 0 2px 10px rgba(0,0,0,0.05);
@@ -76,7 +75,7 @@ redirect_from:
   .research-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
+    gap: 1.5rem; /* Increased gap for better spacing in wider layout */
   }
 
   .research-grid ul {
@@ -141,6 +140,11 @@ redirect_from:
 
     .research-grid {
       grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .about-container {
+      padding: 15px;
     }
   }
 </style>
