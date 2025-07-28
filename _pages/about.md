@@ -8,21 +8,99 @@ redirect_from:
   - /about.html
 ---
 
+
+<style>
+  .news-wrapper {
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .news-card {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin: 12px 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+    transition: transform 0.2s ease;
+  }
+
+  .news-card:hover {
+    transform: scale(1.015);
+  }
+
+  .news-date {
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 13px;
+    display: inline-block;
+    margin-bottom: 6px;
+  }
+
+  .news-link {
+    color: #0077cc;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .news-link:hover {
+    text-decoration: underline;
+  }
+
+  .news-desc {
+    color: #333;
+    margin-top: 4px;
+    font-size: 15px;
+  }
+
+  /* Color coding by year */
+  .year-2025 {
+    border-left: 5px solid #0077cc;
+  }
+
+  .year-2025 .news-date {
+    background: #e0f0ff;
+    color: #005799;
+  }
+
+  .year-2024 {
+    border-left: 5px solid #28a745;
+  }
+
+  .year-2024 .news-date {
+    background: #e6f4ea;
+    color: #1b7e35;
+  }
+
+  .year-2023 {
+    border-left: 5px solid #ff9800;
+  }
+
+  .year-2023 .news-date {
+    background: #fff4e0;
+    color: #d27b00;
+  }
+
+</style>
+
 <span style="color:black; font-family:Georgia">Greetings!!!</span>
 
 <p style="text-align:justify; color:black; font-family:Georgia"> 
   I am <strong>Fatema Tuj Johora Faria</strong>, currently working as a <strong>Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
 </p>
 
-
-<div style="max-width:700px; margin:auto; background-color:#ffffff; border-left:4px solid #007acc; border-radius:8px; padding:16px 20px; font-family:Georgia, serif; color:black; box-shadow:0 2px 6px rgba(0, 0, 0, 0.1); text-align:justify;">
-  In my role, I focus on delivering high-impact work through the following key areas:
-  <br><br>
-  <b style="color:#1e40af;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.<br><br>
-  <b style="color:#1e40af;">(2)</b> <span style="color:green;">Leadership in Project Execution:</span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.<br><br>
-  <b style="color:#1e40af;">(3)</b> <span style="color:green;">Mentorship:</span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
+<div class="news-wrapper" style="font-family: 'Segoe UI', sans-serif;">
+  <div class="news-card" style="background:#ffffff; border-radius:10px; padding:16px 20px; margin:12px 0; box-shadow:0 4px 10px rgba(0,0,0,0.06);">
+    <p style="text-align:justify; color:black; margin:0;">
+      In my role, I focus on delivering high-impact work through the following key areas:
+      <br>
+      <b style="color:#1e40af;">(1)</b> <span style="color:green;">Proof of Concepts (PoCs):</span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
+      <br>
+      <b style="color:#1e40af;">(2)</b> <span style="color:green;">Leadership in Project Execution:</span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
+      <br>
+      <b style="color:#1e40af;">(3)</b> <span style="color:green;">Mentorship:</span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
+    </p>
+  </div>
 </div>
-
 
 <style>
   .research-interests {
@@ -113,91 +191,18 @@ redirect_from:
 </div>
 
 
-<div style="max-width:600px; margin:auto; background-color:#ffffff; border-left:4px solid #007acc; border-radius:8px; padding:16px 20px; font-family:Georgia, serif; color:black; box-shadow:0 2px 6px rgba(0, 0, 0, 0.1); text-align:justify;">
-  I am open to collaborative opportunities that align with my research goals and passions. 
-  <em>
-    If you have any inquiries or wish to discuss potential collaborations, please feel free to reach out. You can contact me via email at 
-    <b>Personal:</b> <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a> or 
-    <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.
-  </em>
+<div class="news-wrapper" style="font-family: 'Segoe UI', sans-serif;">
+  <div class="news-card" style="background:#ffffff; border-radius:10px; padding:16px 20px; margin:12px 0; box-shadow:0 4px 10px rgba(0,0,0,0.06); text-align:justify;">
+    I am open to collaborative opportunities that align with my research goals and passions. 
+    <em>
+      If you have any inquiries or wish to discuss potential collaborations, please feel free to reach out. You can contact me via email at 
+      <b>Personal:</b> <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a> or 
+      <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.
+    </em>
+  </div>
 </div>
 
-
 ## ⚡ Recent Highlights
-
-<style>
-  .news-wrapper {
-    font-family: 'Segoe UI', sans-serif;
-  }
-
-  .news-card {
-    background: #ffffff;
-    border-radius: 10px;
-    padding: 16px 20px;
-    margin: 12px 0;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.06);
-    transition: transform 0.2s ease;
-  }
-
-  .news-card:hover {
-    transform: scale(1.015);
-  }
-
-  .news-date {
-    font-weight: 600;
-    padding: 3px 10px;
-    border-radius: 4px;
-    font-size: 13px;
-    display: inline-block;
-    margin-bottom: 6px;
-  }
-
-  .news-link {
-    color: #0077cc;
-    font-weight: 600;
-    text-decoration: none;
-  }
-
-  .news-link:hover {
-    text-decoration: underline;
-  }
-
-  .news-desc {
-    color: #333;
-    margin-top: 4px;
-    font-size: 15px;
-  }
-
-  /* Color coding by year */
-  .year-2025 {
-    border-left: 5px solid #0077cc;
-  }
-
-  .year-2025 .news-date {
-    background: #e0f0ff;
-    color: #005799;
-  }
-
-  .year-2024 {
-    border-left: 5px solid #28a745;
-  }
-
-  .year-2024 .news-date {
-    background: #e6f4ea;
-    color: #1b7e35;
-  }
-
-  .year-2023 {
-    border-left: 5px solid #ff9800;
-  }
-
-  .year-2023 .news-date {
-    background: #fff4e0;
-    color: #d27b00;
-  }
-
-</style>
-
 <div class="news-wrapper">
 
 <!-- 2025 -->
