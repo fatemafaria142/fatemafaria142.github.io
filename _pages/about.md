@@ -117,7 +117,7 @@ redirect_from:
         ">
         Proof of Concepts (PoCs):
       </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
-      <br><br>
+      <br>
       <b style="color:#1e40af;">(2)</b> 
       <span style="
         background-color: #e6f4ea; 
@@ -128,7 +128,7 @@ redirect_from:
         ">
         Leadership in Project Execution:
       </span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
-      <br><br>
+      <br>
       <b style="color:#1e40af;">(3)</b> 
       <span style="
         background-color: #e6f4ea; 
