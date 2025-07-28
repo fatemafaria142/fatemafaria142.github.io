@@ -179,20 +179,65 @@ redirect_from:
     <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.</em>
 </p>
 
-## Recent News ⚡
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2025]</span> -  Promoted to Senior Application Developer at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/).
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2025]</span> -  One paper got published in MDPI Mathematics 2025, 13(14), 2322 ([Mathematics](https://www.mdpi.com/journal/mathematics)).
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2025]</span> -  One paper got published in International Journal of Information Management Data Insights
-Volume 5, Issue 2, December 2025, 100347 ([IJIM Data Insights](https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights)).
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2025]</span> -  One paper got published in Proceedings of International Conference on Information Technology and Applications ([ICITA 2024](https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32)).
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[February 2025]</span> -  One paper got published in MDPI Electronics, 2025, 14(4), 799 ([Electronics](https://www.mdpi.com/journal/electronics)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2024]</span> -  One paper got published in MDPI Mathematics 2024, Volume 12, Issue 23 ([Mathematics](https://www.mdpi.com/journal/mathematics)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2024]</span> - Attended the 18th International Conference on Information Technology and Applications, Sydney, Australia ([ICITA 2024](https://icita.world/?__im-rgVYHazg=104405410931315538#/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2024]</span> - Attended the 4th International Conference on Computing and Communication Networks, Manchester, United Kingdom ([ICCCNet-2024](https://icccn.co.uk/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September 2024]</span> - Attended the IEEE Region 10 Symposium at Netaji Subhas University of Technology (NSUT), New Delhi ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August 2024]</span> -  One paper got accepted at 18th International Conference on Information Technology and Applications ([ICITA 2024](https://www.icita.world/#/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2024]</span> -  One paper got accepted at The IEEE Region 10 Symposium ([TENSYMP2024](https://ieeedelhi-tensymp2024.org/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2024]</span> - Started working as a Remote Research Assistant under a Funded Project of the National Research Foundation of Korea, contributing to multiple research efforts</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Two paper got accepted at 4th International Conference on Computing and Communication Networks ([ICCCNet 2024](https://icccn.co.uk/)). 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> -  Joined as an Application Developer at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/)
 
+## ⚡ Recent News
+
+<div style="font-family:Segoe UI, sans-serif; font-size:15px; line-height:1.6;">
+
+<div style="background:#f5f5f5; border-left:4px solid #ff8800; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#7a4f01;">[July 2025]</strong> Promoted to <strong>Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#003366;">[July 2025]</strong> Paper published in <a href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 13(14), 2322.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#003366;">[June 2025]</strong> Paper published in <a href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">IJIM Data Insights</a>, Vol 5, Issue 2.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#003366;">[June 2025]</strong> Paper published in <a href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings</a>.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#003366;">[February 2025]</strong> Paper published in <a href="https://www.mdpi.com/journal/electronics" target="_blank">MDPI Electronics</a>, Vol 14(4), 799.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #3366cc; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#003366;">[November 2024]</strong> Paper published in <a href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 12, Issue 23.
+</div>
+
+<div style="background:#f5f5f5; border-left:4px solid #00b894; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#00695c;">[October 2024]</strong> Attended <a href="https://icita.world/" target="_blank">ICITA 2024</a>, Sydney, Australia.
+</div>
+
+<div style="background:#f5f5f5; border-left:4px solid #00b894; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#00695c;">[October 2024]</strong> Attended <a href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>, Manchester, UK.
+</div>
+
+<div style="background:#f5f5f5; border-left:4px solid #00b894; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#00695c;">[September 2024]</strong> Attended <a href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>, New Delhi.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #6c5ce7; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#341f97;">[August 2024]</strong> Paper accepted at <a href="https://www.icita.world/#/" target="_blank">ICITA 2024</a>.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #6c5ce7; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#341f97;">[June 2024]</strong> Paper accepted at <a href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #6c5ce7; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#341f97;">[June 2024]</strong> Started as Remote Research Assistant under NRF Korea Funded Project.
+</div>
+
+<div style="background:#f9f9f9; border-left:4px solid #6c5ce7; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#341f97;">[May 2024]</strong> Two papers accepted at <a href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>.
+</div>
+
+<div style="background:#f5f5f5; border-left:4px solid #ff8800; padding:10px 16px; margin-bottom:10px; border-radius:6px;">
+  <strong style="color:#7a4f01;">[May 2024]</strong> Joined as Application Developer at <a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
+</div>
+
+</div>
