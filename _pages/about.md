@@ -117,19 +117,19 @@ redirect_from:
       <br><br>
       <b style="color:#1e40af;">(1)</b> 
       <span style="
-        background-color: #e6f4ea;  /* light green background fill */
+        background-color: #d4edda;  /* light green background fill */
         padding: 0 8px 0 12px;      /* left padding a bit larger for border effect */
-        color: green;
+        color: #155724;
         display: inline-block;
         ">
         Proof of Concepts (PoCs):
-    </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation, while ensuring alignment with the long-term product vision.
+      </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation, while ensuring alignment with the long-term product vision.
       <br>
       <b style="color:#1e40af;">(2)</b> 
       <span style="
-        background-color: #e6f4ea; 
+        background-color: #fff3cd;  /* light orange background fill */
         padding: 0 8px 0 12px; 
-        color: green;
+        color: #856404;
         display: inline-block;
         ">
         Leadership in Project Execution:
@@ -137,9 +137,9 @@ redirect_from:
       <br>
       <b style="color:#1e40af;">(3)</b> 
       <span style="
-        background-color: #e6f4ea; 
+        background-color: #e2d6f3;  /* light purple background fill */
         padding: 0 8px 0 12px; 
-        color: green;
+        color: #5a3e8b;
         display: inline-block;
         ">
         Mentorship:
@@ -147,7 +147,6 @@ redirect_from:
     </p>
   </div>
 </div>
-
 
 <style>
   .research-interests {
