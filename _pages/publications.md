@@ -449,7 +449,7 @@ author_profile: true
         </div>
       </li>
     </ul>
-    <div id="Vashantor2023_bib" class="bib" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
+    <div id="Vashantor2023_bib" class="bib" style="display: none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
       <pre>
 @misc{faria2023vashantorlargescalemultilingualbenchmark,
   title={Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language},
@@ -462,7 +462,7 @@ author_profile: true
 }
       </pre>
     </div>
-    <div id="Vashantor2023_abstract" class="abstract" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
+    <div id="Vashantor2023_abstract" class="abstract" style="display: none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
       <p style="text-align: justify;">
         Bangla, a low-resource language, exhibits rich linguistic diversity with multiple regional dialects, posing challenges for automated translation systems. This study introduces Vashantor, a large-scale multilingual benchmark dataset for translating Bangla regional dialects to standard Bangla. The dataset comprises 12,000 sentence pairs across five major dialects: Chittagonian, Sylheti, Barisal, Noakhali, and Dhaka. We evaluate state-of-the-art models, including Transformer-based architectures like mBART and NLLB, and large language models like GPT-3.5 Turbo. Our results show that NLLB achieves the highest BLEU score of 32.45, while GPT-3.5 Turbo excels in contextual accuracy with a 78.23% translation quality score in few-shot settings. The dataset addresses the scarcity of resources for Bangla dialect translation, enabling robust model training and evaluation. This work facilitates advancements in multilingual NLP for low-resource languages.
       </p>
@@ -487,7 +487,7 @@ author_profile: true
         </div>
       </li>
     </ul>
-    <div id="Potato2023_bib" class="bib" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
+    <div id="Potato2023_bib" class="bib" style="display: none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
       <pre>
 @INPROCEEDINGS{10099215,
   author={Faria, Fatema Tuj Johora and Moin, Mukaffi Bin and Al Wase, Ahmed and Sani, Md Rabius and Hasib, Khan Md and Alam, Mohammad Shafiul},
@@ -501,10 +501,11 @@ author_profile: true
 }
       </pre>
     </div>
-    <div id="Potato2023_abstract" class="abstract" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
+    <div id="Potato2023_abstract" class="abstract" style="display: none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
       <p style="text-align: justify;">
         Potato diseases significantly impact agricultural yields, necessitating accurate and timely identification for effective crop management. This study proposes a hybrid deep learning framework for potato disease classification using digital image processing techniques. We utilize a dataset of 5,000 potato leaf images, annotated for diseases such as late blight, early blight, and bacterial wilt. The framework combines convolutional neural networks (CNNs) like ResNet50 and VGG16 with image preprocessing techniques, including histogram equalization and edge detection. Our hybrid model achieves a classification accuracy of 89.34%, outperforming traditional machine learning methods by 7.21%. The study also incorporates data augmentation to enhance model robustness, addressing challenges like varying lighting conditions and image quality. This work provides a scalable solution for automated potato disease detection, supporting farmers in low-resource settings.
       </p>
     </div>
   </div>
 </div>
+
