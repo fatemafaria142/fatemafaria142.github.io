@@ -29,7 +29,7 @@ author_profile: true
   .news-card:hover {
     transform: scale(1.015);
   }
-
+  
   .news-date {
     font-weight: 600;
     padding: 3px 10px;
@@ -37,7 +37,6 @@ author_profile: true
     font-size: 13px;
     display: inline-block;
     margin-bottom: 6px;
-    font-family: Monaco, monospace;
   }
 
   .news-link {

@@ -96,12 +96,20 @@ redirect_from:
 /* Optional: You can define more themes like .info-2025 if needed */
 
 </style>
+<span style="color:black; font-family:'Segoe UI', sans-serif; font-weight:bold;">Greetings!!!</span>
 
-<span style="color:black; font-family:Georgia; font-weight:bold;">Greetings!!!</span>
-
-<p style="text-align:justify; color:black; font-family:Georgia;"> 
-  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a <strong style="color:#1e40af;">Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. My expertise lies in designing and developing generative AI based applications with a strong focus on <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
+<p style="text-align:justify; color:black; font-family:'Segoe UI', sans-serif;"> 
+  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a 
+  <strong style="color:#1e40af;">Senior Application Developer</strong> at 
+  <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. 
+  My expertise lies in designing and developing generative AI based applications with a strong focus on 
+  <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, 
+  Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> 
+  for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. 
+  I also specialize in designing user-friendly interfaces that simplify AI interactions and provide 
+  an intuitive experience for users.
 </p>
+
 <div class="info-wrapper">
   <div class="info-card">
     <p style="text-align:justify; color:black; margin:0;">
