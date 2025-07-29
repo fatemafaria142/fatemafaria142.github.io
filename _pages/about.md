@@ -123,7 +123,7 @@ redirect_from:
         display: inline-block;
         ">
         Proof of Concepts (PoCs):
-      </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation.
+    </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation, while ensuring alignment with the long-term product vision.
       <br>
       <b style="color:#1e40af;">(2)</b> 
       <span style="
