@@ -26,7 +26,7 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e3a8a; font-size: 1.1em; font-weight: bold;">MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts</span>
+      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -69,7 +69,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #ef4444; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #fee2e2; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #7f1d1d; font-size: 1.1em; font-weight: bold;">SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language</span>
+      <span style="color: #7f1d1d; font-size: 1em; font-weight: bold;">SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -115,7 +115,7 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="background-color: white; border-left: 5px solid #8b5cf6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #ede9fe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #4c1d95; font-size: 1.1em; font-weight: bold;">Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis</span>
+      <span style="color: #4c1d95; font-size: 1em; font-weight: bold;">Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -156,7 +156,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #e6f4ea; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #065f46; font-size: 1.1em; font-weight: bold;">Motamot: A Dataset for Revealing the Supremacy of Large Language Models Over Transformer Models in Bengali Political Sentiment Analysis</span>
+      <span style="color: #065f46; font-size: 1em; font-weight: bold;">Motamot: A Dataset for Revealing the Supremacy of Large Language Models Over Transformer Models in Bengali Political Sentiment Analysis</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -196,7 +196,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e3a8a; font-size: 1.1em; font-weight: bold;">BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language</span>
+      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -213,7 +213,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #ef4444; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #fee2e2; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #7f1d1d; font-size: 1.1em; font-weight: bold;">BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes</span>
+      <span style="color: #7f1d1d; font-size: 1em; font-weight: bold;">BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -227,7 +227,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #8b5cf6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #ede9fe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #4c1d95; font-size: 1.1em; font-weight: bold;">Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learning, RAG, and Fine-Tuning Techniques</span>
+      <span style="color: #4c1d95; font-size: 1em; font-weight: bold;">Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learning, RAG, and Fine-Tuning Techniques</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -241,7 +241,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #e6f4ea; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #065f46; font-size: 1.1em; font-weight: bold;">Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language</span>
+      <span style="color: #065f46; font-size: 1em; font-weight: bold;">Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -279,7 +279,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e3a8a; font-size: 1.1em; font-weight: bold;">PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification</span>
+      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -316,7 +316,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #ef4444; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #fee2e2; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #7f1d1d; font-size: 1.1em; font-weight: bold;">Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images</span>
+      <span style="color: #7f1d1d; font-size: 1em; font-weight: bold;">Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -354,7 +354,7 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="background-color: white; border-left: 5px solid #8b5cf6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #ede9fe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #4c1d95; font-size: 1.1em; font-weight: bold;">Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study</span>
+      <span style="color: #4c1d95; font-size: 1em; font-weight: bold;">Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -391,7 +391,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #e6f4ea; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #065f46; font-size: 1.1em; font-weight: bold;">Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification</span>
+      <span style="color: #065f46; font-size: 1em; font-weight: bold;">Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -432,7 +432,7 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e3a8a; font-size: 1.1em; font-weight: bold;">Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language</span>
+      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -470,7 +470,7 @@ author_profile: true
 
   <div style="background-color: white; border-left: 5px solid #ef4444; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #fee2e2; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #7f1d1d; font-size: 1.1em; font-weight: bold;">Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework</span>
+      <span style="color: #7f1d1d; font-size: 1em; font-weight: bold;">Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
