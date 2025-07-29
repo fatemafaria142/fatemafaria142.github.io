@@ -425,7 +425,7 @@ author_profile: true
       </p>
     </div>
   </div>
-</div>
+
 
 ## 2025
 ---------
