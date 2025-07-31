@@ -429,9 +429,8 @@ author_profile: true
 
 <h2>2023</h2>
 <hr>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
-    <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
       <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language</span>
     </div>
@@ -508,3 +507,4 @@ author_profile: true
     </div>
   </div>
 </div>
+
