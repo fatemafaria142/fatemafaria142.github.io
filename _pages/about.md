@@ -133,9 +133,9 @@ redirect_from:
         color: #856404;
         display: inline-block;
         ">
-        Leadership in Project Execution:
-      </span> I lead the architecture of generative AI systems for production-grade deployment, utilizing <span style="color:grey; font-weight:bold;">Azure OpenAI</span> for LLM integration, <span style="color:grey; font-weight:bold;">Azure SQL</span> for robust data management, <span style="color:grey; font-weight:bold;">Azure Blob Storage</span> for scalable asset handling, and <span style="font-weight:bold;">AlloyDB</span> for high-performance vector search to enable retrieval tasks. I design modular, domain-adapted AI pipelines optimized for low-latency inference and integrate <span style="color:grey; font-weight:bold;">Azure Web App</span> for efficient and scalable deployment. My approach emphasizes real-world readiness by significantly reducing operational overhead and ensuring cost-effective system performance.
-      <br>
+      Leadership in Project Execution:
+</span> I lead the architecture of generative AI systems for production-grade deployment, utilizing <span style="color:#3d3d3d; font-weight:bold;">Azure OpenAI</span> for LLM integration, <span style="color:#3d3d3d; font-weight:bold;">Azure SQL</span> for robust data management, <span style="color:#3d3d3d; font-weight:bold;">Azure Blob Storage</span> for scalable asset handling, and <span style="font-weight:bold; color:#3d3d3d;"> AlloyDB</span> for high-performance vector search. I design modular, domain-specific AI pipelines optimized for low-latency inference and deploy them efficiently via <span style="color:#3d3d3d; font-weight:bold;">Azure Web App</span>, focusing on reducing operational overhead and ensuring cost-effective, real-world performance.
+<br>
       <b style="color:#1e40af;">(3)</b> 
       <span style="
         background-color: #e2d6f3;  /* light purple background fill */
