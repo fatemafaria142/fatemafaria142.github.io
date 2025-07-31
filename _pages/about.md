@@ -104,7 +104,7 @@ redirect_from:
   <strong style="color:#1e40af;">Senior Application Developer</strong> at 
   <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. 
   My expertise lies in designing and developing generative AI based applications with a strong focus on 
-  <em>Large Language Models (LLMs)</em>, <em>Vision Language Models (VLMs)</em>, 
+  <em>Large Language Models (LLMs)</em>, <em>Large Multimodal Models (LMMs)</em>, 
   Retrieval Augmented Generation (RAG), as well as <em>LLM Agents and their Multi Agent Architectures</em> 
   for automating complex tasks and supporting <em>data-driven insights and effective decision support</em>. 
   I also specialize in designing user-friendly interfaces that simplify AI interactions and provide 
@@ -134,7 +134,7 @@ redirect_from:
         display: inline-block;
         ">
         Leadership in Project Execution:
-      </span> I lead the architecture of intelligent systems, drive the development of scalable AI pipelines tailored to domain-specific needs, and ensure optimized inference performance with cost efficiency in mind.
+      </span> I lead the architecture of generative AI systems for production-grade deployment, utilizing <span style="color:grey; font-weight:bold;">Azure OpenAI</span> for LLM integration, <span style="color:grey; font-weight:bold;">Azure SQL</span> for robust data management, <span style="color:grey; font-weight:bold;">Azure Blob Storage</span> for scalable asset handling, and <span style="font-weight:bold;">AlloyDB</span> for high-performance vector search to enable retrieval tasks. I design modular, domain-adapted AI pipelines optimized for low-latency inference and integrate <span style="color:grey; font-weight:bold;">Azure Web App</span> for efficient and scalable deployment. My approach emphasizes real-world readiness by significantly reducing operational overhead and ensuring cost-effective system performance.
       <br>
       <b style="color:#1e40af;">(3)</b> 
       <span style="
