@@ -21,8 +21,9 @@ author_profile: true
   </div>
 </div>
 
-<h2>2025</h2>
-<hr>
+<h2 style="color: #1e40af; font-family: 'Segoe UI', sans-serif; font-weight: bold; border-bottom: 2px solid #1e40af; display: inline-block; padding-bottom: 4px;">
+  2025
+</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
@@ -111,7 +112,7 @@ author_profile: true
 </div>
 
 <h2>2024</h2>
-<hr>
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="background-color: white; border-left: 5px solid #8b5cf6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #ede9fe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
@@ -428,7 +429,7 @@ author_profile: true
 </div>
 
 <h2>2023</h2>
-<hr>
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
