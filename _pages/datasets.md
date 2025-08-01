@@ -15,7 +15,7 @@ author_profile: true
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #3b82f6; font-size: 0.9em;">■</span>
         The <b style="color: #389EDA">Motamot</b> dataset (মতামত in Bengali, meaning "Opinion" in English) consists of 7,058 data points focused on political sentiment analysis in the Bengali language. Compiled from a range of online newspapers covering political events and conversations during Bangladeshi elections, it includes 4,132 positive and 2,926 negative sentiment-labeled instances. The data was sourced from reputable news outlets, ensuring a diverse and representative sample of political discourse in Bangladesh, providing valuable insights into the opinions shaping the country's political landscape.
-        <a href="https://data.mendeley.com/datasets/hdhnrrwdz2/1" style="background-color: #3b82f6; color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block;">Dataset</a>
+        <a href="https://data.mendeley.com/datasets/hdhnrrwdz2/1" style="background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block; transition: background 0.3s ease;">Dataset</a>
       </li>
     </ul>
   </div>
@@ -28,7 +28,7 @@ author_profile: true
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #ef4444; font-size: 0.9em;">■</span>
         The <b style="color: #389EDA">BanglaCalamityMMD</b> dataset is a comprehensive multimodal resource designed to address the significant gap in disaster identification within Bangla language text. Comprising a total of 7,903 instances spanning eight distinct categories: Landslides, Wildfire, Tropical Storm, Drought, Flood, Earthquake, Human Damage, and Non-Disaster—the dataset is meticulously divided into three subsets: 6,323 instances for training, 790 instances for testing, and 790 instances for validation. This structured division ensures that models can be trained effectively, tested rigorously, and validated accurately, thereby enhancing the overall reliability and applicability of disaster identification systems in Bangla.
-        <a href="https://data.mendeley.com/datasets/7dggbjn5sd/1" style="background-color: #ef4444; color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block;">Dataset</a>
+        <a href="https://data.mendeley.com/datasets/7dggbjn5sd/1" style="background: linear-gradient(to right, #ef4444, #f87171); color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block; transition: background 0.3s ease;">Dataset</a>
       </li>
     </ul>
   </div>
@@ -41,7 +41,7 @@ author_profile: true
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #8b5cf6; font-size: 0.9em;">■</span>
         The <b style="color: #389EDA">MultiBanFakeDetect</b> dataset consists of a total of 9,600 text-image instances from online forums, news websites, and social media. Covering political, social, Technology, and entertainment themes, the dataset offers balanced real and fake instances. It includes a balanced set of real and fake news examples, with 7,680 instances for training, 960 for testing, and 960 for validation. The dataset covers different types of fake news—misinformation, rumors, and clickbait—as well as non-fake news, ensuring a comprehensive representation of various types of content. The dataset is also categorized into 12 topics, including entertainment, sports, politics, and more, with equal distribution across all categories for balanced evaluation.
-        <a href="https://data.mendeley.com/datasets/k5pbz9795f/1" style="background-color: #8b5cf6; color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block;">Dataset</a>
+        <a href="https://data.mendeley.com/datasets/k5pbz9795f/1" style="background: linear-gradient(to right, #8b5cf6, #a78bfa); color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block; transition: background 0.3s ease;">Dataset</a>
       </li>
     </ul>
   </div>
@@ -54,7 +54,7 @@ author_profile: true
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
         The <b style="color: #389EDA">Uddessho</b> dataset, meaning "Intent" in English, is designed for multimodal author intent classification. It contains 3048 post instances categorized into six intent types: Informative, Advocative, Promotive, Exhibitionist, Expressive, and Controversial. The dataset is divided into a training set with 2423 posts, a testing set with 313 posts, and a validation set with 312 posts, totaling 3048 posts.
-        <a href="https://data.mendeley.com/datasets/mzxmt8tfjs/1" style="background-color: #10b981; color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block;">Dataset</a>
+        <a href="https://data.mendeley.com/datasets/mzxmt8tfjs/1" style="background: linear-gradient(to right, #10b981, #34d399); color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block; transition: background 0.3s ease;">Dataset</a>
       </li>
     </ul>
   </div>
@@ -67,8 +67,15 @@ author_profile: true
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #f59e0b; font-size: 0.9em;">■</span>
         The <b style="color: #389EDA">Vashantor</b> dataset comprises 32,500 sentences from five regions in Bangladesh (Chittagong, Noakhali, Sylhet, Barishal, and Mymensingh) across two language formats: Bangla and Banglish (a mix of Bangla and English written in the English alphabet). The name "Vashantor" (ভাষান্তর), meaning "Translation," reflects its focus on Bangla and translations involving the language. Data was curated from websites, social media, and discussion boards to capture natural, real-world dialogues. Each region and language having 2,500 samples distributed across training, testing, and validation sets. Additionally, the dataset includes a core set with 2,500 samples each for Bangla, Banglish, and English.
-        <a href="https://data.mendeley.com/datasets/bj5jgk878b/2" style="background-color: #f59e0b; color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block;">Dataset</a>
+        <a href="https://data.mendeley.com/datasets/bj5jgk878b/2" style="background: linear-gradient(to right, #f59e0b, #fb923c); color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-family: 'Segoe UI', sans-serif; margin-left: 8px; display: inline-block; transition: background 0.3s ease;">Dataset</a>
       </li>
     </ul>
   </div>
 </div>
+
+<style>
+  .paper a:hover {
+    text-decoration: underline;
+    background: linear-gradient(to right, #1e3a8a, #3b82f6);
+  }
+</style>

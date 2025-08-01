@@ -6,13 +6,20 @@ author_profile: true
 ---
 
 <span style="font-family: 'Segoe UI', sans-serif; color: black;">
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; margin-bottom: 30px;">
-    <p style="text-align:justify; color:black; font-family:Georgia;">
-      My research centers on advancing a broad range of areas, including Large Language Models (LLMs), LLM Agents, Large Multimodal Models (LMMs), NLP for Social Good, NLP for Low-Resource Languages, AI in Healthcare, Vision-Language Models (VLMs), Trustworthy AI, Multimodal Agents, Large Vision Models (LVMs), and Computer Vision. I am deeply involved in both the theoretical exploration and practical application of these technologies across diverse real-world domains. Below are some of the research areas I have worked on or am currently exploring.
-    </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="
+      background-color: white; 
+      border-left: 5px solid #3b82f6; 
+      border-radius: 10px; 
+      padding: 25px; 
+      margin-bottom: 30px;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);">
+      <p style="text-align: justify; color: black; font-family: Georgia;">
+        My research centers on advancing a broad range of areas, including Large Language Models (LLMs), LLM Agents, Large Multimodal Models (LMMs), NLP for Social Good, NLP for Low-Resource Languages, AI in Healthcare, Vision-Language Models (VLMs), Trustworthy AI, Multimodal Agents, Large Vision Models (LVMs), and Computer Vision. I am deeply involved in both the theoretical exploration and practical application of these technologies across diverse real-world domains. Below are some of the research areas I have worked on or am currently exploring.
+      </p>
+    </div>
   </div>
-</div>
+</span>
 
 <div class="card-container" style="display: flex; flex-direction: column; gap: 20px;">
   <div class="card" style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
