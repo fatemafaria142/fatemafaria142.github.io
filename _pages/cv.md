@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div style="
   background-color: white;
-  border-left: 5px solid #389EDA;
+  border-left: 5px solid #2563eb;
   border-radius: 10px;
   padding: 25px;
   width: 100%;
@@ -21,10 +21,10 @@ redirect_from:
   box-sizing: border-box;
 ">
   You can download a PDF copy of my 
-  <a href="../files/CV/CV_of_Fatema_Tuj_Johora_Faria.pdf" 
-     style="color: #2563eb; text-decoration: none; font-weight: 600;">
-    CV
-  </a> here.
+<a href="../files/CV/CV_of_Fatema_Tuj_Johora_Faria.pdf" 
+   style="color: #389EDA; text-decoration: none;">
+  CV
+</a>
 </div>
 
 <iframe src="/files/CV/CV_of_Fatema_Tuj_Johora_Faria.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
