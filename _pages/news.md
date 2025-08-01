@@ -91,6 +91,11 @@ author_profile: true
 
 <div class="news-card y2025">
   <div class="news-date">July 2025</div>
+  <div class="news-desc">Reviewed six journal papers on social media analysis and AI in healthcare, gaining deeper insights into research quality, emerging trends, and best practices.</div>
+</div>
+
+<div class="news-card y2025">
+  <div class="news-date">July 2025</div>
   <div class="news-desc">Promoted to <strong>Senior Application Developer</strong> at <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.</div>
 </div>
 
@@ -101,7 +106,7 @@ author_profile: true
 
 <div class="news-card y2025">
   <div class="news-date">June 2025</div>
-  <div class="news-desc">One paper published in <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">IJIM Data Insights</a>.</div>
+  <div class="news-desc">One paper published in <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">International Journal of Information Management Data Insights</a>.</div>
 </div>
 
 <div class="news-card y2025">
