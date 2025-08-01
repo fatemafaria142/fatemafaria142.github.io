@@ -14,7 +14,7 @@ title: ""
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
   <div style="background-color: white; border-left: 5px solid #2563eb; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models</span>
+      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">1. Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -24,17 +24,17 @@ title: ""
   </div>
   <div style="background-color: white; border-left: 5px solid #2563eb; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">Analyzing Diagnostic Reasoning of Vision-Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering</span>
+      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">2. Analyzing Diagnostic Reasoning of Vision-Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span> Investigated research supported by the National Institute of Health (NIH) research project in South Korea (Project No. 2024ER080300), and also by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under Grant <b><span style="background-color: #e6f4ea; padding: 0 8px 0 12px; color: #2563eb; display: inline;">NRF-2022R1A2C1005316</span></b>.
+        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span>3. Investigated research supported by the National Institute of Health (NIH) research project in South Korea (Project No. 2024ER080300), and also by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under Grant <b><span style="background-color: #e6f4ea; padding: 0 8px 0 12px; color: #2563eb; display: inline;">NRF-2022R1A2C1005316</span></b>.
       </li>
     </ul>
   </div>
   <div style="background-color: white; border-left: 5px solid #2563eb; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis</span>
+      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">4. Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
