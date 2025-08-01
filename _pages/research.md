@@ -135,12 +135,6 @@ author_profile: true
     transform: scale(1.05);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
   }
-  body {
-    font-family: 'Segoe UI', sans-serif;
-    margin: 0;
-    padding: 20px;
-    background-color: #f4f4f9;
-  }
   .intro {
     text-align: justify;
     margin-bottom: 30px;
