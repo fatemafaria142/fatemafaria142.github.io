@@ -19,8 +19,6 @@ author_profile: true
       </p>
     </div>
   </div>
-</span>
-
 <div class="card-container" style="display: flex; flex-direction: column; gap: 20px;">
   <div class="card" style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h2 style="margin-top: 0; color: #1e3a8a;">1. Sentiment Analysis and Hate Speech Detection in Social Media</h2>
