@@ -28,7 +28,7 @@ title: ""
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span>3. Investigated research supported by the National Institute of Health (NIH) research project in South Korea (Project No. 2024ER080300), and also by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under Grant <b><span style="background-color: #e6f4ea; padding: 0 8px 0 12px; color: #2563eb; display: inline;">NRF-2022R1A2C1005316</span></b>.
+        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span>Investigated research supported by the National Institute of Health (NIH) research project in South Korea (Project No. 2024ER080300), and also by the Basic Science Research Program through the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under Grant <b><span style="background-color: #e6f4ea; padding: 0 8px 0 12px; color: #2563eb; display: inline;">NRF-2022R1A2C1005316</span></b>.
       </li>
     </ul>
   </div>
