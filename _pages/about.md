@@ -118,6 +118,7 @@ redirect_from:
         padding: 0 8px 0 12px;      /* left padding a bit larger for border effect */
         color: #155724;
         display: inline-block;
+        font-weight:bold;
         ">
         Proof of Concepts (PoCs):
       </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation, while ensuring alignment with the long-term product vision.
@@ -128,6 +129,7 @@ redirect_from:
         padding: 0 8px 0 12px; 
         color: #856404;
         display: inline-block;
+        font-weight:bold;
         ">
       Leadership in Project Execution:
 </span> I lead the architecture of generative AI systems for production-grade deployment, utilizing <span style="color:#3d3d3d; font-weight:bold;">Azure OpenAI</span> for LLM integration, <span style="color:#3d3d3d; font-weight:bold;">Azure SQL</span> for robust data management, <span style="color:#3d3d3d; font-weight:bold;">Azure Blob Storage</span> for scalable asset handling, and <span style="font-weight:bold; color:#3d3d3d;"> AlloyDB</span> for high-performance vector search. I design modular, domain-specific AI pipelines optimized for low-latency inference and deploy them efficiently via <span style="color:#3d3d3d; font-weight:bold;">Azure Web App</span>, focusing on reducing operational overhead and ensuring cost-effective, real-world performance.
@@ -138,6 +140,7 @@ redirect_from:
         padding: 0 8px 0 12px; 
         color: #5a3e8b;
         display: inline-block;
+        font-weight:bold;
         ">
         Mentorship:
       </span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
