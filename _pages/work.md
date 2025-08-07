@@ -18,7 +18,7 @@ title: ""
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span> Currently working on this research project.
+        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span> The research was initiated with support from the National Research Foundation of Korea (Grant No. NRF-2022R1A2C1005316), funded by the Ministry of Science and ICT.
       </li>
     </ul>
   </div>
@@ -91,6 +91,10 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
+        Optimized RAG search accuracy by 96%, automating document content extraction and minimizing human effort.
+      </li>
+      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
         <b><span style="background-color: #fef3c7; padding: 0 8px 0 12px; color: #dc2626; display: inline;">Tech Stack Used:</span></b> Microsoft SharePoint, Python, LlamaIndex, Azure OpenAI, Azure SQL, AlloyDB, React JS, FastAPI
       </li>
     </ul>
@@ -128,7 +132,8 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #4b0082; font-size: 0.9em;">■</span>
-        Reduced search time for organizational hierarchies by 92% through eliminating full Bullhorn database queries.
+        Streamlined organizational hierarchy retrieval for Account Managers by reducing search time by 92%, enabling faster access to relevant data without querying the entire Bullhorn database.
+      </li>
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #4b0082; font-size: 0.9em;">■</span>
@@ -159,7 +164,7 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-        Reduced manual review time by 75% via automated extraction and predictive insights for Proposal Managers.
+        Reduced manual review time by 75%, increased proposal accuracy, and improved decision-making speed through automated extraction and predictive insights, empowering Proposal Managers to focus on strategic bid development.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
@@ -192,6 +197,10 @@ title: ""
         <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
         Designed an admin panel for authorized users to download and edit the knowledge base of case studies.
       </li>
+       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
+        Significantly accelerated demo preparation by reducing slide development time by nearly 90%, enabling Sales Representatives to prioritize client interactions and drive deal closures.
+     </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
         <b><span style="background-color: #fef3c7; padding: 0 8px 0 12px; color: #b45309; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI, React JS, FastAPI
@@ -240,7 +249,7 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #7e22ce; font-size: 0.9em;">■</span>
-        Minimized analysis time by 80% by helping technical recruiters gain insights and optimized hiring strategies.
+        Created interactive graphical charts and dashboards that minimized analysis time by 80%, facilitating Technical Recruiters to quickly interpret data insights and make timely, data-driven hiring decisions.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #7e22ce; font-size: 0.9em;">■</span>
