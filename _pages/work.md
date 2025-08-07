@@ -18,7 +18,7 @@ title: ""
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span> The research was initiated with support from the National Research Foundation of Korea (Grant No. NRF-2022R1A2C1005316), funded by the Ministry of Science and ICT.
+        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span> The research was initiated with support from the National Research Foundation of Korea <b><span style="background-color: #e6f4ea; padding: 0 8px 0 12px; color: #2563eb; display: inline;">(Grant No. NRF-2022R1A2C1005316)</span></b>, funded by the Ministry of Science and ICT.
       </li>
     </ul>
   </div>
@@ -133,7 +133,6 @@ title: ""
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #4b0082; font-size: 0.9em;">■</span>
         Streamlined organizational hierarchy retrieval for Account Managers by reducing search time by 92%, enabling faster access to relevant data without querying the entire Bullhorn database.
-      </li>
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #4b0082; font-size: 0.9em;">■</span>
