@@ -319,4 +319,9 @@ redirect_from:
 
 </div>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=3fzStEwZikHkPYfOiN-DYAYIjjubNusYaXK6bqtbWsw'></script>
+<p align="center">
+  <a href="https://clustrmaps.com/site/1c38a" title="ClustrMaps" target="_blank">
+    <img src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=3fzStEwZikHkPYfOiN-DYAYIjjubNusYaXK6bqtbWsw" width="200" height="100" alt="Visitor Map" />
+  </a>
+</p>
+
