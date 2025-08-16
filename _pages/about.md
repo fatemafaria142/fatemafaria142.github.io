@@ -317,10 +317,6 @@ redirect_from:
   </div>
 </div>
 
-<!-- Example for 2023
-<div class="news-card year-2023">
-  <div class="news-date">December 2023</div>
-  <div class="news-desc">Example older event — add your 2023 news here if needed.</div>
-</div> -->
-
 </div>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=3fzStEwZikHkPYfOiN-DYAYIjjubNusYaXK6bqtbWsw'></script>
