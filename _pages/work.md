@@ -62,16 +62,20 @@ title: ""
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
   <div style="background-color: white; border-left: 5px solid #dc2626; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div style="background-color: #fee2e2; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #7f1d1d; font-size: 1em; font-weight: bold;">Conversational Agent Platform: ShareFlow Agent (Ongoing)</span>
+      <span style="color: #7f1d1d; font-size: 1em; font-weight: bold;">Conversational Agent Platform for Financial Document Assistance: ShareFlow Agent</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
-        Developed a custom SharePoint-integrated ReAct Agentic RAG system that enables users to create their own tools by providing the agent name, instructions, description, and uploaded files.
+        Developed and deployed a Microsoft SharePoint-integrated ReAct Agentic RAG system that enables users to create personalized agents for retrieving information from recruiting processes and internal financial document repositories.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
-        Implemented session-based chat functionality ensuring each user's conversations with individual agents are kept separate, with full history retention for context-aware interactions.
+        Built a Multimodal OCR Agent with custom tools to process and extract information from a wide variety of unstructured, scanned documents, with the capability to autonomously select the appropriate tool and use a fallback mechanism.
+      </li>
+      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
+       Implemented session-based chat functionality with long-term memory management, ensuring each user's conversations with individual agents are kept separate, with full history retention for context-aware interactions.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
@@ -83,7 +87,7 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
-        Designed a sharing functionality that allows users to share their agents with others for collaborative use.
+        Designed a sharing functionality that allows users to share their agents either publicly with all app users or privately with a specific group of people for collaborative use.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
