@@ -205,7 +205,7 @@ redirect_from:
   }
 </style>
 
-## My Primary Research Interests Include: 📚
+## My Primary Research Interests Include: 
 <div class="research-grid">
     <ul>
       <li><em>Large Language Models (LLMs)</em></li>
