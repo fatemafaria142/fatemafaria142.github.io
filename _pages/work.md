@@ -99,7 +99,7 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
-        <b><span style="background-color: #fef3c7; padding: 0 8px 0 12px; color: #dc2626; display: inline;">Tech Stack Used:</span></b> Microsoft SharePoint, Python, LlamaIndex, Azure OpenAI, Azure SQL, AlloyDB, React JS, FastAPI
+        <b><span style="background-color: #fef3c7; padding: 0 8px 0 12px; color: #dc2626; display: inline;">Tech Stack Used:</span></b> Microsoft SharePoint, Python, LlamaIndex, Azure OpenAI, Azure SQL, Azure Functions, AlloyDB, React JS, FastAPI
       </li>
     </ul>
   </div>
