@@ -258,8 +258,11 @@ redirect_from:
 
 <div class="news-card year-2025">
   <div class="news-date">July 2025</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol 13(14), 2322.</div>
+  <div class="news-desc">
+    Our research work titled <strong>"Analyzing Diagnostic Reasoning of Vision–Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering"</strong> has been published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol. 13, Issue 14, Article 2322.
+  </div>
 </div>
+
 
 <div class="news-card year-2025">
   <div class="news-date">June 2025</div>
