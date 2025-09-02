@@ -259,14 +259,16 @@ redirect_from:
 <div class="news-card year-2025">
   <div class="news-date">July 2025</div>
   <div class="news-desc">
-    Our research work titled <strong>"Analyzing Diagnostic Reasoning of Vision–Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering"</strong> has been published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a>, Vol. 13, Issue 14, Article 2322.
+    Our research work titled <strong>"Analyzing Diagnostic Reasoning of Vision–Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering"</strong> has been published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank"> Mathematics (MDPI)</a>, Vol. 13, Issue 14, Article 2322.
   </div>
 </div>
 
 
 <div class="news-card year-2025">
   <div class="news-date">June 2025</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">IJIM Data Insights</a>, Vol 5, Issue 2.</div>
+  <div class="news-desc">
+    One of our research works, <strong>MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts</strong>, has been published in the <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">International Journal of Information Management Data Insights</a>, Vol. 5, Issue 2.
+  </div>
 </div>
 
 <div class="news-card year-2025">
@@ -276,7 +278,9 @@ redirect_from:
 
 <div class="news-card year-2025">
   <div class="news-date">February 2025</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://www.mdpi.com/journal/electronics" target="_blank">MDPI Electronics</a>, Vol 14(4), 799.</div>
+  <div class="news-desc">
+    One of our studies, <strong>"SentimentFormer: A Transformer-Based Multimodal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language"</strong>, has been published in <a class="news-link" href="https://www.mdpi.com/journal/electronics" target="_blank">Electronics (MDPI)</a>, Vol. 14(4), 799.
+  </div>
 </div>
 
 <!-- 2024 -->
