@@ -243,6 +243,13 @@ redirect_from:
 
 <!-- 2025 -->
 <div class="news-card year-2025">
+  <div class="news-date">September 2025</div>
+    <div class="news-desc">
+    Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a>.
+  </div>
+</div>
+
+<div class="news-card year-2025">
   <div class="news-date">July 2025</div>
   <div class="news-desc">Promoted to <strong>Senior Application Developer</strong> at 
     <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
