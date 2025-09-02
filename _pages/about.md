@@ -320,7 +320,9 @@ redirect_from:
 
 <div class="news-card year-2024">
   <div class="news-date">June 2024</div>
-  <div class="news-desc">Started as Remote Research Assistant under NRF Korea Funded Project.</div>
+  <div class="news-desc">
+    Started working as a <strong>Remote Research Assistant</strong> under the funded projects by the National Research Foundation of Korea and the National Institute of Health, South Korea.
+  </div>
 </div>
 
 <div class="news-card year-2024">
