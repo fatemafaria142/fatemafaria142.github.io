@@ -273,7 +273,9 @@ redirect_from:
 
 <div class="news-card year-2025">
   <div class="news-date">June 2025</div>
-  <div class="news-desc">Paper published in <a class="news-link" href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings</a>.</div>
+  <div class="news-desc">
+    Our conference paper, <strong>"Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language"</strong>, has been published in the <a class="news-link" href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings</a>.
+  </div>
 </div>
 
 <div class="news-card year-2025">
