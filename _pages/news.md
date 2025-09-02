@@ -88,6 +88,12 @@ author_profile: true
 
 <!-- 2025 -->
 <div class="year-header" style="color:#7f5af0;">2025</div>
+<div class="news-card y2025">
+  <div class="news-date">September 2025</div>
+  <div class="news-desc">
+    Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a>.
+  </div>
+</div>
 
 <div class="news-card y2025">
   <div class="news-date">July 2025</div>
