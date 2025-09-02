@@ -267,7 +267,7 @@ redirect_from:
 <div class="news-card year-2025">
   <div class="news-date">June 2025</div>
   <div class="news-desc">
-    One of our research works, <strong>MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts</strong>, has been published in the <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">International Journal of Information Management Data Insights</a>, Vol. 5, Issue 2.
+    One of our research works, <strong>"MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts"</strong>, has been published in the <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">International Journal of Information Management Data Insights</a>, Vol. 5, Issue 2.
   </div>
 </div>
 
