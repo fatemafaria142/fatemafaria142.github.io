@@ -142,7 +142,9 @@ author_profile: true
 
 <div class="news-card y2024">
   <div class="news-date">November 2024</div>
-  <div class="news-desc">One paper published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">MDPI Mathematics</a> <span style="color:red;">[Q1 Journal]</span>.</div>
+  <div class="news-desc">
+    One of our papers, <strong>"Investigating the Predominance of Large Language Models in Low-Resource Bangla Language over Transformer Models for Hate Speech Detection: A Comparative Analysis"</strong>, has been published in <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a>, Vol 12, Issue 23, Article 3687 <span style="color:red;">[Q1 Journal]</span>.
+  </div>
 </div>
 
 <div class="news-card y2024">
