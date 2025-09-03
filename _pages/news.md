@@ -229,7 +229,8 @@ author_profile: true
 
 <div class="news-card y2023">
   <div class="news-date">November 2023</div>
-  <div class="news-desc">Defended thesis on "GANs for Crop Disease Detection."</div>
+  <div class="news-desc">Defended thesis on <strong>"Generative Adversarial Networks for Crop Disease: A Case Study with Potato Disease Classification
+and Instance Segmentation"</strong>.</div>
 </div>
 
 <div class="news-card y2023">
@@ -264,7 +265,17 @@ author_profile: true
 
 <div class="news-card y2023">
   <div class="news-date">February 2023</div>
-  <div class="news-desc">Paper accepted at IEEE <a class="news-link" href="https://ieee-ccwc.org/" target="_blank">CCWC 2023</a>.</div>
-</div>
-
+  <div class="news-desc">
+    Our research paper, 
+    <strong>
+      "Classification of Potato Disease with Digital Image Processing Technique: 
+      A Hybrid Deep Learning Framework"
+    </strong>, 
+    has been accepted at the 
+    <a class="news-link" href="https://ieee-ccwc.org/" target="_blank">
+      IEEE Annual Computing and Communication Workshop and Conference (CCWC) 
+      (CCWC 2023)
+    </a>
+    <span style="color:red;">[IEEE]</span>.
+  </div>
 </div>
