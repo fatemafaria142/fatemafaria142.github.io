@@ -177,7 +177,7 @@ author_profile: true
     Our research article, <strong>"Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language"</strong>, has been accepted for presentation at the 
     <a class="news-link" href="https://2024.icita.world/#/" target="_blank">
       18th International Conference on Information Technology and Applications (ICITA 2024)
-    </a><span style="color:red;">[IEEE]</span>.
+    </a><span style="color:red;">[Springer]</span>.
   </div>
 </div>
 
