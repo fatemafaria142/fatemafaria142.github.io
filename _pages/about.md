@@ -310,12 +310,24 @@ redirect_from:
 
 <div class="news-card year-2024">
   <div class="news-date">August 2024</div>
-  <div class="news-desc">Paper accepted at <a class="news-link" href="https://www.icita.world/#/" target="_blank">ICITA 2024</a>.</div>
+  <div class="news-desc">
+    Our research article, <strong>"Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language"</strong>, has been accepted for presentation at the 
+    <a class="news-link" href="https://2024.icita.world/#/" target="_blank">
+      18th International Conference on Information Technology and Applications (ICITA 2024)
+    </a>.
+  </div>
 </div>
 
 <div class="news-card year-2024">
   <div class="news-date">June 2024</div>
-  <div class="news-desc">Paper accepted at <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">IEEE TENSYMP 2024</a>.</div>
+  <div class="news-desc">
+    One of our research works, 
+    <strong>"Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis"</strong>, 
+    has been accepted at the 
+    <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">
+      The IEEE Region 10 Symposium (TENSYMP 2024)
+    </a>.
+  </div>
 </div>
 
 <div class="news-card year-2024">
@@ -327,7 +339,16 @@ redirect_from:
 
 <div class="news-card year-2024">
   <div class="news-date">May 2024</div>
-  <div class="news-desc">Two papers accepted at <a class="news-link" href="https://icccn.co.uk/" target="_blank">ICCCNet 2024</a>.</div>
+  <div class="news-desc">
+    Two of our papers, 
+    <strong>"Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study"</strong> 
+    and 
+    <strong>"Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification"</strong>, 
+    have been accepted at the 
+    <a class="news-link" href="https://icccn.co.uk/" target="_blank">
+      4th International Conference on Computing and Communication Networks (ICCCNet-2024)
+    </a>.
+  </div>
 </div>
 
 <div class="news-card year-2024">
