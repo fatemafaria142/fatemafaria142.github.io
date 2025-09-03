@@ -270,8 +270,7 @@ and Instance Segmentation"</strong>.</div>
     <strong>
       "Classification of Potato Disease with Digital Image Processing Technique: 
       A Hybrid Deep Learning Framework"
-    </strong>, 
-    has been accepted at the 
+    </strong>, has been accepted at the 
     <a class="news-link" href="https://ieee-ccwc.org/" target="_blank">
       IEEE Annual Computing and Communication Workshop and Conference (CCWC) 
       (CCWC 2023)
