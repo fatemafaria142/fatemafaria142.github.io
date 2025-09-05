@@ -95,6 +95,10 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
+        Achieved approximately 63% cost reduction by streamlining custom agent usage, enabling 80 Sales Managers to handle 50+ daily interactions while replacing the existing SharePoint Agent.
+      </li>
+      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
         Optimized RAG search accuracy by 96%, automating document content extraction and minimizing human effort.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">

@@ -272,8 +272,7 @@ and Instance Segmentation"</strong>.</div>
       A Hybrid Deep Learning Framework"
     </strong>, has been accepted at the 
     <a class="news-link" href="https://ieee-ccwc.org/" target="_blank">
-      IEEE Annual Computing and Communication Workshop and Conference (CCWC) 
-      (CCWC 2023)
+      IEEE Annual Computing and Communication Workshop and Conference (CCWC 2023)
     </a>
     <span style="color:red;">[IEEE]</span>.
   </div>
