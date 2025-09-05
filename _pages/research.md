@@ -65,7 +65,7 @@ author_profile: true
       <span style="color: #f59e0b; font-weight: bold;">3.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">MindSpeak-Bangla: A Domain-Specific Dataset for Automatic Chain-of-Thought Adaptation in Mental Health Support for Low-Resource Bengali Language Settings</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Khan Hasib, Md. Jakir Hossen, Dr. M. F. Mridha</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Submitted to IEEE Open Journal of the Computer Society (Q1)</em></p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Under Review in IEEE Open Journal of the Computer Society (Q1)</em></p>
     </div>
   </div>
 
@@ -133,7 +133,7 @@ author_profile: true
       <span style="color: #10b981; font-weight: bold;">6.5 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, Faisal Muhammad Shah</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Submitted to 2025 9th International Conference on Vision, Image and Signal Processing (ICVISP 2025)</em></p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Under Review in 2025 9th International Conference on Vision, Image and Signal Processing (ICVISP 2025)</em></p>
     </div>
   </div>
 
@@ -146,7 +146,7 @@ author_profile: true
       <span style="color: #f59e0b; font-weight: bold;">7.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learning, RAG, and Fine-Tuning Techniques</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> Saidur Rahman Sujon, Ahmadul Karim Chowdhury, <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Faisal Muhammad Shah</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Submitted to 2025 28th International Conference on Computer and Information Technology (ICCIT)</em></p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Under Review in 2025 28th International Conference on Computer and Information Technology (ICCIT 2025)</em></p>
     </div>
   </div>
 
