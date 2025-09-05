@@ -42,16 +42,17 @@ author_profile: true
   </div>
 
 
-  <div class="card" style="background-color: white; border-left: 5px solid #f59e0b; border-radius: 10px; padding: 25px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div class="card" style="background-color: white; border-left: 5px solid #f60591ff; border-radius: 10px; padding: 25px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h2 style="margin-top: 0; color: #1e3a8a;">2. Vision–Language Models for Medical Visual Question Answering</h2>
     <p style="text-align: justify; color: black; font-family: 'Segoe UI', serif;;">
       Medical Visual Question Answering (MedVQA) lies at the intersection of computer vision, natural language processing, and clinical decision-making, aiming to generate accurate responses from medical images paired with complex inquiries. Traditional approaches in MedVQA often rely on supervised learning with limited annotated datasets, making them prone to overfitting and limiting their generalization across diverse medical cases. Zero-shot learning offers a way to bypass large-scale annotation, but it frequently struggles with complex reasoning, producing direct answers without revealing the underlying logic. This lack of transparency is particularly concerning in medical applications, where understanding the reasoning behind a diagnosis is as crucial as the answer itself. To overcome these challenges, a chain-of-thought prompting framework is employed to guide vision–language models to perform stepwise reasoning. By decomposing the problem, analyzing both visual and textual information sequentially, and generating an explicit reasoning path, this approach enhances interpretability, trustworthiness, and the clinical relevance of model predictions.
     </p>
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
-      <span style="color: #f59e0b; font-weight: bold;">2.1 </span>
+      <span style="color: #f60591ff; font-weight: bold;">2.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Analyzing Diagnostic Reasoning of Vision–Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Laith H. Baniata, Ahyoung Choi, Sangwoo Kang</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in MDPI Mathematics (Q1)</em></p>
+      <a href="https://www.mdpi.com/2227-7390/13/14/2322" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
     </div>
   </div>
 
@@ -64,17 +65,17 @@ author_profile: true
       <span style="color: #f59e0b; font-weight: bold;">3.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">MindSpeak-Bangla: A Domain-Specific Dataset for Automatic Chain-of-Thought Adaptation in Mental Health Support for Low-Resource Bengali Language Settings</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Khan Hasib, Md. Jakir Hossen, Dr. M. F. Mridha</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Submitted to IEEE Open Journal of the Computer Society</em></p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Submitted to IEEE Open Journal of the Computer Society (Q1)</em></p>
     </div>
   </div>
 
-  <div class="card" style="background-color: white; border-left: 5px solid #f59e0b; border-radius: 10px; padding: 25px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div class="card" style="background-color: white; border-left: 5px solid #ff0000ff; border-radius: 10px; padding: 25px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h2 style="margin-top: 0; color: #1e3a8a;">4. Large Multimodal Models for Remote Sensing Imaging</h2>
     <p style="text-align: justify; color: black; font-family: 'Segoe UI', serif;;">
       Remote Sensing Visual Question Answering (RSVQA) extends the capabilities of traditional computer vision and natural language processing by enabling models to answer complex, natural-language questions about geospatial data. It plays a critical role in applications such as environmental monitoring, urban planning, disaster response, and resource management, where accurate interpretation of spatial and contextual information is essential. Traditional approaches and zero-shot learning methods often fall short in RSVQA because they tend to generate direct answers without explicitly reasoning over spatial relationships, contextual cues, or multi-step dependencies in satellite imagery, which can result in incorrect or superficial responses for complex queries that require layered understanding. To overcome these limitations, chain-of-thought prompting guides large multimodal models to reason step by step, breaking down problems into interpretable intermediate steps that reflect spatial and contextual analysis. Integrating self-consistency with chain-of-thought prompting further enhances reliability by generating multiple reasoning paths and selecting the most consistent answer, reducing errors from individual reasoning chains and improving model robustness, interpretability, and confidence in geospatial decision-making. Using proprietary large multimodal models such as GPT‑4o, Grok 3, Gemini 2.5 Pro, and Claude 3.7 Sonnet, RSVQA can advance beyond simple answer prediction toward more explainable and trustworthy analysis of Earth observation data.
     </p>
       <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
-      <span style="color: #f59e0b; font-weight: bold;">4.1 </span>
+      <span style="color: #ff0000ff; font-weight: bold;">4.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Laith H. Baniata, Ahyoung Choi, Sangwoo Kang</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Under Review in MDPI Mathematics (Q1)</em></p>
