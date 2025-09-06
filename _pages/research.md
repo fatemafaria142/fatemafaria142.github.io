@@ -30,14 +30,14 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy, Mohammad Shafiul Alam</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Published in The IEEE Region 10 Symposium (TENSYMP 2024)</em></p>
-      <a href="https://ieeexplore.ieee.org/document/10752197/" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/10752197/" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
       <span style="color: #3b82f6; font-weight: bold;">1.2 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Laith H. Baniata, Sangwoo Kang</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in MDPI Mathematics (Q1)</em></p>
-      <a href="https://www.mdpi.com/2227-7390/12/23/3687" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://www.mdpi.com/2227-7390/12/23/3687" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 
@@ -52,7 +52,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Analyzing Diagnostic Reasoning of Vision–Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Laith H. Baniata, Ahyoung Choi, Sangwoo Kang</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in MDPI Mathematics (Q1)</em></p>
-      <a href="https://www.mdpi.com/2227-7390/13/14/2322" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://www.mdpi.com/2227-7390/13/14/2322" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 
@@ -92,7 +92,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, Faisal Muhammad Shah</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Presented at the 4th International Conference on Computing and Communication Networks (ICCCNet-2024)</em></p>
-      <a href="https://arxiv.org/pdf/2405.02937" style="display: inline-block; background: linear-gradient(to right, #8b5cf6, #a78bfa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://arxiv.org/pdf/2405.02937" style="display: inline-block; background: linear-gradient(to right, #8b5cf6, #a78bfa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 
@@ -107,21 +107,21 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Niful Islam, Khan Md Hasib, M. F. Mridha</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in International Journal of Information Management Data Insights (Q1)</em></p>
-      <a href="https://www.sciencedirect.com/science/article/pii/S2667096825000291?via%3Dihub" style="display: inline-block; background: linear-gradient(to right, #10b981, #34d399); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S2667096825000291?via%3Dihub" style="display: inline-block; background: linear-gradient(to right, #10b981, #34d399); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
       <span style="color: #10b981; font-weight: bold;">6.2 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">SentimentFormer: A Transformer-Based Multi-Modal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Laith H. Baniata, Mohammad H. Baniata, Mohannad A. Khair, Ahmed Ibrahim Bani Ata, Chayut Bunterngchit, Sangwoo Kang</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in MDPI Electronics (Q2)</em></p>
-      <a href="https://www.mdpi.com/2079-9292/14/4/799" style="display: inline-block; background: linear-gradient(to right, #10b981, #34d399); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://www.mdpi.com/2079-9292/14/4/799" style="display: inline-block; background: linear-gradient(to right, #10b981, #34d399); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
       <span style="color: #10b981; font-weight: bold;">6.3 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Md Morshed Alam Shanto, Asif Iftekher Fahim, Md. Moinul Hoque</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Published in 18th International Conference on Information Technology and Applications (ICITA 2024)</em></p>
-      <a href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" style="display: inline-block; background: linear-gradient(to right, #10b981, #34d399); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" style="display: inline-block; background: linear-gradient(to right, #10b981, #34d399); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
       <span style="color: #10b981; font-weight: bold;">6.4 </span>
@@ -160,14 +160,14 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Pronay Debnath, Asif Iftekher Fahim, Faisal Muhammad Shah</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Under Review in Journal of Visual Communication and Image Representation (Q1)</em></p>
-      <a href="https://arxiv.org/pdf/2405.07338" style="display: inline-block; background: linear-gradient(to right, #ef4444, #f87171); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://arxiv.org/pdf/2405.07338" style="display: inline-block; background: linear-gradient(to right, #ef4444, #f87171); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
       <span style="color: #ef4444; font-weight: bold;">8.2 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> Mukaffi Bin Moin, <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Swarnajit Saha, Busra Kamal Rafa, Mohammad Shafiul Alam</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Presented at the 4th International Conference on Computing and Communication Networks (ICCCNet-2024)</em></p>
-      <a href="https://arxiv.org/pdf/2405.04610" style="display: inline-block; background: linear-gradient(to right, #ef4444, #f87171); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://arxiv.org/pdf/2405.04610" style="display: inline-block; background: linear-gradient(to right, #ef4444, #f87171); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 
@@ -181,7 +181,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Ahmed Al Wase, Mehidi Ahmmed, Md Rabius Sani, Tashreef Muhammad</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Under Review in Array (Q1)</em></p>
-      <a href="https://arxiv.org/pdf/2311.11142" style="display: inline-block; background: linear-gradient(to right, #9333ea, #a855f7); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://arxiv.org/pdf/2311.11142" style="display: inline-block; background: linear-gradient(to right, #9333ea, #a855f7); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
       <span style="color: #9333ea; font-weight: bold;">9.2 </span>
@@ -212,7 +212,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Mohammad Shafiul Alam, Ahmed Al Wase, Md. Rabius Sani, Khan Md Hasib</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Under Review in 11th IEEE International Conference on Sustainable Technology and Engineering</em></p>
-      <a href="https://arxiv.org/pdf/2405.07332" style="display: inline-block; background: linear-gradient(to right, #f97316, #fb923c); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://arxiv.org/pdf/2405.07332" style="display: inline-block; background: linear-gradient(to right, #f97316, #fb923c); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 
@@ -226,7 +226,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Ahmed Al Wase, Md Rabius Sani, Khan Md Hasib, Mohammad Shafiul Alam</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)</em></p>
-      <a href="https://ieeexplore.ieee.org/document/10099162" style="display: inline-block; background: linear-gradient(to right, #22c55e, #4ade80); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/10099162" style="display: inline-block; background: linear-gradient(to right, #22c55e, #4ade80); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 </div>
