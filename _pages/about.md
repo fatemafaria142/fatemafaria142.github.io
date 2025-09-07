@@ -245,14 +245,14 @@ redirect_from:
 <div class="news-card year-2025">
   <div class="news-date">September 2025</div>
     <div class="news-desc">
-    Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a>.
+    Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction.</a>
   </div>
 </div>
 
 <div class="news-card year-2025">
   <div class="news-date">July 2025</div>
   <div class="news-desc">Promoted to <strong>Senior Application Developer</strong> at 
-    <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
+    <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited.</a>
   </div>
 </div>
 
@@ -274,7 +274,7 @@ redirect_from:
 <div class="news-card year-2025">
   <div class="news-date">June 2025</div>
   <div class="news-desc">
-    Our conference paper, <strong>"Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language"</strong>, has been published in the <a class="news-link" href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings</a>.
+    Our conference paper, <strong>"Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language"</strong>, has been published in the <a class="news-link" href="https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32" target="_blank">ICITA 2024 Proceedings.</a>
   </div>
 </div>
 
@@ -313,8 +313,8 @@ redirect_from:
   <div class="news-desc">
     Our research article, <strong>"Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language"</strong>, has been accepted for presentation at the 
     <a class="news-link" href="https://2024.icita.world/#/" target="_blank">
-      18th International Conference on Information Technology and Applications (ICITA 2024)
-    </a>.
+      18th International Conference on Information Technology and Applications (ICITA 2024).
+    </a>
   </div>
 </div>
 
@@ -325,8 +325,8 @@ redirect_from:
     <strong>"Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis"</strong>, 
     has been accepted at the 
     <a class="news-link" href="https://ieeedelhi-tensymp2024.org/" target="_blank">
-      The IEEE Region 10 Symposium (TENSYMP 2024)
-    </a>.
+      The IEEE Region 10 Symposium (TENSYMP 2024).
+    </a>
   </div>
 </div>
 
@@ -346,15 +346,15 @@ redirect_from:
     <strong>"Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification"</strong>, 
     have been accepted at the 
     <a class="news-link" href="https://icccn.co.uk/" target="_blank">
-      4th International Conference on Computing and Communication Networks (ICCCNet-2024)
-    </a>.
+      4th International Conference on Computing and Communication Networks (ICCCNet-2024).
+    </a>
   </div>
 </div>
 
 <div class="news-card year-2024">
   <div class="news-date">May 2024</div>
   <div class="news-desc">Joined as Application Developer at 
-    <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>.
+    <a class="news-link" href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited.</a>
   </div>
 </div>
 
