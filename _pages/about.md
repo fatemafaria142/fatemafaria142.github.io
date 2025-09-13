@@ -204,7 +204,7 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
   }
 </style>
 
-<h2 style="color: black;">My Primary Research Interests Include:</h2>
+## My Primary Research Interests Include: 
 <div class="research-grid">
     <ul>
       <li><em>Large Language Models (LLMs)</em></li>
@@ -221,8 +221,7 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
       <li><em>Multimodal Agents</em></li>
       <li><em>Computer Vision</em></li>
     </ul>
-</div>
-
+  </div>
 
 <div class="info-wrapper">
   <div class="info-card">
