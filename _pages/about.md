@@ -97,10 +97,8 @@ redirect_from:
 /* Optional: You can define more themes like .info-2025 if needed */
 
 </style>
-<span style="color:black; font-family:'Segoe UI', sans-serif; font-weight:bold;">Greetings!!!</span>
-
 <p style="text-align:justify; color:black; font-family:'Segoe UI', sans-serif;"> 
-  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a 
+  Hi!!! This is <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a 
   <strong style="color:#1e40af;">Senior Application Developer</strong> at 
   <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. 
 My expertise lies in designing, developing, and deploying generative AI-based applications with a strong focus on Large Language Models (LLMs), Large Multimodal Models (LMMs), Retrieval-Augmented Generation (RAG), as well as LLM agents and their multi-agent architectures for automating complex tasks and supporting data-driven insights. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
