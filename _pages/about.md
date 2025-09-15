@@ -107,7 +107,7 @@ redirect_from:
 <div class="info-wrapper">
   <div class="info-card">
     <p style="text-align:justify; color:black; margin:0;">
-      In my role, I focus on delivering high-impact work through the following key areas:
+      In my capacity, I focus on delivering high-impact work through the following key areas:
       <br><br>
       <b style="color:#1e40af;">(1)</b> 
       <span style="
