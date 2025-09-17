@@ -87,7 +87,9 @@ author_profile: true
 <div class="news-wrapper">
 
 <!-- 2025 -->
+
 <div class="year-header" style="color:#7f5af0;">2025</div>
+
 <div class="news-card y2025">
   <div class="news-date">September 2025</div>
   <div class="news-desc">
@@ -95,7 +97,6 @@ author_profile: true
   </div>
 </div>
 
-<div class="year-header" style="color:#7f5af0;">2025</div>
 <div class="news-card y2025">
   <div class="news-date">September 2025</div>
   <div class="news-desc">
