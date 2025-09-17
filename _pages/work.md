@@ -18,8 +18,10 @@ title: ""
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span> The research was initiated with support from the National Research Foundation of Korea <b><span style="background-color: #e6f4ea; padding: 0 8px 0 12px; color: #2563eb; display: inline;">(Grant No. NRF-2022R1A2C1005316)</span></b>, funded by the Ministry of Science and ICT.
-      </li>
+  <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span>
+  Led the research, supported by the National Research Foundation of Korea 
+  <b><span style="background-color: #e6f4ea; padding: 0 8px 0 12px; color: #2563eb; display: inline;">
+  (Grant No. NRF-2022R1A2C1005316) </span></b>, funded by the Ministry of Science and ICT.</li>
     </ul>
   </div>
   <div style="background-color: white; border-left: 5px solid #2563eb; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
