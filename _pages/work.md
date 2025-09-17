@@ -71,7 +71,7 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
-        Built a Multimodal OCR Agent with custom tools to process and extract information from a wide variety of unstructured, scanned documents, with the capability to autonomously select the appropriate tool and use a fallback mechanism.
+        Built a Multimodal OCR Agent with custom tools to process and extract information from a wide variety of unstructured, scanned documents, equipped with guardrails to autonomously select the appropriate tool and a fallback mechanism for enhanced reliability.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
@@ -87,7 +87,7 @@ title: ""
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
-        Designed a sharing functionality that allows users to share their agents either publicly with all app users or privately with a specific group of people for collaborative use.
+        Designed a sharing functionality that allows users to share their agents either publicly with all app users or privately with a specific group for collaborative use, with integrated email notifications to keep users informed.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
