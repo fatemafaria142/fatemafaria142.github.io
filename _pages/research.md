@@ -65,7 +65,7 @@ author_profile: true
       <span style="color: #f59e0b; font-weight: bold;">3.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">MindSpeak-Bangla: A Domain-Specific Dataset for Automatic Chain-of-Thought Adaptation in Mental Health Support for Low-Resource Bengali Language Settings</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Khan Hasib, Md. Jakir Hossen, Dr. M. F. Mridha</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Under Review in IEEE Open Journal of the Computer Society (Q1)</em></p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Under Review in WIREs Data Mining and Knowledge Discovery (Q1)</em></p>
     </div>
   </div>
 
