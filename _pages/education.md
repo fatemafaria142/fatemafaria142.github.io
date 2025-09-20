@@ -20,7 +20,7 @@ author_profile: true
 <b>Supervisor:</b> 
 <a href="https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam" style="color: #389EDA; text-decoration: none;">Dr. Mohammad Shafiul Alam</a>, Professor, Department of CSE, AUST<br>
 <b>Co-supervisor:</b> 
-<a href="https://cse.bubt.edu.bd/facultydetails/87/" style="color: #389EDA; text-decoration: none;">Khan Md. Hasib</a>, Assistant Professor, Department of CSE, BUBT
+<a href="https://cse.bubt.edu.bd/facultydetails/87/" style="color: #389EDA; text-decoration: none;">Khan Md Hasib</a>, Assistant Professor, Department of CSE, BUBT
       </li>
     </ul>
   </div>
