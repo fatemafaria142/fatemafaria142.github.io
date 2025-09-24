@@ -157,7 +157,7 @@ author_profile: true
         <li>The <b>Motamot</b> dataset (মতামত in Bengali, meaning "Opinion" in English) consists of 7,058 data points focused on political sentiment analysis in the Bengali language. Compiled from a range of online newspapers covering political events and conversations during Bangladeshi elections, it includes 4,132 positive and 2,926 negative sentiment-labeled instances. The data was sourced from reputable news outlets, ensuring a diverse and representative sample of political discourse in Bangladesh.<br>
         <span class="highlight-text">Contributors:</span> <span class="highlight-name">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Rabeya Islam Mumu, Md Mahabubul Alam Abir, Abrar Nawar Alfy, and Mohammad Shafiul Alam<br>
         <span class="highlight-text">DOI:</span> <a href="https://doi.org/10.17632/hdhnrrwdz2.1" class="doi-link">10.17632/hdhnrrwdz2.1</a><br>
-        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Mumu, Rabeya Islam; Alam, Md Mahabubul; Alfy, Abrar Nawar; Alam, Mohammad Shafiul (2024), “<b>Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis</b>”, Mendeley Data, V1, doi: 10.17632/hdhnrrwdz2.1<br>
+        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Mumu, Rabeya Islam; Alam, Md Mahabubul; Alfy, Abrar Nawar; Alam, Mohammad Shafiul (2024), "<b>Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis</b>", Mendeley Data, V1, doi: 10.17632/hdhnrrwdz2.1<br>
         <a href="https://data.mendeley.com/datasets/hdhnrrwdz2/1" class="dataset-link">See Dataset</a>
         </li>
       </ul>
@@ -171,7 +171,7 @@ author_profile: true
         <li>The <b>BanglaCalamityMMD</b> dataset is a comprehensive multimodal resource designed to address the significant gap in disaster identification within Bangla language text. Comprising a total of 7,903 instances spanning eight distinct categories: Landslides, Wildfire, Tropical Storm, Drought, Flood, Earthquake, Human Damage, and Non-Disaster—the dataset is meticulously divided into three subsets: 6,323 instances for training, 790 instances for testing, and 790 instances for validation.<br>
         <span class="highlight-text">Contributors:</span> <span class="highlight-name">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Busra Kamal Rafa, Swarnajit Saha, Md. Mahfuzur Rahman, Khan Md Hasib, Firoz Mridha<br>
         <span class="highlight-text">DOI:</span> <a href="https://doi.org/10.17632/7dggbjn5sd.1" class="doi-link">10.17632/7dggbjn5sd.1</a><br>
-        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Rafa, Busra Kamal; Saha, Swarnajit; Rahman, Md. Mahfuzur; Hasib, Khan Md; Mridha, Firoz (2024), “<b>BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language</b>”, Mendeley Data, V1, doi: 10.17632/7dggbjn5sd.1<br>
+        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Rafa, Busra Kamal; Saha, Swarnajit; Rahman, Md. Mahfuzur; Hasib, Khan Md; Mridha, Firoz (2024), "<b>BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language</b>", Mendeley Data, V1, doi: 10.17632/7dggbjn5sd.1<br>
         <a href="https://data.mendeley.com/datasets/7dggbjn5sd/1" class="dataset-link">See Dataset</a>
         </li>
       </ul>
@@ -185,7 +185,7 @@ author_profile: true
         <li>The <b>MultiBanFakeDetect</b> dataset consists of a total of 9,600 text-image instances from online forums, news websites, and social media. Covering political, social, technology, and entertainment themes, the dataset offers balanced real and fake instances. It includes 7,680 for training, 960 for testing, and 960 for validation. The dataset covers various fake news types—misinformation, rumors, and clickbait—as well as authentic news, ensuring broad representational diversity.<br>
         <span class="highlight-text">Contributors:</span> <span class="highlight-name">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Zayeed Hasan, Md Arafat Alam Khandaker, Khan Md Hasib, Firoz Mridha<br>
         <span class="highlight-text">DOI:</span> <a href="https://doi.org/10.17632/k5pbz9795f.1" class="doi-link">10.17632/k5pbz9795f.1</a><br>
-        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Hasan, Zayeed; Alam Khandaker, Md Arafat; Hasib, Khan Md (2024), “<b>MultiBanFakeDetect: An Extensive Benchmark Dataset for Multimodal Under-Resource Bangla Fake News Detection</b>”, Mendeley Data, V1, doi: 10.17632/k5pbz9795f.1<br>
+        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Hasan, Zayeed; Alam Khandaker, Md Arafat; Hasib, Khan Md (2024), "<b>MultiBanFakeDetect: An Extensive Benchmark Dataset for Multimodal Under-Resource Bangla Fake News Detection</b>", Mendeley Data, V1, doi: 10.17632/k5pbz9795f.1<br>
         <a href="https://data.mendeley.com/datasets/k5pbz9795f/1" class="dataset-link">See Dataset</a>
         </li>
       </ul>
@@ -199,7 +199,7 @@ author_profile: true
         <li>The <b>Uddessho</b> dataset, meaning "Intent" in English, is designed for multimodal author intent classification. It contains 3,048 post instances categorized into six intent types: Informative, Advocative, Promotive, Exhibitionist, Expressive, and Controversial. The dataset is split into training (2,423), testing (313), and validation (312).<br>
         <span class="highlight-text">Contributors:</span> <span class="highlight-name">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Md Mahfuzur Rahman Mahim, Md Morshed Alam Lipson, Asif Iftekher Fahim, Md. Moinul Hoque<br>
         <span class="highlight-text">DOI:</span> <a href="https://doi.org/10.17632/mzxmt8tfjs.1" class="doi-link">10.17632/mzxmt8tfjs.1</a><br>
-        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Mahim, Md Mahfuzur Rahman; Alam Lipson, Md Morshed; Fahim, Asif Iftekher; Hoque, Md. Moinul (2024), “<b>Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language</b>”, Mendeley Data, V1, doi: 10.17632/mzxmt8tfjs.1<br>
+        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Mahim, Md Mahfuzur Rahman; Alam Lipson, Md Morshed; Fahim, Asif Iftekher; Hoque, Md. Moinul (2024), "<b>Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language</b>", Mendeley Data, V1, doi: 10.17632/mzxmt8tfjs.1<br>
         <a href="https://data.mendeley.com/datasets/mzxmt8tfjs/1" class="dataset-link">See Dataset</a>
         </li>
       </ul>
@@ -213,7 +213,7 @@ author_profile: true
         <li>The <b>Vashantor</b> dataset comprises 32,500 sentences from five regions in Bangladesh (Chittagong, Noakhali, Sylhet, Barishal, and Mymensingh) across two formats: Bangla and Banglish. Data was collected from online forums and curated across three splits: training, testing, and validation. It also includes core samples for Bangla, Banglish, and English to support multilingual translation tasks.<br>
         <span class="highlight-text">Contributors:</span> <span class="highlight-name">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Ahmed Al Wase, Md. Rabius Sani, Mehidi Ahmmed, Tashreef Muhammad<br>
         <span class="highlight-text">DOI:</span> <a href="https://doi.org/10.17632/bj5jgk878b.2" class="doi-link">10.17632/bj5jgk878b.2</a><br>
-        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Al Wase, Ahmed; Sani, Md. Rabius; Ahmmed, Mehidi; Muhammad, Tashreef (2024), “<b>Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language</b>”, Mendeley Data, V2, doi: 10.17632/bj5jgk878b.2<br>
+        <span class="highlight-text">Cite dataset:</span> Faria, Fatema Tuj Johora; Bin Moin, Mukaffi; Al Wase, Ahmed; Sani, Md. Rabius; Ahmmed, Mehidi; Muhammad, Tashreef (2024), "<b>Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language</b>", Mendeley Data, V2, doi: 10.17632/bj5jgk878b.2<br>
         <a href="https://data.mendeley.com/datasets/bj5jgk878b/2" class="dataset-link">See Dataset</a>
         </li>
       </ul>
