@@ -91,10 +91,9 @@ author_profile: true
 <div class="year-header" style="color:#7f5af0;">2025</div>
 
 <div class="news-card y2025">
-  <div class="news-date">September 2025</div>
-  <div class="news-desc">
-   One of my research papers, <strong>"Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models"</strong>, has been accepted for publication in the <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a> <span style="color:red;">[Q1 Journal]</span>.
-  </div>
+<div class="news-date">September 2025</div>
+<div class="news-desc">
+  One of my research papers, <strong>"Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models"</strong>, has been published in the <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a> <span style="color:red;">[Q1 Journal]</span>.
 </div>
 
 <div class="news-card y2025">
