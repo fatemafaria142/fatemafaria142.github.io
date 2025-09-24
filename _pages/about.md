@@ -244,9 +244,6 @@ redirect_from:
   <div class="news-desc">
     One of my research papers, <strong>"Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models"</strong>, has been published in 
     <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a>, Vol. 13, Issue 18, Article 3046.
-    <span style="display:inline-block; margin-left:10px; background-color:#fee2e2; color:#b91c1c; font-weight:bold; padding:3px 8px; border-radius:6px; font-size:13px;">
-      Impact Factor: 2.2 | Q1 Journal
-    </span>
   </div>
 </div>
 
@@ -255,9 +252,6 @@ redirect_from:
   <div class="news-desc">
     Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the 
     <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a>.
-    <span style="display:inline-block; margin-left:10px; background-color:#fee2e2; color:#b91c1c; font-weight:bold; padding:3px 8px; border-radius:6px; font-size:13px;">
-      Impact Factor: 4.5 | Q1 Journal
-    </span>
   </div>
 </div>
 
