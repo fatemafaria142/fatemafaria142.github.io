@@ -92,15 +92,15 @@ author_profile: true
 
 <div class="news-card y2025">
 <div class="news-date">September 2025</div>
+
 <div class="news-desc">
   One of my research papers, <strong>"Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models"</strong>, has been published in the <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a> <span style="color:red;">[Q1 Journal]</span>.
 </div>
 
-<div class="news-card y2025">
-  <div class="news-date">September 2025</div>
   <div class="news-desc">
     Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a> <span style="color:red;">[Q1 Journal]</span>.
   </div>
+  
 </div>
 
 <div class="news-card y2025">
