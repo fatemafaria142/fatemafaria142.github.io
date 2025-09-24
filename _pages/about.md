@@ -239,11 +239,14 @@ redirect_from:
 <div class="news-wrapper">
 
 <!-- 2025 -->
-<div class="news-card year-2025">
-  <div class="news-date">September 2025</div>
-  <div class="news-desc">
+<div class="news-card year-2025" style="border-left: 5px solid #8b5cf6; border-radius: 10px; padding: 20px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background-color: #fff;">
+  <div class="news-date" style="font-weight: bold; color: #6b21a8; margin-bottom: 10px;">September 2025</div>
+  <div class="news-desc" style="font-size: 15px; line-height: 1.6; color: #1f2937;">
     One of my research papers, <strong>"Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models"</strong>, has been published in 
-    <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI).</a>
+    <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank" style="color: #3b82f6; text-decoration: none;">Mathematics (MDPI)</a>, 2025; 13(18):3046.
+    <div style="margin-top: 8px; font-size: 14px; color: #065f46;">
+      <strong>Impact Factor:</strong> 2.2 | <strong>Q1 Journal</strong>
+    </div>
   </div>
 </div>
 
