@@ -239,14 +239,14 @@ redirect_from:
 <div class="news-wrapper">
 
 <!-- 2025 -->
-<div class="news-card year-2025" style="border-left: 5px solid #8b5cf6; border-radius: 10px; padding: 20px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background-color: #fff;">
-  <div class="news-date" style="font-weight: bold; color: #6b21a8; margin-bottom: 10px;">September 2025</div>
-  <div class="news-desc" style="font-size: 15px; line-height: 1.6; color: #1f2937;">
+<div class="news-card year-2025">
+  <div class="news-date">September 2025</div>
+  <div class="news-desc">
     One of my research papers, <strong>"Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models"</strong>, has been published in 
-    <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank" style="color: #3b82f6; text-decoration: none;">Mathematics (MDPI)</a>, 2025; 13(18):3046.
-    <div style="margin-top: 8px; font-size: 14px; color: #065f46;">
-      <strong>Impact Factor:</strong> 2.2 | <strong>Q1 Journal</strong>
-    </div>
+    <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a>, Vol. 13, Issue 18, Article 3046.
+    <span style="display:inline-block; margin-left:10px; background-color:#fee2e2; color:#b91c1c; font-weight:bold; padding:3px 8px; border-radius:6px; font-size:13px;">
+      Impact Factor: 2.2 | Q1 Journal
+    </span>
   </div>
 </div>
 
@@ -254,7 +254,10 @@ redirect_from:
   <div class="news-date">September 2025</div>
   <div class="news-desc">
     Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the 
-    <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction.</a>
+    <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a>.
+    <span style="display:inline-block; margin-left:10px; background-color:#fee2e2; color:#b91c1c; font-weight:bold; padding:3px 8px; border-radius:6px; font-size:13px;">
+      Impact Factor: 4.5 | Q1 Journal
+    </span>
   </div>
 </div>
 
@@ -273,8 +276,6 @@ redirect_from:
     <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a>, Vol. 13, Issue 14, Article 2322.
   </div>
 </div>
-
-
 
 <div class="news-card year-2025">
   <div class="news-date">June 2025</div>
