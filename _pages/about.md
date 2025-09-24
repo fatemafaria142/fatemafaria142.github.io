@@ -347,14 +347,16 @@ redirect_from:
 <div class="news-card year-2024">
   <div class="news-date">May 2024</div>
   <div class="news-desc">
-    Two of our papers, 
-    <strong>"Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study"</strong> 
-    and 
-    <strong>"Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification"</strong>, 
-    have been accepted at the 
-    <a class="news-link" href="https://icccn.co.uk/" target="_blank">
-      4th International Conference on Computing and Communication Networks (ICCCNet-2024).
-    </a>
+    The study titled <strong>"Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study"</strong> has been accepted at the 
+    <a class="news-link" href="https://icccn.co.uk/" target="_blank">4th International Conference on Computing and Communication Networks (ICCCNet-2024)</a>.
+  </div>
+</div>
+
+<div class="news-card year-2024">
+  <div class="news-date">May 2024</div>
+  <div class="news-desc">
+    The research paper titled <strong>"Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification"</strong> has been accepted at the 
+    <a class="news-link" href="https://icccn.co.uk/" target="_blank">4th International Conference on Computing and Communication Networks (ICCCNet-2024)</a>.
   </div>
 </div>
 
