@@ -250,8 +250,8 @@ redirect_from:
 <div class="news-card year-2025">
   <div class="news-date">September 2025</div>
   <div class="news-desc">
-    Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the 
-    <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a>.
+    Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been published in the 
+    <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a>, Vol 130, 2025, Article 105800, ISSN 2212-4209.
   </div>
 </div>
 
