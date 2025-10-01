@@ -204,21 +204,21 @@ redirect_from:
 
 ## My Primary Research Interests Include: 
 <div class="research-grid">
-    <ul>
-      <li><em>Large Language Models (LLMs)</em></li>
-      <li><em>LLM Agents</em></li>
-      <li><em>Human–LLM Interaction</em></li>
-      <li><em>Large Multimodal Models (LMMs)</em></li>
-      <li><em>NLP for Social Good</em></li>
-      <li><em>NLP for Low-Resource Languages</em></li>
-    </ul>
-    <ul>
-      <li><em>AI in Healthcare</em></li>
-      <li><em>Vision-Language Models (VLMs)</em></li>
-      <li><em>Trustworthy AI</em></li>
-      <li><em>Multimodal Agents</em></li>
-      <li><em>Computer Vision</em></li>
-    </ul>
+<ul>
+  <li><em>Large Language Models</em></li>
+  <li><em>Large Multimodal Models</em></li>
+  <li><em>LLM Agents</em></li>
+  <li><em>Multimodal AI Agents</em></li>
+  <li><em>Human–LLM Interaction</em></li>
+  <li><em>NLP for Social Good</em></li>
+</ul>
+<ul>
+  <li><em>NLP for Low-Resource Languages</em></li>
+  <li><em>AI in Healthcare</em></li>
+  <li><em>Vision-Language Models</em></li>
+  <li><em>Trustworthy AI</em></li>
+  <li><em>Computer Vision</em></li>
+</ul>
   </div>
 
 <div class="info-wrapper">
