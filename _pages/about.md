@@ -236,9 +236,7 @@ redirect_from:
 
 ## ⚡ Recent Highlights
 <div class="news-wrapper">
-
 <!-- 2025 -->
-
 <div class="news-card year-2025">
   <div class="news-date">September 2025</div>
   <div class="news-desc">
@@ -250,7 +248,6 @@ redirect_from:
     Volume 130, 2025, Article 105800, ISSN 2212-4209.
   </div>
 </div>
-
 <div class="news-card year-2025">
   <div class="news-date">September 2025</div>
   <div class="news-desc">
@@ -258,7 +255,6 @@ redirect_from:
     <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a>, Vol. 13, Issue 18, Article 3046.
   </div>
 </div>
-
 
 <div class="news-card year-2025">
   <div class="news-date">July 2025</div>
