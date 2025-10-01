@@ -236,18 +236,8 @@ redirect_from:
 
 ## ⚡ Recent Highlights
 <div class="news-wrapper">
+
 <!-- 2025 -->
-<div class="news-card year-2025">
-  <div class="news-date">September 2025</div>
-  <div class="news-desc">
-    Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, 
-    has been published in the 
-    <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">
-      International Journal of Disaster Risk Reduction
-    </a>, 
-    Volume 130, 2025, Article 105800, ISSN 2212-4209.
-  </div>
-</div>
 <div class="news-card year-2025">
   <div class="news-date">September 2025</div>
   <div class="news-desc">
@@ -255,6 +245,15 @@ redirect_from:
     <a class="news-link" href="https://www.mdpi.com/journal/mathematics" target="_blank">Mathematics (MDPI)</a>, Vol. 13, Issue 18, Article 3046.
   </div>
 </div>
+
+<div class="news-card year-2025">
+  <div class="news-date">September 2025</div>
+  <div class="news-desc">
+    Our paper, <strong>"BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"</strong>, has been accepted for publication in the 
+    <a class="news-link" href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction" target="_blank">International Journal of Disaster Risk Reduction</a>.
+  </div>
+</div>
+
 
 <div class="news-card year-2025">
   <div class="news-date">July 2025</div>
