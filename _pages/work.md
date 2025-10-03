@@ -119,7 +119,7 @@ title: ""
       </ul>
     </div>
   </div>
-</span>
+
 
 
 <span style="color: #4b0082; font-size: 1.3em; font-weight: bold;">Application Developer</span><br/>
