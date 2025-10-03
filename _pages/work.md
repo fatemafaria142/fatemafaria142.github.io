@@ -127,10 +127,6 @@ title: ""
 <span style="color: #4b0082; font-style: italic;">May 2024 - July 2025</span>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
   <div style="background-color: white; border-left: 5px solid #4b0082; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <div style="background-color: #e0e7ff; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #2e1065; font-size: 1em; font-weight: bold;">Organizational Intelligence Role Placement System: Org Info</span>
-    </div>
- 
  <div style="background-color: #e0e7ff; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
   <span style="color: #2e1065; font-size: 1em; font-weight: bold;">Organizational Intelligence Role Placement System: Org Info</span>
 </div>
