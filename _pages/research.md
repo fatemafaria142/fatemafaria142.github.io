@@ -225,7 +225,7 @@ author_profile: true
       <span style="color: #22c55e; font-weight: bold;">12.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Ahmed Al Wase, Md Rabius Sani, Khan Md Hasib, Mohammad Shafiul Alam</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)</em></p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Published in the proceedings of the 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)</em></p>
       <a href="https://ieeexplore.ieee.org/document/10099162" style="display: inline-block; background: linear-gradient(to right, #22c55e, #4ade80); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
