@@ -69,6 +69,83 @@ author_profile: true
   </div>
 
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="background-color: white; border-left: 5px solid #8b5cf6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
+    <div style="background-color: #ede9fe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
+      <span style="color: #4c1d95; font-size: 1em; font-weight: bold;">Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study</span>
+    </div>
+    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
+      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #8b5cf6; font-size: 0.9em;">■</span>
+        <b>Authors:</b> <span style="color: #10b981">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, and Faisal Muhammad Shah <br/>
+        <b>Conference:</b> <em>4th International Conference on Computing and Communication Networks (ICCCNet-2024)</em> <br/>
+        <div style="margin-top: 10px;">
+          <a href="javascript:void(0)" onclick="document.getElementById('NLI2024_abstract').style.display = document.getElementById('NLI2024_abstract').style.display === 'none' ? 'block' : 'none';" style="background-color: #3b82f6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Abstract</a>
+          <a href="https://link.springer.com/chapter/10.1007/978-981-96-6124-4_2" style="background-color: #ef4444; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">PDF</a>
+          <a href="https://github.com/fatemafaria142/Large-Language-Models-Over-Transformer-Models-for-Bangla-NLI" style="background-color: #10b981; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Code</a>
+          <a href="javascript:void(0)" onclick="document.getElementById('NLI2024_bib').style.display = document.getElementById('NLI2024_bib').style.display === 'none' ? 'block' : 'none';" style="background-color: #8b5cf6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Citation bib</a>
+        </div>
+      </li>
+    </ul>
+    <div id="NLI2024_bib" class="bib" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
+      <pre>
+@misc{faria2024unravelingdominancelargelanguage,
+  title={Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study},
+  author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Asif Iftekher Fahim and Pronay Debnath and Faisal Muhammad Shah},
+  year={2024},
+  eprint={2405.02937},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2405.02937},
+}
+      </pre>
+    </div>
+    <div id="NLI2024_abstract" class="abstract" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
+      <p style="text-align: justify;">
+        Natural Language Inference (NLI) is a cornerstone task in natural language processing, enabling machines to understand and reason about the semantic relationships between pairs of sentences. While significant progress has been made in high-resource languages like English, low-resource languages such as Bangla remain underexplored due to limited datasets and computational resources. This study investigates the performance of Large Language Models (LLMs) compared to traditional Transformer-based models for Bangla NLI. We leverage a comprehensive dataset and evaluate models such as GPT-3.5 Turbo, Gemini 1.5 Pro, BanglaBERT, and mBERT using zero-shot and few-shot learning approaches. Our results demonstrate that LLMs, particularly GPT-3.5 Turbo, achieve superior performance, with an accuracy of 92.15% in few-shot settings, outperforming Transformer models like BanglaBERT (85.67%) by 6.48%. This highlights the efficacy of LLMs in handling low-resource language tasks with minimal training data. The study also explores the impact of dataset size and class imbalance, providing insights into optimizing NLI systems for Bangla.
+      </p>
+    </div>
+  </div>
+
+  <div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
+    <div style="background-color: #e6f4ea; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
+      <span style="color: #065f46; font-size: 1em; font-weight: bold;">Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification</span>
+    </div>
+    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
+      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
+        <b>Authors:</b> Mukaffi Bin Moin, <span style="color: #10b981">Fatema Tuj Johora Faria</span>, Swarnajit Saha, Busra Kamal Rafa, and Mohammad Shafiul Alam <br/>
+        <b>Conference:</b> <em>4th International Conference on Computing and Communication Networks (ICCCNet-2024)</em> <br/>
+        <div style="margin-top: 10px;">
+          <a href="javascript:void(0)" onclick="document.getElementById('Cancer2024_abstract').style.display = document.getElementById('Cancer2024_abstract').style.display === 'none' ? 'block' : 'none';" style="background-color: #3b82f6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Abstract</a>
+          <a href="https://link.springer.com/chapter/10.1007/978-981-96-6124-4_1" style="background-color: #ef4444; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">PDF</a>
+          <a href="https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification" style="background-color: #10b981; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Code</a>
+          <a href="javascript:void(0)" onclick="document.getElementById('Cancer2024_bib').style.display = document.getElementById('Cancer2024_bib').style.display === 'none' ? 'block' : 'none';" style="background-color: #8b5cf6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Citation bib</a>
+        </div>
+      </li>
+    </ul>
+    <div id="Cancer2024_bib" class="bib" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
+      <pre>
+@misc{moin2024exploringexplainableaitechniques,
+  title={Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification},
+  author={Mukaffi Bin Moin and Fatema Tuj Johora Faria and Swarnajit Saha and Busra Kamal Rafa and Mohammad Shafiul Alam},
+  year={2024},
+  eprint={2405.07340},
+  archivePrefix={arXiv},
+  primaryClass={eess.IV},
+  url={https://arxiv.org/abs/2405.07340},
+}
+      </pre>
+    </div>
+    <div id="Cancer2024_abstract" class="abstract" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
+      <p style="text-align: justify;">
+        Accurate classification of lung and colon cancer from medical images is critical for early diagnosis and effective treatment. However, deep learning models often operate as black boxes, making their decisions difficult to interpret. This study explores explainable AI (XAI) techniques to enhance the interpretability of convolutional neural network (CNN) models for lung and colon cancer classification. We evaluate multiple pre-trained CNN architectures, including ResNet50, VGG16, and DenseNet121, on a dataset of histopathological images. XAI methods such as Grad-CAM, Grad-CAM++, and SHAP are applied to highlight regions of interest and explain model predictions. Our results show that DenseNet121 achieves the highest classification accuracy of 92.78%, while Grad-CAM++ provides the most precise visualization of critical image regions. The integration of XAI improves model transparency, with a 5.12% increase in trust metrics among medical professionals surveyed. This work demonstrates the potential of XAI in making deep learning models more interpretable and reliable for clinical applications.
+      </p>
+    </div>
+  </div>
+</div>
+
 <div style="background-color:white;border-left:5px solid #10b981;border-radius:10px;padding:25px;flex:1 1 100%;max-width:100%;box-shadow:0 4px 6px rgba(0,0,0,0.1);transition:transform 0.2s ease,box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)';this.style.boxShadow='0 5px 10px rgba(0,0,0,0.12)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';">
   <div style="background-color:#e6f4ea;padding:10px;border-radius:5px;margin-bottom:15px;">
     <span style="color:#065f46;font-size:1em;font-weight:bold;">Analyzing Diagnostic Reasoning of Vision–Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering</span>
@@ -270,22 +347,6 @@ author_profile: true
     </div>
   </div>
 
-  <div style="background-color: white; border-left: 5px solid #3b82f6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
-    <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e3a8a; font-size: 1em; font-weight: bold;">BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language</span>
-    </div>
-    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
-      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #3b82f6; font-size: 0.9em;">■</span>
-        <b>Authors:</b> <span style="color: #10b981">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Busra Kamal Rafa, Swarnajit Saha, Md. Mahfuzur Rahman, Khan Md Hasib, and M. F. Mridha <br/>
-        <b>Journal:</b> <em>Under Review in International Journal of Disaster Risk Reduction</em> <span style="background-color: #e6f4ea; color: #3b82f6; padding: 2px 8px; border-radius: 4px; font-size: 0.9em;">Q1</span> <br/>
-        <div style="margin-top: 10px;">
-          <a href="https://github.com/Mukaffi28/BanglaCalamityMMD-A-Comprehensive-Benchmark-Dataset-for-Multimodal-Disaster-Identification" style="background-color: #10b981; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Code</a>
-          <a href="https://data.mendeley.com/datasets/7dggbjn5sd/1" style="background-color: #f59e0b; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Dataset</a>
-        </div>
-      </li>
-    </ul>
-  </div>
 
   <div style="background-color: white; border-left: 5px solid #ef4444; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
     <div style="background-color: #fee2e2; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
@@ -309,7 +370,7 @@ author_profile: true
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #8b5cf6; font-size: 0.9em;">■</span>
         <b>Authors:</b> Saidur Rahman Sujon, Ahmadul Karim Chowdhury, <span style="color: #10b981">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, and Faisal Muhammad Shah <br/>
-        <b>Conference:</b> <em>Under Review in 2025 IEEE 9th International Conference on Software Engineering & Computer Systems</em> <br/>
+        <b>Conference:</b> <em>Under review in the 28th International Conference on Computer and Information Technology (ICCIT 2025)</em> <br/>
         <div style="margin-top: 10px;"></div>
       </li>
     </ul>
@@ -426,82 +487,6 @@ author_profile: true
       </p>
     </div>
   </div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="background-color: white; border-left: 5px solid #8b5cf6; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
-    <div style="background-color: #ede9fe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #4c1d95; font-size: 1em; font-weight: bold;">Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study</span>
-    </div>
-    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
-      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #8b5cf6; font-size: 0.9em;">■</span>
-        <b>Authors:</b> <span style="color: #10b981">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, and Faisal Muhammad Shah <br/>
-        <b>Conference:</b> <em>4th International Conference on Computing and Communication Networks (ICCCNet-2024)</em> <br/>
-        <div style="margin-top: 10px;">
-          <a href="javascript:void(0)" onclick="document.getElementById('NLI2024_abstract').style.display = document.getElementById('NLI2024_abstract').style.display === 'none' ? 'block' : 'none';" style="background-color: #3b82f6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Abstract</a>
-          <a href="https://arxiv.org/pdf/2405.02937" style="background-color: #ef4444; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">PDF</a>
-          <a href="https://github.com/fatemafaria142/Large-Language-Models-Over-Transformer-Models-for-Bangla-NLI" style="background-color: #10b981; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Code</a>
-          <a href="javascript:void(0)" onclick="document.getElementById('NLI2024_bib').style.display = document.getElementById('NLI2024_bib').style.display === 'none' ? 'block' : 'none';" style="background-color: #8b5cf6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Citation bib</a>
-        </div>
-      </li>
-    </ul>
-    <div id="NLI2024_bib" class="bib" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
-      <pre>
-@misc{faria2024unravelingdominancelargelanguage,
-  title={Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study},
-  author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Asif Iftekher Fahim and Pronay Debnath and Faisal Muhammad Shah},
-  year={2024},
-  eprint={2405.02937},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2405.02937},
-}
-      </pre>
-    </div>
-    <div id="NLI2024_abstract" class="abstract" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
-      <p style="text-align: justify;">
-        Natural Language Inference (NLI) is a cornerstone task in natural language processing, enabling machines to understand and reason about the semantic relationships between pairs of sentences. While significant progress has been made in high-resource languages like English, low-resource languages such as Bangla remain underexplored due to limited datasets and computational resources. This study investigates the performance of Large Language Models (LLMs) compared to traditional Transformer-based models for Bangla NLI. We leverage a comprehensive dataset and evaluate models such as GPT-3.5 Turbo, Gemini 1.5 Pro, BanglaBERT, and mBERT using zero-shot and few-shot learning approaches. Our results demonstrate that LLMs, particularly GPT-3.5 Turbo, achieve superior performance, with an accuracy of 92.15% in few-shot settings, outperforming Transformer models like BanglaBERT (85.67%) by 6.48%. This highlights the efficacy of LLMs in handling low-resource language tasks with minimal training data. The study also explores the impact of dataset size and class imbalance, providing insights into optimizing NLI systems for Bangla.
-      </p>
-    </div>
-  </div>
-
-  <div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='scale(1.01)'; this.style.boxShadow='0 5px 10px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)';">
-    <div style="background-color: #e6f4ea; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #065f46; font-size: 1em; font-weight: bold;">Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification</span>
-    </div>
-    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
-      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
-        <b>Authors:</b> Mukaffi Bin Moin, <span style="color: #10b981">Fatema Tuj Johora Faria</span>, Swarnajit Saha, Busra Kamal Rafa, and Mohammad Shafiul Alam <br/>
-        <b>Conference:</b> <em>4th International Conference on Computing and Communication Networks (ICCCNet-2024)</em> <br/>
-        <div style="margin-top: 10px;">
-          <a href="javascript:void(0)" onclick="document.getElementById('Cancer2024_abstract').style.display = document.getElementById('Cancer2024_abstract').style.display === 'none' ? 'block' : 'none';" style="background-color: #3b82f6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Abstract</a>
-          <a href="https://arxiv.org/pdf/2405.07340" style="background-color: #ef4444; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">PDF</a>
-          <a href="https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification" style="background-color: #10b981; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Code</a>
-          <a href="javascript:void(0)" onclick="document.getElementById('Cancer2024_bib').style.display = document.getElementById('Cancer2024_bib').style.display === 'none' ? 'block' : 'none';" style="background-color: #8b5cf6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Citation bib</a>
-        </div>
-      </li>
-    </ul>
-    <div id="Cancer2024_bib" class="bib" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
-      <pre>
-@misc{moin2024exploringexplainableaitechniques,
-  title={Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification},
-  author={Mukaffi Bin Moin and Fatema Tuj Johora Faria and Swarnajit Saha and Busra Kamal Rafa and Mohammad Shafiul Alam},
-  year={2024},
-  eprint={2405.07340},
-  archivePrefix={arXiv},
-  primaryClass={eess.IV},
-  url={https://arxiv.org/abs/2405.07340},
-}
-      </pre>
-    </div>
-    <div id="Cancer2024_abstract" class="abstract" style="display:none; font-family: 'Segoe UI', sans-serif; color: black; margin-top: 10px;">
-      <p style="text-align: justify;">
-        Accurate classification of lung and colon cancer from medical images is critical for early diagnosis and effective treatment. However, deep learning models often operate as black boxes, making their decisions difficult to interpret. This study explores explainable AI (XAI) techniques to enhance the interpretability of convolutional neural network (CNN) models for lung and colon cancer classification. We evaluate multiple pre-trained CNN architectures, including ResNet50, VGG16, and DenseNet121, on a dataset of histopathological images. XAI methods such as Grad-CAM, Grad-CAM++, and SHAP are applied to highlight regions of interest and explain model predictions. Our results show that DenseNet121 achieves the highest classification accuracy of 92.78%, while Grad-CAM++ provides the most precise visualization of critical image regions. The integration of XAI improves model transparency, with a 5.12% increase in trust metrics among medical professionals surveyed. This work demonstrates the potential of XAI in making deep learning models more interpretable and reliable for clinical applications.
-      </p>
-    </div>
-  </div>
-</div>
 
 <h2 style="color: #1e40af; font-family: 'Segoe UI', sans-serif; font-weight: bold; border-bottom: 2px solid #1e40af; display: inline-block; padding-bottom: 4px;">
   2023
