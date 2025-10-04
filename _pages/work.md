@@ -114,7 +114,7 @@ title: ""
           Optimized RAG query search accuracy by 96%, automating document content extraction and significantly reducing manual effort.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4f46e5; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI, Azure SQL, Azure Functions, AlloyDB for PostgreSQL, Azure App Service, OpenCV, React, FastAPI, Ragas
+          <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4f46e5; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-4.1, text-embedding-3-large), Azure SQL, Prompt Engineering, Azure Functions, AlloyDB for PostgreSQL, Azure App Service, OpenCV, React, FastAPI,  Ragas
         </li>
       </ul>
     </div>
@@ -156,7 +156,7 @@ title: ""
     Deployed and optimized organizational hierarchy search for Account Managers by eliminating full Bullhorn database queries, reducing search time by 92%, and enabling faster access to relevant data.
   </li>
   <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-    <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4b0082; display: inline;">Tech Stack Used:</span></b> Python, LangChain, LangGraph, Azure OpenAI, OpenCV, Azure SQL, React, FastAPI
+    <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4b0082; display: inline;">Tech Stack Used:</span></b> Python, LangChain, LangGraph, Azure OpenAI (GPT-4.1, GPT-4o-Mini, text-embedding-3-small), Prompt Engineering, Azure App Service, Azure SQL, OpenCV,  React, FastAPI, Docker
   </li>
 </ul>
 
@@ -200,7 +200,7 @@ title: ""
       Reduced manual review time by 75% and accelerated decision-making through automated extraction and predictive insights, enabling Proposal Managers to focus on strategic bid development.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #dcfce7; padding: 0 8px 0 12px; color: #15803d; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI, AlloyDB for PostgreSQL, CouchDB, Azure App Service, React, FastAPI
+      <b><span style="background-color: #dcfce7; padding: 0 8px 0 12px; color: #15803d; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL, CouchDB, Azure App Service, React, FastAPI, Ragas, Docker
     </li>
   </ul>
 </div>
@@ -240,7 +240,7 @@ title: ""
       Significantly accelerated demo preparation by reducing slide crafting time by approximately 90%, enabling Salespersons to focus more on client engagement and closing deals.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #fef3c7; padding: 0 8px 0 12px; color: #b45309; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI, React, FastAPI
+      <b><span style="background-color: #fef3c7; padding: 0 8px 0 12px; color: #b45309; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo), React, FastAPI, Azure App Service
     </li>
   </ul>
 </div>
@@ -271,7 +271,7 @@ title: ""
       Minimized analysis time by 80%, allowing <i>Technical Recruiters</i> to accelerate decision-making, optimize candidate sourcing, improve interview planning, and enhance overall hiring outcomes.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #ffe6f0; padding: 0 8px 0 12px; color: #fc3297; display: inline;">Tech Stack Used:</span></b> Python, LangChain, CrewAI, Azure OpenAI, AlloyDB for PostgreSQL, Azure App Service, JobSpy, React, FastAPI
+      <b><span style="background-color: #ffe6f0; padding: 0 8px 0 12px; color: #fc3297; display: inline;">Tech Stack Used:</span></b> Python, LangChain, CrewAI, Azure OpenAI (GPT-3.5 Turbo, text-embedding-3-small), AlloyDB for PostgreSQL, Azure App Service, JobSpy, React, FastAPI
     </li>
   </ul>
 </div>
@@ -303,10 +303,10 @@ title: ""
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #1e40af; font-size: 0.9em;">■</span>
-      Took leadership of the project and evaluated the performance of the RAG system against a custom gold-standard dataset to measure accuracy, relevance, and retrieval consistency.
+      Applied a set of evaluation metrics (Context Precision, Context Recall, Response Relevancy, Faithfulness, and Factual Correctness) to measure overall RAG application performance on custom-created gold-standard datasets for key information extraction, for assessing retrieval accuracy and response quality.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #dbeafe; padding: 0 8px 0 12px; color: #1e40af; display: inline;">Tech Stack Used:</span></b> Python, LangChain, Azure OpenAI, AlloyDB for PostgreSQL, Azure App Service, React, FastAPI, Ragas
+      <b><span style="background-color: #dbeafe; padding: 0 8px 0 12px; color: #1e40af; display: inline;">Tech Stack Used:</span></b> Python, LangChain, Azure OpenAI (GPT-4o-Mini, text-embedding-3-small), AlloyDB for PostgreSQL, Azure App Service, React, FastAPI, Ragas, Docker
     </li>
   </ul>
 </div>
