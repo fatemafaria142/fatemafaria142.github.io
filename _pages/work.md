@@ -161,7 +161,6 @@ title: ""
 </ul>
 
   </div>
-  
   <div style="background-color: white; border-left: 5px solid #15803d; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="background-color: #dcfce7; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
     <span style="color: #14532d; font-size: 1em; font-weight: bold;">Next-Gen Proposal Insights Automation Engine: RFPMatcher</span>
@@ -169,51 +168,46 @@ title: ""
   <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Architected a RAG solution utilizing Chain-of-Thought prompting to accurately extract 12 critical data points, such as project title, issuing organization, submission deadline, project scope, and submission method, from complex Request for Proposal (RFP) documents to optimize proposal analysis.
+      Architected a RAG solution utilizing a temporary vector database and Chain-of-Thought prompting with 12 specialized analytical prompts to systematically extract key information, such as client details, scope of work, deliverables, and submission timelines, from Request for Proposal (RFP) documents.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Performed semantic chunking of documents, storing 5–6 QA pairs with a summary per chunk, allowing the system to perform targeted semantic searches within relevant chunks rather than the entire document, reducing search space by 65%, enabling faster retrieval, and generating accurate answers with 90% improved precision.
+      Orchestrated a comprehensive master database by processing historical RFP responses using 38+ predefined questions (23 deliverable-focused and 15 experience-based), incorporating metadata such as detailed generated answers, chunk summaries, manual classification of RFP responses (winning or losing), and question categories (Deliverables or Experience), while storing vector embeddings to enable semantic search capabilities.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Orchestrated a Past Experience Matcher system integrating Automatic Chain-of-Thought prompting, in-context learning, and custom stakeholder-defined questions to extract RFP requirements and match them against a master database of prior successful Responses for Proposal.
+      Designed a Past Experience Matcher system that analyzes new RFP documents by dynamically extracting three key requirements (core client needs or expectations), generates both binary questions (Yes/No — whether the company has handled similar situations before) and descriptive questions (open-ended questions to explore how the company addressed similar challenges or implemented solutions) for each chunk, then queries a master database, performs semantic similarity matching to identify relevant past experiences, and returns comprehensive, context-rich responses with filename references for verification.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Enabled the system to generate Yes/No decisions with detailed explanations of how similar requirements were addressed in the past, aiding in the prediction of potential win/loss outcomes for new proposals.
+      Developed a Table of Contents (TOC) generation pipeline that analyzes extracted RFP key information against predefined section libraries (10 standard and 12 non-standard sections), employing GPT-4 to intelligently select and prioritize relevant sections based on project requirements.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Generated dynamic Tables of Contents (TOC) by extracting key requirements from RFPs and relevant insights from historical proposal responses, thereby streamlining the proposal writing process for new bids.
+      Implemented a section-based conversational AI platform that generates initial content for each TOC section using extracted key information and past experience data, enables iterative refinement through targeted chat interactions where users can request modifications, maintains conversation history in CouchDB, and exports the final refined content to professionally formatted Word documents for proposal submission.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Implemented session-based chat functionality linked to each user's generated TOC, retaining conversation history and providing an editing system for responses before integrating them into proposal writing.
+      Facilitated the sharing of extracted key information, and ensured that uploaded documents are saved to a specific SharePoint drive and made available to other users via automated email notifications, keeping the team informed and aligned for easy access and reference.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Facilitated sharing of extracted key information with other users via automated email notifications, keeping the team informed and aligned.
+      Reduced manual review time by 75% and accelerated decision-making through automated extraction and predictive insights, enabling <i>Proposal Managers</i> to focus on strategic bid development.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Reduced manual review time by 75% and accelerated decision-making through automated extraction and predictive insights, enabling Proposal Managers to focus on strategic bid development.
-    </li>
-    <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #dcfce7; padding: 0 8px 0 12px; color: #15803d; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL, CouchDB, Azure App Service, React, FastAPI, Ragas, Docker
+      <b><span style="background-color: #dcfce7; padding: 0 8px 0 12px; color: #15803d; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL, CouchDB, Azure App Service, React, FastAPI, Ragas, Docker
     </li>
   </ul>
 </div>
 
- 
- <div style="background-color: white; border-left: 5px solid #b45309; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background-color: white; border-left: 5px solid #b45309; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="background-color: #fef3c7; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
     <span style="color: #92400e; font-size: 1em; font-weight: bold;">Automated Presentation Insights Generator: CaseAligner</span>
   </div>
   <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
-      Designed and deployed an LLM-powered application that repurposes existing client-facing PowerPoint presentations for case studies, using zero-shot prompting to transform them into new practice areas and industries, enabling Sales Managers to rapidly generate domain-specific demo presentations.
+      Designed and deployed an LLM-powered application that repurposes existing client-facing PowerPoint presentations for case studies, leveraging chain-of-thought prompting to transform them into new practice areas and industries, enabling Sales Managers to rapidly generate domain-specific demo presentations.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
@@ -221,7 +215,7 @@ title: ""
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
-      Created a summarization feature for all existing case studies, highlighting technology stacks, work types, key benefits, and outcomes to assist users in quickly identifying relevant content.
+      Built an automated summarization pipeline to extract and structure key insights from case studies (filtered by user-specified industry and practice area), including client details, project objectives, technology stacks, challenges, benefits, implementation steps, timelines, and outcomes, and exported the summaries into downloadable Word documents for quick reference.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
@@ -229,18 +223,18 @@ title: ""
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
-      Built an admin panel for authorized users to download and edit the knowledge base of case studies used for generating new ones.
+      Architected an admin panel enabling authorized users to download existing presentations from the knowledge base, modify them as needed, and re-upload them to update the knowledge repository.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
-      Introduced export functionality to download slides in the company's official presentation template.
+      Added export functionality to download slides in the company's official presentation template.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
       Significantly accelerated demo preparation by reducing slide crafting time by approximately 90%, enabling Salespersons to focus more on client engagement and closing deals.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #fef3c7; padding: 0 8px 0 12px; color: #b45309; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo), React, FastAPI, Azure App Service
+      <b><span style="background-color: #fef3c7; padding: 0 8px 0 12px; color: #b45309; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-4o-Mini), React, FastAPI, Azure App Service
     </li>
   </ul>
 </div>
@@ -252,26 +246,22 @@ title: ""
   <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #fc3297; font-size: 0.9em;">■</span>
-      Constructed a RAG system to identify technological trends by scraping job postings from external companies and analyzing job demand.
+      Designed a RAG system to identify technological trends and track the top 20 most in-demand skills by extracting information from job descriptions scraped from external company postings.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #fc3297; font-size: 0.9em;">■</span>
-      Designed an LLM-based multi-agent system to generate detailed Customer Intelligence Reports, highlighting companies seeking candidates and providing actionable insights into market needs.
+      Developed an automated data analysis pipeline with interactive graphs and charts to compare company-wise data, enabling <i>Technical Recruiters</i> to make data-driven talent acquisition decisions.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #fc3297; font-size: 0.9em;">■</span>
-      Created interactive charts and dashboards to interpret data insights, compare company demands, track skill gaps, benchmark roles, and optimize hiring strategies through data-driven decisions.
+      Orchestrated a web Research Agent that autonomously performs web searches using the Serper Google Search API and Tavily Search API to extract executive and company information from diverse sources, retrieving the top 10 ranked URLs with contextual preview summaries and filtering results based on relevance to support downstream data extraction and analysis tasks.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #fc3297; font-size: 0.9em;">■</span>
-      Empowered users to customize agents through a user interface by defining Role, Goals, and Backstory, while the system autonomously selected optimal tools to generate interview questions and engagement strategies for relevant positions.
+      Implemented a Website Scraping Agent utilizing ScraperAPI to extract targeted data from discovered URLs, processing raw HTML/text content into structured business data, and built a custom RAG pipeline that filters contextually relevant information and generates structured outputs, including tables, organizational reports, and business intelligence summaries.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <span style="position: absolute; left: 0; color: #fc3297; font-size: 0.9em;">■</span>
-      Minimized analysis time by 80%, allowing <i>Technical Recruiters</i> to accelerate decision-making, optimize candidate sourcing, improve interview planning, and enhance overall hiring outcomes.
-    </li>
-    <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #ffe6f0; padding: 0 8px 0 12px; color: #fc3297; display: inline;">Tech Stack Used:</span></b> Python, LangChain, CrewAI, Azure OpenAI (GPT-3.5 Turbo, text-embedding-3-small), AlloyDB for PostgreSQL, Azure App Service, JobSpy, React, FastAPI
+      <b><span style="background-color: #ffe6f0; padding: 0 8px 0 12px; color: #fc3297; display: inline;">Tech Stack Used:</span></b> Python, LangChain, Langfuse, CrewAI, Azure OpenAI (GPT-3.5 Turbo, text-embedding-3-small), AlloyDB for PostgreSQL, Azure App Service, JobSpy, React, FastAPI
     </li>
   </ul>
 </div>
