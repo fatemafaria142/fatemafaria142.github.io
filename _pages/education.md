@@ -53,16 +53,31 @@ author_profile: true
     </ul>
   </div>
 
-  <div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <div style="background-color: #e6f4ea; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #065f46; font-size: 1em; font-weight: bold;">Awards</span>
-    </div>
-    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
-      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
-        🏆 <b style="color: #7f1d1d">Poster Presentation</b>, secured 1<sup>st</sup> position at <a href="https://aust.edu/events/1996" style="color: #389EDA; text-decoration: none;">RESEARCH SYMPOSIUM 2023: AN INTRA-AUST RESEARCH EXHIBITION</a> organized by AUST Research and Publication Club
-        <a href="https://drive.google.com/file/d/1JN8cEUTWAilZpNsZaIxPVusiHxqc4OZA/view?usp=sharing" style="color: #10b981; text-decoration: none; margin-left: 10px;"><span style="font-family: 'Font Awesome 5 Free'; font-weight: 900;">🔗</span> Poster</a>
-      </li>
-    </ul>
+<div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div style="background-color: #e6f4ea; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
+    <span style="color: #065f46; font-size: 1em; font-weight: bold;">Awards</span>
   </div>
+  
+  <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
+    
+    <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+      <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
+      🎖️ <b>Achievement Award</b>, recognized for <b>Excellence in Strategic Leadership, Agile Project Delivery, and Results-Driven Execution</b> at <i>DEXIAN (BANGLADESH) LIMITED – H1 2025 Reflection</i>, Dhaka, Bangladesh
+    </li>
+    
+    <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+      <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
+      🏆 <b>DL Sprint 2.0 - BUET CSE Fest 2023</b>, led <b>Team AustPhoenix</b> and secured 10<sup>th</sup> position out of 94.  
+      <a href="https://www.kaggle.com/competitions/dlsprint2/overview" style="color: #389EDA; text-decoration: none; margin-left: 5px;">🔗 Overview</a>
+    </li>
+    
+    <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+      <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
+      📜 <b>Poster Presentation</b>, secured 1<sup>st</sup> position at  
+      <a href="https://aust.edu/events/1996" style="color: #389EDA; text-decoration: none;">RESEARCH SYMPOSIUM 2023</a>. 
+      <a href="https://drive.google.com/file/d/1JN8cEUTWAilZpNsZaIxPVusiHxqc4OZA/view?usp=sharing" style="color: #10b981; text-decoration: none; margin-left: 10px;">🔗 Poster</a>
+    </li>
+
+  </ul>
 </div>
+
