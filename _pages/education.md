@@ -69,7 +69,7 @@ author_profile: true
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
-      📜 <b>Poster Presentation</b>, <b>``Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework''</b>, secured 1<sup>st</sup> position in  
+      📜 <b>Poster Presentation</b>, <b>"Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework"</b>, secured 1<sup>st</sup> position in  
       <a href="https://aust.edu/events/1996" style="color: #389EDA; text-decoration: none;">RESEARCH SYMPOSIUM 2023</a> organized by AUST Research and Publication Club. 
       <a href="https://drive.google.com/file/d/1JN8cEUTWAilZpNsZaIxPVusiHxqc4OZA/view?usp=sharing" style="color: #10b981; text-decoration: none; margin-left: 10px;">🔗 Poster</a>
     </li>
