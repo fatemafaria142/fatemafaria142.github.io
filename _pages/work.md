@@ -12,9 +12,9 @@ title: ""
 <a href="mailto:laith@gachon.ac.kr" style="color: #008080; text-decoration: none;">Email: laith@gachon.ac.kr</a><br/>
 <span style="color: #008080; font-style: italic;">June 2024 - Present</span>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
-  <div style="background-color: white; border-left: 5px solid #2563eb; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <div style="background-color: #dbeafe; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-      <span style="color: #1e40af; font-size: 1em; font-weight: bold;">1. Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models</span>
+  <div style="background-color: white; border-left: 5px solid #008080; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div style="background-color: #d1f5f5; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
+      <span style="color: #006666; font-size: 1em; font-weight: bold;">1. Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models</span>
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -47,16 +47,16 @@ title: ""
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
+        <span style="position: absolute; left: 0; color: #16a34a; font-size: 0.9em;">■</span>
         Developed and evaluated a zero-shot learning (ZSL) framework for medical visual question answering (MedVQA), enabling large vision–language models (Gemini 2.5 Pro, Claude 3.5, Sonnet, and GPT-4o Mini) to answer diagnostic questions without fine-tuning on the PMC-VQA benchmark.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
+        <span style="position: absolute; left: 0; color: #16a34a; font-size: 0.9em;">■</span>
         Implemented a zero-shot chain-of-thought (Zero-CoT) reasoning approach to guide models through step-by-step logical reasoning, improving interpretability and prediction accuracy in complex medical image analysis tasks such as X-rays and MRI scans.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
-        Investigated research supported by the National Institute of Health (NIH) project in South Korea (Project No. 2024ER080300), funded by the Basic Science Research Program through the National Research Foundation of Korea (NRF) under the grant <b><span style="background-color: #e0f7f7; padding: 0 8px 0 12px; color: #008080; display: inline;">NRF-2022R1A2C1005316</span></b>.
+        <span style="position: absolute; left: 0; color: #16a34a; font-size: 0.9em;">■</span>
+        Investigated research supported by the National Institute of Health (NIH) project in South Korea (Project No. 2024ER080300), funded by the Basic Science Research Program through the National Research Foundation of Korea (NRF) under the grant <b><span style="background-color: #dcfce7; padding: 0 8px 0 12px; color: #16a34a; display: inline;">NRF-2022R1A2C1005316</span></b>.
       </li>
     </ul>
   </div>
@@ -66,16 +66,16 @@ title: ""
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
+        <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
         Applied Zero-Shot Learning to large language models (GPT-3.5 Turbo and Gemini 1.5 Pro) to differentiate harmful speech from benign expressions using multiple low-resource Bengali hate speech datasets.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
+        <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
         Integrated few-shot prompting approaches (5-shot, 10-shot, and 15-shot) in Bangla hate speech detection involve providing the model with a limited number of example texts labeled as hate speech or non-hate speech to guide its predictions on subsequent texts.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
-        Conducted research supported by the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under the grant <b><span style="background-color: #e0f7f7; padding: 0 8px 0 12px; color: #008080; display: inline;">NRF-2022R1A2C1005316</span></b>.
+        <span style="position: absolute; left: 0; color: #dc2626; font-size: 0.9em;">■</span>
+        Conducted research supported by the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under the grant <b><span style="background-color: #fee2e2; padding: 0 8px 0 12px; color: #dc2626; display: inline;">NRF-2022R1A2C1005316</span></b>.
       </li>
     </ul>
   </div>
@@ -85,20 +85,20 @@ title: ""
     </div>
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
+        <span style="position: absolute; left: 0; color: #9333ea; font-size: 0.9em;">■</span>
         Implemented SentimentTextFormer, a text-based model built upon mBERT, fine-tuned to capture nuanced linguistic features and extract sentiment-related insights from Bengali text.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
+        <span style="position: absolute; left: 0; color: #9333ea; font-size: 0.9em;">■</span>
         Developed SentimentImageFormer, an image-based transformer model using Swin Transformer with hierarchical windowed attention to classify sentiment from visual content.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
+        <span style="position: absolute; left: 0; color: #9333ea; font-size: 0.9em;">■</span>
         Designed SentimentFormer, a hybrid model that integrates both text and image modalities by fusing SwiftFormer's visual features with mBERT's textual embeddings at an intermediate layer, enhancing cross-modal interactions through intermediate fusion.
       </li>
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #008080; font-size: 0.9em;">■</span>
-        Carried out research supported by the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under the grant <b><span style="background-color: #e0f7f7; padding: 0 8px 0 12px; color: #008080; display: inline;">NRF-2022R1A2C1005316</span></b>.
+        <span style="position: absolute; left: 0; color: #9333ea; font-size: 0.9em;">■</span>
+        Carried out research supported by the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Science and ICT under the grant <b><span style="background-color: #f3e8ff; padding: 0 8px 0 12px; color: #9333ea; display: inline;">NRF-2022R1A2C1005316</span></b>.
       </li>
     </ul>
   </div>
