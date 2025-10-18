@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /ResarchExperience/
+permalink: /resarchexperience/
 title: ""
 ---
 
