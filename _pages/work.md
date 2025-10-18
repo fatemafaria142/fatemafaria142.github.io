@@ -308,7 +308,7 @@ title: ""
       Implemented a Website Scraping Agent utilizing ScraperAPI to extract targeted data from discovered URLs, processing raw HTML/text content into structured business data, and built a custom RAG pipeline that filters contextually relevant information and generates structured outputs, including tables, organizational reports, and business intelligence summaries.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #ffe6f0; padding: 0 8px 0 12px; color: #fc3297; display: inline;">Tech Stack Used:</span></b> Python, LangChain, Langfuse, CrewAI, Azure OpenAI (GPT-3.5 Turbo, text-embedding-3-small), AlloyDB for PostgreSQL, Azure App Service, JobSpy, React, FastAPI
+      <b><span style="background-color: #ffe6f0; padding: 0 8px 0 12px; color: #fc3297; display: inline;">Tech Stack Used:</span></b> Python, LangChain, Langfuse, CrewAI, Azure OpenAI (GPT-4o, text-embedding-3-snall), ChromaDB, JobSpy, React, FastAPI
     </li>
   </ul>
 </div>
