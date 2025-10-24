@@ -93,7 +93,14 @@ author_profile: true
 <div class="news-card y2025">
   <div class="news-date">October 2025</div>
   <div class="news-desc">
-    One of my studies titled <strong>"Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study"</strong> has been published in the <a class="news-link" href="https://icccn.co.uk/" target="_blank">4th International Conference on Computing and Communication Networks (ICCCNet-2024)</a>. <span style="color:red;">[Springer]</span>.
+    One of my research work titled <strong>"PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification"</strong> has been accepted for presentation and publication at the <a class="news-link" href="https://i-coste.org/" target="_blank">11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)</a>. <span style="color:red;">[IEEE]</span>.
+  </div>
+</div>
+
+<div class="news-card y2025">
+  <div class="news-date">October 2025</div>
+  <div class="news-desc">
+    One of my studies titled <strong>"Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study"</strong> has been published in the <a class="news-link" href="https://icccn.co.uk/" target="_blank">4th International Conference on Computing and Communication Networks (ICCCNet-2024)</a> <span style="color:red;">[Springer]</span>.
   </div>
 </div>
 
@@ -101,7 +108,7 @@ author_profile: true
   <div class="news-date">October 2025</div>
   <div class="news-desc">
     The research paper titled <strong>"Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification"</strong> has been published in the 
-    <a class="news-link" href="https://icccn.co.uk/" target="_blank">4th International Conference on Computing and Communication Networks (ICCCNet-2024)</a>. <span style="color:red;">[Springer]</span>.
+    <a class="news-link" href="https://icccn.co.uk/" target="_blank">4th International Conference on Computing and Communication Networks (ICCCNet-2024)</a> <span style="color:red;">[Springer]</span>.
   </div>
 </div>
 
