@@ -425,7 +425,7 @@ author_profile: true
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #3b82f6; font-size: 0.9em;">■</span>
         <b>Authors:</b> <span style="color: #10b981">Fatema Tuj Johora Faria*</span>, Mukaffi Bin Moin*, Mohammad Shafiul Alam*, Ahmed Al Wase, Md. Rabius Sani, and Khan Md Hasib <br/>
-        <b>Conference:</b> <em>Under Review in 11th IEEE International Conference on Sustainable Technology and Engineering</em> <br/>
+        <b>Conference:</b> <em>Accepted for presentation and publication at the 11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)</em> <br/>
         <div style="margin-top: 10px;">
           <a href="javascript:void(0)" onclick="document.getElementById('Potato2024_abstract').style.display = document.getElementById('Potato2024_abstract').style.display === 'none' ? 'block' : 'none';" style="background-color: #3b82f6; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">Abstract</a>
           <a href="https://arxiv.org/pdf/2405.07332" style="background-color: #ef4444; color: white; padding: 4px 8px; border-radius: 5px; text-decoration: none; margin-right: 5px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">PDF</a>
