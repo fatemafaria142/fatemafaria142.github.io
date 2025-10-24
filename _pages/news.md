@@ -93,7 +93,7 @@ author_profile: true
 <div class="news-card y2025">
   <div class="news-date">October 2025</div>
   <div class="news-desc">
-    One of my research work titled <strong>"PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification"</strong> has been accepted for presentation and publication at the <a class="news-link" href="https://i-coste.org/" target="_blank">11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)</a>. <span style="color:red;">[IEEE]</span>.
+    One of my research work titled <strong>"PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification"</strong> has been accepted for presentation and publication at the <a class="news-link" href="https://i-coste.org/" target="_blank">11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)</a> <span style="color:red;">[IEEE]</span>.
   </div>
 </div>
 
