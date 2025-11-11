@@ -107,7 +107,8 @@ redirect_from:
 <div class="info-wrapper">
   <div class="info-card">
     <p style="text-align:justify; color:black; margin:0;">
-      In my previous capacity as <strong>Senior Application Developer</strong> at Dexian (Bangladesh) Limited, I focused on delivering high-impact work through the following key areas:
+      In my previous capacity as <strong>Senior Application Developer</strong> at 
+      <a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>, I focused on delivering high-impact work through the following key areas:
       <br><br>
       <b style="color:#1e40af;">(1)</b> 
       <span style="
@@ -141,6 +142,7 @@ redirect_from:
     </p>
   </div>
 </div>
+
 
 <style>
   .research-interests {
