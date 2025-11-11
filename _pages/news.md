@@ -90,6 +90,24 @@ author_profile: true
 
 <div class="year-header" style="color:#7f5af0;">2025</div>
 
+<!-- 2025 -->
+<div class="news-card y2025">
+  <div class="news-date">November 2025</div>
+  <div class="news-desc">
+    Joined as <strong>AI Engineer II</strong> at 
+    <a class="news-link" href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>!
+  </div>
+</div>
+
+<!-- 2025 -->
+<div class="news-card y2025">
+  <div class="news-date">November 2025</div>
+  <div class="news-desc">
+    Reached <strong>100+ citations</strong> on my 
+    <a class="news-link" href="https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar profile</a>!
+  </div>
+</div>
+
 <div class="news-card y2025">
   <div class="news-date">October 2025</div>
   <div class="news-desc">

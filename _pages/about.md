@@ -99,15 +99,15 @@ redirect_from:
 </style>
 <p style="text-align:justify; color:black; font-family:'Segoe UI', sans-serif;"> 
   Hi! I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a 
-  <strong style="color:#1e40af;">Senior Application Developer</strong> at 
-  <a href="https://www.linkedin.com/company/dexiansolutions/">Dexian (Bangladesh) Limited</a>. 
+  <strong style="color:#1e40af;">AI Engineer II</strong> at 
+  <a href="https://www.linkedin.com/company/asthait/">Astha.IT</a>. 
   My expertise lies in designing, developing, and deploying generative AI-based applications with a strong focus on Large Language Models (LLMs), Large Multimodal Models (LMMs), Retrieval-Augmented Generation (RAG), as well as LLM agents and their multi-agent architectures for automating complex tasks and supporting data-driven insights. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
 </p>
 
 <div class="info-wrapper">
   <div class="info-card">
     <p style="text-align:justify; color:black; margin:0;">
-      In my capacity, I focus on delivering high-impact work through the following key areas:
+      In my previous capacity as <strong>Senior Application Developer</strong> at Dexian (Bangladesh) Limited, I focused on delivering high-impact work through the following key areas:
       <br><br>
       <b style="color:#1e40af;">(1)</b> 
       <span style="
@@ -117,7 +117,7 @@ redirect_from:
         display: inline-block;
         ">
         Proof of Concepts (PoCs):
-      </span> I oversee the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototype solutions and iterate based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation, while ensuring alignment with the long-term product vision.
+      </span> I oversaw the development of PoCs to explore forward-thinking ideas by analyzing client and stakeholder requirements and translating them into business goals. I rapidly prototyped solutions and iterated based on feedback to assess feasibility, reduce risks, and enable informed decision-making for full-scale implementation, while ensuring alignment with the long-term product vision.
       <br>
       <b style="color:#1e40af;">(2)</b> 
       <span style="
@@ -127,8 +127,8 @@ redirect_from:
         display: inline-block;
         ">
       Leadership in Project Execution:
-</span> I lead the architecture of generative AI systems for production-grade deployment, utilizing <span style="color:#3d3d3d; font-weight:bold;">Azure OpenAI</span> for LLM integration, <span style="color:#3d3d3d; font-weight:bold;">Azure SQL</span> for robust data management, <span style="color:#3d3d3d; font-weight:bold;">Azure Blob Storage</span> for scalable asset handling, and <span style="font-weight:bold; color:#3d3d3d;"> AlloyDB</span> for high-performance vector search. I design modular, domain-specific AI pipelines optimized for low-latency inference and deploy them efficiently via <span style="color:#3d3d3d; font-weight:bold;">Azure Web App</span>, focusing on reducing operational overhead and ensuring cost-effective, real-world performance.
-<br>
+      </span> I led the architecture of generative AI systems for production-grade deployment, utilizing <span style="color:#3d3d3d; font-weight:bold;">Azure OpenAI</span> for LLM integration, <span style="color:#3d3d3d; font-weight:bold;">Azure SQL</span> for robust data management, <span style="color:#3d3d3d; font-weight:bold;">Azure Blob Storage</span> for scalable asset handling, and <span style="font-weight:bold; color:#3d3d3d;">AlloyDB</span> for high-performance vector search. I designed modular, domain-specific AI pipelines optimized for low-latency inference and deployed them efficiently via <span style="color:#3d3d3d; font-weight:bold;">Azure Web App</span>, focusing on reducing operational overhead and ensuring cost-effective, real-world performance.
+      <br>
       <b style="color:#1e40af;">(3)</b> 
       <span style="
         background-color: #e2d6f3;  /* light purple background fill */
@@ -137,7 +137,7 @@ redirect_from:
         display: inline-block;
         ">
         Mentorship:
-      </span> I mentor Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
+      </span> I mentored Junior Application Developers by guiding them on coding standards, architectural best practices, and professional growth, helping them contribute effectively to our projects.
     </p>
   </div>
 </div>
@@ -237,8 +237,24 @@ redirect_from:
 
 ## ⚡ Recent Highlights
 <div class="news-wrapper">
+<!-- 2025 -->
+<div class="news-card year-2025">
+  <div class="news-date">November 2025</div>
+  <div class="news-desc">
+    Joined as <strong>AI Engineer II</strong> at 
+    <a class="news-link" href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>!
+  </div>
+</div>
 
 <!-- 2025 -->
+<div class="news-card year-2025">
+  <div class="news-date">November 2025</div>
+  <div class="news-desc">
+    Reached <strong>100+ citations</strong> on my 
+    <a class="news-link" href="https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar profile</a>!
+  </div>
+</div>
+
 <div class="news-card year-2025">
 <div class="news-date">October 2025</div>
   <div class="news-desc">
