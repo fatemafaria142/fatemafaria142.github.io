@@ -230,7 +230,7 @@ redirect_from:
       <em>
         If you have any inquiries or wish to discuss potential collaborations, please feel free to reach out. You can contact me via email at 
         <b>Personal:</b> <a href="mailto:fatema.faria142@gmail.com" style="color:green; text-decoration:none;">fatema.faria142@gmail.com</a> or 
-        <b>Official:</b> <a href="mailto:fatema.faria@dexian.com" style="color:green; text-decoration:none;">fatema.faria@dexian.com</a>.
+        <b>Official:</b> <a href="mailto:ftj.faria@asthait.com" style="color:green; text-decoration:none;">ftj.faria@asthait.com</a>.
       </em>
     </p>
   </div>
