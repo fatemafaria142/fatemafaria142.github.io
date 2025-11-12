@@ -135,33 +135,6 @@ title: ""
 
 
 <span style="font-family: 'Segoe UI', sans-serif; color: black;">
-  <span style="color: #4f46e5; font-size: 1.3em; font-weight: bold;">AI Engineer II</span><br/>
-  <a href="https://www.linkedin.com/company/asthait/" style="color: #4f46e5; text-decoration: none;" target="_blank">Astha.IT</a><br/>
-  <span style="color: #4f46e5; font-style: italic;">November 2025 - Present</span>
- 
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
-    <div style="background-color: white; border-left: 5px solid #4f46e5; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-      <div style="background-color: #e0e7ff; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-        <span style="color: #3730a3; font-size: 1em; font-weight: bold;">Next-Gen AI Automation Platform: AIT 360</span> 
-      </div>
-      <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
-        <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <span style="position: absolute; left: 0; color: #4f46e5; font-size: 0.9em;">■</span>
-          Developing an AI-powered tool to help HR teams analyze candidate resumes, assign rubric scores to rank and compare candidates, highlight strengths and gaps, and provide actionable suggestions for improvement.
-        </li>
-        <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <span style="position: absolute; left: 0; color: #4f46e5; font-size: 0.9em;">■</span>
-          Currently working on streamlined automation across departments to automate repetitive and manual tasks in all company departments, significantly reducing human intervention and operational effort.
-        </li>
-         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4f46e5; display: inline;">Tech Stack Used:</span></b> Python, LangGraph, LangChain, OpenAI, AWS, FastAPI, React, TypeScript
-        </li>
-      </ul>
-    </div>
-  </div>
-
-
-<span style="font-family: 'Segoe UI', sans-serif; color: black;">
   <span style="color: #4f46e5; font-size: 1.3em; font-weight: bold;">Senior Application Developer</span><br/>
   <a href="https://www.linkedin.com/company/dexiansolutions/" style="color: #4f46e5; text-decoration: none;" target="_blank">Dexian (Bangladesh) Limited.</a><br/>
   <span style="color: #4f46e5; font-style: italic;">July 2025 - October 2025</span>
