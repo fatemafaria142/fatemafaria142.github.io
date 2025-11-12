@@ -38,3 +38,34 @@ title: ""
     </ul>
   </div>
 </div>
+
+## Tutoring Experience
+<span style="font-family: 'Segoe UI', sans-serif; color: black;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <span style="color: #10b981; font-size: 1.3em; font-weight: bold;">Home Tutor – Mathematics & Physics</span>
+    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
+      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #10b981; font-size: 0.9em;">■</span>
+        Provided personalized one-on-one tutoring, developed custom lesson plans and exercises, monitored academic progress, and conducted regular practice tests and feedback sessions for high school students.
+      </li>
+    </ul>
+  </div>
+</div>
+</span>
+
+## Voluntary Experience
+<span style="font-family: 'Segoe UI', sans-serif; color: black;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="background-color: white; border-left: 5px solid #f59e0b; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <span style="color: #f59e0b; font-size: 1.3em; font-weight: bold;">AUST CSE Carnival Spring 2022</span>
+    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
+      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #f59e0b; font-size: 0.9em;">■</span>
+        Served as an <b>Organizer</b> for the Intra-AUST Programming Contest, contributing to event planning, coordination, and participant engagement. 
+        <a href="https://www.aust.edu/cse/departmental_activities/1643" style="color: #10b981; text-decoration: none; margin-left: 10px;"><span style="font-family: 'Font Awesome 5 Free'; font-weight: 900;">🔗</span> Event Details</a>
+      </li>
+    </ul>
+  </div>
+</div>
+</span>
