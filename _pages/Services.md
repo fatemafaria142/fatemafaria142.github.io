@@ -52,7 +52,7 @@ title: ""
     </ul>
   </div>
 </div>
-</span>
+
 
 ## Voluntary Experience
 <span style="font-family: 'Segoe UI', sans-serif; color: black;">
@@ -68,4 +68,4 @@ title: ""
     </ul>
   </div>
 </div>
-</span>
+
