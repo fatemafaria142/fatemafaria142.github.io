@@ -132,7 +132,6 @@ title: ""
       </ul>
     </div>
   </div>
-</span>
 
 
 <span style="font-family: 'Segoe UI', sans-serif; color: black;">
