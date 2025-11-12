@@ -239,6 +239,17 @@ redirect_from:
 
 ## ⚡ Recent Highlights
 <div class="news-wrapper">
+
+<!-- 2025 -->
+<div class="news-card year-2025">
+  <div class="news-date">November 2025</div>
+  <div class="news-desc">
+    Awarded a 50% registration fee scholarship for research excellence and paper presentation of <strong>"PotatoGANs"</strong> at the 
+    <a class="news-link" href="https://i-coste.org/" target="_blank">11th IEEE International Conference on Sustainable Technology and Engineering (i-COSTE 2025)</a>.
+  </div>
+</div>
+
+
 <!-- 2025 -->
 <div class="news-card year-2025">
   <div class="news-date">November 2025</div>

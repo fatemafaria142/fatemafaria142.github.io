@@ -94,6 +94,15 @@ author_profile: true
 <div class="news-card y2025">
   <div class="news-date">November 2025</div>
   <div class="news-desc">
+    Awarded a 50% registration fee scholarship for research excellence and paper presentation of <strong>"PotatoGANs"</strong> at the 
+    <a class="news-link" href="https://i-coste.org/" target="_blank">11th IEEE International Conference on Sustainable Technology and Engineering (i-COSTE 2025)</a>.
+  </div>
+</div>
+
+<!-- 2025 -->
+<div class="news-card y2025">
+  <div class="news-date">November 2025</div>
+  <div class="news-desc">
     Joined as <strong>AI Engineer II</strong> at 
     <a class="news-link" href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>!
   </div>
