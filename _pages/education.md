@@ -87,7 +87,7 @@ author_profile: true
   </ul>
 </div>
 
-<div style="background-color: white; border-left: 5px solid #10b981; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background-color: white; border-left: 5px solid #ff7f00; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="background-color: #fff4e6; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
     <span style="color: #ff7f00; font-size: 1em; font-weight: bold;">Conference Presentation Certificates</span>
   </div>
@@ -96,14 +96,13 @@ author_profile: true
       <span style="position: absolute; left: 0; color: #ff7f00; font-size: 0.9em;">■</span>
       🎥 <b>ICCCNet-2024</b>, Springer LNNS, Acceptance Rate: 26%, 17<sup>th</sup>-18<sup>th</sup> October 2024, Manchester, United Kingdom. <br>
       Presented paper (Virtual): <i>"Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study"</i> 
-      <a href="https://drive.google.com/file/d/11kB8GU_Ixu3BTELS1Q0FdNegWUbxnUJf/view?usp=sharing" style="color: #ffb366; text-decoration: none; margin-left: 5px;">📄 Certificate</a>
+      <a href="https://drive.google.com/file/d/11kB8GU_Ixu3BTELS1Q0FdNegWUbxnUJf/view?usp=sharing" style="color: #ff7f00; text-decoration: none; margin-left: 5px;">📄 Certificate</a>
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #ff7f00; font-size: 0.9em;">■</span>
       🎥 <b>ICCCNet-2024</b>, Springer LNNS, Acceptance Rate: 26%, 17<sup>th</sup>-18<sup>th</sup> October 2024, Manchester, United Kingdom. <br>
       Presented paper (Virtual): <i>"Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification"</i> 
-      <a href="https://drive.google.com/file/d/1Nja_iUUFdw2uslxPuaEzZ-qEs1Z7ZFHg/view?usp=sharing" style="color: #ffb366; text-decoration: none; margin-left: 5px;">📄 Certificate</a>
+      <a href="https://drive.google.com/file/d/1Nja_iUUFdw2uslxPuaEzZ-qEs1Z7ZFHg/view?usp=sharing" style="color: #ff7f00; text-decoration: none; margin-left: 5px;">📄 Certificate</a>
     </li>
   </ul>
 </div>
-
