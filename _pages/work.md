@@ -115,19 +115,23 @@ title: ""
   <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
     <div style="background-color: white; border-left: 5px solid #065f46; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
       <div style="background-color: #d1fae5; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-        <span style="color: #065f46; font-size: 1em; font-weight: bold;">Next-Gen AI Automation Platform: AIT 360</span> 
+        <span style="color: #065f46; font-size: 1em; font-weight: bold;">Toby (Code Name): Adaptive AI HR Assistant within AIT360 Ecosystem</span> 
       </div>
       <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Developing an AI-powered tool to help HR teams analyze candidate resumes, assign rubric scores to rank and compare candidates, highlight strengths and gaps, and provide actionable suggestions for improvement.
+          Implemented a Job Description Builder Agent with human-in-the-loop workflows that enable real-time JD review, enhancement, regeneration, rejection, and approval.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Currently working on streamlined automation across departments to automate repetitive and manual tasks in all company departments, significantly reducing human intervention and operational effort.
+          Integrated a session-based system with a relational database to securely store original submissions and all AI-generated drafts, to allow HR users to resume their work at any time and delete drafts as needed.
+        </li>
+        <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+          <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
+          Designed a user-focused interface for HR to craft new job descriptions, review drafts in a list view, and finalize the final version with one click.
         </li>
          <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, LangGraph, LangChain, OpenAI, Elastic Container Registry (ECR), Elastic Container Service (ECS), FastAPI, React, TypeScript
+          <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, PostgreSQL, LangGraph, LangChain, OpenAI, AWS, FastAPI, React, JavaScript
         </li>
       </ul>
     </div>
@@ -183,14 +187,14 @@ title: ""
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #4f46e5; font-size: 0.9em;">■</span>
-          Achieved approximately 63% cost reduction by optimizing custom agent usage for 80 Sales Managers handling 50+ interactions per day, replacing the existing SharePoint Agent.
+          Achieved 63% yearly operational cost reduction by optimizing custom agent usage for 80 <i>Sales Managers</i> handling 50+ interactions per day, replacing the existing SharePoint Agent (Microsoft 365 Copilot Agent).
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #4f46e5; font-size: 0.9em;">■</span>
-          Optimized RAG query search accuracy by 96%, automating document content extraction and significantly reducing manual effort.
+          Optimized RAG query accuracy by 96%, reduced token costs by 42%, and enabled users to upload or select up to 50 files per agent, surpassing Microsoft Copilot's 20-file limit.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4f46e5; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-4.1, text-embedding-3-large), Azure SQL, Prompt Engineering, Azure Functions, AlloyDB for PostgreSQL, Azure App Service, OpenCV, React, FastAPI,  Ragas
+          <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4f46e5; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, LangChain, Azure OpenAI (GPT-4.1, GPT-4o, text-embedding-3-large), Azure Bot Services, Azure SQL, Azure Functions, AlloyDB for PostgreSQL (pgvector), Azure App Service, React, FastAPI, Ragas
         </li>
       </ul>
     </div>
@@ -232,7 +236,7 @@ title: ""
     Deployed and optimized organizational hierarchy search for Account Managers by eliminating full Bullhorn database queries, reducing search time by 92%, and enabling faster access to relevant data.
   </li>
   <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-    <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4b0082; display: inline;">Tech Stack Used:</span></b> Python, LangChain, LangGraph, Azure OpenAI (GPT-4.1, GPT-4o-Mini, text-embedding-3-small), Prompt Engineering, Azure App Service, Azure SQL, OpenCV,  React, FastAPI, Docker
+    <b><span style="background-color: #e0e7ff; padding: 0 8px 0 12px; color: #4b0082; display: inline;">Tech Stack Used:</span></b> Python, LangChain, LangGraph, Azure OpenAI (GPT-4.1, GPT-4o-Mini, text-embedding-3-small), Prompt Engineering, Azure SQL, Azure App Service, OpenCV,  React, FastAPI, WebSocket, Docker
   </li>
 </ul>
 
@@ -268,10 +272,10 @@ title: ""
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #15803d; font-size: 0.9em;">■</span>
-      Reduced manual review time by 75% and accelerated decision-making through automated extraction and predictive insights, enabling <i>Proposal Managers</i> to focus on strategic bid development.
+      Reduced manual review time for 100+ pages by 3–5 days and accelerated decision-making through automated extraction and predictive insights, enabling <i>Proposal Managers</i> to focus on strategic bid development.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-      <b><span style="background-color: #dcfce7; padding: 0 8px 0 12px; color: #15803d; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL, CouchDB, Azure App Service, React, FastAPI, Ragas, Docker
+      <b><span style="background-color: #dcfce7; padding: 0 8px 0 12px; color: #15803d; display: inline;">Tech Stack Used:</span></b> Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL (pgvector), CouchDB, Azure App Service, React, FastAPI, DeepEval, Docker
     </li>
   </ul>
 </div>
@@ -283,7 +287,7 @@ title: ""
   <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
-      Designed and deployed an LLM-powered application that repurposes existing client-facing PowerPoint presentations for case studies, leveraging chain-of-thought prompting to transform them into new practice areas and industries, enabling Sales Managers to rapidly generate domain-specific demo presentations.
+      Designed and deployed an LLM-powered application that repurposes existing client-facing PowerPoint presentations for case studies, leveraging chain-of-thought prompting to transform them into new practice areas and industries, enabling <i>Sales Managers</i> to rapidly generate domain-specific demo presentations.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #b45309; font-size: 0.9em;">■</span>
@@ -335,6 +339,14 @@ title: ""
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <span style="position: absolute; left: 0; color: #fc3297; font-size: 0.9em;">■</span>
       Implemented a Website Scraping Agent utilizing ScraperAPI to extract targeted data from discovered URLs, processing raw HTML/text content into structured business data, and built a custom RAG pipeline that filters contextually relevant information and generates structured outputs, including tables, organizational reports, and business intelligence summaries.
+    </li>
+    <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+      <span style="position: absolute; left: 0; color: #fc3297; font-size: 0.9em;">■</span>
+      Built a Transcript Agentic RAG pipeline that ingests IT/tech video URLs, processes transcripts through semantic chunking, and produces structured, context-aware summaries to surface emerging technologies and in-demand skills.
+    </li>
+    <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+      <span style="position: absolute; left: 0; color: #fc3297; font-size: 0.9em;">■</span>
+      Designed an automated data analysis pipeline with interactive graphs and charts that surface company-wise hiring patterns and role-specific demand, equipping 250+ <i>Technical Recruiters</i> with competitive insights to make informed, data-driven talent acquisition decisions.
     </li>
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
       <b><span style="background-color: #ffe6f0; padding: 0 8px 0 12px; color: #fc3297; display: inline;">Tech Stack Used:</span></b> Python, LangChain, Langfuse, CrewAI, Azure OpenAI (GPT-4o, text-embedding-3-snall), ChromaDB, JobSpy, React, FastAPI
