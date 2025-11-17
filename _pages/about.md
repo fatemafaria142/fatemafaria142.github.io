@@ -211,7 +211,7 @@ redirect_from:
   <li><em>Large Multimodal Models</em></li>
   <li><em>LLM Agents</em></li>
   <li><em>Multimodal AI Agents</em></li>
-  <li><em>Human–LLM Interaction</em></li>
+  <li><em>Human–Computer Interaction</em></li>
   <li><em>NLP for Social Good</em></li>
 </ul>
 <ul>
