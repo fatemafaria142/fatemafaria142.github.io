@@ -59,11 +59,11 @@ title: ""
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- 1st Card: AUST CSE ODYSSEY Spring 2022 -->
-  <div style="background-color: #3b82f6; border-left: 5px solid #2563eb; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <span style="color: #ffffff; font-size: 1.3em; font-weight: bold;">AUST CSE ODYSSEY Spring 2022</span>
+  <div style="background-color:: white; border-left: 5px solid #2563eb; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <span style="color: #2563eb; font-size: 1.3em; font-weight: bold;">AUST CSE ODYSSEY Spring 2022</span>
     <ul style="font-family: 'Segoe UI', sans-serif; color: white; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-        <span style="position: absolute; left: 0; color: #ffffff; font-size: 0.9em;">■</span>
+        <span style="position: absolute; left: 0; color: #2563eb; font-size: 0.9em;">■</span>
         Served as an <b>Organizer</b>, overseeing event logistics, stage management, and end-to-end program execution for a full-day university celebration featuring cultural performances and a live concert.
       </li>
     </ul>
@@ -84,5 +84,5 @@ title: ""
   </div>
 
 </div>
-</span>
+
 
