@@ -101,7 +101,7 @@ redirect_from:
   Hi! I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a 
   <strong style="color:#1e40af;">AI Engineer II</strong> at 
   <a href="https://www.linkedin.com/company/asthait/">Astha.IT</a>. 
-My expertise lies in designing, developing, and deploying generative AI-based applications with a strong focus on Large Language Models (LLMs), Large Multimodal Models (LMMs), Retrieval-Augmented Generation (RAG), as well as LLM Agents and Multimodal AI Agents, along with their multi-agent architectures for automating complex tasks and supporting data-driven insights. I also place equal emphasis on creating user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
+My expertise lies in designing, developing, and deploying generative AI-based applications with a strong focus on Large Language Models, Large Multimodal Models, Retrieval-Augmented Generation (RAG), as well as LLM Agents and Multimodal AI Agents, along with their multi-agent architectures for automating complex tasks and supporting data-driven insights. I also place equal emphasis on creating user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
 </p>
 
 <div class="info-wrapper">
