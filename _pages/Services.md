@@ -76,7 +76,7 @@ title: ""
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #f59e0b; font-size: 0.9em;">■</span>
-        Served as an <b>Organizer</b> for the Intra-AUST Programming Contest, contributing to event planning, coordination, and participant engagement. 
+        Served as an <b>Organizer</b> for the Intra-AUST Programming Contest, Robo Soccer, and Software Exhibition Events, contributing to planning, coordination, and participant engagement.
         <a href="https://www.aust.edu/cse/departmental_activities/1643" style="color: #10b981; text-decoration: none; margin-left: 10px;"><span style="font-family: 'Font Awesome 5 Free'; font-weight: 900;">🔗</span> Event Details</a>
       </li>
     </ul>
