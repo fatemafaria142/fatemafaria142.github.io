@@ -65,7 +65,7 @@ author_profile: true
       <span style="color: #f59e0b; font-weight: bold;">3.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">MindSpeak-Bangla: A Domain-Specific Dataset for Automatic Chain-of-Thought Adaptation in Mental Health Support for Low-Resource Bengali Language Settings</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Md. Mahfuzur Rahman, Khan Md Hasib, Md. Jakir Hossen, Dr. M. F. Mridha</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Under Review in the AI Magazine (Q1)</em></p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Under Review in the AI Magazine (Q2)</em></p>
     </div>
   </div>
 
@@ -79,6 +79,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Laith H. Baniata, Ahyoung Choi, Sangwoo Kang</p>
      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in the MDPI Mathematics (Q1)</em></p>
+     <a href="https://www.mdpi.com/2227-7390/13/18/3046" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 
@@ -128,6 +129,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Busra Kamal Rafa, Swarnajit Saha, Md. Mahfuzur Rahman, Khan Md Hasib, M. F. Mridha</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in the International Journal of Disaster Risk Reduction (Q1)</em></p>
+       <a href="https://www.sciencedirect.com/science/article/pii/S2212420925006247" style="display: inline-block; background: linear-gradient(to right, #10b981, #34d399); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
       <span style="color: #10b981; font-weight: bold;">6.5 </span>
