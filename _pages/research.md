@@ -52,7 +52,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Analyzing Diagnostic Reasoning of Vision–Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Laith H. Baniata, Ahyoung Choi, Sangwoo Kang</p>
       <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in MDPI Mathematics (Q1)</em></p>
-      <a href="https://www.mdpi.com/2227-7390/13/14/2322" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
+      <a href="https://www.mdpi.com/2227-7390/13/14/2322" style="display: inline-block; background: linear-gradient(to right, #f60591ff, #f378c0ff); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 
@@ -79,7 +79,7 @@ author_profile: true
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Laith H. Baniata, Ahyoung Choi, Sangwoo Kang</p>
      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Journal:</strong> <em>Published in the MDPI Mathematics (Q1)</em></p>
-     <a href="https://www.mdpi.com/2227-7390/13/18/3046" style="display: inline-block; background: linear-gradient(to right, #3b82f6, #60a5fa); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
+     <a href="https://www.mdpi.com/2227-7390/13/18/3046" style="display: inline-block; background: linear-gradient(to right, #ef4444, #f87171); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>
 
