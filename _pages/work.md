@@ -120,15 +120,19 @@ title: ""
       <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Implemented a Job Description Builder Agent with human-in-the-loop workflows that enable real-time JD review, enhancement, regeneration, rejection, and approval.
+          Implemented and deployed a Job Description Builder Agent with human-in-the-loop workflows that can create or enhance job information (descriptions, requirements, technical responsibilities) and allow HR to approve them.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Integrated a session-based system with a relational database to securely store original submissions and all AI-generated drafts, to allow HR users to resume their work at any time and delete drafts as needed.
+          Built a relational database system to store original job-required fields, original job information, and all versions of Agent-generated drafts to support HR in resuming or deleting work at any time.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Designed a user-focused interface for HR to craft new job descriptions, review drafts in a list view, and finalize the final version with one click.
+         Designed user-centric interfaces for HR to create or edit job postings, view comprehensive job dashboards, and track departmental comments on jobs they created. 
+        </li>
+        <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+          <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
+         Developed a departmental dashboard for team members to review HR-assigned jobs by accepting, rejecting, or providing feedback, and to view statistics on jobs posted, in progress, or completed.
         </li>
          <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, PostgreSQL, LangGraph, LangChain, OpenAI, AWS, FastAPI, React, JavaScript
@@ -282,7 +286,7 @@ title: ""
 
 <div style="background-color: white; border-left: 5px solid #b45309; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="background-color: #fef3c7; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-    <span style="color: #92400e; font-size: 1em; font-weight: bold;">Automated Presentation Insights Generator: CaseAligner</span>
+    <span style="color: #92400e; font-size: 1em; font-weight: bold;">Automated Presentation Takeaways Generator: CaseAligner</span>
   </div>
   <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
     <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
