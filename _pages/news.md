@@ -94,7 +94,7 @@ author_profile: true
 <div class="news-card y2025">
   <div class="news-date">December 2025</div>
   <div class="news-desc">
-    Presented the research paper <strong>"PotatoGANs"</strong> at the 
+    Presented <strong>"PotatoGANs"</strong> at the 
     <a class="news-link" href="https://i-coste.org/" target="_blank">
       11th IEEE International Conference on Sustainable Technology and Engineering (i-COSTE 2025)
     </a>.

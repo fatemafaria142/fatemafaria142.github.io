@@ -244,7 +244,7 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
 <div class="news-card year-2025">
   <div class="news-date">December 2025</div>
   <div class="news-desc">
-    Presented the research paper <strong>"PotatoGANs"</strong> at the 
+    Presented <strong>"PotatoGANs"</strong> at the 
     <a class="news-link" href="https://i-coste.org/" target="_blank">
       11th IEEE International Conference on Sustainable Technology and Engineering (i-COSTE 2025)
     </a>.

@@ -115,7 +115,7 @@ title: ""
   <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
     <div style="background-color: white; border-left: 5px solid #065f46; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
       <div style="background-color: #d1fae5; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-        <span style="color: #065f46; font-size: 1em; font-weight: bold;">Toby (Code Name): Adaptive AI HR Assistant within AIT360 Ecosystem</span> 
+        <span style="color: #065f46; font-size: 1em; font-weight: bold;">Adaptive HR Assistant: Toby (Ongoing)</span> 
       </div>
       <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
@@ -135,7 +135,7 @@ title: ""
          Developed a departmental dashboard for team members to review HR-assigned jobs by accepting, rejecting, or providing feedback, and to view statistics on jobs posted, in progress, or completed.
         </li>
          <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, PostgreSQL, LangGraph, LangChain, OpenAI, AWS, FastAPI, React, JavaScript
+          <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, PostgreSQL, LangGraph, LangChain, OpenAI (GPT-4o), AWS ECR, App Runner, AWS EC2, FastAPI, React, TypeScript, Tailwind CSS
         </li>
       </ul>
     </div>
