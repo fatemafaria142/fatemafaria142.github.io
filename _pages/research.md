@@ -132,8 +132,8 @@ author_profile: true
     <div class="paper" style="margin: 15px 0; font-family: 'Trebuchet MS', sans-serif; color: black;">
       <span style="color: #10b981; font-weight: bold;">6.5 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes</h3>
-      <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, Faisal Muhammad Shah</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Under Review in 2025 9th International Conference on Vision, Image and Signal Processing (ICVISP 2025)</em></p>
+      <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Pronay Debnath, Md. Mahfuzur Rahman, Asif Iftekher Fahim, Faisal Muhammad Shah</p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Under Review in 6th International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV-2026)</em></p>
     </div>
   </div>
 
@@ -211,7 +211,7 @@ author_profile: true
       <span style="color: #f97316; font-weight: bold;">11.1 </span>
       <h3 style="color: #2c3e50; font-size: 1.2em; margin: 5px 0;">PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification</h3>
       <p style="font-style: italic; margin: 5px 0;"><strong style="color: #c45d25;">Authors:</strong> <span style="color: #6b21a8;">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Mohammad Shafiul Alam, Ahmed Al Wase, Md. Rabius Sani, Khan Md Hasib</p>
-      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Accepted for presentation and publication at the 11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)</em></p>
+      <p style="color: green; margin: 5px 0;"><strong style="color: #c45d25;">Conference:</strong> <em>Presented at the 11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)</em></p>
       <a href="https://arxiv.org/pdf/2405.07332" style="display: inline-block; background: linear-gradient(to right, #f97316, #fb923c); color: white; padding: 8px 15px; border-radius: 8px; text-decoration: none; margin-top: 5px; transition: background 0.3s ease;">View Paper</a>
     </div>
   </div>

@@ -358,8 +358,8 @@ author_profile: true
     <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
       <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
         <span style="position: absolute; left: 0; color: #ef4444; font-size: 0.9em;">■</span>
-        <b>Authors:</b> <span style="color: #10b981">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Asif Iftekher Fahim, Pronay Debnath, and Faisal Muhammad Shah <br/>
-        <b>Conference:</b> <em>Under Review in 2025 9th International Conference on Vision, Image and Signal Processing</em> <br/>
+        <b>Authors:</b> <span style="color: #10b981">Fatema Tuj Johora Faria</span>, Mukaffi Bin Moin, Pronay Debnath, Md. Mahfuzur Rahman, Asif Iftekher Fahim, and Faisal Muhammad Shah <br/>
+        <b>Conference:</b> <em>Under Review in 6th International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV-2026)</em> <br/>
         <div style="margin-top: 10px;"></div>
       </li>
     </ul>

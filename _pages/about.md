@@ -211,7 +211,7 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
   <li><em>Large Multimodal Models</em></li>
   <li><em>LLM Agents</em></li>
   <li><em>Multimodal AI Agents</em></li>
-  <li><em>Human–Computer Interaction</em></li>
+  <li><em>Human-Computer Interaction</em></li>
   <li><em>NLP for Social Good</em></li>
 </ul>
 <ul>
@@ -239,6 +239,18 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
 
 ## ⚡ Recent Highlights
 <div class="news-wrapper">
+
+<!-- 2025 -->
+<div class="news-card year-2025">
+  <div class="news-date">December 2025</div>
+  <div class="news-desc">
+    Presented the research paper <strong>"PotatoGANs"</strong> at the 
+    <a class="news-link" href="https://i-coste.org/" target="_blank">
+      11th IEEE International Conference on Sustainable Technology and Engineering (i-COSTE 2025)
+    </a>.
+  </div>
+</div>
+
 
 <!-- 2025 -->
 <div class="news-card year-2025">
