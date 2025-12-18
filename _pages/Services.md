@@ -83,3 +83,18 @@ title: ""
   </div>
 </div>
 
+## Workshop & Training Experience
+
+<span style="font-family: 'Segoe UI', sans-serif; color: black;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="background-color: white; border-left: 5px solid  #fa48fdff; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <span style="color: #fa48fdff; font-size: 1.3em; font-weight: bold;">Agile Transformation Workshop 2025</span>
+    <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
+      <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+        <span style="position: absolute; left: 0; color: #fa48fdff; font-size: 0.9em;">■</span>
+         Attended as a <b>Participant</b> and gained practical experience with collaborative team practices covering sprint planning, backlog grooming, user story mapping, daily stand-ups, sprint reviews, and retrospectives, hosted by <a class="news-link" href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>.
+         <a href="https://drive.google.com/file/d/1CuQ8qAfISzwgc_g5QPEEIj-9LWvdFHYb/view?usp=drive_link" style="color: #10b981; text-decoration: none; margin-left: 10px;"><span style="font-family: 'Font Awesome 5 Free'; font-weight: 900;">🔗</span> Certificate</a>
+      </li>
+    </ul>
+  </div>
+</div>
