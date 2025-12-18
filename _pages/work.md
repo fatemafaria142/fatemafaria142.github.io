@@ -120,22 +120,26 @@ title: ""
       <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Implemented and deployed a Job Description Builder Agent with human-in-the-loop workflows that can create or enhance job information (descriptions, requirements, technical responsibilities) and allow HR to approve them.
+          Architected and deployed a Job Details Builder Agent that automates the generation and refinement of job descriptions, requirements, and responsibilities with human-in-the-loop workflows, which cut the process cycle time by 70%.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Built a relational database system to store original job-required fields, original job information, and all versions of Agent-generated drafts to support HR in resuming or deleting work at any time.
+          Implemented a relational database system to store original job-required fields, original job information, and all versions of Agent-generated drafts to support HR in resuming or deleting work at any time.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-         Designed user-centric interfaces for HR to create or edit job postings, view comprehensive job dashboards, and track departmental comments on jobs they created. 
+         Integrated a Job Details Checker Agent to identify missing or insufficient elements in job descriptions, requirements, and technical skills, and suggest improvements for more effective job postings.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-         Developed a departmental dashboard for team members to review HR-assigned jobs by accepting, rejecting, or providing feedback, and to view statistics on jobs posted, in progress, or completed.
+         Developed a comprehensive departmental portal for evaluating HR-drafted jobs for final approval, with actions to accept, reject, or give feedback and view statistics on jobs posted, in progress, or completed.
+        </li>
+        <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+          <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
+         Designed user-centric interfaces for HR to monitor departmental actions and comments on their created jobs, modify Agent-generated job details, and directly post them to career page job listings.
         </li>
          <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, PostgreSQL, LangGraph, LangChain, OpenAI (GPT-4o), AWS ECR, App Runner, AWS EC2, FastAPI, React, TypeScript, Tailwind CSS
+          <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, LangGraph, LangChain, Langfuse, OpenAI (GPT-4o),   AWS ECR, AWS App Runner, AWS EC2, PostgreSQL, FastAPI, React, TypeScript, Tailwind CSS
         </li>
       </ul>
     </div>
