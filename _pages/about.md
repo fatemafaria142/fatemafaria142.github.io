@@ -245,11 +245,10 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
   <div class="news-date">December 2025</div>
   <div class="news-desc">
     Participated in the <strong>Agile Transformation Workshop 2025</strong> organized by 
-    <a class="news-link" href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>.
-    Gained hands-on experience with collaborative team practices covering sprint planning, backlog grooming, user story mapping, daily stand-ups, sprint reviews, and retrospectives, acquiring practical knowledge of Agile frameworks.
+    <a class="news-link" href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>
+    and gained hands-on experience with collaborative team practices covering sprint planning, backlog grooming, user story mapping, daily stand-ups, sprint reviews, and retrospectives, which provided practical knowledge of Agile frameworks.
   </div>
 </div>
-
 
 <!-- 2025 -->
 <div class="news-card year-2025">

@@ -94,6 +94,16 @@ author_profile: true
 <div class="news-card y2025">
   <div class="news-date">December 2025</div>
   <div class="news-desc">
+    Participated in the <strong>Agile Transformation Workshop 2025</strong> organized by 
+    <a class="news-link" href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>
+    and gained hands-on experience with collaborative team practices covering sprint planning, backlog grooming, user story mapping, daily stand-ups, sprint reviews, and retrospectives, which provided practical knowledge of Agile frameworks.
+  </div>
+</div>
+
+<!-- 2025 -->
+<div class="news-card y2025">
+  <div class="news-date">December 2025</div>
+  <div class="news-desc">
     Presented <strong>"PotatoGANs"</strong> at the 
     <a class="news-link" href="https://i-coste.org/" target="_blank">
       11th IEEE International Conference on Sustainable Technology and Engineering (i-COSTE 2025)
