@@ -211,7 +211,7 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
   <li><em>Large Multimodal Models</em></li>
   <li><em>LLM Agents</em></li>
   <li><em>Multimodal AI Agents</em></li>
-  <li><em>Human-Computer Interaction</em></li>
+  <li><em>Human-AI Interaction</em></li>
   <li><em>NLP for Social Good</em></li>
 </ul>
 <ul>
