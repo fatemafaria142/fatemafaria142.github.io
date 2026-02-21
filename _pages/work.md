@@ -115,31 +115,38 @@ title: ""
   <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
     <div style="background-color: white; border-left: 5px solid #065f46; border-radius: 10px; padding: 25px; flex: 1 1 100%; max-width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
       <div style="background-color: #d1fae5; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-        <span style="color: #065f46; font-size: 1em; font-weight: bold;">Adaptive HR Assistant: Toby (Ongoing)</span> 
-      </div>
+        <span style="color: #065f46; font-size: 1em; font-weight: bold;">Agentic HR Assistant for Recruitment and Onboarding – Toby (Ongoing)</span></div>
       <ul style="font-family: 'Segoe UI', sans-serif; color: black; margin-top: 15px;">
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Architected and deployed a Job Details Builder Agent that automates the generation and refinement of job descriptions, requirements, and responsibilities with human-in-the-loop workflows, which cut the process cycle time by 70%.
+          Architected and deployed a Job Details Builder Agent that automates the generation and refinement of job descriptions, requirements, and responsibilities using human-in-the-loop workflows, reducing the overall process cycle time by 70%.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-          Implemented a relational database system to store original job-required fields, original job information, and all versions of Agent-generated drafts to support HR in resuming or deleting work at any time.
+        Engineered a Candidate Profile Initial Screening Agent that evaluates candidate profiles, analyzes job postings from career pages to assess alignment, and recommends suitable positions for candidates to apply for.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-         Integrated a Job Details Checker Agent to identify missing or insufficient elements in job descriptions, requirements, and technical skills, and suggest improvements for more effective job postings.
+       Implemented a Candidate-Job Weighted Scoring Agent that evaluates each candidate against specific job requirements using multiple custom metrics, provides transparent explanations for each metric, and ranks candidates based on overall role fit.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
-         Developed a comprehensive departmental portal for evaluating HR-drafted jobs for final approval, with actions to accept, reject, or give feedback and view statistics on jobs posted, in progress, or completed.
+        Built a Multi-Candidate Matching Conversational Agent that interprets HR-defined job criteria and retrieves the most suitable candidates from a centralized CV repository using weighted scoring metrics and rule-based ranking strategies.
         </li>
         <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
           <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
          Designed user-centric interfaces for HR to monitor departmental actions and comments on their created jobs, modify Agent-generated job details, and directly post them to career page job listings.
         </li>
+        <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+          <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
+         Created a Department Portal allowing departments to review HR-submitted job postings, approve, reject, or request re-reviews, track HR day-to-day activities, and view shortlisted candidates shared by HR.
+        </li>
+        <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
+          <span style="position: absolute; left: 0; color: #065f46; font-size: 0.9em;">■</span>
+         Developed a Candidate Portal providing users to register, manage personal, educational, and professional information, receive job suggestions, track applications, and monitor their status (rejected, interview scheduled, or accepted).
+        </li>
          <li style="margin-bottom: 12px; list-style-type: none; position: relative; padding-left: 25px;">
-          <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, LangGraph, LangChain, Langfuse, OpenAI (GPT-4o),   AWS ECR, AWS App Runner, AWS EC2, PostgreSQL, FastAPI, React, TypeScript, Tailwind CSS
+          <b><span style="background-color: #d1fae5; padding: 0 8px 0 12px; color: #065f46; display: inline;">Tech Stack Used:</span></b> Python, LangGraph, LangChain, OpenAI (GPT-4o, GPT-4o mini, text-embedding-3-large), AWS ECR, AWS App Runner, AWS EC2, PostgreSQL, FastAPI, React, TypeScript, Tailwind CSS
         </li>
       </ul>
     </div>
