@@ -101,13 +101,13 @@ redirect_from:
   Hi! I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a 
   <strong style="color:#1e40af;">AI Engineer II</strong> at 
   <a href="https://www.linkedin.com/company/asthait/">Astha.IT</a>. 
-My expertise lies in designing, developing, and deploying generative AI-based applications with a strong focus on Large Language Models, Large Multimodal Models, Retrieval-Augmented Generation (RAG), as well as LLM Agents and Multimodal AI Agents, along with their multi-agent architectures for automating complex tasks and supporting data-driven insights. I also place equal emphasis on creating user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
+My expertise lies in designing, developing, and deploying generative AI-based applications with a strong focus on Large Language Models, Large Multimodal Models, Retrieval-Augmented Generation (RAG), as well as LLM Agents and Multimodal AI Agents, including multi-agent architectures for automating complex tasks and supporting data-driven insights. In my current role, I use cloud infrastructures such as <span style="font-weight:bold; color:#3d3d3d;">AWS S3 buckets</span>, <span style="font-weight:bold; color:#3d3d3d;">AWS EC2 instances</span>, <span style="font-weight:bold; color:#3d3d3d;">AWS ECR</span>, and <span style="font-weight:bold; color:#3d3d3d;">AWS App Runner</span> to build scalable, efficient, and reliable AI systems. I also place equal emphasis on creating user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
 </p>
 
 <div class="info-wrapper">
   <div class="info-card">
     <p style="text-align:justify; color:black; margin:0;">
-      In my previous capacity as <strong>Senior Application Developer</strong> at 
+      In my previous capacity as <strong style="color:#1e40af;">Senior Application Developer</strong> at 
       <a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>, I focused on delivering high-impact work through the following key areas:
       <br><br>
       <b style="color:#1e40af;">(1)</b> 
