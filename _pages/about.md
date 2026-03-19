@@ -53,6 +53,17 @@ redirect_from:
     font-size: 15px;
   }
 
+
+  /* Color coding by year */
+  .year-2026 {
+    border-left: 5px solid #ec00d8;
+  }
+
+  .year-2026 .news-date {
+    background: #ffb5fb;
+    color: #f977ee;
+  }
+
   /* Color coding by year */
   .year-2025 {
     border-left: 5px solid #0077cc;
@@ -239,6 +250,16 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
 
 ## ⚡ Recent Highlights
 <div class="news-wrapper">
+
+<!-- 2026 -->
+<div class="news-card year-2026">
+  <div class="news-date">November 2026</div>
+  <div class="news-desc">
+    Reached <strong>150+ citations</strong> on my 
+    <a class="news-link" href="https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar profile</a>!
+  </div>
+</div>
+
 
 <!-- 2025 -->
 <div class="news-card year-2025">

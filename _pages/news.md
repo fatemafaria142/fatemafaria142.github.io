@@ -56,6 +56,16 @@ author_profile: true
   }
 
   /* Color coding by year */
+  .y2026 {
+    border-left: 6px solid #ec00d8;
+  }
+
+  .y2026 .news-date {
+    background: #ffb5fb;
+    color: #f977ee;
+  }
+  
+  /* Color coding by year */
   .y2025 {
     border-left: 6px solid #7f5af0;
   }
@@ -64,6 +74,7 @@ author_profile: true
     background: #e0d7ff;
     color: #5a3db8;
   }
+
 
   .y2024 {
     border-left: 6px solid #009688;
@@ -85,6 +96,18 @@ author_profile: true
 </style>
 
 <div class="news-wrapper">
+
+<div class="year-header" style="color:#ec00d8;">2026</div>
+
+<!-- 2026 -->
+<div class="news-card y2026">
+  <div class="news-date">March 2026</div>
+  <div class="news-desc">
+    Reached <strong>150+ citations</strong> on my 
+    <a class="news-link" href="https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar profile</a>!
+  </div>
+</div>
+
 
 <!-- 2025 -->
 
