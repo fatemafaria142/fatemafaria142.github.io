@@ -62,7 +62,7 @@ author_profile: true
 
   .y2026 .news-date {
     background: #ffb5fb;
-    color: #f977ee;
+    color: #da03c8;
   }
   
   /* Color coding by year */
