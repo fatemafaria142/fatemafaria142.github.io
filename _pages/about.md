@@ -253,7 +253,7 @@ My expertise lies in designing, developing, and deploying generative AI-based ap
 
 <!-- 2026 -->
 <div class="news-card year-2026">
-  <div class="news-date">November 2026</div>
+  <div class="news-date">March 2026</div>
   <div class="news-desc">
     Reached <strong>150+ citations</strong> on my 
     <a class="news-link" href="https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar profile</a>!
