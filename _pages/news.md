@@ -100,6 +100,14 @@ author_profile: true
 <div class="year-header" style="color:#ec00d8;">2026</div>
 
 <!-- 2026 -->
+
+<div class="news-card y2026">
+  <div class="news-date">April 2026</div>
+  <div class="news-desc">
+    One of my research papers titled <strong>"PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification"</strong> has been published in the <a class="news-link" href="https://i-coste.org/" target="_blank">11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)</a>.
+  </div>
+</div>
+
 <div class="news-card y2026">
   <div class="news-date">March 2026</div>
   <div class="news-desc">
