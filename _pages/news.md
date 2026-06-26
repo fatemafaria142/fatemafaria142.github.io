@@ -101,6 +101,15 @@ author_profile: true
 
 <!-- 2026 -->
 
+
+<div class="news-card y2026">
+  <div class="news-date">June 2026</div>
+  <div class="news-desc">
+    Reached <strong>200+ citations</strong> on my 
+    <a class="news-link" href="https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar profile</a>!
+  </div>
+</div>
+
 <div class="news-card y2026">
   <div class="news-date">April 2026</div>
   <div class="news-desc">
