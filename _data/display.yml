@@ -1,5 +1,6 @@
 homepage:
   show_education: true
+  show_technical_skills: true
   show_news: true
   show_selected_publications: true
   num_news: 10
