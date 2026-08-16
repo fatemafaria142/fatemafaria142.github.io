@@ -9,10 +9,10 @@ navbar_title: Research Projects
 
         {% if site.data.research.ongoing_projects %}
         <h2 class="pt-2">Ongoing Research Projects</h2>
-        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
-            <ul class="mb-0">
+        <div class="my-0 p-3 bg-white shadow-sm rounded-xl">
+            <ul class="list-unstyled mb-0">
                 {% for item in site.data.research.ongoing_projects %}
-                <li>{{ item }}</li>
+                <li class="py-2 {% unless forloop.last %}border-bottom border-gray{% endunless %}">{{ item }}</li>
                 {% endfor %}
             </ul>
         </div>

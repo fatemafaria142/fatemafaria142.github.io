@@ -48,16 +48,32 @@ portrait_url: /assets/images/photos/portrait.png
 
 education:
 - name: Ahsanullah University of Science and Technology
+  url: https://www.aust.edu/
   logo: /assets/images/badges/education.svg
-  position: >-
-    B.Sc. in Computer Science and Engineering <br/>
-    CGPA 3.302/4.00 &middot; Supervisor: Dr. Mohammad Shafiul Alam &middot; Co-supervisor: Khan Md Hasib
+  degree: Bachelor of Science in Computer Science and Engineering
   date: 2019 - 2023
   location: Dhaka, Bangladesh
-  cgpa: "3.302 (Ranked 84th out of 145 students)"
+  gpa_label: "CGPA: 3.302 out of 4.00"
   thesis_title: >-
     Generative Adversarial Networks for Crop Disease: A Case Study with Potato Disease Classification and Instance
     Segmentation
-  supervisor: "Dr. Mohammad Shafiul Alam, Professor, Department of CSE, AUST"
-  co_supervisor: >-
-    Khan Md Hasib, Assistant Professor, Department of CSE, Bangladesh University of Business and Technology
+  supervisor:
+    name: Prof. Dr. Mohammad Shafiul Alam
+    url: https://www.aust.edu/cse/faculty_member/prof_dr_mohammad_shafiul_alam
+  co_supervisor:
+    name: Khan Md Hasib
+    url: https://hasibaust13.github.io/
+
+- name: National Ideal College
+  url: https://www.nationalidealcollege.edu.bd/
+  logo: /assets/images/badges/education.svg
+  degree: Higher Secondary Certificate
+  date: 2015 - 2017
+  gpa_label: "GPA: 5.00 out of 5.00"
+
+- name: Motijheel Model School and College
+  url: https://mmodel.edu.bd/
+  logo: /assets/images/badges/education.svg
+  degree: Secondary School Certificate
+  date: 2009 - 2015
+  gpa_label: "GPA: 5.00 out of 5.00"
