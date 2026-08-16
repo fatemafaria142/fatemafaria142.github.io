@@ -16,7 +16,7 @@ navbar_title: Education
                         <h5 class="mb-0">
                             {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}
                         </h5>
-                        <div class="text-muted no-break"><em>{{ item.date }}</em></div>
+                        <div class="text-muted no-break">{{ item.date }}</div>
                     </div>
                     <div class="text-primary font-weight-bold">{{ item.degree }}</div>
                     {% if item.location %}<div class="small text-muted mb-2">{{ item.location }}</div>{% endif %}
