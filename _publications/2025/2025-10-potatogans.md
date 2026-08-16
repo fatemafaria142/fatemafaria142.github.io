@@ -1,8 +1,7 @@
 ---
 title:          "PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification"
 date:           2025-10-15 00:01:00 +0600
-selected:       true
-selected_order: 5
+selected:       false
 pub:            "11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)"
 pub_date:       "2025"
 abstract: >-

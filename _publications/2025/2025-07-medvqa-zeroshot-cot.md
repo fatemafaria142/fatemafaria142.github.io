@@ -1,7 +1,7 @@
 ---
 title:          "Analyzing Diagnostic Reasoning of Vision–Language Models via Zero-Shot Chain-of-Thought Prompting in Medical Visual Question Answering"
 date:           2025-07-01 00:01:00 +0600
-selected:       true
+selected:       false
 pub:            "Mathematics (MDPI), Vol. 13, Issue 14, Article 2322"
 pub_date:       "2025"
 abstract: >-
