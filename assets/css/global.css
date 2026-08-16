@@ -88,6 +88,29 @@ div.lazy {
     font-size: 100%;
 }
 
+.pub-item {
+    transition: background-color 0.15s ease-in-out;
+}
+
+.pub-item:hover {
+    background-color: #f8f9fc;
+}
+
+.pub-title {
+    font-size: 1.05rem;
+    line-height: 1.35;
+}
+
+.pub-link-btn {
+    border-radius: 999px;
+    font-size: 0.78rem;
+    padding: 0.15rem 0.7rem;
+}
+
+.pub-link-btn i {
+    margin-right: 0.25rem;
+}
+
 .email-text {
     font-family: Source Code Pro, monospace;
 }

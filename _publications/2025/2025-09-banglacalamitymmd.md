@@ -2,6 +2,7 @@
 title:          "BanglaCalamityMMD: A Comprehensive Benchmark Dataset for Multimodal Disaster Identification in the Low-Resource Bangla Language"
 date:           2025-09-01 00:01:00 +0600
 selected:       true
+selected_order: 4
 pub:            "International Journal of Disaster Risk Reduction, Vol. 130, Article 105800"
 pub_date:       "2025"
 abstract: >-
