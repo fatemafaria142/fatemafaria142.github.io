@@ -15,7 +15,7 @@ navbar_title: Work Experience
                 <div class="media-body">
                     <div class="d-flex flex-wrap justify-content-between align-items-baseline">
                         <h5 class="mb-0">{{ job.company }}</h5>
-                        <div class="text-muted no-break"><em>{{ job.date }}</em></div>
+                        <div class="text-muted no-break">{{ job.date }}</div>
                     </div>
                     <div class="text-primary font-weight-bold">{{ job.role }}</div>
                     {% if job.location %}<div class="small text-muted mb-2">{{ job.location }}</div>{% endif %}
@@ -55,7 +55,7 @@ navbar_title: Work Experience
         <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
             <div class="d-flex flex-wrap justify-content-between align-items-baseline">
                 <h5 class="mb-0">{{ item.role }}</h5>
-                <div class="text-muted no-break"><em>{{ item.date }}</em></div>
+                <div class="text-muted no-break">{{ item.date }}</div>
             </div>
             <div class="text-primary font-weight-bold">{{ item.subject }}</div>
             {% if item.location %}<div class="small text-muted mb-2">{{ item.location }}</div>{% endif %}
