@@ -7,11 +7,11 @@ jobs:
   projects:
     - name: "Product: TalentX"
       bullets:
-        - "Built a Job Builder Agent that enables users to create jobs from scratch or upload existing PDF/DOCX job descriptions, extracts and structures individual job fields, and refines them through human-in-the-loop workflows, reducing process cycle time by 75%+."
-        - "Developed a Candidate Profile Screening Agent that extracts and analyzes candidate profile attributes, parses job postings from career pages, evaluates candidate–job alignment against relevant criteria, and generates ranked job recommendations for suitable positions."
-        - "Implemented a Job Fit Scoring Agent that generates job-specific evaluation criteria and weights for each job, evaluates candidates against the corresponding requirements, and provides interpretable scores with criterion-level explanations, reducing HR evaluation time by 80%+."
-        - "Architected a Talent Matching Agent that converts natural-language HR queries into structured job criteria, performs semantic and structured search across a centralized CV bank, and returns ranked candidates with AI-generated reasoning and profile-level evidence for each match."
-        - "Optimized large-scale CV processing through batch execution, parallel processing, and result caching, enabling efficient evaluation of 1,000–1,200 candidate profiles with fewer redundant LLM calls and lower response latency."
+        - "Built a <strong>Job Builder Agent</strong> that enables users to create jobs from scratch or upload existing PDF/DOCX job descriptions, extracts and structures individual job fields, and refines them through human-in-the-loop workflows, reducing process cycle time by <strong>75%+</strong>."
+        - "Developed a <strong>Candidate Profile Screening Agent</strong> that extracts and analyzes candidate profile attributes, parses job postings from career pages, evaluates candidate–job alignment against relevant criteria, and generates ranked job recommendations for suitable positions."
+        - "Implemented a <strong>Job Fit Scoring Agent</strong> that generates job-specific evaluation criteria and weights for each job, evaluates candidates against the corresponding requirements, and provides interpretable scores with criterion-level explanations, reducing HR evaluation time by <strong>80%+</strong>."
+        - "Architected a <strong>Talent Matching Agent</strong> that converts natural-language HR queries into structured job criteria, performs semantic and structured search across a centralized CV bank, and returns ranked candidates with AI-generated reasoning and profile-level evidence for each match."
+        - "Optimized large-scale CV processing through batch execution, parallel processing, and result caching, enabling efficient evaluation of <strong>1,000–1,200 candidate profiles</strong> with fewer redundant LLM calls and lower response latency."
       tech_stack: "Python, LangGraph, LangChain, OpenAI (GPT-4o, text-embedding-3-large), Google Cloud Storage, Google App Engine, Google Compute Engine, PostgreSQL, Amazon SES (SMTP), FastAPI, React, TypeScript"
 
 - company: Dexian (Bangladesh) Limited
@@ -28,7 +28,7 @@ jobs:
         - "Enabled users to manage an agent's knowledge base by adding or deleting files, with real-time SharePoint file tracking synchronized with the agent's memory."
         - "Implemented session-based chat with full history retention and session reset support for context-aware interactions, and integrated it with Microsoft Bot Framework to enable interactive conversations within Microsoft Teams."
         - "Spearheaded the project and mentored junior developers through system design guidance, debugging support, regular code reviews, and knowledge-sharing sessions."
-        - "Achieved ~40% yearly operational cost reduction by optimizing custom agent usage for 80 <strong>Sales Managers</strong> handling 50+ interactions per day."
+        - "Achieved <strong>~40% yearly operational cost reduction</strong> by optimizing custom agent usage for 80 <strong>Sales Managers</strong> handling 50+ interactions per day."
       tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-4.1, GPT-4o, text-embedding-3-large), Azure Bot Services, Azure SQL Database, AlloyDB for PostgreSQL (pgvector), Azure App Service, React, FastAPI, Ragas"
 
 - company: Dexian (Bangladesh) Limited
@@ -43,26 +43,26 @@ jobs:
         - "Developed an <strong>OrgQuery Agent</strong> that converts natural language queries into optimized SQL (text-to-SQL) using chain-of-thought (CoT) and self-consistency prompting, retrieves organizational hierarchy from the relational database, and integrates the results into the <strong>OrgChart front-end framework</strong> for hierarchical visualization."
         - "Built <strong>OrgInfo Assistant</strong> to allow users to interact with specific organizational hierarchies by converting queries to SQL, executing them on a temporary organization-specific database to reduce load on the primary database, and converting the retrieved results to natural language."
         - "Developed an <strong>OrgActivity Summarization Agent</strong> to generate 7-day summaries of organizational activities by extracting relevant notes on placements, submissions, and communication logs from the Bullhorn database."
-        - "Set up scheduled jobs to fetch real-time data from Bullhorn and update the organizational database, which reduced organizational hierarchy search time by 75% for <strong>Account Managers</strong> by avoiding direct Bullhorn database queries."
+        - "Set up scheduled jobs to fetch real-time data from Bullhorn and update the organizational database, which <strong>reduced organizational hierarchy search time by 75%</strong> for <strong>Account Managers</strong> by avoiding direct Bullhorn database queries."
       tech_stack: "Python, LangChain, LangGraph, Azure OpenAI (GPT-4.1, GPT-4o mini, text-embedding-3-small), Azure SQL Database, Azure App Service, OpenCV, React, FastAPI, WebSocket"
 
     - name: "Project: RFPMatcher"
       bullets:
         - "Architected a RAG pipeline with Chain-of-Thought prompting and 12 specialized analytical prompts to extract key information (e.g., client requirements, project scope, and deliverables) from Request for Proposal (RFP) documents."
         - "Orchestrated a master RFP database by processing historical responses with metadata (generated answers, summaries, win/loss labels, and question categories) and vector embeddings to support semantic search."
-        - "Designed a Past Experience Matcher system that analyzes new RFP documents by extracting key client requirements, generating binary (Yes/No) and descriptive questions for each section, and querying a master database to identify relevant past experiences through semantic similarity matching."
+        - "Designed a <strong>Past Experience Matcher</strong> system that analyzes new RFP documents by extracting key client requirements, generating binary (Yes/No) and descriptive questions for each section, and querying a master database to identify relevant past experiences through semantic similarity matching."
         - "Developed a Table of Contents (TOC) generation workflow that analyzes extracted RFP key information against predefined section libraries (10 standard and 12 non-standard sections) to intelligently select and prioritize relevant sections based on project requirements."
         - "Implemented a section-based <strong>Proposal Writing Assistant</strong> that generates initial content for each TOC section using extracted RFP information and relevant past experience, and enables iterative refinement through targeted chat interactions while maintaining conversation history."
-        - "Reduced manual review time for 100+ pages by 3-5 days and accelerated decision-making through automated extraction and predictive insights, enabling <strong>Proposal Managers</strong> to focus on strategic bid development."
+        - "<strong>Reduced manual review time for 100+ pages by 3-5 days</strong> and accelerated decision-making through automated extraction and predictive insights, enabling <strong>Proposal Managers</strong> to focus on strategic bid development."
       tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL (pgvector), CouchDB, Azure App Service, React, FastAPI, DeepEval, Docker"
 
     - name: "Project: AgentDexi"
       bullets:
         - "Formulated a RAG system to identify technological trends and track the top 20 most in-demand skills by extracting information from job descriptions scraped from external company postings."
-        - "Orchestrated a web Research Agent that autonomously performs web searches using the Google Search API and Tavily Search API to extract company information from diverse sources, retrieving the top 10 ranked URLs with contextual preview summaries and filtering results based on relevance to support downstream data extraction and analysis tasks."
-        - "Implemented a Website Scraping Agent utilizing ScraperAPI to extract targeted data from discovered URLs, processing raw HTML/text content into structured data, and built a custom RAG pipeline that filters contextually relevant information and generates structured outputs, including tables, organizational reports, and business intelligence summaries."
-        - "Built a Transcript Agentic RAG pipeline that ingests IT/tech video URLs, processes transcripts through semantic chunking, and produces structured, context-aware summaries to surface emerging technologies and in-demand skills."
-        - "Designed an automated data analysis pipeline with interactive graphs and charts that surface company-wise hiring patterns and role-specific demand, equipping 250+ Technical Recruiters with competitive insights to make informed, data-driven talent acquisition decisions."
+        - "Orchestrated a web <strong>Research Agent</strong> that autonomously performs web searches using the Google Search API and Tavily Search API to extract company information from diverse sources, retrieving the top 10 ranked URLs with contextual preview summaries and filtering results based on relevance to support downstream data extraction and analysis tasks."
+        - "Implemented a <strong>Website Scraping Agent</strong> utilizing ScraperAPI to extract targeted data from discovered URLs, processing raw HTML/text content into structured data, and built a custom RAG pipeline that filters contextually relevant information and generates structured outputs, including tables, organizational reports, and business intelligence summaries."
+        - "Built a <strong>Transcript Agentic RAG</strong> pipeline that ingests IT/tech video URLs, processes transcripts through semantic chunking, and produces structured, context-aware summaries to surface emerging technologies and in-demand skills."
+        - "Designed an automated data analysis pipeline with interactive graphs and charts that surface company-wise hiring patterns and role-specific demand, equipping <strong>250+ Technical Recruiters</strong> with competitive insights to make informed, data-driven talent acquisition decisions."
       tech_stack: "Python, LangChain, Langfuse, CrewAI, Azure OpenAI (GPT-4o, text-embedding-3-small), ChromaDB, JobSpy, React, FastAPI"
 
     - name: "Project: CaseAligner"
@@ -73,7 +73,7 @@ jobs:
         - "Developed comprehensive search functionality to locate information across all generated case studies, including references to specific slide numbers for precise navigation."
         - "Added export functionality to download slides in the company's official presentation template."
         - "Built a user interface for users to download and edit the knowledge base of case studies used for generating new ones."
-        - "Significantly accelerated demo preparation by saving 1-2 full days of slide crafting, allowing Salespersons to focus more on client engagement and closing deals."
+        - "Significantly accelerated demo preparation by <strong>saving 1-2 full days of slide crafting</strong>, allowing <strong>Salespersons</strong> to focus more on client engagement and closing deals."
       tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo), React, FastAPI, Azure App Service, Docker"
 
 reviewer_experience:
