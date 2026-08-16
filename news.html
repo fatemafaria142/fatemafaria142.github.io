@@ -7,16 +7,13 @@ navbar_title: News
 {% assign news_by_year = site.news | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 col-lg-10">
         {% for year in news_by_year %}
         <h2 class="pt-4">{{ year.name }}</h2>
         <div class="my-0 p-3 bg-white shadow-sm rounded-xl">
             <ul class="list-unstyled mb-0">
                 {% for item in year.items %}
-                <li class="d-flex py-1 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
-                    <div>{{ item.title }}</div>
-                    <div class="ml-auto mt-auto pl-3 text-muted no-break">{{ item.date | date: "%b %d" }}</div>
-                </li>
+                {% include widgets/news_item.html item=item last=forloop.last %}
                 {% endfor %}
             </ul>
         </div>

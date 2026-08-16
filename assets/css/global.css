@@ -114,3 +114,51 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+.news-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background-color: #e7f1ff;
+    color: #007bff;
+    font-size: 0.72rem;
+    flex: 0 0 26px;
+}
+
+.news-row {
+    border-radius: 0.4rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    transition: background-color 0.15s ease-in-out;
+}
+
+.news-row:hover {
+    background-color: #f8f9fc;
+}
+
+.detail-card {
+    transition: box-shadow 0.15s ease-in-out, transform 0.15s ease-in-out;
+}
+
+.detail-card:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 123, 255, 0.12) !important;
+    transform: translateY(-1px);
+}
+
+.tech-pill {
+    display: inline-block;
+    background-color: #e7f1ff;
+    color: #0056b3;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    padding: 0.15rem 0.65rem;
+    margin: 0 0.3rem 0.3rem 0;
+}
+
+.current-badge {
+    font-size: 0.7rem;
+    vertical-align: middle;
+}

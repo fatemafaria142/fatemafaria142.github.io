@@ -1,5 +1,7 @@
 jobs:
 - company: Astha.IT
+  url: https://www.linkedin.com/company/asthait/
+  current: true
   logo: /assets/images/badges/experience.svg
   role: AI Engineer II
   location: Dhaka, Bangladesh
@@ -12,9 +14,22 @@ jobs:
         - "Implemented a <strong>Job Fit Scoring Agent</strong> that generates job-specific evaluation criteria and weights for each job, evaluates candidates against the corresponding requirements, and provides interpretable scores with criterion-level explanations, reducing HR evaluation time by <strong>80%+</strong>."
         - "Architected a <strong>Talent Matching Agent</strong> that converts natural-language HR queries into structured job criteria, performs semantic and structured search across a centralized CV bank, and returns ranked candidates with AI-generated reasoning and profile-level evidence for each match."
         - "Optimized large-scale CV processing through batch execution, parallel processing, and result caching, enabling efficient evaluation of <strong>1,000–1,200 candidate profiles</strong> with fewer redundant LLM calls and lower response latency."
-      tech_stack: "Python, LangGraph, LangChain, OpenAI (GPT-4o, text-embedding-3-large), Google Cloud Storage, Google App Engine, Google Compute Engine, PostgreSQL, Amazon SES (SMTP), FastAPI, React, TypeScript"
+      tech_stack:
+        - "Python"
+        - "LangGraph"
+        - "LangChain"
+        - "OpenAI (GPT-4o, text-embedding-3-large)"
+        - "Google Cloud Storage"
+        - "Google App Engine"
+        - "Google Compute Engine"
+        - "PostgreSQL"
+        - "Amazon SES (SMTP)"
+        - "FastAPI"
+        - "React"
+        - "TypeScript"
 
 - company: Dexian (Bangladesh) Limited
+  url: https://www.linkedin.com/company/dexiansolutions/
   logo: /assets/images/badges/experience.svg
   role: Senior Application Developer
   location: Dhaka, Bangladesh
@@ -29,9 +44,20 @@ jobs:
         - "Implemented session-based chat with full history retention and session reset support for context-aware interactions, and integrated it with Microsoft Bot Framework to enable interactive conversations within Microsoft Teams."
         - "Spearheaded the project and mentored junior developers through system design guidance, debugging support, regular code reviews, and knowledge-sharing sessions."
         - "Achieved <strong>~40% yearly operational cost reduction</strong> by optimizing custom agent usage for 80 <strong>Sales Managers</strong> handling 50+ interactions per day."
-      tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-4.1, GPT-4o, text-embedding-3-large), Azure Bot Services, Azure SQL Database, AlloyDB for PostgreSQL (pgvector), Azure App Service, React, FastAPI, Ragas"
+      tech_stack:
+        - "Python"
+        - "LlamaIndex"
+        - "Azure OpenAI (GPT-4.1, GPT-4o, text-embedding-3-large)"
+        - "Azure Bot Services"
+        - "Azure SQL Database"
+        - "AlloyDB for PostgreSQL (pgvector)"
+        - "Azure App Service"
+        - "React"
+        - "FastAPI"
+        - "Ragas"
 
 - company: Dexian (Bangladesh) Limited
+  url: https://www.linkedin.com/company/dexiansolutions/
   logo: /assets/images/badges/experience.svg
   role: Application Developer
   location: Dhaka, Bangladesh
@@ -44,7 +70,17 @@ jobs:
         - "Built <strong>OrgInfo Assistant</strong> to allow users to interact with specific organizational hierarchies by converting queries to SQL, executing them on a temporary organization-specific database to reduce load on the primary database, and converting the retrieved results to natural language."
         - "Developed an <strong>OrgActivity Summarization Agent</strong> to generate 7-day summaries of organizational activities by extracting relevant notes on placements, submissions, and communication logs from the Bullhorn database."
         - "Set up scheduled jobs to fetch real-time data from Bullhorn and update the organizational database, which <strong>reduced organizational hierarchy search time by 75%</strong> for <strong>Account Managers</strong> by avoiding direct Bullhorn database queries."
-      tech_stack: "Python, LangChain, LangGraph, Azure OpenAI (GPT-4.1, GPT-4o mini, text-embedding-3-small), Azure SQL Database, Azure App Service, OpenCV, React, FastAPI, WebSocket"
+      tech_stack:
+        - "Python"
+        - "LangChain"
+        - "LangGraph"
+        - "Azure OpenAI (GPT-4.1, GPT-4o mini, text-embedding-3-small)"
+        - "Azure SQL Database"
+        - "Azure App Service"
+        - "OpenCV"
+        - "React"
+        - "FastAPI"
+        - "WebSocket"
 
     - name: "Project: RFPMatcher"
       bullets:
@@ -54,7 +90,18 @@ jobs:
         - "Developed a Table of Contents (TOC) generation workflow that analyzes extracted RFP key information against predefined section libraries (10 standard and 12 non-standard sections) to intelligently select and prioritize relevant sections based on project requirements."
         - "Implemented a section-based <strong>Proposal Writing Assistant</strong> that generates initial content for each TOC section using extracted RFP information and relevant past experience, and enables iterative refinement through targeted chat interactions while maintaining conversation history."
         - "<strong>Reduced manual review time for 100+ pages by 3-5 days</strong> and accelerated decision-making through automated extraction and predictive insights, enabling <strong>Proposal Managers</strong> to focus on strategic bid development."
-      tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL (pgvector), CouchDB, Azure App Service, React, FastAPI, DeepEval, Docker"
+      tech_stack:
+        - "Python"
+        - "LlamaIndex"
+        - "Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large)"
+        - "Prompt Engineering"
+        - "AlloyDB for PostgreSQL (pgvector)"
+        - "CouchDB"
+        - "Azure App Service"
+        - "React"
+        - "FastAPI"
+        - "DeepEval"
+        - "Docker"
 
     - name: "Project: AgentDexi"
       bullets:
@@ -63,7 +110,16 @@ jobs:
         - "Implemented a <strong>Website Scraping Agent</strong> utilizing ScraperAPI to extract targeted data from discovered URLs, processing raw HTML/text content into structured data, and built a custom RAG pipeline that filters contextually relevant information and generates structured outputs, including tables, organizational reports, and business intelligence summaries."
         - "Built a <strong>Transcript Agentic RAG</strong> pipeline that ingests IT/tech video URLs, processes transcripts through semantic chunking, and produces structured, context-aware summaries to surface emerging technologies and in-demand skills."
         - "Designed an automated data analysis pipeline with interactive graphs and charts that surface company-wise hiring patterns and role-specific demand, equipping <strong>250+ Technical Recruiters</strong> with competitive insights to make informed, data-driven talent acquisition decisions."
-      tech_stack: "Python, LangChain, Langfuse, CrewAI, Azure OpenAI (GPT-4o, text-embedding-3-small), ChromaDB, JobSpy, React, FastAPI"
+      tech_stack:
+        - "Python"
+        - "LangChain"
+        - "Langfuse"
+        - "CrewAI"
+        - "Azure OpenAI (GPT-4o, text-embedding-3-small)"
+        - "ChromaDB"
+        - "JobSpy"
+        - "React"
+        - "FastAPI"
 
     - name: "Project: CaseAligner"
       bullets:
@@ -74,7 +130,14 @@ jobs:
         - "Added export functionality to download slides in the company's official presentation template."
         - "Built a user interface for users to download and edit the knowledge base of case studies used for generating new ones."
         - "Significantly accelerated demo preparation by <strong>saving 1-2 full days of slide crafting</strong>, allowing <strong>Salespersons</strong> to focus more on client engagement and closing deals."
-      tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo), React, FastAPI, Azure App Service, Docker"
+      tech_stack:
+        - "Python"
+        - "LlamaIndex"
+        - "Azure OpenAI (GPT-3.5 Turbo)"
+        - "React"
+        - "FastAPI"
+        - "Azure App Service"
+        - "Docker"
 
 reviewer_experience:
 - FinNLP-2026 @ EMNLP-2026

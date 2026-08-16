@@ -9,12 +9,15 @@ navbar_title: Work Experience
 
         <h2 class="pt-2">Industry Experience</h2>
         {% for job in site.data.experience.jobs %}
-        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
+        <div class="my-3 p-4 bg-white shadow-sm rounded-xl detail-card">
             <div class="media">
                 <img src="{{ job.logo | relative_url }}" alt="{{ job.company }}" style="width: 44px;" class="mr-3 mt-1">
                 <div class="media-body">
                     <div class="d-flex flex-wrap justify-content-between align-items-baseline">
-                        <h5 class="mb-0">{{ job.company }}</h5>
+                        <h5 class="mb-0">
+                            {% if job.url %}<a href="{{ job.url }}" target="_blank" rel="noopener">{{ job.company }}</a>{% else %}{{ job.company }}{% endif %}
+                            {% if job.current %}<span class="badge badge-primary current-badge ml-1">Current</span>{% endif %}
+                        </h5>
                         <div class="text-muted no-break">{{ job.date }}</div>
                     </div>
                     <div class="text-primary font-weight-bold">{{ job.role }}</div>
@@ -29,8 +32,10 @@ navbar_title: Work Experience
                             {% endfor %}
                         </ul>
                         {% if project.tech_stack %}
-                        <div class="small p-2 bg-light rounded-sm text-muted">
-                            <strong class="text-dark">Tech Stack:</strong> {{ project.tech_stack }}
+                        <div class="mt-2">
+                            {% for tech in project.tech_stack %}
+                            <span class="tech-pill">{{ tech }}</span>
+                            {% endfor %}
                         </div>
                         {% endif %}
                     </div>
@@ -52,7 +57,7 @@ navbar_title: Work Experience
         {% if site.data.experience.tutoring_experience %}
         <h2 class="pt-4">Tutoring Experience</h2>
         {% for item in site.data.experience.tutoring_experience %}
-        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
+        <div class="my-3 p-4 bg-white shadow-sm rounded-xl detail-card">
             <div class="d-flex flex-wrap justify-content-between align-items-baseline">
                 <h5 class="mb-0">{{ item.role }}</h5>
                 <div class="text-muted no-break">{{ item.date }}</div>
