@@ -12,7 +12,7 @@
             <div class="media-body">
                 <ul class="list-unstyled mb-0">
                     {% for item in year.items %}
-                    <li class="d-flex py-1 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
+                    <li class="d-flex py-2 px-2 {% unless forloop.last %}mb-1{% endunless %} {% cycle year.name: 'bg-light', '' %} rounded-sm">
                         <div>{{ item.title }}</div>
                         <div class="ml-auto mt-auto pl-3 text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
                     </li>
