@@ -14,35 +14,43 @@ linkedin: fatema-faria
 twitter: SoyedaFariya10
 orcid: 0009-0005-1684-8211
 
-short_bio_text_justify: true
+short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! I am <strong>Fatema Tuj Johora Faria</strong>, currently working as an <strong>AI Engineer II</strong> at
-    <a href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>. I design, develop, and deploy
-    generative AI applications with a strong focus on Large Language Models, Large Multimodal Models, and
-    Retrieval-Augmented Generation (RAG). My work spans building LLM-based agents, multimodal AI agents, and
-    multi-agent architectures that automate complex tasks and enable data-driven insights. In my current role, I
-    leverage cloud infrastructure such as AWS S3, EC2, ECR, and App Runner to build scalable, efficient, and
-    reliable AI systems, while also focusing on user-friendly interfaces that make AI interactions intuitive.
+    Greetings! I am <strong>Fatema Tuj Johora Faria</strong>, and I earned a Bachelor of Science in Computer Science
+    and Engineering from
+    <a href="https://www.aust.edu/" target="_blank">Ahsanullah University of Science and Technology</a>,
+    Dhaka, Bangladesh.
   </p>
   <p>
-    Previously, as <strong>Senior Application Developer</strong> at
-    <a href="https://www.linkedin.com/company/dexiansolutions/" target="_blank">Dexian (Bangladesh) Limited</a>,
-    I led the architecture of generative AI systems for production-grade deployment using Azure OpenAI, Azure SQL,
-    Azure Blob Storage, and AlloyDB for high-performance vector search, oversaw proof-of-concept development to
-    translate stakeholder requirements into feasible solutions, and mentored junior developers on coding standards
-    and architectural best practices.
+    I am currently working as an <strong>AI Engineer II</strong> at
+    <a href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>. My work focuses on designing,
+    developing, and deploying production-grade Agentic AI applications. I build intelligent agents that perform
+    multi-step reasoning, tool use, retrieval, and task orchestration across heterogeneous data sources to automate
+    complex business workflows. I have hands-on experience with Microsoft Azure, Amazon Web Services (AWS), and
+    Google Cloud Platform (GCP) for building scalable, reliable, and production-ready AI systems, while also
+    focusing on user-friendly interfaces that make AI interactions intuitive.
   </p>
-  <p>
-    <strong>Research interests:</strong> Large Language Models, Large Multimodal Models, LLM &amp; Multimodal AI
-    Agents, Human&ndash;AI Interaction, NLP for Social Good, NLP for Low-Resource Languages, AI in Healthcare,
-    Vision-Language Models, Trustworthy AI, and Computer Vision.
-  </p>
-  <p>
-    I am open to collaborative opportunities that align with my research goals. Feel free to reach out at
-    <a href="mailto:fatema.faria142@gmail.com">fatema.faria142@gmail.com</a> (personal) or
-    <a href="mailto:ftj.faria@asthait.com">ftj.faria@asthait.com</a> (official).
-  </p>
+  <p class="mb-2"><strong>Research Interests</strong></p>
+
+  <p class="mb-1"><strong>AI Reasoning &amp; Autonomy:</strong> LLM Reasoning, AI Agents, Multimodal AI</p>
+  <ul class="mb-3">
+    <li>Investigating LLM Reasoning to develop models capable of structured, multi-step reasoning, complex problem-solving, and reliable decision-making.</li>
+    <li>Developing AI Agents that leverage reasoning, planning, tool use, and task orchestration to automate complex tasks and workflows.</li>
+    <li>Exploring Multimodal AI to enable models to reason across language, vision, and heterogeneous information sources for more capable and context-aware AI systems.</li>
+  </ul>
+
+  <p class="mb-1"><strong>Safety, Security, &amp; Alignment:</strong> Trustworthy AI, AI Security</p>
+  <ul class="mb-3">
+    <li>Investigating Trustworthy AI to develop reliable, robust, interpretable, and responsible AI systems for real-world deployment.</li>
+    <li>Exploring AI Security to improve the resilience of AI systems against adversarial threats, vulnerabilities, misuse, and security risks.</li>
+  </ul>
+
+  <p class="mb-1"><strong>Domain-Specific AI Applications:</strong> AI for Databases (NL2SQL/NoSQL), AI for Social Good</p>
+  <ul class="mb-0">
+    <li>Developing AI for Databases systems that translate natural-language queries into SQL/NoSQL and enable more intuitive interaction with structured data.</li>
+    <li>Applying AI for Social Good to address real-world challenges through practical and accessible AI solutions, particularly in domains where AI can create meaningful societal impact.</li>
+  </ul>
 
 portrait_url: /assets/images/photos/portrait.png
 
