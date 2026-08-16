@@ -8,11 +8,14 @@
     <div class="p-3 small">
         {% for year in news_by_year %}
         <div class="media {% unless forloop.last %}mb-3{% endunless %}">
-            <div class="mr-3 mt-1 text-muted font-weight-bold" style="min-width: 2.5em;">{{ year.name }}</div>
+            <div class="mr-3 mt-1 text-muted" style="min-width: 2.5em;">{{ year.name }}</div>
             <div class="media-body">
                 <ul class="list-unstyled mb-0">
                     {% for item in year.items %}
-                    {% include widgets/news_item.html item=item last=forloop.last %}
+                    <li class="d-flex py-2 px-2 {% unless forloop.last %}mb-1{% endunless %} {% cycle year.name: 'bg-light', '' %} rounded-sm">
+                        <div>{{ item.title }}</div>
+                        <div class="ml-auto mt-auto pl-3 text-muted no-break">{{ item.date | date: "%b %d" }}</div>
+                    </li>
                     {% endfor %}
                 </ul>
             </div>
