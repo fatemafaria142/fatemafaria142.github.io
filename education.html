@@ -51,5 +51,21 @@ navbar_title: Education
             </div>
         </div>
         {% endfor %}
+
+        {% if site.data.skills %}
+        <h2 class="pt-4">Technical Skills</h2>
+        <div class="my-0 p-4 bg-white shadow-sm rounded-xl">
+            <table class="table table-borderless mb-0">
+                <tbody>
+                    {% for skill in site.data.skills %}
+                    <tr>
+                        <td class="font-weight-bold text-nowrap align-top pr-3" style="width: 1%;">{{ skill.category }}</td>
+                        <td>{{ skill.items }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endif %}
     </div>
 </div>
