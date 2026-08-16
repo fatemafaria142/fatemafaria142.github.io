@@ -24,7 +24,9 @@ navbar_title: Home
         {% endif %}
 
         {% if site.data.display.homepage.show_selected_publications %}
-        {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+        {% assign ordered_pubs = site.publications | where: "selected", true | where_exp: "item", "item.selected_order" | sort: "selected_order" %}
+        {% assign remaining_pubs = site.publications | where: "selected", true | where_exp: "item", "item.selected_order == nil" | sort: "date" | reverse %}
+        {% assign pubs = ordered_pubs | concat: remaining_pubs %}
         {%
         include widgets/publication_card.html
         publications=pubs
