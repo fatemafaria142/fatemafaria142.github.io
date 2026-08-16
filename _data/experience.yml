@@ -22,9 +22,9 @@ jobs:
   projects:
     - name: "Project: ShareFlow"
       bullets:
-        - "Developed a personalized \"Retrieval Agent\" built upon ReAct with Microsoft SharePoint integration for multi-source information retrieval and custom guardrails to prevent irrelevant responses."
-        - "Orchestrated an \"OCR Agent\" to extract content from diverse unstructured sources (scanned PDFs, images, and DOCX files) with rate limiting to ensure fault-tolerant performance."
-        - "Integrated a \"Web Browser Agent\" that scrapes real-time data from websites to augment RAG responses with current and context-specific information based on user instructions and descriptions."
+        - "Developed a personalized <strong>Retrieval Agent</strong> built upon ReAct with Microsoft SharePoint integration for multi-source information retrieval and custom guardrails to prevent irrelevant responses."
+        - "Orchestrated an <strong>OCR Agent</strong> to extract content from diverse unstructured sources (scanned PDFs, images, and DOCX files) with rate limiting to ensure fault-tolerant performance."
+        - "Integrated a <strong>Web Browser Agent</strong> that scrapes real-time data from websites to augment RAG responses with current and context-specific information based on user instructions and descriptions."
         - "Enabled users to manage an agent's knowledge base by adding or deleting files, with real-time SharePoint file tracking synchronized with the agent's memory."
         - "Implemented session-based chat with full history retention and session reset support for context-aware interactions, and integrated it with Microsoft Bot Framework to enable interactive conversations within Microsoft Teams."
         - "Spearheaded the project and mentored junior developers through system design guidance, debugging support, regular code reviews, and knowledge-sharing sessions."
@@ -39,10 +39,10 @@ jobs:
   projects:
     - name: "Project: OrgInfo"
       bullets:
-        - "Implemented an \"OrgChart Extraction Agent\" to extract organizational hierarchy from organograms using tree-of-thought (ToT) prompting for accurate role placement, and stored the hierarchy in a relational database by mapping roles to corresponding Bullhorn records."
-        - "Developed an \"OrgQuery Agent\" that converts natural language queries into optimized SQL (text-to-SQL) using chain-of-thought (CoT) and self-consistency prompting, retrieves organizational hierarchy from the relational database, and integrates the results into the \"OrgChart front-end framework\" for hierarchical visualization."
-        - "Built \"OrgInfo Assistant\" to allow users to interact with specific organizational hierarchies by converting queries to SQL, executing them on a temporary organization-specific database to reduce load on the primary database, and converting the retrieved results to natural language."
-        - "Developed an \"OrgActivity Summarization Agent\" to generate 7-day summaries of organizational activities by extracting relevant notes on placements, submissions, and communication logs from the Bullhorn database."
+        - "Implemented an <strong>OrgChart Extraction Agent</strong> to extract organizational hierarchy from organograms using tree-of-thought (ToT) prompting for accurate role placement, and stored the hierarchy in a relational database by mapping roles to corresponding Bullhorn records."
+        - "Developed an <strong>OrgQuery Agent</strong> that converts natural language queries into optimized SQL (text-to-SQL) using chain-of-thought (CoT) and self-consistency prompting, retrieves organizational hierarchy from the relational database, and integrates the results into the <strong>OrgChart front-end framework</strong> for hierarchical visualization."
+        - "Built <strong>OrgInfo Assistant</strong> to allow users to interact with specific organizational hierarchies by converting queries to SQL, executing them on a temporary organization-specific database to reduce load on the primary database, and converting the retrieved results to natural language."
+        - "Developed an <strong>OrgActivity Summarization Agent</strong> to generate 7-day summaries of organizational activities by extracting relevant notes on placements, submissions, and communication logs from the Bullhorn database."
         - "Set up scheduled jobs to fetch real-time data from Bullhorn and update the organizational database, which reduced organizational hierarchy search time by 75% for <strong>Account Managers</strong> by avoiding direct Bullhorn database queries."
       tech_stack: "Python, LangChain, LangGraph, Azure OpenAI (GPT-4.1, GPT-4o mini, text-embedding-3-small), Azure SQL Database, Azure App Service, OpenCV, React, FastAPI, WebSocket"
 
@@ -52,7 +52,7 @@ jobs:
         - "Orchestrated a master RFP database by processing historical responses with metadata (generated answers, summaries, win/loss labels, and question categories) and vector embeddings to support semantic search."
         - "Designed a Past Experience Matcher system that analyzes new RFP documents by extracting key client requirements, generating binary (Yes/No) and descriptive questions for each section, and querying a master database to identify relevant past experiences through semantic similarity matching."
         - "Developed a Table of Contents (TOC) generation workflow that analyzes extracted RFP key information against predefined section libraries (10 standard and 12 non-standard sections) to intelligently select and prioritize relevant sections based on project requirements."
-        - "Implemented a section-based \"Proposal Writing Assistant\" that generates initial content for each TOC section using extracted RFP information and relevant past experience, and enables iterative refinement through targeted chat interactions while maintaining conversation history."
+        - "Implemented a section-based <strong>Proposal Writing Assistant</strong> that generates initial content for each TOC section using extracted RFP information and relevant past experience, and enables iterative refinement through targeted chat interactions while maintaining conversation history."
         - "Reduced manual review time for 100+ pages by 3-5 days and accelerated decision-making through automated extraction and predictive insights, enabling <strong>Proposal Managers</strong> to focus on strategic bid development."
       tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL (pgvector), CouchDB, Azure App Service, React, FastAPI, DeepEval, Docker"
 
