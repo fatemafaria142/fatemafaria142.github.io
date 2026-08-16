@@ -6,35 +6,42 @@ navbar_title: Education
 
 <div class="row">
     <div class="col-12 col-lg-10">
-        {% for item in site.data.profile.education %}
-        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
-            <div class="media">
-                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 40px;" class="mr-3 mt-1">
-                <div class="media-body">
-                    <div class="d-flex">
-                        <h5 class="mb-0">{{ item.name }}</h5>
-                        <div class="ml-auto mt-auto no-break text-muted"><em>{{ item.date }}</em></div>
-                    </div>
-                    <div>{{ item.position }}</div>
-                    {% if item.location %}<div class="small text-muted">{{ item.location }}</div>{% endif %}
+        <h2 class="pt-2">Education</h2>
+        <div class="my-0 p-3 bg-white shadow-sm rounded-xl">
+            <ul class="list-unstyled mb-0">
+                {% for item in site.data.profile.education %}
+                <li class="media py-3 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
+                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 36px;" class="mr-3 mt-1">
+                    <div class="media-body">
+                        <div class="d-flex">
+                            <h5 class="mb-0">
+                                {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}
+                            </h5>
+                            <div class="ml-auto mt-auto no-break text-muted"><em>{{ item.date }}</em></div>
+                        </div>
+                        <div>{{ item.degree }}</div>
+                        {% if item.location %}<div class="small text-muted">{{ item.location }}</div>{% endif %}
+                        {% if item.gpa_label %}<div class="small">{{ item.gpa_label }}</div>{% endif %}
 
-                    {% if item.thesis_title %}
-                    <div class="mt-3">
-                        <strong>Undergraduate Thesis Title:</strong> {{ item.thesis_title }}
+                        {% if item.thesis_title %}
+                        <div class="mt-2 small"><strong>Undergraduate Thesis Title:</strong> {{ item.thesis_title }}</div>
+                        {% endif %}
+                        {% if item.supervisor %}
+                        <div class="small">
+                            <strong>Supervisor:</strong>
+                            {% if item.supervisor.url %}<a href="{{ item.supervisor.url }}" target="_blank" rel="noopener">{{ item.supervisor.name }}</a>{% else %}{{ item.supervisor.name }}{% endif %}
+                        </div>
+                        {% endif %}
+                        {% if item.co_supervisor %}
+                        <div class="small">
+                            <strong>Co-supervisor:</strong>
+                            {% if item.co_supervisor.url %}<a href="{{ item.co_supervisor.url }}" target="_blank" rel="noopener">{{ item.co_supervisor.name }}</a>{% else %}{{ item.co_supervisor.name }}{% endif %}
+                        </div>
+                        {% endif %}
                     </div>
-                    {% endif %}
-                    {% if item.supervisor %}
-                    <div class="small"><strong>Supervisor:</strong> {{ item.supervisor }}</div>
-                    {% endif %}
-                    {% if item.co_supervisor %}
-                    <div class="small"><strong>Co-supervisor:</strong> {{ item.co_supervisor }}</div>
-                    {% endif %}
-                    {% if item.cgpa %}
-                    <div class="small"><strong>CGPA:</strong> {{ item.cgpa }}</div>
-                    {% endif %}
-                </div>
-            </div>
+                </li>
+                {% endfor %}
+            </ul>
         </div>
-        {% endfor %}
     </div>
 </div>
