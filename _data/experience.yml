@@ -5,15 +5,14 @@ jobs:
   location: Dhaka, Bangladesh
   date: Nov. 2025 - Present
   projects:
-    - name: "Agentic HR Assistant for Recruitment and Onboarding: Toby (Ongoing)"
+    - name: "Product: TalentX"
       bullets:
-        - "Architected and deployed a Job Details Builder Agent that automates the generation and refinement of job descriptions, requirements, and responsibilities with human-in-the-loop workflows, which cut the process cycle time over 75%."
-        - "Developed a Candidate Profile Initial Screening Agent that assesses the strength of a candidate's profile, analyzes job postings from career pages to determine alignment, and provides recommendations for suitable positions to apply for."
-        - "Implemented a Candidate-Job Weighted Scoring Agent that evaluates job-candidate fit using multiple custom metrics, reduced evaluation time by over 80% with interpretable scores and criterion-level explanations."
-        - "Built a multi-candidate matching conversational agent that interprets HR-defined job criteria and retrieves the most suitable candidates from a centralized CV bank, efficiently processing 500-600 CVs in under 30 seconds while providing AI-assisted reasoning and profile-based evidence for each candidate's score."
-        - "Engineered a standards rule-building agent that connects to any job, asks clarifying questions, and defines evaluation criteria for candidate assessment to reduce cross-functional alignment meetings by 3-4 hours per job requisition."
-        - "Designed user-centered interfaces for viewing candidate rankings, exploring detailed candidate profiles, scheduling interviews, assigning tasks, and tracking job application progress throughout the hiring process."
-      tech_stack: "Python, LangGraph, LangChain, Langfuse, OpenAI (GPT-4o, GPT-4o mini, text-embedding-3-large), AWS ECR, AWS App Runner, AWS EC2, PostgreSQL, FastAPI, React, TypeScript, Tailwind CSS"
+        - "Built a Job Builder Agent that enables users to create jobs from scratch or upload existing PDF/DOCX job descriptions, extracts and structures individual job fields, and refines them through human-in-the-loop workflows, reducing process cycle time by 75%+."
+        - "Developed a Candidate Profile Screening Agent that extracts and analyzes candidate profile attributes, parses job postings from career pages, evaluates candidate–job alignment against relevant criteria, and generates ranked job recommendations for suitable positions."
+        - "Implemented a Job Fit Scoring Agent that generates job-specific evaluation criteria and weights for each job, evaluates candidates against the corresponding requirements, and provides interpretable scores with criterion-level explanations, reducing HR evaluation time by 80%+."
+        - "Architected a Talent Matching Agent that converts natural-language HR queries into structured job criteria, performs semantic and structured search across a centralized CV bank, and returns ranked candidates with AI-generated reasoning and profile-level evidence for each match."
+        - "Optimized large-scale CV processing through batch execution, parallel processing, and result caching, enabling efficient evaluation of 1,000–1,200 candidate profiles with fewer redundant LLM calls and lower response latency."
+      tech_stack: "Python, LangGraph, LangChain, OpenAI (GPT-4o, text-embedding-3-large), Google Cloud Storage, Google App Engine, Google Compute Engine, PostgreSQL, Amazon SES (SMTP), FastAPI, React, TypeScript"
 
 - company: Dexian (Bangladesh) Limited
   logo: /assets/images/badges/experience.svg
@@ -21,18 +20,16 @@ jobs:
   location: Dhaka, Bangladesh
   date: Jul. 2025 - Oct. 2025
   projects:
-    - name: "Conversational AI Agent Platform for Large-Scale Document Interaction: ShareFlow Agent"
+    - name: "Project: ShareFlow"
       bullets:
-        - "Constructed and deployed a ReAct-based Agentic RAG system integrated with Microsoft SharePoint to retrieve information from selected files across resource pages, along with functionality for processing user-uploaded documents, incorporating custom guardrails that enable users to build personalized agents."
-        - "Orchestrated a multimodal OCR agent to extract content from diverse unstructured sources (scanned PDFs, images, and DOCX files) by incorporating rate limiting to ensure fault-tolerant performance."
-        - "Integrated a Web Browser Agent that scrapes real-time data from websites to augment RAG responses with current and context-specific information based on user instructions and descriptions."
-        - "Implemented session-based chat with full history retention for context-aware interactions and a reset option, and integrated it with Microsoft Bot Framework to enable interactive conversations within Microsoft Teams."
-        - "Built an update feature that allows users to modify existing agents (add/delete files, revise instructions) with a real-time SharePoint file tracking system synchronized to the agent's memory."
-        - "Designed an agent-sharing functionality enabling users to share agents publicly with all app users, with individual users, or privately with groups, with automated email notifications to keep collaborators informed."
-        - "Took leadership of the project while guiding and supporting junior application developers in system design, promoting their technical growth, and upholding high standards of code quality and overall team output."
-        - "Achieved ~63% yearly operational cost reduction by optimizing custom agent usage for 80 Sales Managers handling 50+ interactions per day, replacing the existing SharePoint Agent (Microsoft 365 Copilot Agent)."
-        - "Optimized RAG query accuracy by 96%, reduced token costs by 42%, and enabled users to upload or select up to 50 files per agent, surpassing Microsoft Copilot's 20-file limit."
-      tech_stack: "Python, LlamaIndex, LangChain, Azure OpenAI (GPT-4.1, GPT-4o, text-embedding-3-large), Azure Bot Services, Azure SQL, Azure Functions, AlloyDB for PostgreSQL (pgvector), Azure App Service, React, FastAPI, Ragas"
+        - "Developed a personalized \"Retrieval Agent\" built upon ReAct with Microsoft SharePoint integration for multi-source information retrieval and custom guardrails to prevent irrelevant responses."
+        - "Orchestrated an \"OCR Agent\" to extract content from diverse unstructured sources (scanned PDFs, images, and DOCX files) with rate limiting to ensure fault-tolerant performance."
+        - "Integrated a \"Web Browser Agent\" that scrapes real-time data from websites to augment RAG responses with current and context-specific information based on user instructions and descriptions."
+        - "Enabled users to manage an agent's knowledge base by adding or deleting files, with real-time SharePoint file tracking synchronized with the agent's memory."
+        - "Implemented session-based chat with full history retention and session reset support for context-aware interactions, and integrated it with Microsoft Bot Framework to enable interactive conversations within Microsoft Teams."
+        - "Spearheaded the project and mentored junior developers through system design guidance, debugging support, regular code reviews, and knowledge-sharing sessions."
+        - "Achieved ~40% yearly operational cost reduction by optimizing custom agent usage for 80 <strong>Sales Managers</strong> handling 50+ interactions per day."
+      tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-4.1, GPT-4o, text-embedding-3-large), Azure Bot Services, Azure SQL Database, AlloyDB for PostgreSQL (pgvector), Azure App Service, React, FastAPI, Ragas"
 
 - company: Dexian (Bangladesh) Limited
   logo: /assets/images/badges/experience.svg
@@ -40,28 +37,26 @@ jobs:
   location: Dhaka, Bangladesh
   date: May 2024 - Jun. 2025
   projects:
-    - name: "Organizational Intelligence Role Placement System: Org Info"
+    - name: "Project: OrgInfo"
       bullets:
-        - "Implemented a multimodal agent to extract organizational hierarchy from organograms using tree-of-thought (ToT) prompting, incorporating multipath reasoning and Breadth-First Search (BFS) to ensure accurate role placement, and storing the hierarchy in a database after cross-checking with existing data and mapping it to Bullhorn records."
-        - "Designed an LLM-based agent that converts natural language queries into optimized SQL (text-to-SQL) using chain-of-thought (CoT) with self-consistency prompting, retrieves relevant organizational data, and integrates the results into the 'OrgChart front-end framework' for hierarchical visualization."
-        - "Engineered a dynamic LLM-based agentic RAG-guided chat interface called 'OrgInfo Assistant' that allowed users to interact with specific organizational hierarchies using predefined query types, specialized roles, and goals, where user queries were first converted to SQL (text-to-SQL), executed on a temporary organization-specific database, and the retrieved results were converted to natural language (SQL-to-text)."
-        - "Developed a 7-day summarization of organizational activities by extracting relevant notes on placements, submissions, and communication logs from the Bullhorn database, and set up scheduled jobs to update a SQL database every 7 days with new and updated organizational data."
-        - "Applied object-oriented software design patterns such as Singleton and Builder to achieve modular architecture, enhance code reusability, and maintain scalable system design across agent workflows."
-        - "Reduced organizational hierarchy search by 92% for Account Managers by eliminating full Bullhorn database queries."
-      tech_stack: "Python, LangChain, LangGraph, Azure OpenAI (GPT-4.1, GPT-4o mini, text-embedding-3-small), Prompt Engineering, Azure SQL, Azure App Service, OpenCV, React, FastAPI, WebSocket, Docker"
+        - "Implemented an \"OrgChart Extraction Agent\" to extract organizational hierarchy from organograms using tree-of-thought (ToT) prompting for accurate role placement, and stored the hierarchy in a relational database by mapping roles to corresponding Bullhorn records."
+        - "Developed an \"OrgQuery Agent\" that converts natural language queries into optimized SQL (text-to-SQL) using chain-of-thought (CoT) and self-consistency prompting, retrieves organizational hierarchy from the relational database, and integrates the results into the \"OrgChart front-end framework\" for hierarchical visualization."
+        - "Built \"OrgInfo Assistant\" to allow users to interact with specific organizational hierarchies by converting queries to SQL, executing them on a temporary organization-specific database to reduce load on the primary database, and converting the retrieved results to natural language."
+        - "Developed an \"OrgActivity Summarization Agent\" to generate 7-day summaries of organizational activities by extracting relevant notes on placements, submissions, and communication logs from the Bullhorn database."
+        - "Set up scheduled jobs to fetch real-time data from Bullhorn and update the organizational database, which reduced organizational hierarchy search time by 75% for <strong>Account Managers</strong> by avoiding direct Bullhorn database queries."
+      tech_stack: "Python, LangChain, LangGraph, Azure OpenAI (GPT-4.1, GPT-4o mini, text-embedding-3-small), Azure SQL Database, Azure App Service, OpenCV, React, FastAPI, WebSocket"
 
-    - name: "Next-Gen Proposal Insights Automation Engine: RFPMatcher"
+    - name: "Project: RFPMatcher"
       bullets:
-        - "Architected a RAG solution utilizing a temporary vector database and Chain-of-Thought prompting with 12 specialized analytical prompts to systematically extract key information from Request for Proposal (RFP) documents."
+        - "Architected a RAG pipeline with Chain-of-Thought prompting and 12 specialized analytical prompts to extract key information (e.g., client requirements, project scope, and deliverables) from Request for Proposal (RFP) documents."
         - "Orchestrated a master RFP database by processing historical responses with metadata (generated answers, summaries, win/loss labels, and question categories) and vector embeddings to support semantic search."
         - "Designed a Past Experience Matcher system that analyzes new RFP documents by extracting key client requirements, generating binary (Yes/No) and descriptive questions for each section, and querying a master database to identify relevant past experiences through semantic similarity matching."
-        - "Developed a Table of Contents (TOC) generation pipeline that analyzes extracted RFP key information against predefined section libraries (10 standard and 12 non-standard sections), employing GPT-4 to intelligently select and prioritize relevant sections based on project requirements."
-        - "Implemented a section-based conversational AI platform that generates initial content for each TOC section using extracted key information and past experience data, and enables iterative refinement through targeted chat interactions where users can request modifications, while maintaining conversation history."
-        - "Applied a set of evaluation metrics (Contextual Precision, Contextual Recall, Response Relevancy, Faithfulness, and Factual Correctness) to measure the overall performance of the RAG application on custom-created gold standard datasets for key information extraction and past experience matching."
-        - "Reduced manual review time for 100+ pages by 3-5 days and accelerated decision-making through automated extraction and predictive insights, enabling Proposal Managers to focus on strategic bid development."
+        - "Developed a Table of Contents (TOC) generation workflow that analyzes extracted RFP key information against predefined section libraries (10 standard and 12 non-standard sections) to intelligently select and prioritize relevant sections based on project requirements."
+        - "Implemented a section-based \"Proposal Writing Assistant\" that generates initial content for each TOC section using extracted RFP information and relevant past experience, and enables iterative refinement through targeted chat interactions while maintaining conversation history."
+        - "Reduced manual review time for 100+ pages by 3-5 days and accelerated decision-making through automated extraction and predictive insights, enabling <strong>Proposal Managers</strong> to focus on strategic bid development."
       tech_stack: "Python, LlamaIndex, Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large), Prompt Engineering, AlloyDB for PostgreSQL (pgvector), CouchDB, Azure App Service, React, FastAPI, DeepEval, Docker"
 
-    - name: "Smart Recruitment Analytics Tool: AgentDexi"
+    - name: "Project: AgentDexi"
       bullets:
         - "Formulated a RAG system to identify technological trends and track the top 20 most in-demand skills by extracting information from job descriptions scraped from external company postings."
         - "Orchestrated a web Research Agent that autonomously performs web searches using the Google Search API and Tavily Search API to extract company information from diverse sources, retrieving the top 10 ranked URLs with contextual preview summaries and filtering results based on relevance to support downstream data extraction and analysis tasks."
@@ -70,7 +65,7 @@ jobs:
         - "Designed an automated data analysis pipeline with interactive graphs and charts that surface company-wise hiring patterns and role-specific demand, equipping 250+ Technical Recruiters with competitive insights to make informed, data-driven talent acquisition decisions."
       tech_stack: "Python, LangChain, Langfuse, CrewAI, Azure OpenAI (GPT-4o, text-embedding-3-small), ChromaDB, JobSpy, React, FastAPI"
 
-    - name: "Automated Presentation Takeaways Generator: CaseAligner"
+    - name: "Project: CaseAligner"
       bullets:
         - "Designed and deployed an LLM application that repurposes existing client-facing PowerPoint presentations for case studies, with chain-of-thought prompting to transform them into new practice areas and industries, enabling rapid generation of domain-specific demo presentations."
         - "Implemented an interactive chat interface linked to separated slides, allowing users to query and modify specific slide content, with session-wise conversation history stored for reference."
