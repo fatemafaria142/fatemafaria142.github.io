@@ -38,6 +38,13 @@ navbar_title: Education
                             {% if item.co_supervisor.url %}<a href="{{ item.co_supervisor.url }}" target="_blank" rel="noopener">{{ item.co_supervisor.name }}</a>{% else %}{{ item.co_supervisor.name }}{% endif %}
                         </div>
                         {% endif %}
+                        {% if item.awards %}
+                        <ul class="small mt-2 mb-0 pl-3">
+                            {% for award in item.awards %}
+                            <li>{{ award }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
                     </div>
                 </li>
                 {% endfor %}
