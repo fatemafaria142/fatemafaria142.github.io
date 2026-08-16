@@ -8,8 +8,6 @@
   items: TensorFlow, Keras, PyTorch
 - category: LLM Application Frameworks
   items: LangChain, LangGraph, LlamaIndex, LlamaAgents
-- category: LLM Evaluation Frameworks
-  items: LangSmith, Langfuse, RAGAS, DeepEval
 - category: Vector Databases
   items: AlloyDB for PostgreSQL (pgvector), ChromaDB, FAISS, Milvus
 - category: Cloud Services (Azure)
