@@ -115,30 +115,6 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
-.news-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 26px;
-    height: 26px;
-    border-radius: 50%;
-    background-color: #e7f1ff;
-    color: #007bff;
-    font-size: 0.72rem;
-    flex: 0 0 26px;
-}
-
-.news-row {
-    border-radius: 0.4rem;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    transition: background-color 0.15s ease-in-out;
-}
-
-.news-row:hover {
-    background-color: #f8f9fc;
-}
-
 .detail-card {
     transition: box-shadow 0.15s ease-in-out, transform 0.15s ease-in-out;
 }
