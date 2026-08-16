@@ -59,7 +59,11 @@ navbar_title: Work Experience
             </div>
             <div class="text-primary font-weight-bold">{{ item.subject }}</div>
             {% if item.location %}<div class="small text-muted mb-2">{{ item.location }}</div>{% endif %}
-            <div class="mt-2">{{ item.description }}</div>
+            <ul class="pl-3 mb-0 mt-2">
+                {% for bullet in item.bullets %}
+                <li class="mb-1">{{ bullet }}</li>
+                {% endfor %}
+            </ul>
         </div>
         {% endfor %}
         {% endif %}

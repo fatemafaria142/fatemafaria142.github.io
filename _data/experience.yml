@@ -84,10 +84,10 @@ reviewer_experience:
 - Cluster Computing
 
 tutoring_experience:
-- role: Home Tutor
-  subject: Mathematics & Physics
+- role: Private Academic Tutor
+  subject: Mathematics, Physics & Chemistry
   location: Dhaka, Bangladesh
   date: 2020 - 2023
-  description: >-
-    Provided personalized one-on-one tutoring, developed custom lesson plans and exercises, monitored and tracked
-    academic progress, and conducted regular practice tests and feedback sessions for high school students.
+  bullets:
+    - "Provided personalized one-on-one tutoring in Mathematics, Physics, and Chemistry for high school students."
+    - "Developed customized lesson plans and practice exercises, monitored academic progress, and conducted regular assessments with feedback."
