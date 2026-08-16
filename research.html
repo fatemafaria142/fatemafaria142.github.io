@@ -1,0 +1,22 @@
+---
+layout: default
+title: Research Projects
+navbar_title: Research Projects
+---
+
+<div class="row">
+    <div class="col-12 col-lg-10">
+
+        {% if site.data.research.ongoing_projects %}
+        <h2 class="pt-2">Ongoing Research Projects</h2>
+        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
+            <ul class="mb-0">
+                {% for item in site.data.research.ongoing_projects %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+    </div>
+</div>

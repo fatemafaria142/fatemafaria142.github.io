@@ -1,0 +1,40 @@
+---
+layout: default
+title: Education
+navbar_title: Education
+---
+
+<div class="row">
+    <div class="col-12 col-lg-10">
+        {% for item in site.data.profile.education %}
+        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
+            <div class="media">
+                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 40px;" class="mr-3 mt-1">
+                <div class="media-body">
+                    <div class="d-flex">
+                        <h5 class="mb-0">{{ item.name }}</h5>
+                        <div class="ml-auto mt-auto no-break text-muted"><em>{{ item.date }}</em></div>
+                    </div>
+                    <div>{{ item.position }}</div>
+                    {% if item.location %}<div class="small text-muted">{{ item.location }}</div>{% endif %}
+
+                    {% if item.thesis_title %}
+                    <div class="mt-3">
+                        <strong>Undergraduate Thesis Title:</strong> {{ item.thesis_title }}
+                    </div>
+                    {% endif %}
+                    {% if item.supervisor %}
+                    <div class="small"><strong>Supervisor:</strong> {{ item.supervisor }}</div>
+                    {% endif %}
+                    {% if item.co_supervisor %}
+                    <div class="small"><strong>Co-supervisor:</strong> {{ item.co_supervisor }}</div>
+                    {% endif %}
+                    {% if item.cgpa %}
+                    <div class="small"><strong>CGPA:</strong> {{ item.cgpa }}</div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

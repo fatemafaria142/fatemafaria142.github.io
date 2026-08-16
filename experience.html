@@ -1,0 +1,68 @@
+---
+layout: default
+title: Work Experience
+navbar_title: Work Experience
+---
+
+<div class="row">
+    <div class="col-12 col-lg-10">
+
+        <h2 class="pt-2">Industry Experience</h2>
+        {% for job in site.data.experience.jobs %}
+        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
+            <div class="media">
+                <img src="{{ job.logo | relative_url }}" alt="{{ job.company }}" style="width: 40px;" class="mr-3 mt-1">
+                <div class="media-body">
+                    <div class="d-flex">
+                        <h5 class="mb-0">{{ job.company }}</h5>
+                        <div class="ml-auto mt-auto no-break text-muted"><em>{{ job.date }}</em></div>
+                    </div>
+                    <div>{{ job.role }}</div>
+                    {% if job.location %}<div class="small text-muted">{{ job.location }}</div>{% endif %}
+
+                    {% for project in job.projects %}
+                    <div class="mt-3">
+                        <div><strong>{{ project.name }}</strong></div>
+                        <ul class="mb-1">
+                            {% for bullet in project.bullets %}
+                            <li>{{ bullet }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% if project.tech_stack %}
+                        <div class="small text-muted"><strong>Tech Stack Used:</strong> {{ project.tech_stack }}</div>
+                        {% endif %}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+        {% if site.data.experience.reviewer_experience %}
+        <h2 class="pt-4">Reviewer Experience</h2>
+        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
+            <ul class="list-unstyled mb-0">
+                {% for item in site.data.experience.reviewer_experience %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        {% if site.data.experience.tutoring_experience %}
+        <h2 class="pt-4">Tutoring Experience</h2>
+        {% for item in site.data.experience.tutoring_experience %}
+        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
+            <div class="d-flex">
+                <h5 class="mb-0">{{ item.role }}</h5>
+                <div class="ml-auto mt-auto no-break text-muted"><em>{{ item.date }}</em></div>
+            </div>
+            <div>{{ item.subject }}</div>
+            {% if item.location %}<div class="small text-muted">{{ item.location }}</div>{% endif %}
+            <div class="mt-2">{{ item.description }}</div>
+        </div>
+        {% endfor %}
+        {% endif %}
+
+    </div>
+</div>
