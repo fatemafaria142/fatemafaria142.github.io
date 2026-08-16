@@ -7,7 +7,7 @@ navbar_title: News
 {% assign news_by_year = site.news | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
-    <div class="col-12 col-lg-10">
+    <div class="col-12 col-lg-9">
         {% for year in news_by_year %}
         <h2 class="pt-4">{{ year.name }}</h2>
         <div class="my-0 p-3 bg-white shadow-sm rounded-xl">
