@@ -53,33 +53,11 @@ education:
     B.Sc. in Computer Science and Engineering <br/>
     CGPA 3.302/4.00 &middot; Supervisor: Dr. Mohammad Shafiul Alam &middot; Co-supervisor: Khan Md Hasib
   date: 2019 - 2023
-
-experience:
-- name: Astha.IT
-  logo: /assets/images/badges/experience.svg
-  position: AI Engineer II
-  date: Nov. 2025 - present
-- name: Dexian (Bangladesh) Limited
-  logo: /assets/images/badges/experience.svg
-  position: Senior Application Developer
-  date: Jul. 2025 - Nov. 2025
-- name: Dexian (Bangladesh) Limited
-  logo: /assets/images/badges/experience.svg
-  position: Application Developer
-  date: May 2024 - Jul. 2025
-- name: National Research Foundation of Korea / National Institute of Health, South Korea
-  logo: /assets/images/badges/experience.svg
-  position: Remote Research Assistant
-  date: Jun. 2024 - present
-
-awards:
-- name: "11th IEEE i-COSTE 2025 Scholarship Award — research excellence & paper presentation of \"PotatoGANs\""
-  date: Nov. 2025
-- name: "Achievement Award, Excellence in Strategic Leadership & Agile Project Delivery — Dexian (Bangladesh) Limited"
-  date: Aug. 2025
-- name: "DL Sprint 2.0 - BUET CSE Fest 2023 — Team AustPhoenix, 10th of 94"
-  date: 2023
-- name: "Top 5 Poster Presentation, Research Symposium 2023, AUST"
-  date: Jun. 2023
-- name: "Codeware 19 - Intra AUST Programming Contest — commended for technical competence"
-  date: Oct. 2019
+  location: Dhaka, Bangladesh
+  cgpa: "3.302 (Ranked 84th out of 145 students)"
+  thesis_title: >-
+    Generative Adversarial Networks for Crop Disease: A Case Study with Potato Disease Classification and Instance
+    Segmentation
+  supervisor: "Dr. Mohammad Shafiul Alam, Professor, Department of CSE, AUST"
+  co_supervisor: >-
+    Khan Md Hasib, Assistant Professor, Department of CSE, Bangladesh University of Business and Technology
