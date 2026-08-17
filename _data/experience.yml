@@ -2,7 +2,7 @@ jobs:
 - company: Astha.IT
   url: https://www.linkedin.com/company/asthait/
   current: true
-  logo: /assets/images/badges/experience.svg
+  logo: /assets/images/company-logos/AsthaIT.png
   role: AI Engineer II
   location: Dhaka, Bangladesh
   date: Nov. 2025 - Present
@@ -30,7 +30,7 @@ jobs:
 
 - company: Dexian (Bangladesh) Limited
   url: https://www.linkedin.com/company/dexiansolutions/
-  logo: /assets/images/badges/experience.svg
+  logo: /assets/images/company-logos/Dexian.jpg
   role: Senior Application Developer
   location: Dhaka, Bangladesh
   date: Jul. 2025 - Oct. 2025
@@ -58,7 +58,7 @@ jobs:
 
 - company: Dexian (Bangladesh) Limited
   url: https://www.linkedin.com/company/dexiansolutions/
-  logo: /assets/images/badges/experience.svg
+  logo: /assets/images/company-logos/Dexian.jpg
   role: Application Developer
   location: Dhaka, Bangladesh
   date: May 2024 - Jun. 2025

@@ -11,7 +11,6 @@ cv_link: /files/CV/CV_of_Fatema_Tuj_Johora_Faria.pdf
 gscholar: "https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en"
 github: fatemafaria142
 linkedin: fatema-faria
-twitter: SoyedaFariya10
 orcid: 0009-0005-1684-8211
 
 short_bio_text_justify: false
@@ -57,7 +56,7 @@ portrait_url: /assets/images/photos/portrait.png
 education:
 - name: Ahsanullah University of Science and Technology
   url: https://www.aust.edu/
-  logo: /assets/images/badges/education.svg
+  logo: /assets/images/institution-logos/AUST-University.jpg
   degree: Bachelor of Science in Computer Science and Engineering
   date: 2019 - 2023
   location: Dhaka, Bangladesh
@@ -83,14 +82,14 @@ education:
 
 - name: National Ideal College
   url: https://www.nationalidealcollege.edu.bd/
-  logo: /assets/images/badges/education.svg
+  logo: /assets/images/institution-logos/NIC-College.png
   degree: Higher Secondary Certificate
   date: 2015 - 2017
   gpa_label: "GPA: 5.00 out of 5.00"
 
 - name: Motijheel Model School and College
   url: https://mmodel.edu.bd/
-  logo: /assets/images/badges/education.svg
+  logo: /assets/images/institution-logos/Model-School.png
   degree: Secondary School Certificate
   date: 2009 - 2015
   gpa_label: "GPA: 5.00 out of 5.00"
