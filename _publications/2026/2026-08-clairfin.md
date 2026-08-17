@@ -3,6 +3,7 @@ title:          "CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level
 date:           2026-08-01 00:02:00 +0600
 selected:       true
 selected_order: 1
+cover:          /assets/images/publications/CLAIR-Fin.png
 pub:            "arXiv preprint"
 pub_date:       "2026"
 authors:
