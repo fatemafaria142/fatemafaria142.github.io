@@ -13,12 +13,6 @@
                         <div class="text-profile-bio mt-0" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
-                        <div class="small text-muted mb-2">
-                            I am always happy to collaborate, discuss research ideas, and learn from new perspectives &mdash; if our
-                            interests align, please feel free to reach out at
-                            <a href="mailto:{{ site.data.profile.email | encode_email }}">{{ site.data.profile.email }}</a> (personal)
-                            or <a href="mailto:{{ site.data.profile.work_email | encode_email }}">{{ site.data.profile.work_email }}</a> (work).
-                        </div>
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}
