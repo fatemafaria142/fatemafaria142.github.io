@@ -2,6 +2,7 @@
 title:          "Motamot: A Dataset for Revealing the Supremacy of Large Language Models Over Transformer Models in Bengali Political Sentiment Analysis"
 date:           2024-06-01 00:01:00 +0600
 selected:       false
+cover:          /assets/images/publications/Political-Sentiment.jpg
 pub:            "The IEEE Region 10 Symposium (TENSYMP 2024)"
 pub_date:       "2024"
 abstract: >-

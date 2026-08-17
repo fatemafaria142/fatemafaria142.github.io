@@ -2,6 +2,7 @@
 title:          "SentimentFormer: A Transformer-Based Multimodal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language"
 date:           2025-02-01 00:01:00 +0600
 selected:       false
+cover:          /assets/images/publications/SentimentFormer.jpg
 pub:            "Electronics (MDPI), Vol. 14, Issue 4, Article 799"
 pub_date:       "2025"
 abstract: >-

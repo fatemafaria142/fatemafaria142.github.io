@@ -2,6 +2,7 @@
 title:          "Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification"
 date:           2025-10-01 00:01:00 +0600
 selected:       false
+cover:          /assets/images/publications/Lung-Cancer.jpg
 pub:            "4th International Conference on Computing and Communication Networks (ICCCNet-2024)"
 pub_date:       "2024"
 abstract: >-

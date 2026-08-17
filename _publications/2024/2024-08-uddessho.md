@@ -2,6 +2,7 @@
 title:          "Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language"
 date:           2024-08-01 00:01:00 +0600
 selected:       false
+cover:          /assets/images/publications/Author-Intent.jpg
 pub:            "18th International Conference on Information Technology and Applications (ICITA 2024)"
 pub_date:       "2024"
 abstract: >-
