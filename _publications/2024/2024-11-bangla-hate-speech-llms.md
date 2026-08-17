@@ -2,6 +2,7 @@
 title:          "Investigating the Predominance of Large Language Models in Low-Resource Bangla Language Over Transformer Models for Hate Speech Detection: A Comparative Analysis"
 date:           2024-11-01 00:01:00 +0600
 selected:       false
+cover:          /assets/images/publications/Bangla_Hate_Speech.jpg
 pub:            "Mathematics (MDPI), Vol. 12, Issue 23, Article 3687"
 pub_date:       "2024"
 abstract: >-

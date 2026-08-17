@@ -2,6 +2,7 @@
 title:          "Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images"
 date:           2024-05-01 00:01:00 +0600
 selected:       false
+cover:          /assets/images/publications/Retinal-Fundus.jpg
 pub:            "Under review, Journal of Visual Communication and Image Representation"
 pub_date:       "2024"
 abstract: >-
