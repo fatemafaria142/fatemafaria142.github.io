@@ -115,15 +115,6 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
-.detail-card {
-    transition: box-shadow 0.15s ease-in-out, transform 0.15s ease-in-out;
-}
-
-.detail-card:hover {
-    box-shadow: 0 0.5rem 1rem rgba(0, 123, 255, 0.12) !important;
-    transform: translateY(-1px);
-}
-
 .tech-pill {
     display: inline-block;
     background-color: #e7f1ff;
