@@ -35,7 +35,7 @@ short_bio: >-
 
   <p class="mb-1"><strong>AI Reasoning &amp; Autonomy:</strong> LLM Reasoning, AI Agents, Multimodal AI</p>
   <ul class="mb-3">
-    <li><strong>LLM Reasoning:</strong> Investigating how large language models can achieve reliable, structured, and multi-step reasoning for tackling challenging real-world scenarios.</li>
+    <li><strong>LLM Reasoning:</strong> Exploring how large language models can achieve reliable, structured, and multi-step reasoning for tackling challenging real-world scenarios.</li>
     <li><strong>AI Agents:</strong> Examining how AI agents can plan, use tools, collaborate, and adapt to orchestrate complex tasks in dynamic environments.</li>
     <li><strong>Multimodal AI:</strong> Investigating how multimodal models can integrate and reason across diverse modalities (text + images/videos) to improve contextual understanding and decision-making.</li>
   </ul>
@@ -43,7 +43,7 @@ short_bio: >-
   <p class="mb-1"><strong>Safety, Security, &amp; Alignment:</strong> Trustworthy AI, AI Security</p>
   <ul class="mb-3">
     <li><strong>Trustworthy AI:</strong> Investigating how AI systems can achieve fairness, explainability, reliability, and accountability across real-world settings.</li>
-    <li><strong>AI Security:</strong> Exploring how language models can withstand adversarial attacks, prompt injection, malicious inputs, and other threats to their reliability and integrity.</li>
+    <li><strong>AI Security:</strong> Analyzing how language models can withstand adversarial attacks, prompt injection, malicious inputs, and other threats to their reliability and integrity.</li>
   </ul>
 
   <p class="mb-1"><strong>Domain-Specific AI Applications:</strong> AI for Databases (NL2SQL/NoSQL), AI for Social Good</p>
