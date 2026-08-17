@@ -14,3 +14,4 @@ bundle exec jekyll serve
 - `_data/profile.yml` — bio, positions, education, experience, awards, social links
 - `_news/` — one file per news item
 - `_publications/` — one file per publication, grouped by year
+
