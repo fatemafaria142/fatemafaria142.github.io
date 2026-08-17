@@ -111,6 +111,19 @@ div.lazy {
     margin-right: 0.25rem;
 }
 
+.collab-note {
+    background-color: #eef6ff;
+    border-left: 4px solid #007bff;
+    border-radius: 0.5rem;
+    padding: 0.9rem 1.1rem;
+    margin: 1rem 0;
+}
+
+.collab-note i {
+    color: #007bff;
+    margin-right: 0.4rem;
+}
+
 .email-text {
     font-family: Source Code Pro, monospace;
 }
