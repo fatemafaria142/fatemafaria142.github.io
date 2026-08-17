@@ -37,7 +37,7 @@ short_bio: >-
   <ul class="mb-3">
     <li><strong>LLM Reasoning:</strong> Investigating how large language models can achieve reliable, structured, and multi-step reasoning for tackling challenging real-world scenarios.</li>
     <li><strong>AI Agents:</strong> Examining how AI agents can plan, use tools, collaborate, and adapt to orchestrate complex tasks in dynamic environments.</li>
-    <li><strong>Multimodal AI:</strong> Investigating how multimodal models can integrate and reason across diverse modalities (text + images/videos) to improve contextual understanding and decision-making.</li>
+    <li><strong>Multimodal AI:</strong> Exploring how multimodal models can integrate and reason across diverse modalities (text + images/videos) to improve contextual understanding and decision-making.</li>
   </ul>
 
   <p class="mb-1"><strong>Safety, Security, &amp; Alignment</strong></p>
