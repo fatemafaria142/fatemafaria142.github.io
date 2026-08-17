@@ -1,6 +1,6 @@
 ---
 title:          "Guiding Language Models to Be More Empathetic: Culturally Sensitive Mental Health Advice Generation Through Human-LLM Collaboration"
-date:           2026-07-01 00:02:00 +0600
+date:           2026-08-02 00:01:00 +0600
 selected:       true
 selected_order: 4
 cover:          /assets/images/publications/Mental-Health-Dataset-Process.png
