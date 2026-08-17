@@ -7,7 +7,6 @@ positions:
 - name: Astha.IT
 
 email: "fatema.faria142@gmail.com"
-work_email: "ftj.faria@asthait.com"
 cv_link: /files/CV/CV_of_Fatema_Tuj_Johora_Faria.pdf
 gscholar: "https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en"
 github: fatemafaria142
@@ -30,6 +29,11 @@ short_bio: >-
     with <strong>Microsoft Azure</strong>, <strong>Amazon Web Services (AWS)</strong>, and
     <strong>Google Cloud Platform (GCP)</strong> for building scalable, robust, and high-performance systems,
     while also focusing on user-friendly interfaces that make AI interactions intuitive.
+  </p>
+  <p>
+    I am always happy to collaborate, exchange ideas, and learn about new research directions. Please feel free
+    to reach out to me at <a href="mailto:fatema.faria142@gmail.com">fatema.faria142@gmail.com</a> (personal) or
+    <a href="mailto:ftj.faria@asthait.com">ftj.faria@asthait.com</a> (official).
   </p>
   <div class="h3 mt-3 mb-2">Research Interests</div>
 
