@@ -31,7 +31,7 @@ short_bio: >-
     <strong>Google Cloud Platform (GCP)</strong> for building scalable, robust, and high-performance systems,
     while also focusing on user-friendly interfaces that make AI interactions intuitive.
   </p>
-  <div class="h3 mt-3 mb-2">Research Interests</div>
+  <p class="mb-2"><strong>Research Interests</strong></p>
 
   <p class="mb-1"><strong>AI Reasoning &amp; Autonomy:</strong> LLM Reasoning, AI Agents, Multimodal AI</p>
   <ul class="mb-3">
