@@ -2,7 +2,7 @@
 title:          "ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems"
 date:           2026-07-01 00:01:00 +0600
 selected:       true
-selected_order: 1
+selected_order: 3
 pub:            "arXiv preprint"
 pub_date:       "2026"
 authors:
