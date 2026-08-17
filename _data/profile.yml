@@ -42,14 +42,14 @@ short_bio: >-
 
   <p class="mb-1"><strong>Safety, Security, &amp; Alignment</strong></p>
   <ul class="mb-3">
-    <li><strong>Trustworthy AI:</strong> Investigating how AI systems can achieve fairness, explainability, reliability, and accountability across real-world settings.</li>
-    <li><strong>AI Security:</strong> Exploring how language models can withstand adversarial attacks, prompt injection, malicious inputs, and other threats to their reliability and integrity.</li>
+    <li><strong>Trustworthy AI:</strong> Advancing how AI systems can achieve fairness, explainability, reliability, and accountability across real-world settings.</li>
+    <li><strong>AI Security:</strong> Strengthening the resilience of language models against adversarial attacks, prompt injection, malicious inputs, and other threats to their reliability and integrity.</li>
   </ul>
 
   <p class="mb-1"><strong>Domain-Specific AI Applications</strong></p>
   <ul class="mb-0">
-    <li><strong>AI for Databases:</strong> Investigating how AI can translate user natural language into SQL queries, reason over database schemas, and improve access to structured data across different use cases.</li>
-    <li><strong>AI for Social Good:</strong> Exploring how AI can be designed and applied to address societal challenges through accessible, scalable, and impactful solutions.</li>
+    <li><strong>AI for Databases:</strong> Developing AI methods that translate user natural language into SQL queries, reason over database schemas, and improve access to structured data across different use cases.</li>
+    <li><strong>AI for Social Good:</strong> Designing and applying AI to address societal challenges through accessible, scalable, and impactful solutions.</li>
   </ul>
 
 portrait_url: /assets/images/photos/portrait.png
