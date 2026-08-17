@@ -33,23 +33,23 @@ short_bio: >-
   </p>
   <div class="h3 mt-3 mb-2">Research Interests</div>
 
-  <p class="mb-1"><strong>AI Reasoning &amp; Autonomy</strong></p>
+  <p class="mb-1"><strong>AI Reasoning &amp; Autonomy:</strong> LLM Reasoning, AI Agents, Multimodal AI</p>
   <ul class="mb-3">
-    <li><strong>LLM Reasoning:</strong> Investigating how large language models can achieve reliable, structured, and multi-step reasoning for tackling challenging real-world scenarios.</li>
-    <li><strong>AI Agents:</strong> Examining how AI agents can plan, use tools, collaborate, and adapt to orchestrate complex tasks in dynamic environments.</li>
-    <li><strong>Multimodal AI:</strong> Exploring how multimodal models can integrate and reason across diverse modalities (text + images/videos) to improve contextual understanding and decision-making.</li>
+    <li>Investigating LLM Reasoning to develop models capable of structured, multi-step reasoning, complex problem-solving, and reliable decision-making.</li>
+    <li>Developing AI Agents that leverage reasoning, planning, tool use, and task orchestration to automate complex tasks and workflows.</li>
+    <li>Exploring Multimodal AI to enable models to reason across language, vision, and heterogeneous information sources for more capable and context-aware AI systems.</li>
   </ul>
 
-  <p class="mb-1"><strong>Safety, Security, &amp; Alignment</strong></p>
+  <p class="mb-1"><strong>Safety, Security, &amp; Alignment:</strong> Trustworthy AI, AI Security</p>
   <ul class="mb-3">
-    <li><strong>Trustworthy AI:</strong> Advancing how AI systems can achieve fairness, explainability, reliability, and accountability across real-world settings.</li>
-    <li><strong>AI Security:</strong> Strengthening the resilience of language models against adversarial attacks, prompt injection, malicious inputs, and other threats to their reliability and integrity.</li>
+    <li>Investigating Trustworthy AI to develop reliable, robust, interpretable, and responsible AI systems for real-world deployment.</li>
+    <li>Exploring AI Security to improve the resilience of AI systems against adversarial threats, vulnerabilities, misuse, and security risks.</li>
   </ul>
 
-  <p class="mb-1"><strong>Domain-Specific AI Applications</strong></p>
+  <p class="mb-1"><strong>Domain-Specific AI Applications:</strong> AI for Databases (NL2SQL), AI for Social Good</p>
   <ul class="mb-0">
-    <li><strong>AI for Databases:</strong> Developing AI methods that translate user natural language into SQL queries, reason over database schemas, and improve access to structured data across different use cases.</li>
-    <li><strong>AI for Social Good:</strong> Designing and applying AI to address societal challenges through accessible, scalable, and impactful solutions.</li>
+    <li>Developing AI for Databases systems that translate natural-language queries into SQL and enable more intuitive interaction with structured data.</li>
+    <li>Applying AI for Social Good to address real-world challenges through practical and accessible AI solutions, particularly in domains where AI can create meaningful societal impact.</li>
   </ul>
 
 portrait_url: /assets/images/photos/portrait.png
