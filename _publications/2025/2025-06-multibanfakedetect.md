@@ -3,6 +3,7 @@ title:          "MultiBanFakeDetect: Integrating Advanced Fusion Techniques for 
 date:           2025-06-01 00:01:00 +0600
 selected:       true
 selected_order: 5
+cover:          /assets/images/publications/MultiBanFakeDetect.jpg
 pub:            "International Journal of Information Management Data Insights, Vol. 5, Issue 2, Article 100347"
 pub_date:       "2025"
 abstract: >-

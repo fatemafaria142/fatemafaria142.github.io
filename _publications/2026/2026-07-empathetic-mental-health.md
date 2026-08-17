@@ -3,6 +3,7 @@ title:          "Guiding Language Models to Be More Empathetic: Culturally Sensi
 date:           2026-07-01 00:02:00 +0600
 selected:       true
 selected_order: 4
+cover:          /assets/images/publications/Mental-Health-Dataset-Process.png
 pub:            "arXiv preprint"
 pub_date:       "2026"
 authors:
