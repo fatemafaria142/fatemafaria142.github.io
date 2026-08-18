@@ -16,6 +16,6 @@ authors:
   - Md. Rabius Sani
   - Khan Md Hasib
 links:
-  PDF: https://arxiv.org/pdf/2405.07332
+  arXiv: https://arxiv.org/pdf/2405.07332
   Code: https://github.com/Mukaffi28/ExplainableAI-PotatoGAN-Cutting-Edge-Disease-Identification-for-Potatoes
 ---

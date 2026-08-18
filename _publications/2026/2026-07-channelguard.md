@@ -5,7 +5,6 @@ selected:       true
 selected_order: 3
 cover:          /assets/images/publications/ChannelGuard.png
 pub:            "arXiv preprint"
-pub_url:        https://arxiv.org/abs/2607.19430
 status:         preprint
 pub_date:       "2026"
 authors:
@@ -15,5 +14,5 @@ authors:
   - Tasfia Nuzhat Ornee
   - Maleeha Sheikh
 links:
-  PDF: https://arxiv.org/abs/2607.19430
+  arXiv: https://arxiv.org/abs/2607.19430
 ---
