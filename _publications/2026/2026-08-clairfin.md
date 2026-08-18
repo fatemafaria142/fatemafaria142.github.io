@@ -5,7 +5,7 @@ selected:       true
 selected_order: 1
 cover:          /assets/images/publications/CLAIR-Fin.png
 pub:            "arXiv preprint"
-status:         preprint
+status:         under_review
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria
