@@ -1,6 +1,6 @@
 ---
 title:          "BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes"
-date:           2025-01-01 00:01:00 +0600
+date:           2025-12-06 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/BanglaMemeEvidence.jpg
 pub:            "6th International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV 2026)"
