@@ -1,6 +1,6 @@
 ---
 title:          "MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts"
-date:           2025-10-20 00:01:00 +0600
+date:           2025-12-05 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/MultiBanFakeDetect.jpg
 pub:            "International Journal of Information Management Data Insights, Vol. 5, Issue 2, Article 100347"

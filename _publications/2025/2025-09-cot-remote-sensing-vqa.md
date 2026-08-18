@@ -1,6 +1,6 @@
 ---
 title:          "Towards Robust Chain-of-Thought Prompting with Self-Consistency for Remote Sensing VQA: An Empirical Study Across Large Multimodal Models"
-date:           2025-10-17 00:01:00 +0600
+date:           2025-12-02 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/Remote_Sensing_Process.jpg
 pub:            "Mathematics (MDPI), Vol. 13, Issue 18, Article 3046"
