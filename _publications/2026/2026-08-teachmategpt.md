@@ -5,7 +5,7 @@ selected:       true
 selected_order: 2
 cover:          /assets/images/publications/TeachMateGPT.png
 pub:            "arXiv preprint"
-status:         preprint
+status:         under_review
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria

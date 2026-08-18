@@ -5,7 +5,7 @@ selected:       true
 selected_order: 3
 cover:          /assets/images/publications/ChannelGuard.png
 pub:            "arXiv preprint"
-status:         preprint
+status:         under_review
 pub_date:       "2026"
 authors:
   - Elias Hossain
