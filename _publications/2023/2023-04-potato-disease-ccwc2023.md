@@ -15,6 +15,6 @@ authors:
   - Khan Md Hasib
   - Mohammad Shafiul Alam
 links:
-  PDF: https://ieeexplore.ieee.org/document/10099215
-  Code: https://github.com/fatemafaria142/Potato-Disease-Classification
+  PDF: https://ieeexplore.ieee.org/document/10099162
+  Code: https://github.com/fatemafaria142/Classification-of-Potato-Disease-A-Hybrid-Deep-Learning-Framework
 ---
