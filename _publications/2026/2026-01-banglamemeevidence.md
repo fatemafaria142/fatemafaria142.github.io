@@ -3,9 +3,8 @@ title:          "BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanat
 date:           2026-01-01 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/BanglaMemeEvidence.jpg
-pub:            "6th International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV 2026)"
-pub_url:        https://icicv.co.in/
-status:         accepted
+pub:            "arXiv preprint"
+status:         under_review
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria
