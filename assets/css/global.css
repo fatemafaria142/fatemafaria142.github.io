@@ -107,6 +107,14 @@ div.lazy {
     color: #495057;
 }
 
+.author-self {
+    color: #007bff;
+}
+
+a.author-self:hover {
+    color: #0056b3;
+}
+
 .pub-venue {
     color: #6c757d;
     font-weight: 500;

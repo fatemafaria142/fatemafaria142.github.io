@@ -33,14 +33,16 @@
 
     {%- if info['bold'] == true -%}
         {%- assign display_name = name | append: mark | prepend: "<strong>" | append: "</strong>" -%}
+        {%- assign name_class = "author-self" -%}
     {%- else -%}
         {%- assign display_name = name | append: mark -%}
+        {%- assign name_class = "text-body" -%}
     {%- endif -%}
-    
+
     {%- if info['url'] -%}
-        <a class="text-body" target="_blank" href="{{ info['url'] }}">{{ display_name }}</a>{%- if forloop.index < authors.size -%}, {% endif -%}
+        <a class="{{ name_class }}" target="_blank" href="{{ info['url'] }}">{{ display_name }}</a>{%- if forloop.index < authors.size -%}, {% endif -%}
     {%- else -%}
-        <span class="text-body">
+        <span class="{{ name_class }}">
             {{ display_name }}{%- if forloop.index < authors.size -%}, {% endif -%}
         </span>
     {%- endif -%}
