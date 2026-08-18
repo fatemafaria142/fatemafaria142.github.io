@@ -15,7 +15,7 @@ authors:
   - Asif Iftekher Fahim
   - Md. Moinul Hoque
 links:
-  PDF: https://arxiv.org/pdf/2409.09504
+  PDF: https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32
   Code: https://github.com/fatemafaria142/Uddessho-An-Benchmark-Dataset-for-Multimodal-Author-Intent-Classification-in-Bangla-Language
   Dataset: https://data.mendeley.com/datasets/mzxmt8tfjs/1
 ---

@@ -15,7 +15,7 @@ authors:
   - Abrar Nawar Alfy
   - Mohammad Shafiul Alam
 links:
-  PDF: https://arxiv.org/pdf/2407.19528
+  PDF: https://ieeexplore.ieee.org/document/10752197/
   Code: https://github.com/Mukaffi28/Bengali-Political-Sentiment-Analysis
   Dataset: https://data.mendeley.com/datasets/hdhnrrwdz2/1
 ---
