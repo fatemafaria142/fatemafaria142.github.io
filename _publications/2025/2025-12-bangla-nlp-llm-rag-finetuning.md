@@ -3,9 +3,8 @@ title:          "Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learn
 date:           2025-12-01 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/BanglaNLP.PNG
-pub:            "28th International Conference on Computer and Information Technology (ICCIT 2025)"
-pub_url:        https://iccit.org.bd/2025/home/
-status:         accepted
+pub:            "arXiv preprint"
+status:         under_review
 pub_date:       "2025"
 authors:
   - Saidur Rahman Sujon
