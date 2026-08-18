@@ -2,6 +2,7 @@
 title:          "Classification of Potato Disease with Digital Image Processing Technique: A Hybrid Deep Learning Framework"
 date:           2023-04-01 00:01:00 +0600
 selected:       false
+cover:          /assets/images/publications/Potato-Disease-Classification.PNG
 pub:            "2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)"
 pub_date:       "2023"
 abstract: >-

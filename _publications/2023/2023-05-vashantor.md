@@ -16,5 +16,6 @@ authors:
   - Tashreef Muhammad
 links:
   PDF: https://arxiv.org/pdf/2305.07341
+  arXiv: https://arxiv.org/abs/2311.11142
   Code: https://github.com/fatemafaria142/Vashantor-A-Large-scale-Multilingual-Benchmark-Dataset
 ---
