@@ -89,16 +89,80 @@ div.lazy {
 }
 
 .pub-item {
-    transition: background-color 0.15s ease-in-out;
+    transition: background-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    position: relative;
 }
 
 .pub-item:hover {
     background-color: #f8f9fc;
+    box-shadow: inset 0 0 0 9999px rgba(0, 123, 255, 0.015);
 }
 
 .pub-title {
     font-size: 1.05rem;
     line-height: 1.35;
+}
+
+.pub-authors {
+    color: #495057;
+}
+
+.pub-venue {
+    color: #6c757d;
+    font-weight: 500;
+}
+
+.pub-venue-link {
+    color: #495057;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px dashed #adb5bd;
+    transition: color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.pub-venue-link:hover {
+    color: #007bff;
+    border-bottom-color: #007bff;
+}
+
+.pub-venue-link i {
+    font-size: 0.65rem;
+    opacity: 0.7;
+    margin-left: 0.1rem;
+}
+
+.pub-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    padding: 0.22rem 0.6rem;
+    border-radius: 999px;
+    margin-right: 0.35rem;
+    margin-bottom: 0.25rem;
+}
+
+.pub-badge-selected {
+    background: linear-gradient(135deg, #007bff, #4facfe);
+    color: #fff;
+}
+
+.pub-badge-accepted {
+    background-color: #e6f7ee;
+    color: #1e8e5a;
+}
+
+.pub-badge-review {
+    background-color: #fff4e0;
+    color: #b26a00;
+}
+
+.pub-badge-preprint {
+    background-color: #eef1f5;
+    color: #5a6472;
 }
 
 .pub-link-btn {
@@ -109,6 +173,112 @@ div.lazy {
 
 .pub-link-btn i {
     margin-right: 0.25rem;
+}
+
+.pub-link-btn:hover {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 123, 255, 0.25);
+}
+
+.pub-section-header {
+    background: linear-gradient(135deg, #eef6ff 0%, #ffffff 60%);
+    border-bottom: 1px solid rgba(0, 123, 255, 0.12) !important;
+    padding: 1rem 1.25rem !important;
+}
+
+.pub-section-header .pub-section-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #212529;
+    margin: 0;
+}
+
+.pub-section-header .pub-section-title i {
+    color: #f6b93b;
+    margin-right: 0.4rem;
+}
+
+.pub-view-all-btn {
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 0.82rem;
+    padding: 0.3rem 0.9rem;
+}
+
+.pubs-hero {
+    background: linear-gradient(135deg, #eef6ff 0%, #ffffff 70%);
+    border-radius: 0.8rem;
+    padding: 1.75rem 2rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid rgba(0, 123, 255, 0.1);
+}
+
+.pubs-hero h1 {
+    font-size: 1.6rem;
+    font-weight: 800;
+    margin-bottom: 0.35rem;
+}
+
+.pubs-hero p {
+    color: #6c757d;
+    margin-bottom: 1rem;
+}
+
+.pubs-stat {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 2rem;
+}
+
+.pubs-stat .pubs-stat-value {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: #007bff;
+    line-height: 1.1;
+}
+
+.pubs-stat .pubs-stat-label {
+    font-size: 0.75rem;
+    color: #6c757d;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.pubs-year-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    font-weight: 800;
+}
+
+.pubs-year-count {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #6c757d;
+    background-color: #f1f3f5;
+    border-radius: 999px;
+    padding: 0.1rem 0.65rem;
+}
+
+#navbar-year .nav-link {
+    color: #495057;
+    font-weight: 600;
+    border-radius: 0.5rem;
+    padding: 0.4rem 0.75rem;
+    transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+#navbar-year .nav-link:hover {
+    background-color: #eef6ff;
+    color: #007bff;
+}
+
+#navbar-year .nav-link.active {
+    background-color: #007bff;
+    color: #fff;
 }
 
 .collab-note {

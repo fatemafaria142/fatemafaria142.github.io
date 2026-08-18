@@ -4,6 +4,7 @@ date:           2024-11-01 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/Bangla_Hate_Speech.jpg
 pub:            "Mathematics (MDPI), Vol. 12, Issue 23, Article 3687"
+pub_url:        https://www.mdpi.com/journal/mathematics
 pub_date:       "2024"
 abstract: >-
   Evaluates GPT-3.5 Turbo and Gemini 1.5 Pro against traditional methods for Bangla hate speech detection across multiple datasets; GPT-3.5 Turbo reaches up to 98.53% accuracy, a 6.28-point gain over prior approaches.

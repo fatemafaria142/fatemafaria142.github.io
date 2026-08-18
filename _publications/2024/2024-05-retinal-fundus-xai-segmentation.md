@@ -3,7 +3,9 @@ title:          "Explainable Convolutional Neural Networks for Retinal Fundus Cl
 date:           2024-05-01 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/Retinal-Fundus.jpg
-pub:            "Under review, Journal of Visual Communication and Image Representation"
+pub:            "Journal of Visual Communication and Image Representation"
+pub_url:        https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation
+status:         under_review
 pub_date:       "2024"
 abstract: >-
   Benchmarks eight pretrained CNNs with five Explainable AI methods for fundus image classification (ResNet101: 94.17% accuracy) and ten segmentation architectures for retinal vessel segmentation (Swin-Unet: 86.19% mean pixel accuracy).

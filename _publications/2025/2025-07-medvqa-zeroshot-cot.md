@@ -4,6 +4,7 @@ date:           2025-07-01 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/Medical_VQA.jpg
 pub:            "Mathematics (MDPI), Vol. 13, Issue 14, Article 2322"
+pub_url:        https://www.mdpi.com/journal/mathematics
 pub_date:       "2025"
 abstract: >-
   Proposes a zero-shot chain-of-thought prompting framework that makes vision-language model reasoning explicit for medical VQA; on PMC-VQA, Gemini 2.5 Pro reaches 72.48% accuracy, ahead of Claude 3.5 Sonnet and GPT-4o Mini.

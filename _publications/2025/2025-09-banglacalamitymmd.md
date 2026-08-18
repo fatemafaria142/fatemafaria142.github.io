@@ -4,6 +4,7 @@ date:           2025-09-01 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/BanglaCalamityMMD.jpg
 pub:            "International Journal of Disaster Risk Reduction, Vol. 130, Article 105800"
+pub_url:        https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction
 pub_date:       "2025"
 abstract: >-
   Introduces BanglaCalamityMMD, a 7,903-sample multimodal (text+image) benchmark across seven disaster categories, and DisasterMultiFusionNet, which fuses Swin Transformer and mBERT to reach 85.25% accuracy, a 5.35% gain over the best unimodal baseline.
