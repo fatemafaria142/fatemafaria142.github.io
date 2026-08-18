@@ -16,6 +16,6 @@ authors:
   - Asif Iftekher Fahim
   - Faisal Muhammad Shah
 links:
-  PDF: https://arxiv.org/pdf/2405.07338
+  arXiv: https://arxiv.org/pdf/2405.07338
   Code: https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation
 ---

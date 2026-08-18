@@ -5,7 +5,6 @@ selected:       true
 selected_order: 1
 cover:          /assets/images/publications/CLAIR-Fin.png
 pub:            "arXiv preprint"
-pub_url:        https://arxiv.org/abs/2608.13706
 status:         preprint
 pub_date:       "2026"
 authors:
@@ -15,5 +14,5 @@ authors:
   - M. F. Mridha
   - Md. Alam Hossain
 links:
-  PDF: https://arxiv.org/abs/2608.13706
+  arXiv: https://arxiv.org/abs/2608.13706
 ---

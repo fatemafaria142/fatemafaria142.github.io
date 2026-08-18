@@ -15,5 +15,5 @@ authors:
   - Asif Iftekher Fahim
   - Faisal Muhammad Shah
 links:
-  PDF: https://arxiv.org/abs/2607.03981
+  arXiv: https://arxiv.org/abs/2607.03981
 ---

@@ -5,7 +5,6 @@ selected:       true
 selected_order: 4
 cover:          /assets/images/publications/Mental-Health-Dataset-Process.png
 pub:            "arXiv preprint"
-pub_url:        https://arxiv.org/abs/2607.23538
 status:         preprint
 pub_date:       "2026"
 authors:
@@ -16,5 +15,5 @@ authors:
   - Jubayer Al Mahmud
   - M. F. Mridha
 links:
-  PDF: https://arxiv.org/abs/2607.23538
+  arXiv: https://arxiv.org/abs/2607.23538
 ---

@@ -155,6 +155,11 @@ div.lazy {
     color: #1e8e5a;
 }
 
+.pub-badge-published {
+    background-color: #e7f1ff;
+    color: #0d5cbf;
+}
+
 .pub-badge-review {
     background-color: #fff4e0;
     color: #b26a00;

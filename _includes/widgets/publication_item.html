@@ -15,6 +15,7 @@
                 {% when "under_review" %}<span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
                 {% when "accepted" %}<span class="pub-badge pub-badge-accepted"><i class="fas fa-check-circle"></i> Accepted</span>
                 {% when "preprint" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-flask"></i> Preprint</span>
+                {% else %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
                 {% endcase %}
             </div>
             <h5 class="mt-0 mb-1 font-weight-bold pub-title">{{ item.title }}</h5>
@@ -31,6 +32,7 @@
                 <a class="btn btn-sm btn-outline-primary pub-link-btn mr-1 mb-1" target="{{ link_target }}" href="{{ link_url }}">
                     {% case link[0] %}
                     {% when "PDF" %}<i class="fas fa-file-pdf"></i>
+                    {% when "arXiv" %}<i class="fas fa-scroll"></i>
                     {% when "Code" %}<i class="fas fa-code"></i>
                     {% when "Dataset" %}<i class="fas fa-database"></i>
                     {% else %}<i class="fas fa-link"></i>
@@ -55,6 +57,7 @@
                     {% when "under_review" %}<span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
                     {% when "accepted" %}<span class="pub-badge pub-badge-accepted"><i class="fas fa-check-circle"></i> Accepted</span>
                     {% when "preprint" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-flask"></i> Preprint</span>
+                    {% else %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
                     {% endcase %}
                 </div>
                 <h5 class="mt-0 mb-1 font-weight-bold pub-title">{{ item.title }}</h5>
@@ -71,6 +74,7 @@
                     <a class="btn btn-sm btn-outline-primary pub-link-btn mr-1 mb-1" target="{{ link_target }}" href="{{ link_url }}">
                         {% case link[0] %}
                         {% when "PDF" %}<i class="fas fa-file-pdf"></i>
+                        {% when "arXiv" %}<i class="fas fa-scroll"></i>
                         {% when "Code" %}<i class="fas fa-code"></i>
                         {% when "Dataset" %}<i class="fas fa-database"></i>
                         {% else %}<i class="fas fa-link"></i>

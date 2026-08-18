@@ -17,6 +17,6 @@ authors:
   - Md Rabius Sani
   - Tashreef Muhammad
 links:
-  PDF: https://arxiv.org/abs/2311.11142
+  arXiv: https://arxiv.org/abs/2311.11142
   Code: https://github.com/fatemafaria142/Vashantor-A-Large-scale-Multilingual-Benchmark-Dataset
 ---

@@ -5,7 +5,6 @@ selected:       true
 selected_order: 2
 cover:          /assets/images/publications/TeachMateGPT.png
 pub:            "arXiv preprint"
-pub_url:        https://arxiv.org/abs/2608.13708
 status:         preprint
 pub_date:       "2026"
 authors:
@@ -14,5 +13,5 @@ authors:
   - M. F. Mridha
   - Jubayer Al Mahmud
 links:
-  PDF: https://arxiv.org/abs/2608.13708
+  arXiv: https://arxiv.org/abs/2608.13708
 ---
