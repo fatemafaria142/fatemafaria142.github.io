@@ -18,12 +18,15 @@ jobs:
         - "Python"
         - "LangGraph"
         - "LangChain"
-        - "OpenAI"
-        - "PostgreSQL (pgvector)"
-        - "WebSocket"
+        - "OpenAI (GPT-4o, text-embedding-3-large)"
+        - "Google Cloud Storage"
+        - "Google App Engine"
+        - "Google Compute Engine"
+        - "PostgreSQL"
+        - "Amazon SES (SMTP)"
         - "FastAPI"
         - "React"
-        - "GCP Services"
+        - "TypeScript"
 
 - company: Dexian (Bangladesh) Limited
   url: https://www.linkedin.com/company/dexiansolutions/
@@ -44,12 +47,14 @@ jobs:
       tech_stack:
         - "Python"
         - "LlamaIndex"
-        - "Azure OpenAI"
-        - "Microsoft Azure Services"
-        - "PyMuPDF"
+        - "Azure OpenAI (GPT-4.1, GPT-4o, text-embedding-3-large)"
+        - "Azure Bot Services"
+        - "Azure SQL Database"
+        - "AlloyDB for PostgreSQL (pgvector)"
+        - "Azure App Service"
         - "React"
         - "FastAPI"
-        - "RAGAS"
+        - "Ragas"
 
 - company: Dexian (Bangladesh) Limited
   url: https://www.linkedin.com/company/dexiansolutions/
@@ -67,12 +72,14 @@ jobs:
         - "Automated Bullhorn synchronization through scheduled data ingestion and incremental database updates, <strong>cutting organizational hierarchy search time by 75%</strong> by eliminating repeated direct queries against the source system."
       tech_stack:
         - "Python"
-        - "LlamaIndex"
-        - "Azure OpenAI"
-        - "Microsoft Azure Services"
+        - "LangChain"
+        - "LangGraph"
+        - "Azure OpenAI (GPT-4.1, GPT-4o mini, text-embedding-3-small)"
+        - "Azure SQL Database"
+        - "Azure App Service"
+        - "OpenCV"
         - "React"
         - "FastAPI"
-        - "OpenCV"
         - "WebSocket"
 
     - name: "Project: RFPMatcher"
@@ -86,12 +93,15 @@ jobs:
       tech_stack:
         - "Python"
         - "LlamaIndex"
-        - "Azure OpenAI"
-        - "Microsoft Azure Services"
+        - "Azure OpenAI (GPT-3.5 Turbo, GPT-4, text-embedding-3-large)"
+        - "Prompt Engineering"
+        - "AlloyDB for PostgreSQL (pgvector)"
         - "CouchDB"
-        - "PyMuPDF"
+        - "Azure App Service"
         - "React"
         - "FastAPI"
+        - "DeepEval"
+        - "Docker"
 
     - name: "Project: AgentDexi"
       bullets:
