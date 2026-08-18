@@ -2,7 +2,9 @@
 title:          "Vashantor: A Large-Scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language"
 date:           2023-05-01 00:01:00 +0600
 selected:       false
-pub:            "Under review, Neural Computing and Applications"
+pub:            "Language Resources and Evaluation"
+pub_url:        https://link.springer.com/journal/10579
+status:         under_review
 pub_date:       "2023"
 cover:          /assets/images/publications/Vashantor.jpg
 abstract: >-

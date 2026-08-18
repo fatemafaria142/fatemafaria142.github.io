@@ -7,12 +7,35 @@ body_attr: >-
 ---
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% assign total_pubs = site.publications | size %}
+{% assign total_years = pubs_by_year | size %}
+{% assign venue_list = site.publications | map: "pub" | uniq %}
+{% assign total_venues = venue_list | size %}
+
+<div class="pubs-hero">
+    <h1><i class="fas fa-book-open mr-1"></i> Publications</h1>
+    <p>A complete, chronological record of journal, conference, and preprint work — click a venue name to visit its official page.</p>
+    <div class="d-flex flex-wrap">
+        <div class="pubs-stat">
+            <span class="pubs-stat-value">{{ total_pubs }}</span>
+            <span class="pubs-stat-label">Papers</span>
+        </div>
+        <div class="pubs-stat">
+            <span class="pubs-stat-value">{{ total_venues }}</span>
+            <span class="pubs-stat-label">Venues</span>
+        </div>
+        <div class="pubs-stat">
+            <span class="pubs-stat-value">{{ total_years }}</span>
+            <span class="pubs-stat-label">Years</span>
+        </div>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-12 col-lg-10">
         {% for year in pubs_by_year %}
         {% assign num_papers = year.items | size %}
-        <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
+        <h2 class="pt-4 pubs-year-heading" id="year-{{ year.name }}">{{ year.name }} <span class="pubs-year-count">{{ num_papers }} paper{% if num_papers != 1 %}s{% endif %}</span></h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
             {% for item in year.items %}
                 {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last hide_selected_badge=true %}

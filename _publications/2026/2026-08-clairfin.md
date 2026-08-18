@@ -5,6 +5,8 @@ selected:       true
 selected_order: 1
 cover:          /assets/images/publications/CLAIR-Fin.png
 pub:            "arXiv preprint"
+pub_url:        https://arxiv.org/abs/2608.13706
+status:         preprint
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria
