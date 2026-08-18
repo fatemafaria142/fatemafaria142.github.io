@@ -52,7 +52,7 @@ short_bio: >-
 
   <p class="mb-1"><strong>Domain-Specific AI Applications:</strong></p>
   <ul class="mb-0">
-    <li><strong>AI for Databases:</strong> Investigating how AI can translate user natural language into SQL/NoSQL queries, reason over database schemas, and improve access to structured data across different use cases.</li>
+    <li><strong>AI for Databases:</strong> Investigating how AI can translate user natural language into SQL queries, reason over database schemas, and improve access to structured data across different use cases.</li>
     <li><strong>AI for Social Good:</strong> Exploring how AI can be designed and applied to address societal challenges through accessible, scalable, and impactful solutions.</li>
   </ul>
 
