@@ -46,9 +46,9 @@ short_bio: >-
 
   <p class="mb-1"><strong>Foundations of Dependable AI:</strong></p>
   <ul class="mb-3">
-    <li><strong>AI Safety:</strong> Investigating methods for developing AI systems that remain safe, robust, and controllable under uncertainty, unexpected inputs, and evolving real-world conditions.</li>
-    <li><strong>AI Security:</strong> Analyzing how language models and AI agents can withstand adversarial attacks, prompt injection, malicious inputs, and other threats to their security and integrity.</li>
-    <li><strong>Trustworthy AI:</strong> Investigating how AI systems can achieve fairness, explainability, reliability, and accountability across real-world settings.</li>
+    <li><strong>AI Safety:</strong> Developing AI systems that remain safe, robust, and controllable under uncertainty, unexpected inputs, and real-world conditions.</li>
+    <li><strong>AI Security:</strong> Defending language models and AI agents against adversarial attacks, prompt injection, and malicious inputs.</li>
+    <li><strong>Trustworthy AI:</strong> Developing AI systems that promote fairness, explainability, and reliability across diverse environments.</li>
   </ul>
 
   <p class="mb-1"><strong>Domain-Specific AI Applications:</strong></p>
