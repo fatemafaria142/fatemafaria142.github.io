@@ -48,7 +48,7 @@ short_bio: >-
   <ul class="mb-3">
     <li><strong>AI Safety:</strong> Developing AI systems that remain safe, robust, and controllable under uncertainty, unexpected inputs, and real-world conditions.</li>
     <li><strong>AI Security:</strong> Defending language models and AI agents against adversarial attacks, prompt injection, and malicious inputs.</li>
-    <li><strong>Trustworthy AI:</strong> Developing AI systems that promote fairness, explainability, and reliability across diverse environments.</li>
+    <li><strong>Trustworthy AI:</strong> Advancing AI systems that promote fairness, explainability, and reliability across diverse environments.</li>
   </ul>
 
   <p class="mb-1"><strong>Domain-Specific AI Applications:</strong></p>
