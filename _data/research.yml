@@ -1,5 +1,44 @@
 ongoing_projects:
-- "HEAL: A Context-Aware Self-Correcting Conversational Multi-Agent Framework for Text-to-SQL on Patient Records"
-- "A Multi-Agent Framework for Controllable Scene-Aligned Multimodal Generation of Bangla Children's Storybooks"
-- "BanglaQoL-Implicit: A Multi-Dimensional Dataset and Explainability Study for Implicit Quality-of-Life Detection"
-- "BanglaMedQA: A Dataset for Adapting Zero-Shot Chain-of-Thought Reasoning in Bengali Medical Question Answering"
+- title: "HEAL: A Self-Correcting Multi-Agent Framework with Mutual Consistency Validation for Text-to-SQL over Clinical Patient Records"
+  date: "July 2026 to Present"
+  problem: |
+    Clinicians need to ask natural-language questions over patient databases across
+    multi-turn conversations, not just isolated questions. Answering correctly
+    requires jointly handling four coupled challenges: **ambiguity** (mapping
+    informal language like "high blood pressure" to schema literals, and resolving
+    coreference like "those patients" across turns), **nested reasoning**
+    (questions like "latest HbA1c per patient" that need subqueries or ranking,
+    not a flat filter), **join-path reasoning** (picking the correct tables and
+    result grain in a normalized clinical schema), and **temporal reasoning**
+    (anchoring phrases like "currently on insulin" to real date columns and
+    status logic). Getting any of these wrong doesn't just crash the query, it
+    silently produces the wrong patient cohort, which is worse.
+  gap: |
+    Existing Text-to-SQL research doesn't fully cover this setting. Most
+    benchmarks score isolated single-turn questions, so dialogue memory and
+    constraint retention across turns are rarely measured. Most systems generate
+    SQL with one monolithic LLM call, making the reasoning behind a join or
+    filter choice implicit and uninspectable. Schema grounding is usually a
+    static text dump rather than the database's actual current values, and
+    failure recovery is typically a naive retry rather than a structured response
+    to *why* a query failed. No existing benchmark stratifies clinical queries by
+    which of these reasoning dimensions (or combinations) they stress.
+  approach: |
+    This project is an ongoing exploration of an alternative to the single,
+    all-at-once response most systems rely on. Instead of asking one model to
+    jump straight from a question to a final answer, the idea is to break that
+    decision into stages. **First**, understand what is actually being asked,
+    and whether it is specific enough to act on safely. **Second**, resolve any
+    vague or ambiguous wording into something concrete. **Third**, work out the
+    relational structure needed to answer at the right level of detail. Only
+    once these decisions are settled does the project attempt to produce a
+    concrete answer, grounded in real, current facts rather than assumptions.
+    **Fourth**, before anything is finalized, that attempt is checked for
+    safety and consistency with the earlier decisions; if it fails that check,
+    runs into an error, or comes back empty, the outcome is fed back in to
+    produce a corrected attempt, rather than giving up or guessing again from
+    scratch. **Finally**, the response is explained back to the user, grounded
+    only in what was actually found. This is still active, evolving work, and
+    the current focus is on testing this staged, feedback-driven approach
+    against a set of clinical questions built specifically to stress the four
+    challenges described above, individually and in combination.

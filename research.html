@@ -9,13 +9,27 @@ navbar_title: Research Projects
 
         {% if site.data.research.ongoing_projects %}
         <h2 class="pt-2">Ongoing Research Projects</h2>
-        <div class="my-0 p-3 bg-white shadow-sm rounded-xl">
-            <ul class="list-unstyled mb-0">
-                {% for item in site.data.research.ongoing_projects %}
-                <li class="py-2 {% unless forloop.last %}border-bottom border-gray{% endunless %}">{{ item }}</li>
-                {% endfor %}
-            </ul>
+        {% for item in site.data.research.ongoing_projects %}
+        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
+            <h4>{{ item.title }}</h4>
+            {% if item.date %}<p class="text-muted mb-3"><em>{{ item.date }}</em></p>{% endif %}
+
+            {% if item.problem %}
+            <h6 class="mt-3">Problem</h6>
+            {{ item.problem | markdownify }}
+            {% endif %}
+
+            {% if item.gap %}
+            <h6 class="mt-3">Gap</h6>
+            {{ item.gap | markdownify }}
+            {% endif %}
+
+            {% if item.approach %}
+            <h6 class="mt-3">Approach</h6>
+            {{ item.approach | markdownify }}
+            {% endif %}
         </div>
+        {% endfor %}
         {% endif %}
 
     </div>
