@@ -1,40 +1,81 @@
 {% assign item = include.item %}
-<div class="row no-gutters research-item {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %}" style="border-left: 4px solid #6f42c1;">
-    <div class="col-12 p-3 p-md-4">
-        <div class="mb-2">
+<div class="d-none d-md-block">
+    <div class="row no-gutters pub-item research-item {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray" style="border-left: 4px solid #007bff;">
+        <div class="col-md-6 col-xl-6 mb-md-0 p-md-3">
+            {%- if item.cover -%}
+            <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm research-cover" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+            {%- else -%}
+            <svg class="bubble-visual-hash lazy w-100 rounded-sm" data-bubble-visual-hash="{{ item.title }}" viewBox="0 0 300 200"></svg>
+            {%- endif -%}
+        </div>
+        <div class="col-md-6 col-xl-6 p-3 pl-md-0">
+            <div class="mb-1">
+                {% case item.status %}
+                {% when "planned" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-lightbulb"></i> Planned</span>
+                {% else %}<span class="pub-badge pub-badge-selected"><i class="fas fa-flask"></i> Ongoing</span>
+                {% endcase %}
+            </div>
+            <h5 class="mt-0 mb-1 font-weight-bold pub-title">{{ item.title }}</h5>
+            {% if item.date %}<p class="mt-0 mb-0 small pub-venue"><i class="far fa-calendar-alt"></i> {{ item.date }}</p>{% endif %}
+
+            <div class="research-sections">
+                {% if item.problem %}
+                <div class="research-section">
+                    <div class="research-section-title"><i class="fas fa-circle-question"></i> Problem</div>
+                    <div class="research-section-text">{{ item.problem | markdownify }}</div>
+                </div>
+                {% endif %}
+
+                {% if item.gap %}
+                <div class="research-section">
+                    <div class="research-section-title"><i class="fas fa-magnifying-glass"></i> Gap</div>
+                    <div class="research-section-text">{{ item.gap | markdownify }}</div>
+                </div>
+                {% endif %}
+
+                {% if item.approach %}
+                <div class="research-section">
+                    <div class="research-section-title"><i class="fas fa-diagram-project"></i> Approach</div>
+                    <div class="research-section-text">{{ item.approach | markdownify }}</div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="d-md-none research-item {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %}" style="border-left: 4px solid #007bff;">
+    <div class="p-3">
+        {%- if item.cover -%}
+        <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm research-cover mb-3" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+        {%- endif -%}
+
+        <div class="mb-1">
             {% case item.status %}
-            {% when "ongoing" %}<span class="pub-badge research-badge-ongoing"><i class="fas fa-flask"></i> Ongoing</span>
             {% when "planned" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-lightbulb"></i> Planned</span>
-            {% else %}<span class="pub-badge research-badge-ongoing"><i class="fas fa-flask"></i> Ongoing</span>
+            {% else %}<span class="pub-badge pub-badge-selected"><i class="fas fa-flask"></i> Ongoing</span>
             {% endcase %}
         </div>
-
-        <h5 class="mt-0 mb-1 font-weight-bold pub-title research-title">{{ item.title }}</h5>
-        {% if item.date %}
-        <p class="mt-0 mb-3 small pub-venue"><i class="far fa-calendar-alt"></i> {{ item.date }}</p>
-        {% endif %}
-
-        {% if item.cover %}
-        <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm research-cover mb-3" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-        {% endif %}
+        <h5 class="mt-0 mb-1 font-weight-bold pub-title">{{ item.title }}</h5>
+        {% if item.date %}<p class="mt-0 mb-0 small pub-venue"><i class="far fa-calendar-alt"></i> {{ item.date }}</p>{% endif %}
 
         <div class="research-sections">
             {% if item.problem %}
-            <div class="research-section research-section-problem">
+            <div class="research-section">
                 <div class="research-section-title"><i class="fas fa-circle-question"></i> Problem</div>
                 <div class="research-section-text">{{ item.problem | markdownify }}</div>
             </div>
             {% endif %}
 
             {% if item.gap %}
-            <div class="research-section research-section-gap">
+            <div class="research-section">
                 <div class="research-section-title"><i class="fas fa-magnifying-glass"></i> Gap</div>
                 <div class="research-section-text">{{ item.gap | markdownify }}</div>
             </div>
             {% endif %}
 
             {% if item.approach %}
-            <div class="research-section research-section-approach">
+            <div class="research-section">
                 <div class="research-section-title"><i class="fas fa-diagram-project"></i> Approach</div>
                 <div class="research-section-text">{{ item.approach | markdownify }}</div>
             </div>
