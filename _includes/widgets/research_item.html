@@ -1,6 +1,6 @@
 {% assign item = include.item %}
 <div class="d-none d-md-block">
-    <div class="row no-gutters pub-item research-item {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray" style="border-left: 4px solid #007bff;">
+    <div class="row no-gutters research-item {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray" style="border-left: 4px solid #007bff;">
         <div class="col-md-6 col-xl-6 mb-md-0 p-md-3">
             {%- if item.cover -%}
             <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm research-cover" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
