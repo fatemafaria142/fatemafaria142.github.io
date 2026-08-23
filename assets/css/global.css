@@ -262,11 +262,11 @@ a.author-self:hover {
 }
 
 .research-cover {
-    max-height: 200px;
+    max-height: 340px;
     object-fit: contain;
     background-color: #fbfbfe;
     border: 1px solid #eef0f4;
-    padding: 0.5rem;
+    padding: 0.25rem;
 }
 
 .research-sections {
