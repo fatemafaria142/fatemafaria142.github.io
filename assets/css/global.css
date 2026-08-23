@@ -98,6 +98,14 @@ div.lazy {
     box-shadow: inset 0 0 0 9999px rgba(0, 123, 255, 0.015);
 }
 
+.pub-cover {
+    max-height: 340px;
+    object-fit: contain;
+    background-color: #fbfbfe;
+    border: 1px solid #eef0f4;
+    padding: 0.25rem;
+}
+
 .pub-title {
     font-size: 1.05rem;
     line-height: 1.35;
