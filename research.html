@@ -5,31 +5,17 @@ navbar_title: Research Projects
 ---
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 col-lg-10">
 
-        {% if site.data.research.ongoing_projects %}
-        <h2 class="pt-2">Ongoing Research Projects</h2>
-        {% for item in site.data.research.ongoing_projects %}
-        <div class="my-3 p-4 bg-white shadow-sm rounded-xl">
-            <h4>{{ item.title }}</h4>
-            {% if item.date %}<p class="text-muted mb-3"><em>{{ item.date }}</em></p>{% endif %}
-
-            {% if item.problem %}
-            <h6 class="mt-3">Problem</h6>
-            {{ item.problem | markdownify }}
-            {% endif %}
-
-            {% if item.gap %}
-            <h6 class="mt-3">Gap</h6>
-            {{ item.gap | markdownify }}
-            {% endif %}
-
-            {% if item.approach %}
-            <h6 class="mt-3">Approach</h6>
-            {{ item.approach | markdownify }}
-            {% endif %}
+        {% assign ongoing_projects = site.data.research.ongoing_projects %}
+        {% if ongoing_projects %}
+        {% assign num_projects = ongoing_projects | size %}
+        <h2 class="pt-2 pubs-year-heading">Ongoing Research Projects <span class="pubs-year-count">{{ num_projects }} project{% if num_projects != 1 %}s{% endif %}</span></h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+            {% for item in ongoing_projects %}
+                {% include widgets/research_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+            {% endfor %}
         </div>
-        {% endfor %}
         {% endif %}
 
     </div>

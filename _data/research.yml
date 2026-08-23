@@ -1,6 +1,8 @@
 ongoing_projects:
 - title: "HEAL: A Self-Correcting Multi-Agent Framework with Mutual Consistency Validation for Text-to-SQL over Clinical Patient Records"
   date: "July 2026 to Present"
+  status: "ongoing"
+  cover: /assets/images/ongoing-research-diagrams/HEAL.png
   problem: |
     Clinicians need to ask natural-language questions over patient databases across
     multi-turn conversations, not just isolated questions. Answering correctly
