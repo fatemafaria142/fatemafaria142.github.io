@@ -26,21 +26,7 @@ ongoing_projects:
     to *why* a query failed. No existing benchmark stratifies clinical queries by
     which of these reasoning dimensions (or combinations) they stress.
   approach: |
-    This project is an ongoing exploration of an alternative to the single,
-    all-at-once response most systems rely on. Instead of asking one model to
-    jump straight from a question to a final answer, the idea is to break that
-    decision into stages. **First**, understand what is actually being asked,
-    and whether it is specific enough to act on safely. **Second**, resolve any
-    vague or ambiguous wording into something concrete. **Third**, work out the
-    relational structure needed to answer at the right level of detail. Only
-    once these decisions are settled does the project attempt to produce a
-    concrete answer, grounded in real, current facts rather than assumptions.
-    **Fourth**, before anything is finalized, that attempt is checked for
-    safety and consistency with the earlier decisions; if it fails that check,
-    runs into an error, or comes back empty, the outcome is fed back in to
-    produce a corrected attempt, rather than giving up or guessing again from
-    scratch. **Finally**, the response is explained back to the user, grounded
-    only in what was actually found. This is still active, evolving work, and
-    the current focus is on testing this staged, feedback-driven approach
-    against a set of clinical questions built specifically to stress the four
-    challenges described above, individually and in combination.
+    This project explores an alternative to the single, all-at-once response
+    most systems rely on, using a staged, feedback-driven process rather than
+    one monolithic model call. This is still active, evolving work; further
+    details will be shared once the approach is validated and written up.
