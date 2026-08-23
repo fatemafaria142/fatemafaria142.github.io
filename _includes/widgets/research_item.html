@@ -1,14 +1,14 @@
 {% assign item = include.item %}
 <div class="d-none d-md-block">
     <div class="row no-gutters research-item {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray" style="border-left: 4px solid #007bff;">
-        <div class="col-md-6 col-xl-6 mb-md-0 p-md-3">
+        <div class="col-md-6 col-xl-5 mb-md-0 p-md-3">
             {%- if item.cover -%}
             <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm research-cover" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
             {%- else -%}
             <svg class="bubble-visual-hash lazy w-100 rounded-sm" data-bubble-visual-hash="{{ item.title }}" viewBox="0 0 300 200"></svg>
             {%- endif -%}
         </div>
-        <div class="col-md-6 col-xl-6 p-3 pl-md-0">
+        <div class="col-md-6 col-xl-7 p-3 pl-md-0">
             <div class="mb-1">
                 {% case item.status %}
                 {% when "planned" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-lightbulb"></i> Planned</span>

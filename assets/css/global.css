@@ -262,7 +262,7 @@ a.author-self:hover {
 }
 
 .research-cover {
-    max-height: 280px;
+    max-height: 200px;
     object-fit: contain;
     background-color: #fbfbfe;
     border: 1px solid #eef0f4;
