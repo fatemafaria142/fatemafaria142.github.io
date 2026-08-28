@@ -20,5 +20,5 @@ links:
   PDF: https://www.mdpi.com/2079-9292/14/4/799
   Code: https://github.com/fatemafaria142/SentimentFormer-A-Transformer-Based-Multi-Modal-Fusion-Framework-for-Sentiment-Analysis-of-Memes
   Dataset: https://drive.google.com/file/d/12jxFuMz7jtE1kN9fi1ckspgHcKZhkT_B/view
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Multimodal AI, Sentiment Analysis, Meme Understanding, Low-Resource Languages"
 ---

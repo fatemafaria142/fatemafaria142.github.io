@@ -16,5 +16,5 @@ authors:
 links:
   PDF: https://www.mdpi.com/2227-7390/13/14/2322
   Dataset: https://huggingface.co/datasets/hamzamooraj99/PMC-VQA-1
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Vision-Language Models, Medical Imaging, Medical Visual Question Answering, Explainable AI"
 ---
