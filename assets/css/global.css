@@ -146,8 +146,9 @@ a.author-self:hover {
 
 .pub-area-label i {
     opacity: 0.7;
-    margin-right: 0.15rem;
-    font-size: 1rem;
+    margin-right: 0.2rem;
+    font-size: 1.5rem;
+    vertical-align: middle;
 }
 
 .pub-area-tag {
