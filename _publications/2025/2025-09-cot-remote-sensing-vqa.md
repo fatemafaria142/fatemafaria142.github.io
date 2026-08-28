@@ -16,5 +16,5 @@ authors:
 links:
   PDF: https://www.mdpi.com/2227-7390/13/18/3046
   Dataset: https://github.com/Junjue-Wang/EarthVQA
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Visual Question Answering, Remote Sensing, Large Multimodal Models, LLM-as-a-Judge"
 ---

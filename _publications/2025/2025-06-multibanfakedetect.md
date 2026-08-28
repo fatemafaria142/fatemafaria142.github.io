@@ -20,5 +20,5 @@ links:
   PDF: https://www.sciencedirect.com/science/article/pii/S2667096825000291
   Code: https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection
   Dataset: https://data.mendeley.com/datasets/k5pbz9795f/1
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Multimodal Learning, Fake News Detection, Multimodal Datasets, Computer Vision, AI for Social Good"
 ---

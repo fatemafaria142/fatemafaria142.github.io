@@ -18,5 +18,5 @@ authors:
 links:
   arXiv: https://arxiv.org/pdf/2405.07332
   Code: https://github.com/Mukaffi28/ExplainableAI-PotatoGAN-Cutting-Edge-Disease-Identification-for-Potatoes
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Generative Adversarial Networks, Computer Vision, Explainable AI, Crop Disease Detection, AI for Agriculture"
 ---

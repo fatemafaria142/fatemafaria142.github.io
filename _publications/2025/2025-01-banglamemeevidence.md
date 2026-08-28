@@ -16,5 +16,5 @@ authors:
   - Faisal Muhammad Shah
 links:
   arXiv: https://arxiv.org/abs/2607.03981
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Multimodal AI, Meme Analysis, Evidence Detection, Low-Resource Languages"
 ---
