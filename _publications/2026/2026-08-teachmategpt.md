@@ -14,5 +14,5 @@ authors:
   - Jubayer Al Mahmud
 links:
   arXiv: https://arxiv.org/abs/2608.13708
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Multi-Agent Systems, Retrieval-Augmented Generation, AI for Education, Educational Assessment, Trustworthy AI"
 ---

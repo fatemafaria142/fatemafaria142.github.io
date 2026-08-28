@@ -16,5 +16,5 @@ authors:
   - M. F. Mridha
 links:
   arXiv: https://arxiv.org/abs/2607.23538
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "AI for Mental Health, Large Language Models, Low-Resource Languages, Culturally Aware AI, Trustworthy AI"
 ---

@@ -15,5 +15,5 @@ authors:
   - Maleeha Sheikh
 links:
   arXiv: https://arxiv.org/abs/2607.19430
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "AI Security, Multi-Agent Systems, Prompt Injection, Adversarial Attacks, Trustworthy AI"
 ---
