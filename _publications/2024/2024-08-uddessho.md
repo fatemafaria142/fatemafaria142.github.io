@@ -19,5 +19,5 @@ links:
   PDF: https://link.springer.com/chapter/10.1007/978-981-96-1758-6_32
   Code: https://github.com/fatemafaria142/Uddessho-An-Benchmark-Dataset-for-Multimodal-Author-Intent-Classification-in-Bangla-Language
   Dataset: https://data.mendeley.com/datasets/mzxmt8tfjs/1
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Multimodal AI, Author Intent Analysis, Social Media Analysis, Low-Resource Languages"
 ---

@@ -19,5 +19,5 @@ links:
   PDF: https://ieeexplore.ieee.org/document/10752197/
   Code: https://github.com/Mukaffi28/Bengali-Political-Sentiment-Analysis
   Dataset: https://data.mendeley.com/datasets/hdhnrrwdz2/1
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Natural Language Processing, Large Language Models, Political Sentiment Analysis, Political Dataset"
 ---

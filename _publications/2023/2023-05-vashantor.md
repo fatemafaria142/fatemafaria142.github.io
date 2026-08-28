@@ -19,5 +19,5 @@ authors:
 links:
   arXiv: https://arxiv.org/abs/2311.11142
   Code: https://github.com/fatemafaria142/Vashantor-A-Large-scale-Multilingual-Benchmark-Dataset
-research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
+research_area:   "Natural Language Processing, Machine Translation, Dialect Detection, Low-Resource Languages"
 ---
