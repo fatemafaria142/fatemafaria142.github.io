@@ -17,5 +17,5 @@ authors:
 links:
   PDF: https://link.springer.com/chapter/10.1007/978-981-96-6124-4_2
   Code: https://github.com/fatemafaria142/Large-Language-Models-Over-Transformer-Models-for-Bangla-NLI
-research_idea:   ""  # TODO: fill in a future-research direction for this paper
+research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
 ---

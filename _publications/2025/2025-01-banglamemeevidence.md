@@ -16,5 +16,5 @@ authors:
   - Faisal Muhammad Shah
 links:
   arXiv: https://arxiv.org/abs/2607.03981
-research_idea:   ""  # TODO: fill in a future-research direction for this paper
+research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
 ---

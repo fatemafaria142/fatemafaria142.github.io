@@ -16,5 +16,5 @@ links:
   PDF: https://www.mdpi.com/2227-7390/12/23/3687
   Code: https://github.com/fatemafaria142/Bangla-Hate-Speech-Detection
   Dataset: https://www.kaggle.com/datasets/naurosromim/bdshs
-research_idea:   ""  # TODO: fill in a future-research direction for this paper
+research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
 ---

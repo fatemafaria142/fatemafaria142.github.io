@@ -18,5 +18,5 @@ authors:
 links:
   PDF: https://ieeexplore.ieee.org/document/10099162
   Code: https://github.com/fatemafaria142/Classification-of-Potato-Disease-A-Hybrid-Deep-Learning-Framework
-research_idea:   ""  # TODO: fill in a future-research direction for this paper
+research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
 ---

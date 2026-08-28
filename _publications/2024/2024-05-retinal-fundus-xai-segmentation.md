@@ -18,5 +18,5 @@ authors:
 links:
   arXiv: https://arxiv.org/pdf/2405.07338
   Code: https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation
-research_idea:   ""  # TODO: fill in a future-research direction for this paper
+research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
 ---

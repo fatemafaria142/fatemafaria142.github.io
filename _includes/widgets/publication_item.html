@@ -24,8 +24,12 @@
                 {% if item.pub_url %}<a href="{{ item.pub_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }} <i class="fas fa-external-link-alt fa-xs"></i></a>{% else %}{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }}{% endif %}
                 <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span>
             </p>
-            {% if item.research_idea %}
-            <p class="mt-1 mb-0 small pub-research-idea"><i class="fas fa-lightbulb fa-xs"></i> <span class="font-weight-bold">Research idea:</span> <em>{{ item.research_idea }}</em></p>
+            {% if item.research_area %}
+            <div class="mt-2 pub-research-area">
+                <span class="pub-area-label"><i class="fas fa-tag fa-xs"></i> Research Area</span>
+                {% assign areas = item.research_area | split: "," %}
+                {% for a in areas %}<span class="pub-area-tag">{{ a | strip }}</span>{% endfor %}
+            </div>
             {% endif %}
 
             <p class="small pb-0 mb-0 pt-2 lh-125 abstract-links">
@@ -73,8 +77,12 @@
                     {% if item.pub_url %}<a href="{{ item.pub_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }} <i class="fas fa-external-link-alt fa-xs"></i></a>{% else %}{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }}{% endif %}
                     <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span>
                 </p>
-                {% if item.research_idea %}
-                <p class="mt-1 mb-0 small pub-research-idea"><i class="fas fa-lightbulb fa-xs"></i> <span class="font-weight-bold">Research idea:</span> <em>{{ item.research_idea }}</em></p>
+                {% if item.research_area %}
+                <div class="mt-2 pub-research-area">
+                    <span class="pub-area-label"><i class="fas fa-tag fa-xs"></i> Research Area</span>
+                    {% assign areas = item.research_area | split: "," %}
+                    {% for a in areas %}<span class="pub-area-tag">{{ a | strip }}</span>{% endfor %}
+                </div>
                 {% endif %}
 
                 <p class="small pb-0 mb-0 pt-2 lh-125 abstract-links">

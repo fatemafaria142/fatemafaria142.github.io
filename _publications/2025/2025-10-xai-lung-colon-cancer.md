@@ -17,5 +17,5 @@ authors:
 links:
   PDF: https://link.springer.com/chapter/10.1007/978-981-96-6124-4_1
   Code: https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification
-research_idea:   ""  # TODO: fill in a future-research direction for this paper
+research_area:   ""  # TODO: e.g. "Multimodal LLMs, Financial QA"
 ---
