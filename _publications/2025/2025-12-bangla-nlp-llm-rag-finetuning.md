@@ -14,4 +14,5 @@ authors:
   - Faisal Muhammad Shah
 links:
   PDF: https://www.researchgate.net/publication/410698669_Evaluating_Bengali_NLP_with_Task-Specific_Prompts_Few-Shot_Learning_RAG_and_Fine-Tuning
+research_idea:   ""  # TODO: fill in a future-research direction for this paper
 ---

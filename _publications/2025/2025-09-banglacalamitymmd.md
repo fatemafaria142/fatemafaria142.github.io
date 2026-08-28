@@ -20,4 +20,5 @@ links:
   PDF: https://www.sciencedirect.com/science/article/pii/S2212420925006247
   Code: https://github.com/fatemafaria142/BanglaCalamityMMD-A-Comprehensive-Benchmark-Dataset-for-Multimodal-Disaster-Identification
   Dataset: https://data.mendeley.com/datasets/7dggbjn5sd/1
+research_idea:   ""  # TODO: fill in a future-research direction for this paper
 ---

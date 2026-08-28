@@ -24,6 +24,9 @@
                 {% if item.pub_url %}<a href="{{ item.pub_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }} <i class="fas fa-external-link-alt fa-xs"></i></a>{% else %}{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }}{% endif %}
                 <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span>
             </p>
+            {% if item.research_idea %}
+            <p class="mt-1 mb-0 small pub-research-idea"><i class="fas fa-lightbulb fa-xs"></i> <span class="font-weight-bold">Research idea:</span> <em>{{ item.research_idea }}</em></p>
+            {% endif %}
 
             <p class="small pb-0 mb-0 pt-2 lh-125 abstract-links">
                 {% for link in item.links %}
@@ -46,10 +49,14 @@
     </div>
 </div>
 
-<div class="row no-gutters d-md-none {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %} {% if item.cover %}lazy{% endif %}" data-src="{{ item.cover | relative_url }}" style="border-left: 4px solid {% if item.selected and include.hide_selected_badge != true %}#007bff{% else %}transparent{% endif %};">
-    <div class="w-100 {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %}" style="background-color: rgba(255,255,255,0.9);">
-        <div class="d-flex align-items-start flex-column py-3 px-4">
-            <div class="mb-auto"></div>
+<div class="row no-gutters d-md-none {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %}" style="border-left: 4px solid {% if item.selected and include.hide_selected_badge != true %}#007bff{% else %}transparent{% endif %};">
+    <div class="w-100 {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %}">
+        <div class="d-flex align-items-start flex-column pb-3 px-4 pt-3">
+            {%- if item.cover -%}
+            <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm pub-cover mb-3" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+            {%- else -%}
+            <svg class="bubble-visual-hash lazy w-100 rounded-sm mb-3" data-bubble-visual-hash="{{ item.id }}" viewBox="0 0 300 200"></svg>
+            {%- endif -%}
             <div>
                 <div class="mb-1">
                     {% if item.selected and include.hide_selected_badge != true %}<span class="pub-badge pub-badge-selected"><i class="fas fa-star"></i> Selected</span>{% endif %}
@@ -66,6 +73,9 @@
                     {% if item.pub_url %}<a href="{{ item.pub_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }} <i class="fas fa-external-link-alt fa-xs"></i></a>{% else %}{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }}{% endif %}
                     <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span>
                 </p>
+                {% if item.research_idea %}
+                <p class="mt-1 mb-0 small pub-research-idea"><i class="fas fa-lightbulb fa-xs"></i> <span class="font-weight-bold">Research idea:</span> <em>{{ item.research_idea }}</em></p>
+                {% endif %}
 
                 <p class="small pb-0 mb-0 pt-2 lh-125 abstract-links">
                     {% for link in item.links %}

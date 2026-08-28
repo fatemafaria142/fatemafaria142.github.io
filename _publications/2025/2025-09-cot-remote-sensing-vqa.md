@@ -16,4 +16,5 @@ authors:
 links:
   PDF: https://www.mdpi.com/2227-7390/13/18/3046
   Dataset: https://github.com/Junjue-Wang/EarthVQA
+research_idea:   ""  # TODO: fill in a future-research direction for this paper
 ---

@@ -16,4 +16,5 @@ authors:
   - Faisal Muhammad Shah
 links:
   arXiv: https://arxiv.org/abs/2607.03981
+research_idea:   ""  # TODO: fill in a future-research direction for this paper
 ---

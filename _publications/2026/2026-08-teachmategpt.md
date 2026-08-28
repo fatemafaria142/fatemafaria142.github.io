@@ -14,4 +14,5 @@ authors:
   - Jubayer Al Mahmud
 links:
   arXiv: https://arxiv.org/abs/2608.13708
+research_idea:   ""  # TODO: fill in a future-research direction for this paper
 ---

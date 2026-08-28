@@ -20,4 +20,5 @@ links:
   PDF: https://www.sciencedirect.com/science/article/pii/S2667096825000291
   Code: https://github.com/fatemafaria142/MultiBanFakeDetect-An-Extensive-Benchmark-Dataset-for-Multimodal-Bangla-Fake-News-Detection
   Dataset: https://data.mendeley.com/datasets/k5pbz9795f/1
+research_idea:   ""  # TODO: fill in a future-research direction for this paper
 ---

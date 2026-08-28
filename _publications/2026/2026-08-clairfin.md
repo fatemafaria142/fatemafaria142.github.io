@@ -15,4 +15,5 @@ authors:
   - Md. Alam Hossain
 links:
   arXiv: https://arxiv.org/abs/2608.13706
+research_idea:   ""  # TODO: fill in a future-research direction for this paper
 ---
