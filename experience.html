@@ -32,10 +32,9 @@ navbar_title: Work Experience
                             {% endfor %}
                         </ul>
                         {% if project.tech_stack %}
-                        <div class="mt-2">
-                            {% for tech in project.tech_stack %}
-                            <span class="tech-pill">{{ tech }}</span>
-                            {% endfor %}
+                        <div class="mt-2 pub-research-area">
+                            <span class="pub-area-label"><i class="fas fa-tag fa-xs"></i> Tech Stack</span>
+                            {% for tech in project.tech_stack %}<span class="pub-area-tag">{{ tech }}</span>{% endfor %}
                         </div>
                         {% endif %}
                     </div>

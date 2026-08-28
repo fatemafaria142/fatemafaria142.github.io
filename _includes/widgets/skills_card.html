@@ -3,17 +3,13 @@
     <h6 class="p-3 mb-0 border-bottom border-gray">
         <i class="fas fa-toolbox"></i> Technical Skills
     </h6>
-    <div class="p-3 small">
-        <table class="table table-borderless table-sm mb-0">
-            <tbody>
-                {% for skill in site.data.skills %}
-                <tr>
-                    <td class="font-weight-bold text-nowrap align-top pr-3" style="width: 1%;">{{ skill.category }}</td>
-                    <td>{{ skill.items }}</td>
-                </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+    <div class="p-3">
+        {% for skill in site.data.skills %}
+        <div class="pub-research-area {% unless forloop.last %}mb-2{% endunless %}">
+            <span class="pub-area-label"><i class="fas fa-tag fa-xs"></i> {{ skill.category }}</span>
+            {% for item in skill.items %}<span class="pub-area-tag">{{ item }}</span>{% endfor %}
+        </div>
+        {% endfor %}
     </div>
 </div>
 {% endif %}

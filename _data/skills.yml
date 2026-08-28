@@ -1,20 +1,64 @@
 - category: Programming Languages
-  items: Python (NumPy, SciPy, Matplotlib, Pandas, Seaborn), Java, C++
+  items:
+    - "Python (NumPy, SciPy, Matplotlib, Pandas, Seaborn)"
+    - Java
+    - C++
 - category: Web Development
-  items: JavaScript, TypeScript, Tailwind CSS, FastAPI, React
+  items:
+    - JavaScript
+    - TypeScript
+    - Tailwind CSS
+    - FastAPI
+    - React
 - category: Databases
-  items: MySQL, PostgreSQL, MongoDB
+  items:
+    - MySQL
+    - PostgreSQL
+    - MongoDB
 - category: Deep Learning Frameworks
-  items: TensorFlow, Keras, PyTorch
+  items:
+    - TensorFlow
+    - Keras
+    - PyTorch
 - category: LLM Application Frameworks
-  items: LangChain, LangGraph, LlamaIndex, LlamaAgents
+  items:
+    - LangChain
+    - LangGraph
+    - LlamaIndex
+    - LlamaAgents
 - category: Vector Databases
-  items: AlloyDB for PostgreSQL (pgvector), ChromaDB, FAISS, Milvus
+  items:
+    - AlloyDB for PostgreSQL (pgvector)
+    - ChromaDB
+    - FAISS
+    - Milvus
 - category: Cloud Services (Azure)
-  items: Azure OpenAI, Azure SQL Database, Azure Container Registry, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, Azure Bot Service
+  items:
+    - Azure OpenAI
+    - Azure SQL Database
+    - Azure Container Registry
+    - Azure App Service
+    - Azure Blob Storage
+    - Azure Boards
+    - Azure Functions
+    - Azure Bot Service
 - category: Cloud Services (AWS)
-  items: Amazon ECR, AWS App Runner, Amazon EC2, Amazon S3, Amazon SES
+  items:
+    - Amazon ECR
+    - AWS App Runner
+    - Amazon EC2
+    - Amazon S3
+    - Amazon SES
 - category: Cloud Services (GCP)
-  items: Google Cloud Storage, Google App Engine, Google Compute Engine
+  items:
+    - Google Cloud Storage
+    - Google App Engine
+    - Google Compute Engine
 - category: Others
-  items: Docker, GitHub, OpenCV, Microsoft Bot Framework, WebSocket, Jira
+  items:
+    - Docker
+    - GitHub
+    - OpenCV
+    - Microsoft Bot Framework
+    - WebSocket
+    - Jira

@@ -288,16 +288,6 @@ a.author-self:hover {
     font-family: Source Code Pro, monospace;
 }
 
-.tech-pill {
-    display: inline-block;
-    background-color: #e7f1ff;
-    color: #0056b3;
-    border-radius: 999px;
-    font-size: 0.75rem;
-    padding: 0.15rem 0.65rem;
-    margin: 0 0.3rem 0.3rem 0;
-}
-
 .current-badge {
     font-size: 0.7rem;
     vertical-align: middle;
