@@ -196,6 +196,10 @@ a.author-self:hover {
     margin-bottom: 0.25rem;
 }
 
+.pub-badge i {
+    font-size: 0.85em;
+}
+
 .pub-badge-selected {
     background: linear-gradient(135deg, #007bff, #4facfe);
     color: #fff;
