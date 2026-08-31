@@ -136,7 +136,7 @@ a.author-self:hover {
 }
 
 .pub-area-label {
-    font-size: 0.68rem;
+    font-size: 0.6rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.04em;
@@ -147,20 +147,20 @@ a.author-self:hover {
 .pub-area-label i {
     opacity: 0.7;
     margin-right: 0.2rem;
-    font-size: 1.15rem;
+    font-size: 1rem;
     vertical-align: middle;
 }
 
 .pub-area-tag {
     display: inline-block;
-    font-size: 0.74rem;
+    font-size: 0.66rem;
     font-weight: 600;
     color: #0056b3;
     background-color: rgba(0, 123, 255, 0.08);
     border: 1px solid rgba(0, 123, 255, 0.18);
     border-radius: 999px;
-    padding: 0.1rem 0.6rem;
-    line-height: 1.55;
+    padding: 0.08rem 0.5rem;
+    line-height: 1.5;
 }
 
 .pub-venue-link {
