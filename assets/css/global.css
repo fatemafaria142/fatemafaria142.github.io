@@ -224,6 +224,9 @@ a.author-self:hover {
     border-radius: 999px;
     font-size: 0.78rem;
     padding: 0.15rem 0.7rem;
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
 }
 
 .pub-link-btn i {
@@ -231,17 +234,36 @@ a.author-self:hover {
 }
 
 .pub-link-btn:hover {
-    background-color: #007bff;
+    background-color: transparent;
     border-color: #007bff;
-    color: #fff;
-    box-shadow: 0 0.25rem 0.5rem rgba(0, 123, 255, 0.25);
+    color: #007bff;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 123, 255, 0.15);
 }
 
-.pub-link-btn.btn-outline-success:hover {
+.pub-link-btn.btn-outline-success {
     background-color: #12b76a;
     border-color: #12b76a;
     color: #fff;
-    box-shadow: 0 0.25rem 0.5rem rgba(18, 183, 106, 0.25);
+}
+
+.pub-link-btn.btn-outline-success:hover {
+    background-color: transparent;
+    border-color: #12b76a;
+    color: #12b76a;
+    box-shadow: 0 0.25rem 0.5rem rgba(18, 183, 106, 0.15);
+}
+
+.pub-link-btn.btn-outline-warning {
+    background-color: #b26a00;
+    border-color: #b26a00;
+    color: #fff;
+}
+
+.pub-link-btn.btn-outline-warning:hover {
+    background-color: transparent;
+    border-color: #b26a00;
+    color: #b26a00;
+    box-shadow: 0 0.25rem 0.5rem rgba(178, 106, 0, 0.15);
 }
 
 .pubs-year-heading {

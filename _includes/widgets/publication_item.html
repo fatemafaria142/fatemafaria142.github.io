@@ -10,9 +10,8 @@
         </div>
         <div class="col-md-5 col-xl-6 p-3 pl-md-0">
             <div class="mb-1">
-                {% if item.selected and include.hide_selected_badge != true %}<span class="pub-badge pub-badge-selected"><i class="fas fa-star"></i> Selected</span>{% endif %}
                 {% case item.status %}
-                {% when "under_review" %}<span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
+                {% when "under_review" %}{% comment %}Shown next to the arXiv link below instead of a duplicate badge.{% endcomment %}
                 {% when "accepted" %}{% comment %}Shown via the "Accepted to" venue line below instead of a duplicate badge.{% endcomment %}
                 {% when "preprint" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-flask"></i> Preprint</span>
                 {% else %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
@@ -39,6 +38,11 @@
                 <a class="btn btn-sm btn-outline-success pub-link-btn mr-1 mb-1" target="_blank" rel="noopener" href="{{ item.pub_url | default: '#' }}">
                     <i class="fas fa-check-circle"></i> Accepted to {{item.pub_pre}}{{ item.pub }}{{ item.pub_post }}
                 </a>
+                {% endif %}
+                {% if item.status == "under_review" %}
+                <span class="btn btn-sm btn-outline-warning pub-link-btn mr-1 mb-1">
+                    <i class="fas fa-hourglass-half"></i> Under Review
+                </span>
                 {% endif %}
                 {% for link in item.links %}
                 {% assign link_url = link[1].url | default: link[1] %}
@@ -70,9 +74,8 @@
             {%- endif -%}
             <div>
                 <div class="mb-1">
-                    {% if item.selected and include.hide_selected_badge != true %}<span class="pub-badge pub-badge-selected"><i class="fas fa-star"></i> Selected</span>{% endif %}
                     {% case item.status %}
-                    {% when "under_review" %}<span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
+                    {% when "under_review" %}{% comment %}Shown next to the arXiv link below instead of a duplicate badge.{% endcomment %}
                     {% when "accepted" %}{% comment %}Shown via the "Accepted to" venue line below instead of a duplicate badge.{% endcomment %}
                     {% when "preprint" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-flask"></i> Preprint</span>
                     {% else %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
@@ -99,6 +102,11 @@
                     <a class="btn btn-sm btn-outline-success pub-link-btn mr-1 mb-1" target="_blank" rel="noopener" href="{{ item.pub_url | default: '#' }}">
                         <i class="fas fa-check-circle"></i> Accepted to {{item.pub_pre}}{{ item.pub }}{{ item.pub_post }}
                     </a>
+                    {% endif %}
+                    {% if item.status == "under_review" %}
+                    <span class="btn btn-sm btn-outline-warning pub-link-btn mr-1 mb-1">
+                        <i class="fas fa-hourglass-half"></i> Under Review
+                    </span>
                     {% endif %}
                     {% for link in item.links %}
                     {% assign link_url = link[1].url | default: link[1] %}
