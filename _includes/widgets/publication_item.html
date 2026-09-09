@@ -19,7 +19,7 @@
             </div>
             <h5 class="mt-0 mb-1 font-weight-bold pub-title">{{ item.title }}</h5>
             <p class="mt-0 mb-0 small pub-authors">{% include widgets/author_list.html authors=item.authors %}</p>
-            {% if item.pub %}
+            {% if item.pub and item.status != "accepted" %}
             <p class="mt-0 mb-0 small pub-venue">
                 {% if item.pub_url %}<a href="{{ item.pub_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }} <i class="fas fa-external-link-alt fa-xs"></i></a>{% else %}{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }}{% endif %}
                 <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span>
@@ -83,7 +83,7 @@
                 </div>
                 <h5 class="mt-0 mb-1 font-weight-bold pub-title">{{ item.title }}</h5>
                 <p class="mt-0 mb-0 small pub-authors">{% include widgets/author_list.html authors=item.authors %}</p>
-                {% if item.pub %}
+                {% if item.pub and item.status != "accepted" %}
                 <p class="mt-0 mb-0 small pub-venue">
                     {% if item.pub_url %}<a href="{{ item.pub_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }} <i class="fas fa-external-link-alt fa-xs"></i></a>{% else %}{{item.pub_pre}}{{ item.pub }}{{ item.pub_post }}{% endif %}
                     <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span>
