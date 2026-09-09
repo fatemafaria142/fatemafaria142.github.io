@@ -1,5 +1,5 @@
 ongoing_projects:
-- title: "HEAL: A Self-Correcting Multi-Agent Framework with Mutual Consistency Validation for Text-to-SQL over Clinical Patient Records"
+- title: "HEAL: A Self-Correcting Multi-Agent Framework with Mutual Consistency Validation for Clinical Text-to-SQL"
   date: "July 2026 to Present"
   status: "ongoing"
   cover: /assets/images/ongoing-research-diagrams/HEAL.png

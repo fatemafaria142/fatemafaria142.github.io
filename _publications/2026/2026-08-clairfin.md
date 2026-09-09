@@ -4,8 +4,8 @@ date:           2026-08-04 00:01:00 +0600
 selected:       true
 selected_order: 1
 cover:          /assets/images/publications/CLAIR-Fin.png
-pub:            "arXiv preprint"
-status:         under_review
+pub:            "FinNLP-2026 @ EMNLP-2026"
+status:         accepted
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria
