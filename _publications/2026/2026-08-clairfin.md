@@ -5,6 +5,7 @@ selected:       true
 selected_order: 1
 cover:          /assets/images/publications/CLAIR-Fin.png
 pub:            "FinNLP-2026 @ EMNLP-2026"
+pub_url:        https://sigfintech.github.io/finnlp2026/index.html
 status:         accepted
 pub_date:       "2026"
 authors:

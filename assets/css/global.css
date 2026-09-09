@@ -205,6 +205,11 @@ a.author-self:hover {
     color: #fff;
 }
 
+.pub-badge-accepted {
+    background: linear-gradient(135deg, #12b76a, #34d399);
+    color: #fff;
+}
+
 .pub-venue-accepted {
     display: inline-flex;
     align-items: center;

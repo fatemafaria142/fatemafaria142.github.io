@@ -13,7 +13,7 @@
                 {% if item.selected and include.hide_selected_badge != true %}<span class="pub-badge pub-badge-selected"><i class="fas fa-star"></i> Selected</span>{% endif %}
                 {% case item.status %}
                 {% when "under_review" %}<span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
-                {% when "accepted" %}{% comment %}Shown via the "Accepted to" venue line below instead of a duplicate badge.{% endcomment %}
+                {% when "accepted" %}<span class="pub-badge pub-badge-accepted"><i class="fas fa-check-circle"></i> Accepted</span>
                 {% when "preprint" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-flask"></i> Preprint</span>
                 {% else %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
                 {% endcase %}
@@ -75,7 +75,7 @@
                     {% if item.selected and include.hide_selected_badge != true %}<span class="pub-badge pub-badge-selected"><i class="fas fa-star"></i> Selected</span>{% endif %}
                     {% case item.status %}
                     {% when "under_review" %}<span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
-                    {% when "accepted" %}{% comment %}Shown via the "Accepted to" venue line below instead of a duplicate badge.{% endcomment %}
+                    {% when "accepted" %}<span class="pub-badge pub-badge-accepted"><i class="fas fa-check-circle"></i> Accepted</span>
                     {% when "preprint" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-flask"></i> Preprint</span>
                     {% else %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
                     {% endcase %}
