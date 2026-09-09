@@ -254,16 +254,16 @@ a.author-self:hover {
 }
 
 .pub-link-btn.btn-outline-warning {
-    background-color: #eab308;
-    border-color: #eab308;
+    background-color: #f26c2b;
+    border-color: #f26c2b;
     color: #fff;
 }
 
 .pub-link-btn.btn-outline-warning:hover {
     background-color: transparent;
-    border-color: #eab308;
-    color: #b8860b;
-    box-shadow: 0 0.25rem 0.5rem rgba(234, 179, 8, 0.25);
+    border-color: #f26c2b;
+    color: #f26c2b;
+    box-shadow: 0 0.25rem 0.5rem rgba(242, 108, 43, 0.25);
 }
 
 .pubs-year-heading {
