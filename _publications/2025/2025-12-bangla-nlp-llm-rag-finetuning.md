@@ -3,7 +3,6 @@ title:          "Enhancing Bangla NLP Tasks with LLMs: A Study on Few-Shot Learn
 date:           2025-12-01 00:01:00 +0600
 selected:       false
 cover:          /assets/images/publications/BanglaNLP.PNG
-pub:            "arXiv preprint"
 status:         under_review
 pub_date:       "2025"
 authors:

@@ -205,56 +205,6 @@ a.author-self:hover {
     color: #fff;
 }
 
-.pub-badge-accepted {
-    background: linear-gradient(135deg, #12b76a, #34d399);
-    color: #fff;
-}
-
-.pub-venue-accepted {
-    display: inline-flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    margin-top: 0.35rem;
-    padding: 0.3rem 0.65rem;
-    background-color: #f3faf6;
-    border: 1px solid #cdeadb;
-    border-radius: 6px;
-}
-
-.pub-venue-accepted .pub-venue-accepted-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
-    background-color: #12b76a;
-    color: #fff;
-    font-size: 0.58rem;
-    flex-shrink: 0;
-}
-
-.pub-venue-accepted .pub-venue-accepted-label {
-    font-size: 0.62rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: #1e8e5a;
-    margin-right: 0.1rem;
-}
-
-.pub-venue-accepted .pub-venue-link {
-    color: #0f5132;
-    font-weight: 600;
-    border-bottom-color: rgba(30, 142, 90, 0.4);
-}
-
-.pub-venue-accepted .pub-venue-link:hover {
-    color: #12b76a;
-    border-bottom-color: #12b76a;
-}
-
 .pub-badge-published {
     background-color: #e7f1ff;
     color: #0d5cbf;
@@ -285,6 +235,13 @@ a.author-self:hover {
     border-color: #007bff;
     color: #fff;
     box-shadow: 0 0.25rem 0.5rem rgba(0, 123, 255, 0.25);
+}
+
+.pub-link-btn.btn-outline-success:hover {
+    background-color: #12b76a;
+    border-color: #12b76a;
+    color: #fff;
+    box-shadow: 0 0.25rem 0.5rem rgba(18, 183, 106, 0.25);
 }
 
 .pubs-year-heading {

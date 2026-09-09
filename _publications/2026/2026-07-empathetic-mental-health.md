@@ -4,7 +4,6 @@ date:           2026-08-01 00:01:00 +0600
 selected:       true
 selected_order: 4
 cover:          /assets/images/publications/Mental-Health-Dataset-Process.png
-pub:            "arXiv preprint"
 status:         under_review
 pub_date:       "2026"
 authors:
