@@ -56,7 +56,7 @@ short_bio: >-
   <p class="mb-1"><strong>Domain-Specific AI Applications:</strong></p>
   <ul class="mb-0">
     <li><strong>Vision-Language Models for Medical Imaging:</strong> Developing clinically reliable AI systems for medical image understanding, detection, segmentation, and visual grounding.</li>
-    <li><strong>AI for Databases:</strong> Developing AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.</li>
+    <li><strong>AI for Databases:</strong> Building AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.</li>
   </ul>
 
 portrait_url: /assets/images/photos/portrait.png
