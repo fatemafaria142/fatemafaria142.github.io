@@ -13,7 +13,7 @@ jobs:
         - "Designed a <strong>Profile Screening Agent</strong> that performs resume information extraction, career-page parsing, semantic candidate–job matching, and ranking to identify qualified candidates against job-specific requirements."
         - "Developed a <strong>Job Fit Scoring Agent</strong> that dynamically generates evaluation criteria and weights from job requirements, applies weighted scoring and requirement-level candidate assessment, and sends HRs detailed evaluation reports with interpretable scores and evidence-based explanations via email."
         - "Architected a <strong>Talent Matching Agent</strong> that converts HR queries into structured retrieval constraints and combines semantic vector search, metadata filtering, query optimization, and relevance reranking to retrieve evidence-backed candidate recommendations, with dynamic removal of outdated profiles and ingestion and updating of new profiles."
-        - "Optimized large-scale CV processing through batch execution, parallel processing, and redundant LLM-call reduction, enabling evaluation of <strong>1,000–1,200 candidate profiles</strong> and <strong>cutting manual effort from 5 days to under 4 hours</strong>."
+        - "Optimized large-scale CV processing through batch execution, parallel processing, and redundant LLM-call reduction, enabling the evaluation of <strong>800–1,000 candidate profiles</strong> and <strong>cutting manual effort from 5 days to under 12 hours</strong>."
       tech_stack:
         - "Python"
         - "LangGraph"
