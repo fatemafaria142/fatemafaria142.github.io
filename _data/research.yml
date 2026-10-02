@@ -31,7 +31,7 @@ ongoing_projects:
     one monolithic model call. This is still active, evolving work; further
     details will be shared once the approach is validated and written up.
 - title: "Positional Bias in Medical Vision-Language Models: A Benchmark Study"
-  date: "October 2026 to Present"
+  date: "September 2026 to Present"
   status: "ongoing"
   cover: /assets/images/ongoing-research-diagrams/Benchmark-Axes-for-Medical-VLMs.png
   problem: |
