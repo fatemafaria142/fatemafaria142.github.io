@@ -30,3 +30,28 @@ ongoing_projects:
     most systems rely on, using a staged, feedback-driven process rather than
     one monolithic model call. This is still active, evolving work; further
     details will be shared once the approach is validated and written up.
+- title: "Positional Bias in Medical Vision-Language Models: A Benchmark Study"
+  date: "October 2026 to Present"
+  status: "ongoing"
+  cover: /assets/images/ongoing-research-diagrams/Benchmark-Axes-for-Medical-VLMs.png
+  problem: |
+    Medical vision-language models (VLMs) increasingly use natural-language
+    prompts to localize or segment anatomical structures, where positional
+    terms such as left, right, upper, and lower are combined with entity
+    descriptions such as kidney or lobe. However, standard metrics such as
+    Dice and IoU do not reveal whether a model genuinely follows positional
+    instructions or relies on fixed spatial priors, memorized patterns, or
+    other shortcuts. A model may therefore achieve good overall accuracy
+    while failing to correctly respond to positional language.
+  gap: |
+    There is currently no systematic, model-agnostic benchmark for evaluating
+    positional grounding in medical VLMs. Existing evaluations mainly focus on
+    overall localization or segmentation performance, with limited attention
+    to controlled positional prompts, 3D spatial reasoning, geometric stress
+    testing, and the underlying reasons for positional behavior.
+  approach: |
+    We benchmark 2D and 3D medical vision-language models using controlled
+    positional prompts, followed by rotation-based stress tests and internal
+    analysis of positional and entity information. This allows us to evaluate
+    whether models consistently ground positional language in the medical
+    image rather than relying on shortcuts.
