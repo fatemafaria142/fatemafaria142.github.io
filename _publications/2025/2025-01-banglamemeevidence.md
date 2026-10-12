@@ -2,6 +2,7 @@
 title:          "BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes"
 date:           2025-12-06 00:01:00 +0600
 selected:       false
+published:      false
 cover:          /assets/images/publications/BanglaMemeEvidence.jpg
 pub:            "ICICV 2026"
 pub_url:        https://icicv.co.in/
