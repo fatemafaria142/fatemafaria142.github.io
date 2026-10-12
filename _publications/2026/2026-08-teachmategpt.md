@@ -4,7 +4,6 @@ date:           2026-08-03 00:01:00 +0600
 selected:       true
 selected_order: 2
 cover:          /assets/images/publications/TeachMateGPT.png
-status:         under_review
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria
