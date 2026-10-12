@@ -46,7 +46,8 @@ jobs:
         - "Integrated a <strong>Web Browser Agent</strong> with controlled web retrieval and instruction-aware source selection to augment knowledge-grounded responses with current external information when enterprise sources were insufficient."
         - "Implemented dynamic knowledge-base management with incremental SharePoint synchronization, file-level tracking, and memory updates, allowing users to add or remove knowledge sources without rebuilding the complete index."
         - "Designed session-aware conversational workflows with persistent history, context management, and session reset mechanisms, and integrated the system with Microsoft Bot Framework for deployment within Microsoft Teams."
-        - "Directed system architecture and mentored junior developers through design reviews, debugging, code reviews, and technical knowledge-sharing, achieving an <strong>average 60–65% annual operational cost reduction</strong> through agent and inference optimization for 80 Sales Managers with 50+ interactions per day."
+        - "Mentored junior developers through system design reviews, code reviews, debugging, and technical knowledge sharing."
+        - "Achieved an average <strong>60–65% annual operational cost reduction</strong> through agent and inference optimization for 80 Sales Managers with 50+ interactions per day."
       tech_stack:
         - "Python"
         - "LlamaIndex"
