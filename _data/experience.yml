@@ -69,10 +69,12 @@ jobs:
   projects:
     - name: "Project: OrgInfo"
       bullets:
-        - "Implemented an <strong>OrgChart Extraction Agent</strong> with Tree-of-Thought (ToT) reasoning, visual parsing, hierarchical inference, and structured entity mapping to reconstruct organizational hierarchies from organograms and map extracted roles to corresponding Bullhorn records in a relational database."
-        - "Developed an <strong>OrgQuery Agent</strong> that converts natural language queries into optimized SQL (text-to-SQL) using Chain-of-Thought (CoT) and self-consistency prompting, retrieves organizational hierarchy from the relational database, and presents results through the OrgChart interface for hierarchical visualization."
-        - "Engineered <strong>OrgInfo Assistant</strong> to allow users to interact with specific organizational hierarchies by converting queries to SQL, executing them on a temporary organization-specific database to reduce load on the primary database, and converting the retrieved results to natural language."
+        - "Co-led project delivery by analyzing stakeholder feedback, refining requirements, coordinating technical implementation, and managing continuous releases from development through production."
+        - "Implemented an <strong>OrgChart Extraction Agent</strong> that analyzes uploaded organograms, identifies reporting relationships, reconstructs organizational hierarchies, and maps extracted roles to corresponding Bullhorn database records."
+        - "Developed an <strong>OrgQuery Agent</strong> that converts natural language queries into optimized SQL (text-to-SQL), retrieves organizational hierarchy data from a relational database, and displays results through an interactive OrgChart interface."
+        - "Architected an <strong>OrgInfo Assistant</strong> that converts user queries into SQL, executes them against a temporary organization-specific database to reduce load on the primary database, and translates query results into natural language."
         - "Created an <strong>OrgActivity Summarization Agent</strong> to generate 7-day summaries of organizational activities by extracting relevant notes on placements, submissions, and communication logs from the Bullhorn database."
+        - "Designed an interactive React frontend with chat-based query input, hierarchical organization graph visualization, and WebSocket integration for real-time updates between the user interface and backend agents."
         - "Automated Bullhorn synchronization through scheduled data ingestion and incremental database updates, <strong>cutting organizational hierarchy search time by 75%</strong> by eliminating repeated direct queries against the source system."
       tech_stack:
         - "Python"
