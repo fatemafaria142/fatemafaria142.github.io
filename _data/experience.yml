@@ -9,11 +9,14 @@ jobs:
   projects:
     - name: "Product: TalentX"
       bullets:
-        - "Built a <strong>Job Builder Agent</strong> that combines document parsing, field-level extraction, and human-in-the-loop refinement to transform user requirements or PDF/DOCX inputs into structured, editable job specifications."
-        - "Designed a <strong>Profile Screening Agent</strong> that performs resume information extraction, career-page parsing, semantic candidate–job matching, and ranking to identify qualified candidates against job-specific requirements."
-        - "Developed a <strong>Job Fit Scoring Agent</strong> that dynamically generates evaluation criteria and weights from job requirements, applies weighted scoring and requirement-level candidate assessment, and sends HRs detailed evaluation reports with interpretable scores and evidence-based explanations via email."
-        - "Architected a <strong>Talent Matching Agent</strong> that converts HR queries into structured retrieval constraints and combines semantic vector search, metadata filtering, query optimization, and relevance reranking to retrieve evidence-backed candidate recommendations, with dynamic removal of outdated profiles and ingestion and updating of new profiles."
-        - "Optimized large-scale CV processing through batch execution, parallel processing, and redundant LLM-call reduction, enabling the evaluation of <strong>800–1,000 candidate profiles</strong> and <strong>cutting manual effort from 5 days to under 12 hours</strong>."
+        - "Directed end-to-end technical delivery of TalentX through stakeholder requirement analysis, feedback review, architectural decisions, proof-of-concept (PoC) validation, cross-functional coordination, and production deployment."
+        - "Built a <strong>Job Builder Agent</strong> that combines PDF/DOCX parsing, field-level information extraction, and human-in-the-loop refinement to transform user requirements or uploaded documents into structured, editable job specifications."
+        - "Designed and developed a <strong>Job Fit Scoring Agent</strong> that generates job-specific evaluation criteria and weights, assesses candidates against requirements, and delivers evidence-based evaluation reports to HR teams via email."
+        - "Architected a <strong>Talent Matching Agent</strong> that converts HR queries into structured retrieval constraints and combines semantic vector search, metadata filtering, and relevance reranking to retrieve evidence-backed candidate recommendations from the CV bank."
+        - "Automated candidate CV ingestion and synchronization through scheduled batch jobs, with content-change detection to reprocess updated CVs, refresh their vector embeddings, and remove outdated records to maintain accurate and up-to-date search results."
+        - "Implemented a multi-tenant architecture with organization-level data isolation, user authentication, role-based permissions, and agent-level access controls to restrict data access and agent operations based on organizational boundaries and user privileges."
+        - "Configured a <strong>Candidate Communication Agent</strong> to automate job application notifications, interview invitations, and individual or bulk rejection emails through HR-defined templates to streamline recruitment processes."
+        - "Optimized large-scale CV processing through batch execution, parallel processing, and redundant LLM-call reduction, enabling the evaluation of <strong>800–1,000 candidate profiles</strong> and <strong>reducing processing time from 5 days to under 12 hours</strong>."
       tech_stack:
         - "Python"
         - "LangGraph"
