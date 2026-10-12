@@ -1,8 +1,8 @@
 ---
 title:          "LabourCrew: A Multi-Agent RAG Framework for Trustworthy Adversarial Deliberation and Statutory Reasoning over Labour Law"
-date:           2026-09-01 00:01:00 +0600
+date:           2026-09-03 00:01:00 +0600
 selected:       true
-selected_order: 4
+selected_order: 3
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria
