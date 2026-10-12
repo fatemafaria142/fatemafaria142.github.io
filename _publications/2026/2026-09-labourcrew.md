@@ -3,6 +3,7 @@ title:          "LabourCrew: A Multi-Agent RAG Framework for Trustworthy Adversa
 date:           2026-09-03 00:01:00 +0600
 selected:       true
 selected_order: 3
+cover:          /assets/images/publications/LabourCrew.png
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria
