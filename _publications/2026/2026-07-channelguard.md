@@ -1,5 +1,5 @@
 ---
-title:          "ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems"
+title:          "ChannelGuard: From Borrowed Safety to Application-Controlled Defenses in Multi-Agent LLMs"
 date:           2026-09-04 00:01:00 +0600
 selected:       true
 selected_order: 2
@@ -10,8 +10,10 @@ authors:
   - Elias Hossain
   - Md Mehedi Hasan Nipu
   - Fatema Tuj Johora Faria
-  - Tasfia Nuzhat Ornee
+  - Shubhashis Roy Dipta
   - Maleeha Sheikh
+  - Tasfia Nuzhat Ornee
+  - Niloofar Yousefi
 links:
   arXiv: https://arxiv.org/abs/2607.19430
 research_area:   "AI Security, Multi-Agent Systems, Prompt Injection, Adversarial Attacks, Trustworthy AI"
