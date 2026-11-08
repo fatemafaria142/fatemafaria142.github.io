@@ -42,7 +42,14 @@
                 {% for link in item.links %}
                 {% assign link_url = link[1].url | default: link[1] %}
                 {% assign link_target = link[1]['target'] | default: "_blank" %}
-                <a class="btn btn-sm btn-outline-primary pub-link-btn mr-1 mb-1" target="{{ link_target }}" href="{{ link_url }}">
+                {% case link[0] %}
+                {% when "PDF" %}{% assign link_color = "btn-outline-danger" %}
+                {% when "arXiv" %}{% assign link_color = "btn-outline-dark" %}
+                {% when "Code" %}{% assign link_color = "btn-outline-secondary" %}
+                {% when "Dataset" %}{% assign link_color = "btn-outline-warning" %}
+                {% else %}{% assign link_color = "btn-outline-primary" %}
+                {% endcase %}
+                <a class="btn btn-sm {{ link_color }} pub-link-btn mr-1 mb-1" target="{{ link_target }}" href="{{ link_url }}">
                     {% case link[0] %}
                     {% when "PDF" %}<i class="fas fa-file-pdf"></i>
                     {% when "arXiv" %}<i class="fas fa-scroll"></i>
@@ -101,7 +108,14 @@
                     {% for link in item.links %}
                     {% assign link_url = link[1].url | default: link[1] %}
                     {% assign link_target = link[1]['target'] | default: "_blank" %}
-                    <a class="btn btn-sm btn-outline-primary pub-link-btn mr-1 mb-1" target="{{ link_target }}" href="{{ link_url }}">
+                    {% case link[0] %}
+                    {% when "PDF" %}{% assign link_color = "btn-outline-danger" %}
+                    {% when "arXiv" %}{% assign link_color = "btn-outline-dark" %}
+                    {% when "Code" %}{% assign link_color = "btn-outline-secondary" %}
+                    {% when "Dataset" %}{% assign link_color = "btn-outline-warning" %}
+                    {% else %}{% assign link_color = "btn-outline-primary" %}
+                    {% endcase %}
+                    <a class="btn btn-sm {{ link_color }} pub-link-btn mr-1 mb-1" target="{{ link_target }}" href="{{ link_url }}">
                         {% case link[0] %}
                         {% when "PDF" %}<i class="fas fa-file-pdf"></i>
                         {% when "arXiv" %}<i class="fas fa-scroll"></i>
