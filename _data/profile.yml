@@ -30,9 +30,14 @@ short_bio: >-
 
   <div class="h5 mt-3 mb-2">Research Interests</div>
 
-  <p class="mb-0">
-    Large Language Models, Vision-Language Models, AI Agents, Trustworthy AI, AI Security, AI Safety
-  </p>
+  <ul class="research-interests-grid mb-0">
+    <li>Large Language Models</li>
+    <li>Vision-Language Models</li>
+    <li>AI Agents</li>
+    <li>Trustworthy AI</li>
+    <li>AI Security</li>
+    <li>AI Safety</li>
+  </ul>
 
   <div class="collab-note mt-2">
     <i class="fas fa-comments"></i><strong>I am always happy to collaborate, exchange ideas, and learn about new research directions.</strong>
