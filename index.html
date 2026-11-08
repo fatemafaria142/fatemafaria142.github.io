@@ -26,6 +26,13 @@ navbar_title: Home
             {% endif %}
         </div>
 
+        {% if site.data.display.homepage.show_news %}
+        {% assign count_news = site.news | size %}
+        {% if count_news > 0 %}
+        {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
+        {% endif %}
+        {% endif %}
+
         {% if site.data.display.homepage.show_selected_publications %}
         {% assign ordered_pubs = site.publications | where: "selected", true | where_exp: "item", "item.selected_order" | sort: "selected_order" %}
         {% assign remaining_pubs = site.publications | where: "selected", true | where_exp: "item", "item.selected_order == nil" | sort: "date" | reverse %}
@@ -39,13 +46,6 @@ navbar_title: Home
 
         {% if site.data.display.homepage.show_technical_skills %}
             {% include widgets/skills_card.html %}
-        {% endif %}
-
-        {% if site.data.display.homepage.show_news %}
-        {% assign count_news = site.news | size %}
-        {% if count_news > 0 %}
-        {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
-        {% endif %}
         {% endif %}
     </div>
 </div>
