@@ -7,7 +7,7 @@
     <div class="p-3 small flex-grow-1">
         <ul class="list-unstyled mb-0">
             {% for item in site.data.profile.education %}
-            <li class="media py-2 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
+            <li class="media hover-row py-2 px-2 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
                 <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 24px;" class="mr-3 mt-1">
                 <div class="media-body">
                     <div class="d-flex">

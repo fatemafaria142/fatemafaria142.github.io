@@ -330,13 +330,15 @@ a.author-self:hover {
     padding-left: 0;
 }
 
-.news-row {
+.news-row,
+.hover-row {
     position: relative;
     border-left: 3px solid transparent;
     transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 }
 
-.news-row:hover {
+.news-row:hover,
+.hover-row:hover {
     background-color: #f8f9fa;
     border-left-color: #007bff;
 }
