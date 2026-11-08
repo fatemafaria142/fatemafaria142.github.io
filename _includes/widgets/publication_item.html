@@ -43,7 +43,7 @@
                 {% assign link_url = link[1].url | default: link[1] %}
                 {% assign link_target = link[1]['target'] | default: "_blank" %}
                 {% case link[0] %}
-                {% when "PDF" %}{% assign link_color = "btn-outline-danger" %}
+                {% when "PDF" %}{% assign link_color = "btn-outline-success" %}
                 {% when "arXiv" %}{% assign link_color = "btn-outline-dark" %}
                 {% when "Code" %}{% assign link_color = "btn-outline-secondary" %}
                 {% when "Dataset" %}{% assign link_color = "btn-outline-warning" %}
@@ -109,7 +109,7 @@
                     {% assign link_url = link[1].url | default: link[1] %}
                     {% assign link_target = link[1]['target'] | default: "_blank" %}
                     {% case link[0] %}
-                    {% when "PDF" %}{% assign link_color = "btn-outline-danger" %}
+                    {% when "PDF" %}{% assign link_color = "btn-outline-success" %}
                     {% when "arXiv" %}{% assign link_color = "btn-outline-dark" %}
                     {% when "Code" %}{% assign link_color = "btn-outline-secondary" %}
                     {% when "Dataset" %}{% assign link_color = "btn-outline-warning" %}
