@@ -360,7 +360,7 @@ a.author-self:hover {
 
 .research-interests-grid {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.4rem 1rem;
     padding-left: 1.1rem;
 }
@@ -369,16 +369,10 @@ a.author-self:hover {
     margin: 0;
 }
 
-@media (max-width: 767px) {
-    .research-interests-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-}
-
 .bio-quote {
     font-style: italic;
-    color: #495057;
-    border-left: 3px solid #adb5bd;
+    color: #dc3545;
+    border-left: 3px solid #dc3545;
     padding-left: 1rem;
     margin-left: 0;
 }
