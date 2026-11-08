@@ -21,6 +21,12 @@ short_bio: >-
     <a href="https://www.aust.edu/" target="_blank">Ahsanullah University of Science and Technology</a>,
     Dhaka, Bangladesh.
   </p>
+  <ul class="mb-3">
+    <li>Around 2.5 years of full stack experience in AI applications.</li>
+    <li>Architecting, developing, and deploying production-grade Multi-Agent Systems, Retrieval-Augmented Generation (RAG) pipelines, and Agentic Workflows, supported by reliable LLMOps infrastructure.</li>
+    <li>Hands-on experience with Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP) for building scalable, robust, and high-performance systems.</li>
+    <li>Focused on user-friendly interfaces that make AI interactions intuitive.</li>
+  </ul>
   <div class="collab-note">
     <i class="fas fa-comments"></i><strong>I am always happy to collaborate, exchange ideas, and learn about new research directions.</strong>
     Please feel free to reach out to me at <a href="mailto:fatema.faria142@gmail.com">fatema.faria142@gmail.com</a> (personal) or
