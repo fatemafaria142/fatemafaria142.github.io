@@ -10,7 +10,7 @@ navbar_title: News
     <div class="col-12">
         {% for year in news_by_year %}
         <h2 class="pt-4">{{ year.name }}</h2>
-        <div class="my-0 p-3 bg-white shadow-sm rounded-xl">
+        <div class="my-0 p-3 bg-white shadow-sm rounded-xl reveal-on-scroll">
             <ul class="list-unstyled mb-0">
                 {% for item in year.items %}
                 {% include widgets/news_row.html item=item last=forloop.last stripe_group=year.name %}
