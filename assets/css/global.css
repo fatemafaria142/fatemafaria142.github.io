@@ -332,19 +332,13 @@ a.author-self:hover {
 
 .news-row {
     position: relative;
-    transition: background-color 0.2s ease-in-out;
+    border-left: 3px solid transparent;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 }
 
 .news-row:hover {
     background-color: #f8f9fa;
-}
-
-.news-dot {
-    flex: 0 0 auto;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background-color: #007bff;
+    border-left-color: #007bff;
 }
 
 .news-row-title {
