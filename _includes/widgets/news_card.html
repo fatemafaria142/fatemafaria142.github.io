@@ -1,4 +1,5 @@
-{% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% assign recent_news = site.news | where_exp: "item", "item.date | date: '%Y' == '2026'" | sort: "date" | reverse %}
+{% assign news_by_year = recent_news | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray">
