@@ -1,5 +1,4 @@
-{% assign current_jobs = site.data.experience.jobs | where: "current", true %}
-{% if current_jobs.size > 0 %}
+{% if site.data.experience.jobs %}
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray">
         <i class="fas fa-briefcase"></i> Work Experience
@@ -7,7 +6,7 @@
     </h6>
     <div class="p-3 small">
         <ul class="list-unstyled mb-0">
-            {% for item in current_jobs %}
+            {% for item in site.data.experience.jobs %}
             <li class="media py-2 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
                 <img src="{{ item.logo | relative_url }}" alt="{{ item.company }}" style="width: 24px;" class="mr-3 mt-1">
                 <div class="media-body">
