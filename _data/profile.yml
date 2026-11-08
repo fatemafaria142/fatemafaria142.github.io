@@ -30,17 +30,13 @@ short_bio: >-
 
   <div class="h5 mt-3 mb-2">Research Interests</div>
 
-  <div class="research-interests-cols mb-0">
-    <ul>
-      <li>Large Language Models</li>
-      <li>Vision-Language Models</li>
-      <li>AI Agents</li>
-    </ul>
-    <ul>
-      <li>Trustworthy AI</li>
-      <li>AI Security</li>
-      <li>AI Safety</li>
-    </ul>
+  <div class="research-interest-tags mb-0">
+    <span class="research-interest-tag">Large Language Models</span>
+    <span class="research-interest-tag">Vision-Language Models</span>
+    <span class="research-interest-tag">AI Agents</span>
+    <span class="research-interest-tag">Trustworthy AI</span>
+    <span class="research-interest-tag">AI Security</span>
+    <span class="research-interest-tag">AI Safety</span>
   </div>
 
   <div class="collab-note mt-3 mb-0">
