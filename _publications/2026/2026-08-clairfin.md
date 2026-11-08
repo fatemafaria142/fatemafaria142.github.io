@@ -17,5 +17,5 @@ authors:
 links:
   arXiv: https://arxiv.org/abs/2608.13706
   PDF: https://aclanthology.org/2026.finnlp-1.41/
-research_area:   "Multi-Agent Systems, Multimodal AI, Retrieval-Augmented Generation, Trustworthy AI, Financial Question Answering"
+research_area:   "Multi-Agent Systems, Retrieval-Augmented Generation, Trustworthy AI, Financial Question Answering"
 ---
