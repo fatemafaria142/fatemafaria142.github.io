@@ -1,4 +1,4 @@
-<li class="news-row d-flex align-items-start justify-content-between py-3 px-3 {% unless include.last %}border-bottom border-gray{% endunless %}">
+<li class="news-row d-flex align-items-start justify-content-between py-3 px-3 {% cycle include.stripe_group: 'bg-light', '' %} {% unless include.last %}border-bottom border-gray{% endunless %}">
     <div class="news-row-title">{{ include.item.title }}</div>
     <div class="news-row-date ml-3 no-break">{{ include.item.date | date: "%b %d" }}</div>
 </li>
