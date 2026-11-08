@@ -11,7 +11,7 @@
                 <img src="{{ item.logo | relative_url }}" alt="{{ item.company }}" style="width: 24px;" class="mr-3 mt-1">
                 <div class="media-body">
                     <div class="d-flex">
-                        <div class="font-weight-bold">{{ item.company }}</div>
+                        <div class="font-weight-bold">{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.company }}</a>{% else %}{{ item.company }}{% endif %}</div>
                         <div class="ml-auto mt-auto pl-3 text-muted no-break">{{ item.date }}</div>
                     </div>
                     <div class="text-muted">{{ item.role }}</div>
