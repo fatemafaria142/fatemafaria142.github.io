@@ -444,9 +444,9 @@ a.author-self:hover {
     display: inline-block;
     font-size: 0.8rem;
     font-weight: 600;
-    color: #b02a37;
-    background-color: rgba(220, 53, 69, 0.08);
-    border: 1px solid rgba(220, 53, 69, 0.18);
+    color: #0056b3;
+    background-color: rgba(0, 123, 255, 0.08);
+    border: 1px solid rgba(0, 123, 255, 0.18);
     border-radius: 999px;
     padding: 0.25rem 0.75rem;
     line-height: 1.4;
