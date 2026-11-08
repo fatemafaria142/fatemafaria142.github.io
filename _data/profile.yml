@@ -21,12 +21,9 @@ short_bio: >-
     <a href="https://www.aust.edu/" target="_blank">Ahsanullah University of Science and Technology</a>,
     Dhaka, Bangladesh.
   </p>
-  <ul class="mb-3">
-    <li>Around 2.5 years of full stack experience in AI applications.</li>
-    <li>Architecting, developing, and deploying production-grade Multi-Agent Systems, Retrieval-Augmented Generation (RAG) pipelines, and Agentic Workflows, supported by reliable LLMOps infrastructure.</li>
-    <li>Hands-on experience with Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP) for building scalable, robust, and high-performance systems.</li>
-    <li>Focused on user-friendly interfaces that make AI interactions intuitive.</li>
-  </ul>
+  <p class="mb-3">
+    Over 2.5 years, I've architected, built, and shipped production-grade, scalable, full-stack AI applications, with expertise in Multi-Agent Systems, Retrieval-Augmented Generation (RAG) pipelines, and LLMOps infrastructure for real-world deployments.
+  </p>
   <div class="h5 mt-3 mb-2">Research Interests</div>
 
   <p class="mb-3">
