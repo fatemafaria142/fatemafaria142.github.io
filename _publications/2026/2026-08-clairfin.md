@@ -6,7 +6,7 @@ selected_order: 1
 cover:          /assets/images/publications/CLAIR-Fin.png
 pub:            "FinNLP-2026 @ EMNLP-2026"
 pub_url:        https://sigfintech.github.io/finnlp2026/index.html
-status:         accepted
+status:         published
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria
@@ -16,5 +16,6 @@ authors:
   - Md. Alam Hossain
 links:
   arXiv: https://arxiv.org/abs/2608.13706
+  PDF: https://aclanthology.org/2026.finnlp-1.41/
 research_area:   "Multi-Agent Systems, Multimodal AI, Retrieval-Augmented Generation, Trustworthy AI, Financial Question Answering"
 ---

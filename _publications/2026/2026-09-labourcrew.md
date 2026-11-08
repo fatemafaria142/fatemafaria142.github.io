@@ -4,6 +4,7 @@ date:           2026-09-03 00:01:00 +0600
 selected:       true
 selected_order: 3
 cover:          /assets/images/publications/LabourCrew.png
+status:         under_review
 pub_date:       "2026"
 authors:
   - Fatema Tuj Johora Faria

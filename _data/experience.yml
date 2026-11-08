@@ -6,6 +6,11 @@ jobs:
   role: AI Engineer II
   location: Dhaka, Bangladesh
   date: Nov. 2025 - Present
+  focus:
+    - "Around 2.5 years of full stack experience in AI applications."
+    - "Architecting, developing, and deploying production-grade Multi-Agent Systems, Retrieval-Augmented Generation (RAG) pipelines, and Agentic Workflows, supported by reliable LLMOps infrastructure."
+    - "Hands-on experience with Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP) for building scalable, robust, and high-performance systems."
+    - "Focused on user-friendly interfaces that make AI interactions intuitive."
   projects:
     - name: "Product: TalentX"
       bullets:

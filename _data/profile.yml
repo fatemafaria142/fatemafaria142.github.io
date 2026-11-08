@@ -21,17 +21,6 @@ short_bio: >-
     <a href="https://www.aust.edu/" target="_blank">Ahsanullah University of Science and Technology</a>,
     Dhaka, Bangladesh.
   </p>
-  <p>
-    I am currently working as an <strong>AI Engineer II</strong> at
-    <a href="https://www.linkedin.com/company/asthait/" target="_blank">Astha.IT</a>, where I bring around
-    <strong>2.5 years of full stack experience in AI applications</strong>. My work focuses on
-    architecting, developing, and deploying production-grade Multi-Agent Systems,
-    Retrieval-Augmented Generation (RAG) pipelines, and Agentic Workflows,
-    supported by reliable LLMOps infrastructure. I have hands-on experience
-    with Microsoft Azure, Amazon Web Services (AWS), and
-    Google Cloud Platform (GCP) for building scalable, robust, and high-performance systems,
-    while also focusing on user-friendly interfaces that make AI interactions intuitive.
-  </p>
   <div class="collab-note">
     <i class="fas fa-comments"></i><strong>I am always happy to collaborate, exchange ideas, and learn about new research directions.</strong>
     Please feel free to reach out to me at <a href="mailto:fatema.faria142@gmail.com">fatema.faria142@gmail.com</a> (personal) or
@@ -39,25 +28,9 @@ short_bio: >-
   </div>
   <div class="h3 mt-3 mb-2">Research Interests</div>
 
-  <p class="mb-1"><strong>AI Reasoning &amp; Autonomy:</strong></p>
-  <ul class="mb-3">
-    <li><strong>LLM Reasoning:</strong> Exploring how large language models can achieve reliable, structured, and multi-step reasoning for tackling challenging real-world scenarios.</li>
-    <li><strong>AI Agents:</strong> Examining how AI agents can plan, use tools, collaborate, and adapt to orchestrate complex tasks in dynamic environments.</li>
-    <li><strong>Multimodal AI:</strong> Investigating how multimodal models can integrate and reason across diverse modalities (text + images) to improve contextual understanding and decision-making.</li>
-  </ul>
-
-  <p class="mb-1"><strong>Foundations of Dependable AI:</strong></p>
-  <ul class="mb-3">
-    <li><strong>AI Safety:</strong> Developing AI systems that remain safe, robust, and controllable under uncertainty, unexpected inputs, and real-world conditions.</li>
-    <li><strong>AI Security:</strong> Defending language models and AI agents against adversarial attacks, prompt injection, and malicious inputs.</li>
-    <li><strong>Trustworthy AI:</strong> Exploring AI systems that promote fairness, explainability, and reliability across diverse environments.</li>
-  </ul>
-
-  <p class="mb-1"><strong>Domain-Specific AI Applications:</strong></p>
-  <ul class="mb-0">
-    <li><strong>Vision-Language Models for Social Good:</strong> Developing reliable AI systems for visual understanding, object detection, image segmentation, and visual grounding to address practical societal challenges.</li>
-    <li><strong>AI for Databases:</strong> Building AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.</li>
-  </ul>
+  <p class="mb-0">
+    Large Language Models, Large Multimodal Models, Vision-Language Models, AI Agents, Trustworthy AI, AI Security, AI Safety
+  </p>
 
 portrait_url: /assets/images/photos/portrait.png
 
