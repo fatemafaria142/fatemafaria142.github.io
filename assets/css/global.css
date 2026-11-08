@@ -358,6 +358,14 @@ a.author-self:hover {
     color: #fff;
 }
 
+.bio-quote {
+    font-style: italic;
+    color: #495057;
+    border-left: 3px solid #adb5bd;
+    padding-left: 1rem;
+    margin-left: 0;
+}
+
 .collab-note {
     background-color: #eef6ff;
     border-left: 4px solid #007bff;
