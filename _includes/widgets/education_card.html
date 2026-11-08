@@ -1,10 +1,10 @@
 {% if site.data.profile.education %}
-<div class="my-3 bg-white shadow-sm rounded-xl">
+<div class="my-3 w-100 bg-white shadow-sm rounded-xl d-flex flex-column">
     <h6 class="p-3 mb-0 border-bottom border-gray">
         <i class="fas fa-graduation-cap"></i> Education
         <a href="{{ 'education' | relative_url }}">(view details <i class="fas fa-angle-double-right"></i>)</a>
     </h6>
-    <div class="p-3 small">
+    <div class="p-3 small flex-grow-1">
         <ul class="list-unstyled mb-0">
             {% for item in site.data.profile.education %}
             <li class="media py-2 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
