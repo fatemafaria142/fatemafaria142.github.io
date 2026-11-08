@@ -5,6 +5,7 @@ selected:       false
 cover:          /assets/images/publications/Political-Sentiment.jpg
 pub:            "The IEEE Region 10 Symposium (TENSYMP 2024)"
 pub_url:        https://ieeexplore.ieee.org/xpl/conhome/10751808/proceeding
+status:         published
 pub_date:       "2024"
 abstract: >-
   Introduces the Motamot dataset (7,058 instances) for Bangladeshi political sentiment analysis; with few-shot learning, Gemini 1.5 Pro reaches 96.33% accuracy, ahead of GPT-3.5 Turbo (94%) and BanglaBERT (88.10%).

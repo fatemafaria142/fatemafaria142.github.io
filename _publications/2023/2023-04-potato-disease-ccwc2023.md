@@ -5,6 +5,7 @@ selected:       false
 cover:          /assets/images/publications/Potato-Disease-Classification.PNG
 pub:            "2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)"
 pub_url:        https://ieee-ccwc.org/ieee-ccwc-2023/
+status:         published
 pub_date:       "2023"
 abstract: >-
   Proposes a hybrid CNN framework (ResNet50 + VGG16 with histogram equalization and edge detection) for potato leaf disease classification, reaching 89.34% accuracy on 5,000 annotated images, a 7.21-point gain over traditional ML methods.

@@ -5,6 +5,7 @@ selected:       false
 cover:          /assets/images/publications/MultiBanFakeDetect.jpg
 pub:            "International Journal of Information Management Data Insights, Vol. 5, Issue 2, Article 100347"
 pub_url:        https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights
+status:         published
 pub_date:       "2025"
 abstract: >-
   Introduces the MultiBanFakeDetect dataset and MultiFusionFake, an early-fusion text+image model (DenseNet-169 + mBERT) for Bangla fake news detection, reaching 79.69% accuracy versus 73.13% for a text-only baseline.

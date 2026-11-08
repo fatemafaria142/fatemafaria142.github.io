@@ -5,6 +5,7 @@ selected:       false
 cover:          /assets/images/publications/PotatoGANs.jpg
 pub:            "11th IEEE International Conference on Sustainable Technology and Engineering (IEEE i-COSTE 2025)"
 pub_url:        https://i-coste.org/2025/
+status:         published
 pub_date:       "2025"
 abstract: >-
   Proposes PotatoGANs, using CycleGAN/Pix2Pix to synthesize realistic diseased-potato images for data augmentation, combined with three Explainable AI methods (Grad-CAM, Grad-CAM++, Score-CAM) across three CNN backbones for interpretable disease classification.

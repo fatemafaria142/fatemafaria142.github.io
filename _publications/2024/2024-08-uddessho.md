@@ -5,6 +5,7 @@ selected:       false
 cover:          /assets/images/publications/Author-Intent.jpg
 pub:            "18th International Conference on Information Technology and Applications (ICITA 2024)"
 pub_url:        https://www.icita.world/
+status:         published
 pub_date:       "2024"
 abstract: >-
   Introduces the Uddessho dataset (3,048 social-media posts) and a multimodal author-intent classification framework combining text and images; multimodal fusion reaches 76.19% accuracy, an 11.66-point gain over text-only.

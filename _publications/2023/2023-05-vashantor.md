@@ -4,7 +4,6 @@ date:           2023-05-01 00:01:00 +0600
 selected:       false
 pub:            "Language Resources and Evaluation"
 pub_url:        https://link.springer.com/journal/10579
-status:         under_review
 pub_date:       "2023"
 cover:          /assets/images/publications/Vashantor.jpg
 abstract: >-

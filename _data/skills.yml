@@ -1,7 +1,5 @@
 - category: Programming Languages
   items: Python, Java, C++
-- category: Data Analysis & Visualization Libraries
-  items: Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn
 - category: Web Development
   items: JavaScript, TypeScript, Tailwind CSS, FastAPI, React
 - category: Databases

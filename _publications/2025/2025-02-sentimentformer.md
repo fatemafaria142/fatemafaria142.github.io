@@ -5,6 +5,7 @@ selected:       false
 cover:          /assets/images/publications/SentimentFormer.jpg
 pub:            "Electronics (MDPI), Vol. 14, Issue 4, Article 799"
 pub_url:        https://www.mdpi.com/journal/electronics
+status:         published
 pub_date:       "2025"
 abstract: >-
   Presents SentimentFormer, an intermediate-fusion transformer combining SwiftFormer and mBERT for Bangla meme sentiment analysis on the MemoSen dataset, reaching 79.04% accuracy versus 73.31% (text-only) and 64.72% (image-only).

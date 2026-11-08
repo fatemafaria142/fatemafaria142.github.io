@@ -14,7 +14,7 @@
                 {% when "under_review" %}<span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
                 {% when "accepted" %}{% comment %}Shown via the "Accepted to" venue line below instead of a duplicate badge.{% endcomment %}
                 {% when "preprint" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-flask"></i> Preprint</span>
-                {% else %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
+                {% when "published" %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
                 {% endcase %}
             </div>
             <h5 class="mt-0 mb-1 font-weight-bold pub-title">{{ item.title }}</h5>
@@ -73,7 +73,7 @@
                     {% when "under_review" %}<span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
                     {% when "accepted" %}{% comment %}Shown via the "Accepted to" venue line below instead of a duplicate badge.{% endcomment %}
                     {% when "preprint" %}<span class="pub-badge pub-badge-preprint"><i class="fas fa-flask"></i> Preprint</span>
-                    {% else %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
+                    {% when "published" %}<span class="pub-badge pub-badge-published"><i class="fas fa-check-double"></i> Published</span>
                     {% endcase %}
                 </div>
                 <h5 class="mt-0 mb-1 font-weight-bold pub-title">{{ item.title }}</h5>

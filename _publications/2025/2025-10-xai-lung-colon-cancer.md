@@ -5,6 +5,7 @@ selected:       false
 cover:          /assets/images/publications/Lung-Cancer.jpg
 pub:            "4th International Conference on Computing and Communication Networks (ICCCNet-2024)"
 pub_url:        https://icccn.co.uk/
+status:         published
 pub_date:       "2024"
 abstract: >-
   Benchmarks ResNet50, VGG16, and DenseNet121 on histopathological lung/colon images with Grad-CAM, Grad-CAM++, and SHAP for interpretability; DenseNet121 reaches 92.78% accuracy with Grad-CAM++ giving the most precise localization.
