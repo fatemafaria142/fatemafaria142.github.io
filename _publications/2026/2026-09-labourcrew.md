@@ -13,5 +13,7 @@ authors:
   - Md. Alam Hossain
 links:
   arXiv: https://arxiv.org/abs/2609.27814
+  Code: https://github.com/fatemafaria142/LabourCrew
+  Dataset: https://huggingface.co/datasets/Fatema142/LabourActQA
 research_area:   "Multi-Agent Systems, Retrieval-Augmented Generation, Legal AI, Adversarial Reasoning, Trustworthy AI"
 ---

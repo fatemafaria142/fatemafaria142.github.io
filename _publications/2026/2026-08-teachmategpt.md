@@ -12,5 +12,6 @@ authors:
   - Jubayer Al Mahmud
 links:
   arXiv: https://arxiv.org/abs/2608.13708
+  Code: https://github.com/fatemafaria142/TeachMateGPT
 research_area:   "Multi-Agent Systems, Retrieval-Augmented Generation, AI for Education, Educational Assessment, Trustworthy AI"
 ---
