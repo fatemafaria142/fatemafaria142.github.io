@@ -12,13 +12,19 @@ navbar_title: Home
 
         {% include widgets/profile_card_bio_only.html %}
 
-        {% if site.data.display.homepage.show_work_experience %}
-            {% include widgets/work_experience_card.html %}
-        {% endif %}
+        <div class="row">
+            {% if site.data.display.homepage.show_work_experience %}
+            <div class="col-lg-6">
+                {% include widgets/work_experience_card.html %}
+            </div>
+            {% endif %}
 
-        {% if site.data.display.homepage.show_education %}
-            {% include widgets/education_card.html %}
-        {% endif %}
+            {% if site.data.display.homepage.show_education %}
+            <div class="col-lg-6">
+                {% include widgets/education_card.html %}
+            </div>
+            {% endif %}
+        </div>
 
         {% if site.data.display.homepage.show_selected_publications %}
         {% assign ordered_pubs = site.publications | where: "selected", true | where_exp: "item", "item.selected_order" | sort: "selected_order" %}
