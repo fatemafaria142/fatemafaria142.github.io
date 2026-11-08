@@ -1,4 +1,5 @@
-<li class="d-flex py-2 px-2 {% unless include.last %}mb-1{% endunless %} {% cycle include.stripe_group: 'bg-light', '' %} rounded-sm">
-    <div>{{ include.item.title }}</div>
-    <div class="ml-auto mt-auto pl-3 text-muted no-break">{{ include.item.date | date: "%b %d" }}</div>
+<li class="news-row d-flex align-items-start py-2 px-2 {% unless include.last %}mb-1{% endunless %} rounded-sm">
+    <span class="news-dot mt-2 mr-3"></span>
+    <div class="news-row-title">{{ include.item.title }}</div>
+    <div class="news-row-date ml-auto mt-1 pl-3 no-break">{{ include.item.date | date: "%b %d" }}</div>
 </li>

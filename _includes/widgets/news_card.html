@@ -9,15 +9,12 @@
     <div class="p-3 small">
         {% for year in news_by_year %}
         {% assign year_items = year.items | slice: 0, include.limit %}
-        <div class="media {% unless forloop.last %}mb-3{% endunless %}">
-            <div class="mr-3 mt-1 text-muted" style="min-width: 2.5em;">{{ year.name }}</div>
-            <div class="media-body">
-                <ul class="list-unstyled mb-0">
-                    {% for item in year_items %}
-                    {% include widgets/news_row.html item=item last=forloop.last stripe_group=year.name %}
-                    {% endfor %}
-                </ul>
-            </div>
+        <div class="{% unless forloop.last %}mb-2{% endunless %}">
+            <ul class="news-timeline list-unstyled mb-0">
+                {% for item in year_items %}
+                {% include widgets/news_row.html item=item last=forloop.last stripe_group=year.name %}
+                {% endfor %}
+            </ul>
         </div>
         {% endfor %}
     </div>

@@ -325,6 +325,43 @@ a.author-self:hover {
     padding: 0.1rem 0.65rem;
 }
 
+.news-timeline {
+    position: relative;
+    padding-left: 0;
+}
+
+.news-row {
+    position: relative;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.news-row:hover {
+    background-color: #f8f9fa;
+}
+
+.news-dot {
+    flex: 0 0 auto;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #007bff;
+}
+
+.news-row-title {
+    line-height: 1.4;
+}
+
+.news-row-date {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #6c757d;
+    background-color: #f1f3f5;
+    border-radius: 999px;
+    padding: 0.1rem 0.6rem;
+    height: fit-content;
+    white-space: nowrap;
+}
+
 #navbar-year .nav-link {
     color: #495057;
     font-weight: 600;
