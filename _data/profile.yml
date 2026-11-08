@@ -27,16 +27,17 @@ short_bio: >-
     <li>Hands-on experience with Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP) for building scalable, robust, and high-performance systems.</li>
     <li>Focused on user-friendly interfaces that make AI interactions intuitive.</li>
   </ul>
+  <div class="h5 mt-3 mb-2">Research Interests</div>
+
+  <p class="mb-3">
+    Large Language Models, Large Multimodal Models, Vision-Language Models, AI Agents, Trustworthy AI, AI Security, AI Safety
+  </p>
+
   <div class="collab-note">
     <i class="fas fa-comments"></i><strong>I am always happy to collaborate, exchange ideas, and learn about new research directions.</strong>
     Please feel free to reach out to me at <a href="mailto:fatema.faria142@gmail.com">fatema.faria142@gmail.com</a> (personal) or
     <a href="mailto:ftj.faria@asthait.com">ftj.faria@asthait.com</a> (official).
   </div>
-  <div class="h3 mt-3 mb-2">Research Interests</div>
-
-  <p class="mb-0">
-    Large Language Models, Large Multimodal Models, Vision-Language Models, AI Agents, Trustworthy AI, AI Security, AI Safety
-  </p>
 
 portrait_url: /assets/images/photos/portrait.png
 
