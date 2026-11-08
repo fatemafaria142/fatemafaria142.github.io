@@ -46,6 +46,49 @@ h1, h2, h3, h4, h5, h6,
     background-color: rgba(255, 255, 255, 0.6) !important;
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
+    transition: box-shadow 0.25s ease-in-out;
+}
+
+.navbar.navbar-scrolled {
+    box-shadow: 0 0.35rem 0.75rem rgba(0, 0, 0, 0.08) !important;
+}
+
+.navbar .nav-link {
+    position: relative;
+    transition: color 0.2s ease-in-out;
+}
+
+.navbar .nav-link::after {
+    content: "";
+    position: absolute;
+    left: 0.5rem;
+    right: 0.5rem;
+    bottom: 0.3rem;
+    height: 2px;
+    background-color: #007bff;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.25s ease-in-out;
+}
+
+.navbar .nav-link:hover {
+    color: #007bff;
+}
+
+.navbar .nav-link:hover::after,
+.navbar .nav-link.active::after {
+    transform: scaleX(1);
+}
+
+.reveal-on-scroll {
+    opacity: 0;
+    transform: translateY(18px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.reveal-on-scroll.is-visible {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .inline-badge {
