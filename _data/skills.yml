@@ -3,9 +3,7 @@
 - category: Deep Learning Frameworks
   items: TensorFlow, Keras, PyTorch
 - category: LLM Application Frameworks
-  items: LangChain, LangGraph, LlamaIndex, CrewAI, OpenAI Agent SDK
-- category: Claude Agent SDK
-  items: Claude Agent SDK
+  items: LangChain, LangGraph, LlamaIndex, CrewAI, OpenAI Agent SDK, Claude Agent SDK
 - category: LLM Evaluation and Observability
   items: LangSmith, Langfuse, RAGAS, DeepEval
 - category: Vector Databases
