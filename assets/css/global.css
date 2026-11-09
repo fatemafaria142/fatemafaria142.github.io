@@ -284,16 +284,16 @@ a.author-self:hover {
 }
 
 .pub-link-btn.btn-outline-success {
-    background-color: #672ac6;
-    border-color: #672ac6;
+    background-color: #7139cc;
+    border-color: #7139cc;
     color: #fff;
 }
 
 .pub-link-btn.btn-outline-success:hover {
     background-color: transparent;
-    border-color: #672ac6;
-    color: #672ac6;
-    box-shadow: 0 0.25rem 0.5rem rgba(103, 42, 198, 0.25);
+    border-color: #7139cc;
+    color: #7139cc;
+    box-shadow: 0 0.25rem 0.5rem rgba(113, 57, 204, 0.25);
 }
 
 .pub-link-btn.btn-outline-warning {
