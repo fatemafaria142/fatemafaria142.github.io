@@ -1,5 +1,5 @@
 - category: Programming Languages
-  items: Python (Pandas, NumPy, SciPy, Seaborn), Java, C++
+  items: Python (Pandas, NumPy, SciPy, Seaborn), Java, C++, JavaScript, TypeScript
 - category: Deep Learning Frameworks
   items: TensorFlow, Keras, PyTorch
 - category: LLM Application Frameworks
@@ -15,4 +15,4 @@
 - category: Cloud Services (GCP)
   items: Google Cloud Storage, Google Cloud Run, Google Cloud SQL
 - category: Others
-  items: PostgreSQL, JavaScript, TypeScript, React, Docker, Microsoft Bot Framework, OpenCV, WebSocket, Redis
+  items: Hugging Face, LLM Fine-tuning, OpenCV, PostgreSQL, React, Docker, Microsoft Bot Framework, WebSocket, Redis
