@@ -1,20 +1,20 @@
 - category: Programming Languages
-  items: Python, Java, C++
-- category: Web Development
-  items: JavaScript, TypeScript, Tailwind CSS, FastAPI, React
-- category: Databases
-  items: MySQL, PostgreSQL, MongoDB
+  items: Python (Pandas, NumPy, SciPy, Seaborn), Java, C++
 - category: Deep Learning Frameworks
   items: TensorFlow, Keras, PyTorch
 - category: LLM Application Frameworks
-  items: LangChain, LangGraph, LlamaIndex, LlamaAgents
+  items: LangChain, LangGraph, LlamaIndex, CrewAI, OpenAI Agent SDK
+- category: Claude Agent SDK
+  items: Claude Agent SDK
+- category: LLM Evaluation and Observability
+  items: LangSmith, Langfuse, RAGAS, DeepEval
 - category: Vector Databases
-  items: AlloyDB for PostgreSQL (pgvector), ChromaDB, FAISS, Milvus
+  items: Milvus, ChromaDB, Qdrant, PostgreSQL (pgvector)
 - category: Cloud Services (Azure)
-  items: Azure OpenAI, Azure SQL Database, Azure Container Registry, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, Azure Bot Service
+  items: Azure AI Foundry, Azure SQL Database, Azure Blob Storage, Azure App Service
 - category: Cloud Services (AWS)
-  items: Amazon ECR, AWS App Runner, Amazon EC2, Amazon S3, Amazon SES
+  items: Amazon ECR, Amazon EC2, Amazon S3, Amazon SES
 - category: Cloud Services (GCP)
-  items: Google Cloud Storage, Google App Engine, Google Compute Engine
+  items: Google Cloud Storage, Google Cloud Run, Google Cloud SQL
 - category: Others
-  items: Docker, GitHub, OpenCV, Microsoft Bot Framework, WebSocket, Jira
+  items: PostgreSQL, JavaScript, TypeScript, React, Docker, Microsoft Bot Framework, OpenCV, WebSocket, Redis
