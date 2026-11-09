@@ -7,7 +7,8 @@
         <a href="{{ 'publications' | relative_url }}">All Publications <i class="fas fa-angle-double-right"></i></a>
     </h6>
     {% for group in grouped_pubs %}
-    <h6 class="pub-area-heading mb-2">{{ group.name }}</h6>
+    {% assign num_papers = group.items | size %}
+    <h5 class="pub-area-heading mb-2">{{ group.name }} <span class="pub-area-count">{{ num_papers }} paper{% if num_papers != 1 %}s{% endif %}</span></h5>
     {% for item in group.items %}
         {% include widgets/publication_item.html item=item %}
     {% endfor %}
