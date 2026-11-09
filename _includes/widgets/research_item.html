@@ -1,6 +1,7 @@
 {% assign item = include.item %}
+<div class="research-card bg-white rounded-xl shadow-sm mb-3">
 <div class="d-none d-md-block">
-    <div class="row no-gutters research-item {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray" style="border-left: 4px solid #007bff;">
+    <div class="row no-gutters research-item">
         <div class="col-md-6 col-xl-5 mb-md-0 p-md-3">
             {%- if item.cover -%}
             <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm research-cover" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
@@ -20,21 +21,21 @@
 
             <div class="research-sections">
                 {% if item.problem %}
-                <div class="research-section">
+                <div class="research-section research-section-problem">
                     <div class="research-section-title"><i class="fas fa-circle-question"></i> Problem</div>
                     <div class="research-section-text">{{ item.problem | markdownify }}</div>
                 </div>
                 {% endif %}
 
                 {% if item.gap %}
-                <div class="research-section">
+                <div class="research-section research-section-gap">
                     <div class="research-section-title"><i class="fas fa-magnifying-glass"></i> Gap</div>
                     <div class="research-section-text">{{ item.gap | markdownify }}</div>
                 </div>
                 {% endif %}
 
                 {% if item.approach %}
-                <div class="research-section">
+                <div class="research-section research-section-approach">
                     <div class="research-section-title"><i class="fas fa-diagram-project"></i> Approach</div>
                     <div class="research-section-text">{{ item.approach | markdownify }}</div>
                 </div>
@@ -44,7 +45,7 @@
     </div>
 </div>
 
-<div class="d-md-none research-item {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %}" style="border-left: 4px solid #007bff;">
+<div class="d-md-none research-item">
     <div class="p-3">
         {%- if item.cover -%}
         <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm research-cover mb-3" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
@@ -61,25 +62,26 @@
 
         <div class="research-sections">
             {% if item.problem %}
-            <div class="research-section">
+            <div class="research-section research-section-problem">
                 <div class="research-section-title"><i class="fas fa-circle-question"></i> Problem</div>
                 <div class="research-section-text">{{ item.problem | markdownify }}</div>
             </div>
             {% endif %}
 
             {% if item.gap %}
-            <div class="research-section">
+            <div class="research-section research-section-gap">
                 <div class="research-section-title"><i class="fas fa-magnifying-glass"></i> Gap</div>
                 <div class="research-section-text">{{ item.gap | markdownify }}</div>
             </div>
             {% endif %}
 
             {% if item.approach %}
-            <div class="research-section">
+            <div class="research-section research-section-approach">
                 <div class="research-section-title"><i class="fas fa-diagram-project"></i> Approach</div>
                 <div class="research-section-text">{{ item.approach | markdownify }}</div>
             </div>
             {% endif %}
         </div>
     </div>
+</div>
 </div>

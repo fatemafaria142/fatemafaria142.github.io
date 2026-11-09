@@ -500,10 +500,50 @@ a.author-self:hover {
     margin-top: 0.75rem;
 }
 
+.research-card {
+    overflow: hidden;
+    transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out;
+}
+
+.research-card:hover {
+    background-color: rgba(255, 255, 255, 0.6) !important;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    box-shadow: 0 0.35rem 0.75rem rgba(0, 0, 0, 0.08) !important;
+}
+
 .research-section {
     background-color: #f1f3f5;
     border-radius: 0.5rem;
     padding: 0.7rem 0.9rem;
+    border-left: 3px solid transparent;
+}
+
+.research-section-problem {
+    border-left-color: #2877ff;
+}
+
+.research-section-problem .research-section-title,
+.research-section-problem .research-section-title i {
+    color: #2877ff;
+}
+
+.research-section-gap {
+    border-left-color: #e53e76;
+}
+
+.research-section-gap .research-section-title,
+.research-section-gap .research-section-title i {
+    color: #e53e76;
+}
+
+.research-section-approach {
+    border-left-color: #45b7c6;
+}
+
+.research-section-approach .research-section-title,
+.research-section-approach .research-section-title i {
+    color: #45b7c6;
 }
 
 .research-section-title {

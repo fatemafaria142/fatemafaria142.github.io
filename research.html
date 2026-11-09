@@ -11,9 +11,9 @@ navbar_title: Ongoing Projects
         {% if ongoing_projects %}
         {% assign num_projects = ongoing_projects | size %}
         <h2 class="pt-2 pubs-year-heading">Ongoing Research Projects <span class="pubs-year-count">{{ num_projects }} project{% if num_projects != 1 %}s{% endif %}</span></h2>
-        <div class="my-0 p-0 bg-white shadow-sm rounded-xl reveal-on-scroll">
+        <div class="reveal-on-scroll">
             {% for item in ongoing_projects %}
-                {% include widgets/research_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                {% include widgets/research_item.html item=item %}
             {% endfor %}
         </div>
         {% endif %}
