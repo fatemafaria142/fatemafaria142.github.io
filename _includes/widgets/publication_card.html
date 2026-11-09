@@ -1,14 +1,16 @@
-{% assign publications = include.publications %}
+{% assign limit_n = include.limit | default: 9999 %}
+{% assign publications = include.publications | slice: 0, limit_n %}
+{% assign grouped_pubs = publications | group_by_exp: "item", "item.research_area | split: ',' | first | strip" %}
 <div class="my-3 p-0 bg-white rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray">
         {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-star"></i> Selected Recent Publications{% endif %}
-        <a href="{{ 'publications' | relative_url }}">(view details <i class="fas fa-angle-double-right"></i>)</a>
+        <a href="{{ 'publications' | relative_url }}">All Publications <i class="fas fa-angle-double-right"></i></a>
     </h6>
-    {% for item in publications limit:include.limit %}
+    {% for group in grouped_pubs %}
+    <h6 class="pub-area-heading px-3 pt-3 mb-0">{{ group.name }}</h6>
+    {% for item in group.items %}
         {% include widgets/publication_item.html item=item first=false last=false %}
     {% endfor %}
-    <h6 class="d-block p-3 mt-0 text-right">
-        <a href="{{ 'publications' | relative_url }}">All publications <i class="fas fa-angle-double-right"></i></a>
-    </h6>
+    {% endfor %}
 </div>
 
