@@ -137,7 +137,8 @@ div.lazy {
 
 .pub-card {
     overflow: hidden;
-    transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out;
+    border: 1px solid transparent;
+    transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out, border-color 0.25s ease-in-out;
 }
 
 .pub-card:hover {
@@ -145,6 +146,7 @@ div.lazy {
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     box-shadow: 0 0.35rem 0.75rem rgba(0, 0, 0, 0.08) !important;
+    border-color: #007bff;
 }
 
 .pub-cover {
