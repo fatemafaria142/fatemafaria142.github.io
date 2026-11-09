@@ -309,6 +309,38 @@ a.author-self:hover {
     box-shadow: 0 0.25rem 0.5rem rgba(242, 108, 43, 0.25);
 }
 
+.pub-link-btn.btn-outline-dark {
+    background-color: #b31b1b;
+    border-color: #b31b1b;
+    color: #fff;
+}
+
+.pub-link-btn.btn-outline-dark:hover {
+    background-color: transparent;
+    border-color: #b31b1b;
+    color: #b31b1b;
+    box-shadow: 0 0.25rem 0.5rem rgba(179, 27, 27, 0.25);
+}
+
+.pub-link-btn.btn-outline-secondary {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+    color: #fff;
+}
+
+.pub-link-btn.btn-outline-secondary:hover {
+    background-color: transparent;
+    border-color: #6f42c1;
+    color: #6f42c1;
+    box-shadow: 0 0.25rem 0.5rem rgba(111, 66, 193, 0.25);
+}
+
+.pub-links-row {
+    margin-top: 0.5rem;
+    padding-top: 0.6rem;
+    border-top: 1px dashed #e3e6ec;
+}
+
 .pubs-year-heading {
     display: flex;
     align-items: baseline;
