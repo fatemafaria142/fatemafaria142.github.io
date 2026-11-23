@@ -1,5 +1,5 @@
 ongoing_projects:
-- title: "Positional Bias in Medical Vision-Language Models: A Benchmark Study"
+- title: "Left, Right, Up, Down: Benchmarking Positional Grounding and Uncertainty in Medical Vision-Language and Text-Guided Segmentation Models across MRI and CT"
   date: "September 2026 to Present"
   status: "ongoing"
   cover: /assets/images/ongoing-research-diagrams/Benchmark-Axes-for-Medical-VLMs.png
@@ -19,8 +19,11 @@ ongoing_projects:
     to controlled positional prompts, 3D spatial reasoning, geometric stress
     testing, and the underlying reasons for positional behavior.
   approach: |
-    We benchmark 2D and 3D medical vision-language models using controlled
-    positional prompts, followed by rotation-based stress tests and internal
-    analysis of positional and entity information. This allows us to evaluate
-    whether models consistently ground positional language in the medical
-    image rather than relying on shortcuts.
+    We benchmark two model families: 2D medical vision-language models and 3D
+    text-guided segmentation models across MRI and CT scans. Both are tested
+    with controlled positional prompts, followed by rotation-based stress tests and internal
+    analysis of positional and entity information. We also measure model
+    uncertainty to see how confident each model is when it follows, or fails
+    to follow, positional language. This allows us to evaluate whether models
+    consistently ground positional language in the medical image rather than
+    relying on shortcuts.
