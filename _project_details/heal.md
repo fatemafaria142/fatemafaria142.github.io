@@ -21,7 +21,7 @@ links:
     url: "https://github.com/fatemafaria142/HEAL"
 ---
 
-<div class="row mb-2">
+<div class="row fact-row">
   <div class="col-6 col-lg-3 mb-3">
     <div class="fact-tile"><i class="fas fa-bullseye"></i><div class="fact-label">Task</div><div class="fact-value">Clinical Text-to-SQL</div></div>
   </div>

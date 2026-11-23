@@ -636,8 +636,8 @@ a.author-self:hover {
     border: 1px solid transparent;
     border-left: 4px solid var(--accent, #007bff);
     box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
-    padding: 1.25rem 1.5rem;
-    margin: 1rem 0;
+    padding: 1rem 1.25rem;
+    margin: 0.75rem 0;
     transition: box-shadow 0.25s ease-in-out, border-color 0.25s ease-in-out, transform 0.25s ease-in-out;
 }
 
@@ -652,7 +652,7 @@ a.author-self:hover {
     gap: 0.6rem;
     font-size: 1.1rem;
     font-weight: 800;
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.5rem;
 }
 
 .project-card-title i {
@@ -661,7 +661,8 @@ a.author-self:hover {
 
 .project-card p {
     color: #495057;
-    line-height: 1.65;
+    line-height: 1.55;
+    margin-bottom: 0.6rem;
 }
 
 .project-accent-problem { --accent: #2877ff; }
@@ -775,7 +776,7 @@ a.author-self:hover {
     background-color: #fff;
     border-radius: 0.8rem;
     box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
-    padding: 0.9rem 1rem;
+    padding: 0.6rem 0.8rem;
     border-bottom: 3px solid #007bff;
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
@@ -932,3 +933,9 @@ a.author-self:hover {
     background-color: #45b7c6;
     color: #fff;
 }
+
+/* Compact spacing on project detail pages */
+.project-hero { padding: 1rem 1.25rem !important; margin: 0.5rem 0 0.75rem !important; }
+.project-hero .project-title { font-size: 1.35rem; }
+.fact-row { margin-bottom: 0 !important; }
+.fact-row > [class*="col-"] { margin-bottom: 0.5rem !important; }
