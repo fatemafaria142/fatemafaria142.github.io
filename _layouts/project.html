@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-12">
+        <a href="{{ '/research' | relative_url }}" class="project-back"><i class="fas fa-arrow-left"></i> Back to Ongoing Projects</a>
+
+        <div class="project-hero bg-white shadow-sm rounded-xl p-4 my-3">
+            <div class="mb-2">
+                {% if page.status == "planned" %}
+                <span class="pub-badge pub-badge-preprint"><i class="fas fa-lightbulb"></i> Planned</span>
+                {% else %}
+                <span class="pub-badge pub-badge-selected"><i class="fas fa-flask"></i> Ongoing</span>
+                {% endif %}
+            </div>
+            <h1 class="project-title mb-2">{{ page.title }}</h1>
+            {% if page.date_range %}<p class="pub-venue mb-0"><i class="far fa-calendar-alt"></i> {{ page.date_range }}</p>{% endif %}
+            {% if page.links %}
+            <div class="mt-3">
+                {% for link in page.links %}
+                <a href="{{ link.url }}" target="_blank" rel="noopener" class="btn btn-sm pub-link-btn mr-1 mb-1"><i class="{{ link.icon }}"></i> {{ link.label }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="reveal-on-scroll">
+            {{ content }}
+        </div>
+    </div>
+</div>

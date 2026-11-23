@@ -1,0 +1,16 @@
+<div class="my-3 bg-white shadow-sm rounded-xl">
+    <h6 class="p-3 mb-0 border-bottom border-gray">
+        <i class="fas fa-flask"></i> Ongoing Research
+        <a href="{{ 'research' | relative_url }}">(view all <i class="fas fa-angle-double-right"></i>)</a>
+    </h6>
+    <div class="p-3 small">
+        {% for item in site.data.research.ongoing_projects %}
+        <div class="{% unless forloop.last %}mb-3{% endunless %}">
+            <div class="font-weight-bold">
+                {% if item.details %}<a href="{{ item.details | relative_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+            </div>
+            {% if item.date %}<div class="text-muted"><i class="far fa-calendar-alt"></i> {{ item.date }}</div>{% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</div>

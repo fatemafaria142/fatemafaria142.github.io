@@ -2,6 +2,7 @@ ongoing_projects:
 - title: "HEAL: A Multi-Agent Framework with Disagreement-Gated Validation for Reliable Text-to-SQL on Clinical Patient Records"
   date: "July 2026 to Present"
   status: "ongoing"
+  details: /research/heal/
   cover: /assets/images/ongoing-research-diagrams/HEAL.png
   problem: |
     Clinicians need to ask natural-language questions over patient databases across
@@ -27,12 +28,16 @@ ongoing_projects:
     which of these reasoning dimensions (or combinations) they stress.
   approach: |
     This project explores an alternative to the single, all-at-once response
-    most systems rely on, using a staged, feedback-driven process rather than
-    one monolithic model call. This is still active, evolving work; further
-    details will be shared once the approach is validated and written up.
+    most systems rely on. HEAL splits the task across specialised agents (intent
+    planning, ambiguity and temporal resolution, join-path planning) that hand
+    each other inspectable natural-language contracts. A Cross-Agent Validator
+    then checks these contracts against the live schema and against each other
+    before any SQL is written, followed by auditing, execution-guided refinement,
+    and an evidence-grounded explanation.
 - title: "Positional Bias in Medical Vision-Language Models: A Benchmark Study"
   date: "September 2026 to Present"
   status: "ongoing"
+  details: /research/positional-bias-medical-vlms/
   cover: /assets/images/ongoing-research-diagrams/Benchmark-Axes-for-Medical-VLMs.png
   problem: |
     Medical vision-language models (VLMs) increasingly use natural-language

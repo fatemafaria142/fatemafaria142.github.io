@@ -28,6 +28,12 @@ navbar_title: Home
             {% endif %}
         </div>
 
+        {% if site.data.display.homepage.show_ongoing_research %}
+        <div class="reveal-on-scroll">
+            {% include widgets/ongoing_research_card.html %}
+        </div>
+        {% endif %}
+
         {% if site.data.display.homepage.show_news %}
         {% assign count_news = site.news | size %}
         {% if count_news > 0 %}

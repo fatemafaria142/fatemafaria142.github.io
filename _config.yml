@@ -12,8 +12,13 @@ plugins:
   - jekyll-seo-tag
 
 collections:
-  - publications
-  - news
+  publications:
+    output: false
+  news:
+    output: false
+  project_details:
+    output: true
+    permalink: /research/:name/
 
 exclude:
   - Gemfile
