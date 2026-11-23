@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "HEAL: A Multi-Agent Framework with Disagreement-Gated Validation for Reliable Text-to-SQL on Clinical Patient Records"
-date_range: "July 2026 to Present"
+date_range: "July 2026 to November 2026"
 status: under_review
 back_url: /publications
 back_label: "Back to Publications"
