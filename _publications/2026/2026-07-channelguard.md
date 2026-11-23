@@ -5,6 +5,9 @@ selected:       true
 selected_order: 2
 cover:          /assets/images/publications/ChannelGuard.png
 status:         under_review
+pub:            "Transactions on Machine Learning Research"
+pub_pre:        "Under review at "
+pub_url:        https://www.jmlr.org/tmlr/index.html
 pub_date:       "2026"
 authors:
   - Elias Hossain
