@@ -1,5 +1,5 @@
 ongoing_projects:
-- title: "Left, Right, Up, Down: Benchmarking Positional Grounding and Uncertainty in Medical Vision-Language and Text-Guided Segmentation Models across MRI and CT"
+- title: "Investigating and Mitigating Anatomical Positional Bias in 2D Vision-Language Models and 3D Text-Guided Medical Segmentation Models"
   date: "September 2026 to Present"
   status: "ongoing"
   cover: /assets/images/ongoing-research-diagrams/Benchmark-Axes-for-Medical-VLMs.png

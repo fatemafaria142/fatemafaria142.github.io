@@ -19,42 +19,63 @@ links:
   - label: "Code"
     icon: "fab fa-github"
     url: "https://github.com/fatemafaria142/HEAL"
-  - label: "SynClin-SQL Dataset"
-    icon: "fas fa-database"
-    url: "https://huggingface.co/datasets/Fatema142/SynClin-SQL"
 ---
 
+<div class="row mb-2">
+  <div class="col-6 col-lg-3 mb-3">
+    <div class="fact-tile"><i class="fas fa-bullseye"></i><div class="fact-label">Task</div><div class="fact-value">Clinical Text-to-SQL</div></div>
+  </div>
+  <div class="col-6 col-lg-3 mb-3">
+    <div class="fact-tile"><i class="fas fa-users-gear"></i><div class="fact-label">Approach</div><div class="fact-value">Multi-agent, validated plans</div></div>
+  </div>
+  <div class="col-6 col-lg-3 mb-3">
+    <div class="fact-tile"><i class="fas fa-database"></i><div class="fact-label">Benchmark</div><div class="fact-value">SynClin-SQL, 500 questions</div></div>
+  </div>
+  <div class="col-6 col-lg-3 mb-3">
+    <div class="fact-tile"><i class="fas fa-microchip"></i><div class="fact-label">Backbones</div><div class="fact-value">GPT-4o-mini, GPT-5 nano, GPT-5 mini</div></div>
+  </div>
+</div>
+
 <div class="project-card project-accent-problem">
+  <div class="section-eyebrow">01 &middot; Motivation</div>
   <div class="project-card-title"><i class="fas fa-circle-question"></i> The Problem</div>
   <p class="mb-0">A clinician asks a question in plain language, and a Text-to-SQL system returns a query that runs cleanly but selects the <strong>wrong patients</strong>. A term was mapped to the wrong column, or the wrong time window was assumed. Nothing crashes and nothing looks different, so the error goes unnoticed. Most systems only check the SQL <em>after</em> it is written, so a planning mistake survives all the way to a confident, wrong answer.</p>
+  <div class="question-callout">
+    <span class="callout-label">Example question</span>
+    "Which patients currently on insulin have not had an HbA1c test in the last 90 days?"
+  </div>
 </div>
 
 <div class="project-card project-accent-method">
+  <div class="section-eyebrow">02 &middot; Approach</div>
   <div class="project-card-title"><i class="fas fa-diagram-project"></i> The Methodology</div>
   <p><strong>HEAL</strong> (Healthcare Execution-guided Multi-Agent for Logical queries) splits the task across agents that hand each other readable plans, and <strong>checks those plans before any SQL is written</strong>.</p>
   <div class="row">
-    <div class="col-sm-6 col-lg-3 mb-3">
+    <div class="col-sm-6 col-lg-3 mb-3 pipeline-col">
       <div class="step-card">
         <div class="step-num">1</div>
         <h6>Plan</h6>
         <p>Decide what is asked (or ask back), resolve vague and time-based words, and choose the join path.</p>
       </div>
+      <i class="fas fa-chevron-right pipeline-arrow"></i>
     </div>
-    <div class="col-sm-6 col-lg-3 mb-3">
+    <div class="col-sm-6 col-lg-3 mb-3 pipeline-col">
       <div class="step-card">
         <div class="step-num">2</div>
         <h6>Validate</h6>
         <p>Check the plans against the live schema and against each other. Pass, re-plan once, or refuse.</p>
       </div>
+      <i class="fas fa-chevron-right pipeline-arrow"></i>
     </div>
-    <div class="col-sm-6 col-lg-3 mb-3">
+    <div class="col-sm-6 col-lg-3 mb-3 pipeline-col">
       <div class="step-card">
         <div class="step-num">3</div>
         <h6>Write and repair</h6>
         <p>Only a validated plan reaches SQL synthesis, then an auditor and an execution-guided refiner.</p>
       </div>
+      <i class="fas fa-chevron-right pipeline-arrow"></i>
     </div>
-    <div class="col-sm-6 col-lg-3 mb-3">
+    <div class="col-sm-6 col-lg-3 mb-3 pipeline-col">
       <div class="step-card">
         <div class="step-num">4</div>
         <h6>Explain</h6>
@@ -65,20 +86,22 @@ links:
   <div class="project-figure text-center">
     <img class="img-fluid js-lightbox-img" src="{{ '/assets/images/ongoing-research-diagrams/HEAL-Methodology.png' | relative_url }}" alt="HEAL methodology diagram">
   </div>
-  <div class="small text-muted text-center mt-2">The HEAL pipeline (click to enlarge)</div>
+  <div class="figure-caption"><strong>Figure 1.</strong> The HEAL pipeline. Click to enlarge.</div>
 </div>
 
 <div class="project-card project-accent-results">
+  <div class="section-eyebrow">03 &middot; Evaluation</div>
   <div class="project-card-title"><i class="fas fa-chart-column"></i> Results</div>
-  <p class="small text-muted">Evaluated on <strong>SynClin-SQL</strong>, a benchmark of 500 clinician-style questions over a synthetic patient database. Exact Match, Execution Accuracy and Valid SQL are percentages. The human score is the mean of a four-point correctness rubric. Gains below are over the strongest baseline, chain-of-thought.</p>
+  <p class="small text-muted">Evaluated on <strong>SynClin-SQL</strong>, a benchmark of 500 clinician-style questions over a synthetic patient database. Exact Match, Execution Accuracy and Valid SQL are percentages. The human score is the mean of a four-point correctness rubric. Gains are over the strongest baseline, chain-of-thought.</p>
 
-  <div class="row mb-3">
+  <div class="row mb-1">
     <div class="col-4"><div class="stat-tile"><div class="stat-value">+12.0</div><div class="stat-label">points on GPT-4o-mini</div></div></div>
     <div class="col-4"><div class="stat-tile"><div class="stat-value">+10.0</div><div class="stat-label">points on GPT-5 nano</div></div></div>
     <div class="col-4"><div class="stat-tile"><div class="stat-value">+8.6</div><div class="stat-label">points on GPT-5 mini</div></div></div>
   </div>
   <div class="small text-muted text-center mb-3">Execution accuracy gain over the best baseline</div>
 
+  <div class="table-caption"><strong>Table 1.</strong> Main results on SynClin-SQL.</div>
   <div class="table-responsive">
     <table class="table table-sm text-center results-table mb-0">
       <thead>
@@ -110,6 +133,12 @@ links:
 </div>
 
 <div class="project-card project-accent-conclusion">
+  <div class="section-eyebrow">04 &middot; Takeaways</div>
   <div class="project-card-title"><i class="fas fa-flag-checkered"></i> Conclusion</div>
-  <p class="mb-0">HEAL improves execution accuracy on all three backbones, and the gain holds across ambiguity, join-path, temporal, and nested questions. Catching errors in the plan, before SQL exists, is what makes the difference. The trade-off is cost: about 8 model calls per query instead of one. Results come from one synthetic dataset, so validation on real clinical records is the next step.</p>
+  <ul class="takeaway-list">
+    <li>HEAL improves execution accuracy on all three backbones, and the gain holds across ambiguity, join-path, temporal, and nested questions.</li>
+    <li>Catching errors in the plan, before SQL exists, is what makes the difference.</li>
+    <li>The trade-off is cost: about 8 model calls per query instead of one.</li>
+    <li>Results come from one synthetic dataset, so validation on real clinical records is the next step.</li>
+  </ul>
 </div>
