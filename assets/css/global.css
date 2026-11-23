@@ -903,3 +903,38 @@ a.author-self:hover {
     font-size: 0.8rem;
     color: #e53e76;
 }
+
+.keyword-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 1rem;
+    padding-top: 0.9rem;
+    border-top: 1px solid #eef0f4;
+}
+
+.keyword-label {
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6c757d;
+    margin-right: 0.3rem;
+}
+
+.keyword-pill {
+    display: inline-block;
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 0.2rem 0.75rem;
+    border-radius: 999px;
+    background-color: #e3f5f7;
+    color: #1f8a99;
+    transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+.keyword-pill:hover {
+    background-color: #45b7c6;
+    color: #fff;
+}

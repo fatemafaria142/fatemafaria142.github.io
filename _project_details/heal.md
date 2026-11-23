@@ -87,6 +87,7 @@ links:
     <img class="img-fluid js-lightbox-img" src="{{ '/assets/images/ongoing-research-diagrams/HEAL-Methodology.png' | relative_url }}" alt="HEAL methodology diagram">
   </div>
   <div class="figure-caption"><strong>Figure 1.</strong> The HEAL pipeline. Click to enlarge.</div>
+  <div class="keyword-row"><span class="keyword-label"><i class="fas fa-tags"></i> Keywords</span><span class="keyword-pill">Multi-Agent Systems</span><span class="keyword-pill">Clinical Text-to-SQL</span><span class="keyword-pill">Hallucination Mitigation</span><span class="keyword-pill">Agent Disagreement Resolution</span></div>
 </div>
 
 <div class="project-card project-accent-results">
