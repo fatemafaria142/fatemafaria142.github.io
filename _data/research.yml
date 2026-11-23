@@ -2,7 +2,6 @@ ongoing_projects:
 - title: "Positional Bias in Medical Vision-Language Models: A Benchmark Study"
   date: "September 2026 to Present"
   status: "ongoing"
-  details: /research/positional-bias-medical-vlms/
   cover: /assets/images/ongoing-research-diagrams/Benchmark-Axes-for-Medical-VLMs.png
   problem: |
     Medical vision-language models (VLMs) increasingly use natural-language
