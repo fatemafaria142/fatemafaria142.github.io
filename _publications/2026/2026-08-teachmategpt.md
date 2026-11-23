@@ -1,6 +1,6 @@
 ---
 title:          "TeachMateGPT: A Multi-Agent Knowledge-Grounded Framework for Pedagogical Assessment Generation from Science Curriculum Materials"
-date:           2026-09-02 00:01:00 +0600
+date:           2026-09-27 00:01:00 +0600
 selected:       true
 selected_order: 4
 cover:          /assets/images/publications/TeachMateGPT.png
