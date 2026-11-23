@@ -26,7 +26,7 @@ links:
     <div class="fact-tile"><i class="fas fa-bullseye"></i><div class="fact-label">Task</div><div class="fact-value">Clinical Text-to-SQL</div></div>
   </div>
   <div class="col-6 col-lg-3 mb-3">
-    <div class="fact-tile"><i class="fas fa-users-gear"></i><div class="fact-label">Approach</div><div class="fact-value">Multi-agent, validated plans</div></div>
+    <div class="fact-tile"><i class="fas fa-users-gear"></i><div class="fact-label">Approach</div><div class="keyword-wrap"><span class="keyword-pill">Multi-Agent Systems</span><span class="keyword-pill">Clinical Text-to-SQL</span><span class="keyword-pill">Hallucination Mitigation</span><span class="keyword-pill">Agent Disagreement Resolution</span></div></div>
   </div>
   <div class="col-6 col-lg-3 mb-3">
     <div class="fact-tile"><i class="fas fa-database"></i><div class="fact-label">Benchmark</div><div class="fact-value">SynClin-SQL, 500 questions</div></div>
@@ -87,7 +87,6 @@ links:
     <img class="img-fluid js-lightbox-img" src="{{ '/assets/images/ongoing-research-diagrams/HEAL-Methodology.png' | relative_url }}" alt="HEAL methodology diagram">
   </div>
   <div class="figure-caption"><strong>Figure 1.</strong> The HEAL pipeline. Click to enlarge.</div>
-  <div class="keyword-row"><span class="keyword-label"><i class="fas fa-tags"></i> Keywords</span><span class="keyword-pill">Multi-Agent Systems</span><span class="keyword-pill">Clinical Text-to-SQL</span><span class="keyword-pill">Hallucination Mitigation</span><span class="keyword-pill">Agent Disagreement Resolution</span></div>
 </div>
 
 <div class="project-card project-accent-results">

@@ -904,23 +904,16 @@ a.author-self:hover {
     color: #e53e76;
 }
 
-.keyword-row {
+.keyword-wrap {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
-    gap: 0.4rem;
-    margin-top: 1rem;
-    padding-top: 0.9rem;
-    border-top: 1px solid #eef0f4;
+    gap: 0.3rem;
+    margin-top: 0.2rem;
 }
 
-.keyword-label {
+.keyword-wrap .keyword-pill {
     font-size: 0.72rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #6c757d;
-    margin-right: 0.3rem;
+    padding: 0.12rem 0.55rem;
 }
 
 .keyword-pill {
