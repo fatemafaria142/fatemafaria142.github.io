@@ -2,7 +2,19 @@
 layout: project
 title: "HEAL: A Multi-Agent Framework with Disagreement-Gated Validation for Reliable Text-to-SQL on Clinical Patient Records"
 date_range: "July 2026 to Present"
-status: ongoing
+status: under_review
+back_url: /publications
+back_label: "Back to Publications"
+venue: "Under review at Expert Systems with Applications"
+venue_url: https://www.sciencedirect.com/journal/expert-systems-with-applications/issues
+authors:
+  - Fatema Tuj Johora Faria
+  - Mukaffi Bin Moin
+  - Md Mehedi Hasan Nipu
+  - Khan Md Hasib
+  - Md Rafiqul Islam
+  - Asif Karim
+  - Sami Azam
 links:
   - label: "Code"
     icon: "fab fa-github"

@@ -4,17 +4,21 @@ layout: default
 
 <div class="row">
     <div class="col-12">
-        <a href="{{ '/research' | relative_url }}" class="project-back"><i class="fas fa-arrow-left"></i> Back to Ongoing Projects</a>
+        <a href="{{ page.back_url | default: '/research' | relative_url }}" class="project-back"><i class="fas fa-arrow-left"></i> {{ page.back_label | default: 'Back to Ongoing Projects' }}</a>
 
         <div class="project-hero bg-white shadow-sm rounded-xl p-4 my-3">
             <div class="mb-2">
-                {% if page.status == "planned" %}
+                {% if page.status == "under_review" %}
+                <span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
+                {% elsif page.status == "planned" %}
                 <span class="pub-badge pub-badge-preprint"><i class="fas fa-lightbulb"></i> Planned</span>
                 {% else %}
                 <span class="pub-badge pub-badge-selected"><i class="fas fa-flask"></i> Ongoing</span>
                 {% endif %}
             </div>
             <h1 class="project-title mb-2">{{ page.title }}</h1>
+            {% if page.authors %}<p class="small pub-authors mb-1">{% include widgets/author_list.html authors=page.authors %}</p>{% endif %}
+            {% if page.venue %}<p class="small pub-venue mb-1"><a href="{{ page.venue_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{ page.venue }} <i class="fas fa-external-link-alt fa-xs"></i></a></p>{% endif %}
             {% if page.date_range %}<p class="pub-venue mb-0"><i class="far fa-calendar-alt"></i> {{ page.date_range }}</p>{% endif %}
             {% if page.links %}
             <div class="mt-3">

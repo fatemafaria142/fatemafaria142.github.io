@@ -2,7 +2,7 @@
 title:          "ChannelGuard: From Borrowed Safety to Application-Controlled Defenses in Multi-Agent LLMs"
 date:           2026-09-04 00:01:00 +0600
 selected:       true
-selected_order: 2
+selected_order: 3
 cover:          /assets/images/publications/ChannelGuard.png
 status:         under_review
 pub_date:       "2026"

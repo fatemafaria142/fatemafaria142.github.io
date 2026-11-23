@@ -1,39 +1,4 @@
 ongoing_projects:
-- title: "HEAL: A Multi-Agent Framework with Disagreement-Gated Validation for Reliable Text-to-SQL on Clinical Patient Records"
-  date: "July 2026 to Present"
-  status: "ongoing"
-  details: /research/heal/
-  cover: /assets/images/ongoing-research-diagrams/HEAL.png
-  problem: |
-    Clinicians need to ask natural-language questions over patient databases across
-    multi-turn conversations, not just isolated questions. Answering correctly
-    requires jointly handling four coupled challenges: **ambiguity** (mapping
-    informal language like "high blood pressure" to schema literals, and resolving
-    coreference like "those patients" across turns), **nested reasoning**
-    (questions like "latest HbA1c per patient" that need subqueries or ranking,
-    not a flat filter), **join-path reasoning** (picking the correct tables and
-    result grain in a normalized clinical schema), and **temporal reasoning**
-    (anchoring phrases like "currently on insulin" to real date columns and
-    status logic). Getting any of these wrong doesn't just crash the query, it
-    silently produces the wrong patient cohort, which is worse.
-  gap: |
-    Existing Text-to-SQL research doesn't fully cover this setting. Most
-    benchmarks score isolated single-turn questions, so dialogue memory and
-    constraint retention across turns are rarely measured. Most systems generate
-    SQL with one monolithic LLM call, making the reasoning behind a join or
-    filter choice implicit and uninspectable. Schema grounding is usually a
-    static text dump rather than the database's actual current values, and
-    failure recovery is typically a naive retry rather than a structured response
-    to *why* a query failed. No existing benchmark stratifies clinical queries by
-    which of these reasoning dimensions (or combinations) they stress.
-  approach: |
-    This project explores an alternative to the single, all-at-once response
-    most systems rely on. HEAL splits the task across specialised agents (intent
-    planning, ambiguity and temporal resolution, join-path planning) that hand
-    each other inspectable natural-language contracts. A Cross-Agent Validator
-    then checks these contracts against the live schema and against each other
-    before any SQL is written, followed by auditing, execution-guided refinement,
-    and an evidence-grounded explanation.
 - title: "Positional Bias in Medical Vision-Language Models: A Benchmark Study"
   date: "September 2026 to Present"
   status: "ongoing"
