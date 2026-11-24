@@ -44,7 +44,7 @@ links:
   <span class="keyword-pill">Electronic Health Records</span>
 </div>
 
-<div class="project-card">
+<div class="project-card reveal-on-scroll">
   <div class="section-eyebrow">01 &middot; The problem</div>
   <h5 class="project-card-title"><i class="fas fa-circle-question"></i> A query that runs is not a query that is right</h5>
   <p>Hospital staff keep patient data in relational databases, but most clinicians do not write SQL. A Text-to-SQL system lets them ask in plain language instead. The danger is a <strong>silent failure</strong>: the generated query runs without error and returns a tidy list of patients, but it is the <strong>wrong list</strong>. Nothing crashes, and nothing on screen tells the clinician it is wrong.</p>
@@ -84,7 +84,7 @@ links:
   <p class="mt-3 mb-0">Most existing systems check only the finished SQL, by running it or by voting among attempts. Neither notices a <em>reasoning</em> mistake that still produces valid SQL. <strong>HEAL's goal is to catch that mistake before any SQL exists.</strong></p>
 </div>
 
-<div class="project-card">
+<div class="project-card reveal-on-scroll">
   <div class="section-eyebrow">02 &middot; Examples</div>
   <h5 class="project-card-title"><i class="fas fa-comments"></i> What the system is asked to do</h5>
   <p>The system has two possible outputs. It answers when it can, and it asks back when two readings of the question would give different results.</p>
@@ -146,7 +146,7 @@ links:
   </div>
 </div>
 
-<div class="project-card">
+<div class="project-card reveal-on-scroll">
   <div class="section-eyebrow">03 &middot; The method</div>
   <h5 class="project-card-title"><i class="fas fa-diagram-project"></i> How HEAL works, in plain terms</h5>
   <p><strong>HEAL</strong> (Healthcare Execution-guided Multi-Agent for Logical queries) works like a small team where every member has one job. Each agent hands the next a <strong>written plan in plain language</strong>, so a person can read what was assumed. A plan only becomes SQL after the team has checked it.</p>
@@ -216,7 +216,7 @@ links:
   <div class="figure-caption"><strong>Figure 1.</strong> The full pipeline, from a clinician's question to an explained answer. Planning and validation (top), SQL writing and repair (middle), and the response (bottom). Click to enlarge.</div>
 </div>
 
-<div class="project-card">
+<div class="project-card reveal-on-scroll">
   <div class="section-eyebrow">04 &middot; The benchmark</div>
   <h5 class="project-card-title"><i class="fas fa-database"></i> SynClin-SQL</h5>
   <p>Real patient records cannot be shared, so we built a benchmark on a <strong>synthetic</strong> patient database with no real patient information. Every question has a reference SQL query, and each query was written and checked by two annotators.</p>
@@ -228,7 +228,7 @@ links:
   </div>
 </div>
 
-<div class="project-card">
+<div class="project-card reveal-on-scroll">
   <div class="section-eyebrow">05 &middot; Evaluation</div>
   <h5 class="project-card-title"><i class="fas fa-chart-column"></i> Results</h5>
   <p class="small text-muted">HEAL is compared with zero-shot, few-shot and chain-of-thought prompting (CoT) on three backbones. Exact Match, Execution Accuracy and Valid SQL are percentages. The human score is the mean of a four-point correctness rubric. Gains are measured against the strongest baseline, CoT.</p>
@@ -284,7 +284,7 @@ links:
   <p class="small text-muted mt-2 mb-0">Removing any one component lowers accuracy. Removing the clarification planner hurts most: that variant falls below the chain-of-thought baseline.</p>
 </div>
 
-<div class="project-card">
+<div class="project-card reveal-on-scroll">
   <div class="section-eyebrow">06 &middot; Takeaways</div>
   <h5 class="project-card-title"><i class="fas fa-flag-checkered"></i> Conclusion</h5>
   <ul class="takeaway-list">
