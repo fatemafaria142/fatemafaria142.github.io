@@ -936,8 +936,11 @@ a.author-self:hover {
 }
 
 .type-card {
+    --tc: #007bff;
+    --tc-bg: #e5f0ff;
     height: 100%;
     border: 1px solid #e9ecef;
+    border-top: 3px solid var(--tc);
     border-radius: 0.8rem;
     padding: 0.7rem 0.9rem;
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
@@ -961,7 +964,7 @@ a.author-self:hover {
     width: 1.5rem;
     height: 1.5rem;
     border-radius: 50%;
-    background-color: #007bff;
+    background-color: var(--tc);
     color: #fff;
     font-size: 0.78rem;
     margin-right: 0.3rem;
@@ -1321,4 +1324,22 @@ a.author-self:hover {
 .keyword-pill:hover {
     background-color: #007bff;
     color: #fff;
+}
+
+/* One color per query type */
+.type-a { --tc: #007bff; --tc-bg: #e5f0ff; }
+.type-j { --tc: #138d75; --tc-bg: #e0f4ef; }
+.type-t { --tc: #7d3c98; --tc-bg: #f1e6f6; }
+.type-n { --tc: #d9480f; --tc-bg: #fdebe0; }
+
+.type-card .avatar-user {
+    background-color: var(--tc);
+}
+
+.type-card .bubble-user {
+    background-color: var(--tc-bg);
+}
+
+.type-card .type-head {
+    color: var(--tc);
 }

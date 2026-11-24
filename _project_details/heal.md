@@ -127,28 +127,28 @@ links:
   <p>Every benchmark question is labeled with the reasoning that makes it hard, so results can be broken down by type.</p>
   <div class="row">
     <div class="col-md-6 mb-3">
-      <div class="type-card">
+      <div class="type-card type-a">
         <div class="type-head"><span class="type-badge">A</span> Ambiguity</div>
         <div class="chat-row"><div class="avatar avatar-user avatar-sm"><i class="fas fa-user-doctor"></i></div><div class="bubble bubble-user">Find patients with dangerously high heart rate (tachycardia).</div></div>
         <p class="type-note">A vague word must become a concrete column and threshold.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
-      <div class="type-card">
+      <div class="type-card type-j">
         <div class="type-head"><span class="type-badge">J</span> Join path</div>
         <div class="chat-row"><div class="avatar avatar-user avatar-sm"><i class="fas fa-user-doctor"></i></div><div class="bubble bubble-user">Find patients from Sylhet who have hypertension and were prescribed amlodipine.</div></div>
         <p class="type-note">Three tables must be joined, and each patient must still appear once.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
-      <div class="type-card">
+      <div class="type-card type-t">
         <div class="type-head"><span class="type-badge">T</span> Temporal</div>
         <div class="chat-row"><div class="avatar avatar-user avatar-sm"><i class="fas fa-user-doctor"></i></div><div class="bubble bubble-user">Find patients whose most recent diagnosis was made more than 1 year ago.</div></div>
         <p class="type-note">"Most recent" and "more than a year ago" both need the right date anchor.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
-      <div class="type-card">
+      <div class="type-card type-n">
         <div class="type-head"><span class="type-badge">N</span> Nested</div>
         <div class="chat-row"><div class="avatar avatar-user avatar-sm"><i class="fas fa-user-doctor"></i></div><div class="bubble bubble-user">Find patients whose HbA1c has improved (last value lower than the one before) but is still above 7.</div></div>
         <p class="type-note">Each patient's last two readings must be ranked before filtering.</p>
