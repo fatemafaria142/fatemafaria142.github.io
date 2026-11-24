@@ -29,7 +29,7 @@ links:
     <div class="fact-tile"><i class="fas fa-users-gear"></i><div class="fact-label">Idea</div><div class="fact-value">Several agents plan, then check each other before any SQL is written</div></div>
   </div>
   <div class="col-6 col-lg-3 mb-2">
-    <div class="fact-tile"><i class="fas fa-database"></i><div class="fact-label">Benchmark</div><div class="fact-value">SynClin-SQL, 500 questions</div></div>
+    <div class="fact-tile"><i class="fas fa-database"></i><div class="fact-label">Evaluation set</div><div class="fact-value">SynClin-SQL, 500 questions</div></div>
   </div>
   <div class="col-6 col-lg-3 mb-2">
     <div class="fact-tile"><i class="fas fa-microchip"></i><div class="fact-label">Backbones</div><div class="fact-value">GPT-4o-mini, GPT-5 nano, GPT-5 mini</div></div>
@@ -124,7 +124,7 @@ links:
 <div class="project-card reveal-on-scroll">
   <div class="section-eyebrow">02 &middot; Question types</div>
   <h5 class="project-card-title"><i class="fas fa-layer-group"></i> Four kinds of difficulty</h5>
-  <p>Every benchmark question is labeled with the reasoning that makes it hard, so results can be broken down by type.</p>
+  <p>Every question in the evaluation set is labeled with the reasoning that makes it hard, so results can be broken down by type.</p>
   <div class="row">
     <div class="col-md-6 mb-3">
       <div class="type-card type-a">
@@ -242,9 +242,9 @@ links:
 </div>
 
 <div class="project-card reveal-on-scroll">
-  <div class="section-eyebrow">04 &middot; The benchmark</div>
+  <div class="section-eyebrow">04 &middot; The evaluation set</div>
   <h5 class="project-card-title"><i class="fas fa-database"></i> SynClin-SQL</h5>
-  <p>Real patient records cannot be shared, so we built a benchmark on a <strong>synthetic</strong> patient database with no real patient information. Every question has a reference SQL query, and each query was written and checked by two annotators.</p>
+  <p>Real patient records cannot be shared, so we built an evaluation set on a <strong>synthetic</strong> patient database with no real patient information. Every question has a reference SQL query, and each query was written and checked by two annotators. The set is used only to test the system, never to train it.</p>
   <div class="row">
     <div class="col-6 col-md-3 mb-2"><div class="stat-tile"><div class="stat-value">500</div><div class="stat-label">questions with gold SQL</div></div></div>
     <div class="col-6 col-md-3 mb-2"><div class="stat-tile"><div class="stat-value">4 &times; 125</div><div class="stat-label">per type: A, J, T, N</div></div></div>
