@@ -22,16 +22,16 @@ links:
 ---
 
 <div class="row fact-row">
-  <div class="col-6 col-lg-2 mb-2">
+  <div class="col-6 col-lg-3 mb-2">
     <div class="fact-tile"><i class="fas fa-bullseye"></i><div class="fact-label">Task</div><div class="fact-value">Clinical Text-to-SQL</div></div>
   </div>
-  <div class="col-12 col-lg-5 mb-2">
-    <div class="fact-tile fact-tile-idea"><i class="fas fa-lightbulb"></i><div class="fact-label">What we do</div><div class="fact-value">We turn a clinician's plain-language question into a database query using a team of AI agents. The agents write down their plan and cross-check it before any SQL exists, so a misunderstanding is caught early instead of becoming a wrong patient list.</div></div>
+  <div class="col-6 col-lg-3 mb-2">
+    <div class="fact-tile"><i class="fas fa-lightbulb"></i><div class="fact-label">What we do</div><div class="fact-value">Agents plan and cross-check clinical questions before writing any SQL.</div></div>
   </div>
-  <div class="col-6 col-lg-2 mb-2">
+  <div class="col-6 col-lg-3 mb-2">
     <div class="fact-tile"><i class="fas fa-database"></i><div class="fact-label">Evaluation set</div><div class="fact-value">SynClin-SQL, 500 questions</div></div>
   </div>
-  <div class="col-12 col-lg-3 mb-2">
+  <div class="col-6 col-lg-3 mb-2">
     <div class="fact-tile"><i class="fas fa-microchip"></i><div class="fact-label">Backbones tested</div><div class="fact-value">GPT-4o-mini, GPT-5 nano, GPT-5 mini</div></div>
   </div>
 </div>
