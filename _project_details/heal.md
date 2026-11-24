@@ -349,30 +349,30 @@ links:
   <div class="row">
     <div class="col-md-6 mb-3">
       <div class="takeaway-card">
-        <div class="takeaway-icon"><i class="fas fa-arrow-trend-up"></i></div>
-        <h6>It is more accurate</h6>
-        <p>HEAL improves execution accuracy on all three backbones (+12.0, +10.0 and +8.6 points over chain-of-thought). The gain holds across ambiguity, join-path, temporal and nested questions.</p>
+        <div class="takeaway-icon"><i class="fas fa-magnifying-glass-chart"></i></div>
+        <h6>What we found</h6>
+        <p>Checking the plan before any SQL is written makes clinical question answering more accurate. The improvement appeared on every model we tested and across every type of question, from vague wording to dates, joins and nested logic.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
       <div class="takeaway-card">
-        <div class="takeaway-icon"><i class="fas fa-hand"></i></div>
-        <h6>It stops before SQL exists</h6>
-        <p>Catching a mistake in the plan is what makes the difference. A clinical interface is more trustworthy when it is willing to stop the moment its own agents disagree about what the question means.</p>
+        <div class="takeaway-icon"><i class="fas fa-shield-halved"></i></div>
+        <h6>What we solved</h6>
+        <p>A query can run cleanly and still return the wrong patients, and nobody notices. HEAL catches that kind of mistake at the planning stage, before it can turn into a confident but wrong answer.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
       <div class="takeaway-card">
-        <div class="takeaway-icon"><i class="fas fa-coins"></i></div>
-        <h6>It costs more per question</h6>
-        <p>About 8 model calls per question instead of one: a few cents per query (about $0.02 on GPT-4o-mini and $0.05 on GPT-5 mini).</p>
+        <div class="takeaway-icon"><i class="fas fa-puzzle-piece"></i></div>
+        <h6>Every part earns its place</h6>
+        <p>Taking out any single agent made results worse. The agent that decides whether to ask the clinician a question first mattered most, which shows that knowing when to ask back is as important as writing good SQL.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
       <div class="takeaway-card">
         <div class="takeaway-icon"><i class="fas fa-triangle-exclamation"></i></div>
         <h6>What is still open</h6>
-        <p>Results come from one synthetic database of 100 patients, so testing on real clinical records is the next step.</p>
+        <p>The results come from a synthetic database, so the next step is testing HEAL on real clinical records and in real hospital workflows.</p>
       </div>
     </div>
   </div>
