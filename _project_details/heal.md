@@ -242,15 +242,44 @@ links:
     <div class="col-6 col-md-4 mb-2"><div class="stat-tile"><div class="stat-value">100 / 11</div><div class="stat-label">synthetic patients / database tables</div></div></div>
     <div class="col-6 col-md-4 mb-2"><div class="stat-tile"><div class="stat-value">0.861</div><div class="stat-label">annotator agreement (Cohen's &kappa;)</div></div></div>
   </div>
-  <p class="mt-3 mb-2"><strong>How the 500 questions are divided.</strong> Each question is labeled with its main reasoning challenge, and the four types are perfectly balanced.</p>
-  <div class="split-bar" aria-label="500 questions split equally across four reasoning types">
-    <span class="type-a" style="width: 25%"></span><span class="type-j" style="width: 25%"></span><span class="type-t" style="width: 25%"></span><span class="type-n" style="width: 25%"></span>
-  </div>
-  <div class="row mt-3">
-    <div class="col-6 col-lg-3 mb-2"><div class="count-card type-a"><span class="type-badge">A</span><div class="count-num">125</div><div class="count-name">Ambiguity</div><div class="count-share">25% of the set</div></div></div>
-    <div class="col-6 col-lg-3 mb-2"><div class="count-card type-j"><span class="type-badge">J</span><div class="count-num">125</div><div class="count-name">Join path</div><div class="count-share">25% of the set</div></div></div>
-    <div class="col-6 col-lg-3 mb-2"><div class="count-card type-t"><span class="type-badge">T</span><div class="count-num">125</div><div class="count-name">Temporal</div><div class="count-share">25% of the set</div></div></div>
-    <div class="col-6 col-lg-3 mb-2"><div class="count-card type-n"><span class="type-badge">N</span><div class="count-num">125</div><div class="count-name">Nested</div><div class="count-share">25% of the set</div></div></div>
+  <div class="split-panel">
+    <div class="split-head">
+      <div class="split-title"><i class="fas fa-chart-pie"></i> How the 500 questions are divided</div>
+      <div class="split-sub">Each question is labeled with the one reasoning challenge that makes it hardest. The four types are perfectly balanced, so no single type can dominate the results.</div>
+    </div>
+    <div class="split-body">
+      <div class="split-donut-wrap">
+        <div class="split-donut" role="img" aria-label="500 questions split equally: 125 ambiguity, 125 join path, 125 temporal, 125 nested">
+          <div class="split-hole"><div class="split-total">500</div><div class="split-total-label">questions</div></div>
+        </div>
+      </div>
+      <div class="split-rows">
+      <div class="split-row type-a">
+        <span class="type-badge">A</span>
+        <div class="split-text"><div class="split-name">Ambiguity</div><div class="split-desc">Informal words mapped to exact columns and stored values</div></div>
+        <div class="split-figures"><span class="split-count">125</span><span class="split-share">25%</span></div>
+        <div class="split-track"><span></span></div>
+      </div>
+      <div class="split-row type-j">
+        <span class="type-badge">J</span>
+        <div class="split-text"><div class="split-name">Join path</div><div class="split-desc">Several tables joined at the right grain, with no duplicated patients</div></div>
+        <div class="split-figures"><span class="split-count">125</span><span class="split-share">25%</span></div>
+        <div class="split-track"><span></span></div>
+      </div>
+      <div class="split-row type-t">
+        <span class="type-badge">T</span>
+        <div class="split-text"><div class="split-name">Temporal</div><div class="split-desc">Date windows, age from birth date, and active-therapy status</div></div>
+        <div class="split-figures"><span class="split-count">125</span><span class="split-share">25%</span></div>
+        <div class="split-track"><span></span></div>
+      </div>
+      <div class="split-row type-n">
+        <span class="type-badge">N</span>
+        <div class="split-text"><div class="split-name">Nested</div><div class="split-desc">A patient's latest or first reading, which needs a subquery</div></div>
+        <div class="split-figures"><span class="split-count">125</span><span class="split-share">25%</span></div>
+        <div class="split-track"><span></span></div>
+      </div>
+      </div>
+    </div>
   </div>
 </div>
 
