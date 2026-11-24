@@ -67,6 +67,12 @@ links:
     </div>
   </div>
 
+</div>
+
+<div class="project-card reveal-on-scroll">
+  <div class="section-eyebrow">01 &middot; Why it is hard</div>
+  <h5 class="project-card-title"><i class="fas fa-list-check"></i> One short question, four hidden decisions</h5>
+  <p>Here is a question a clinician might type:</p>
   <div class="chat">
     <div class="chat-row">
       <div class="avatar avatar-user"><i class="fas fa-user-doctor"></i></div>
@@ -113,7 +119,12 @@ links:
     </div>
   </div>
 
-  <p class="mt-2 mb-2"><strong>Four kinds of difficulty.</strong> Every benchmark question is labeled with the reasoning that makes it hard, so results can be broken down by type:</p>
+</div>
+
+<div class="project-card reveal-on-scroll">
+  <div class="section-eyebrow">02 &middot; Question types</div>
+  <h5 class="project-card-title"><i class="fas fa-layer-group"></i> Four kinds of difficulty</h5>
+  <p>Every benchmark question is labeled with the reasoning that makes it hard, so results can be broken down by type.</p>
   <div class="row">
     <div class="col-md-6 mb-3">
       <div class="type-card">
@@ -185,7 +196,12 @@ links:
     </div>
   </div>
 
-  <h6 class="sub-heading">The insulin question, step by step</h6>
+</div>
+
+<div class="project-card reveal-on-scroll">
+  <div class="section-eyebrow">03 &middot; Worked example</div>
+  <h5 class="project-card-title"><i class="fas fa-shoe-prints"></i> The insulin question, step by step</h5>
+  <p>What each stage produces for the question from the problem section.</p>
   <div class="walk">
     <div class="walk-row"><span class="walk-chip">Intent</span><div>One row per patient. The test is dated by when it was measured. The question is clear enough, so no clarification is needed.</div></div>
     <div class="walk-row"><span class="walk-chip">Terms and dates</span><div>"Currently on insulin" becomes an insulin prescription with no end date or a future one. "Last 90 days" becomes the lab test date, counted back from today.</div></div>
@@ -194,7 +210,11 @@ links:
     <div class="walk-row"><span class="walk-chip">SQL and answer</span><div>The query is written from the validated plan, audited, run, and the patient list is explained from the returned rows.</div></div>
   </div>
 
-  <h6 class="sub-heading">The validator, the part that makes HEAL different</h6>
+</div>
+
+<div class="project-card reveal-on-scroll">
+  <div class="section-eyebrow">03 &middot; The validator</div>
+  <h5 class="project-card-title"><i class="fas fa-shield-halved"></i> The validator: the part that makes HEAL different</h5>
   <p>Before SQL exists, the validator (CAV+) runs four checks in order. Each catches something the one before it cannot:</p>
   <div class="row">
     <div class="col-6 col-lg-3 mb-3"><div class="check-card"><i class="fas fa-table-list"></i><h6>Schema check</h6><p>Does every table and column the plans mention actually exist?</p></div></div>
@@ -210,7 +230,12 @@ links:
     </div>
   </div>
 
-  <div class="project-figure text-center mt-3">
+</div>
+
+<div class="project-card reveal-on-scroll">
+  <div class="section-eyebrow">03 &middot; Full pipeline</div>
+  <h5 class="project-card-title"><i class="fas fa-sitemap"></i> The whole pipeline in one picture</h5>
+  <div class="project-figure text-center">
     <img class="img-fluid js-lightbox-img" src="{{ '/assets/images/ongoing-research-diagrams/HEAL-Methodology.png' | relative_url }}" alt="Diagram of the HEAL pipeline: planning and validation, SQL writing and checking, and answering the clinician">
   </div>
   <div class="figure-caption"><strong>Figure 1.</strong> The full pipeline, from a clinician's question to an explained answer. Planning and validation (top), SQL writing and repair (middle), and the response (bottom). Click to enlarge.</div>
@@ -270,7 +295,11 @@ links:
     </table>
   </div>
 
-  <h6 class="sub-heading">Is every agent needed? Remove one at a time</h6>
+</div>
+
+<div class="project-card reveal-on-scroll">
+  <div class="section-eyebrow">05 &middot; Ablation</div>
+  <h5 class="project-card-title"><i class="fas fa-puzzle-piece"></i> Is every agent needed? Remove one at a time</h5>
   <p class="small text-muted mb-2">Execution accuracy on GPT-5 mini (%). Each row removes a single component from the full system.</p>
   <div class="bar-list">
     <div class="bar-row"><div class="bar-name">Chain-of-thought baseline</div><div class="bar-track"><div class="bar-fill bar-base" style="width: 62.6%"></div></div><div class="bar-val">62.6</div></div>
