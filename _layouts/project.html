@@ -6,8 +6,8 @@ layout: default
     <div class="col-12">
         <a href="{{ page.back_url | default: '/research' | relative_url }}" class="project-back"><i class="fas fa-arrow-left"></i> {{ page.back_label | default: 'Back to Ongoing Projects' }}</a>
 
-        <div class="project-hero bg-white shadow-sm rounded-xl p-4 my-3">
-            <div class="mb-2">
+        <div class="project-hero bg-white shadow-sm rounded-xl">
+            <div class="project-meta">
                 {% if page.status == "under_review" %}
                 <span class="pub-badge pub-badge-review"><i class="fas fa-hourglass-half"></i> Under Review</span>
                 {% elsif page.status == "planned" %}
@@ -15,18 +15,18 @@ layout: default
                 {% else %}
                 <span class="pub-badge pub-badge-selected"><i class="fas fa-flask"></i> Ongoing</span>
                 {% endif %}
+                {% if page.date_range %}<span class="pub-venue"><i class="far fa-calendar-alt"></i> {{ page.date_range }}</span>{% endif %}
             </div>
-            <h1 class="project-title mb-2">{{ page.title }}</h1>
+            <h1 class="project-title">{{ page.title }}</h1>
             {% if page.authors %}<p class="small pub-authors mb-1">{% include widgets/author_list.html authors=page.authors %}</p>{% endif %}
-            {% if page.venue %}<p class="small pub-venue mb-1"><a href="{{ page.venue_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{ page.venue }} <i class="fas fa-external-link-alt fa-xs"></i></a></p>{% endif %}
-            {% if page.date_range %}<p class="pub-venue mb-0"><i class="far fa-calendar-alt"></i> {{ page.date_range }}</p>{% endif %}
-            {% if page.links %}
-            <div class="mt-3">
+            <div class="project-links">
+                {% if page.venue %}<span class="small pub-venue"><a href="{{ page.venue_url }}" target="_blank" rel="noopener" class="pub-venue-link">{{ page.venue }} <i class="fas fa-external-link-alt fa-xs"></i></a></span>{% endif %}
+                {% if page.links %}
                 {% for link in page.links %}
-                <a href="{{ link.url }}" target="_blank" rel="noopener" class="btn btn-sm pub-link-btn mr-1 mb-1"><i class="{{ link.icon }}"></i> {{ link.label }}</a>
+                <a href="{{ link.url }}" target="_blank" rel="noopener" class="btn btn-sm pub-link-btn"><i class="{{ link.icon }}"></i> {{ link.label }}</a>
                 {% endfor %}
+                {% endif %}
             </div>
-            {% endif %}
         </div>
 
         <div class="reveal-on-scroll">
