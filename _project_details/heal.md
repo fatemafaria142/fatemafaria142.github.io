@@ -22,26 +22,18 @@ links:
 ---
 
 <div class="row fact-row">
-  <div class="col-6 col-lg-3 mb-2">
+  <div class="col-6 col-lg-2 mb-2">
     <div class="fact-tile"><i class="fas fa-bullseye"></i><div class="fact-label">Task</div><div class="fact-value">Clinical Text-to-SQL</div></div>
   </div>
-  <div class="col-6 col-lg-3 mb-2">
-    <div class="fact-tile"><i class="fas fa-users-gear"></i><div class="fact-label">Idea</div><div class="fact-value">Several agents plan, then check each other before any SQL is written</div></div>
+  <div class="col-12 col-lg-5 mb-2">
+    <div class="fact-tile fact-tile-idea"><i class="fas fa-lightbulb"></i><div class="fact-label">What we do</div><div class="fact-value">We turn a clinician's plain-language question into a database query using a team of AI agents. The agents write down their plan and cross-check it before any SQL exists, so a misunderstanding is caught early instead of becoming a wrong patient list.</div></div>
   </div>
-  <div class="col-6 col-lg-3 mb-2">
+  <div class="col-6 col-lg-2 mb-2">
     <div class="fact-tile"><i class="fas fa-database"></i><div class="fact-label">Evaluation set</div><div class="fact-value">SynClin-SQL, 500 questions</div></div>
   </div>
-  <div class="col-6 col-lg-3 mb-2">
-    <div class="fact-tile"><i class="fas fa-microchip"></i><div class="fact-label">Backbones</div><div class="fact-value">GPT-4o-mini, GPT-5 nano, GPT-5 mini</div></div>
+  <div class="col-12 col-lg-3 mb-2">
+    <div class="fact-tile"><i class="fas fa-microchip"></i><div class="fact-label">Backbones tested</div><div class="fact-value">GPT-4o-mini, GPT-5 nano, GPT-5 mini</div></div>
   </div>
-</div>
-
-<div class="keyword-wrap project-keywords">
-  <span class="keyword-pill">Multi-Agent Systems</span>
-  <span class="keyword-pill">Clinical Text-to-SQL</span>
-  <span class="keyword-pill">Hallucination Mitigation</span>
-  <span class="keyword-pill">Agent Disagreement</span>
-  <span class="keyword-pill">Electronic Health Records</span>
 </div>
 
 <div class="project-card reveal-on-scroll">
@@ -128,28 +120,28 @@ links:
   <div class="row">
     <div class="col-md-6 mb-3">
       <div class="type-card type-a">
-        <div class="type-head"><span class="type-badge">A</span> Ambiguity</div>
+        <div class="type-head"><span class="type-badge">A</span> Ambiguity <span class="type-count">125 questions</span></div>
         <div class="chat-row"><div class="avatar avatar-user avatar-sm"><i class="fas fa-user-doctor"></i></div><div class="bubble bubble-user">Find patients with dangerously high heart rate (tachycardia).</div></div>
         <p class="type-note">A vague word must become a concrete column and threshold.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
       <div class="type-card type-j">
-        <div class="type-head"><span class="type-badge">J</span> Join path</div>
+        <div class="type-head"><span class="type-badge">J</span> Join path <span class="type-count">125 questions</span></div>
         <div class="chat-row"><div class="avatar avatar-user avatar-sm"><i class="fas fa-user-doctor"></i></div><div class="bubble bubble-user">Find patients from Sylhet who have hypertension and were prescribed amlodipine.</div></div>
         <p class="type-note">Three tables must be joined, and each patient must still appear once.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
       <div class="type-card type-t">
-        <div class="type-head"><span class="type-badge">T</span> Temporal</div>
+        <div class="type-head"><span class="type-badge">T</span> Temporal <span class="type-count">125 questions</span></div>
         <div class="chat-row"><div class="avatar avatar-user avatar-sm"><i class="fas fa-user-doctor"></i></div><div class="bubble bubble-user">Find patients whose most recent diagnosis was made more than 1 year ago.</div></div>
         <p class="type-note">"Most recent" and "more than a year ago" both need the right date anchor.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
       <div class="type-card type-n">
-        <div class="type-head"><span class="type-badge">N</span> Nested</div>
+        <div class="type-head"><span class="type-badge">N</span> Nested <span class="type-count">125 questions</span></div>
         <div class="chat-row"><div class="avatar avatar-user avatar-sm"><i class="fas fa-user-doctor"></i></div><div class="bubble bubble-user">Find patients whose HbA1c has improved (last value lower than the one before) but is still above 7.</div></div>
         <p class="type-note">Each patient's last two readings must be ranked before filtering.</p>
       </div>
@@ -246,10 +238,19 @@ links:
   <h5 class="project-card-title"><i class="fas fa-database"></i> SynClin-SQL</h5>
   <p>Real patient records cannot be shared, so we built an evaluation set on a <strong>synthetic</strong> patient database with no real patient information. Every question has a reference SQL query, and each query was written and checked by two annotators. The set is used only to test the system, never to train it.</p>
   <div class="row">
-    <div class="col-6 col-md-3 mb-2"><div class="stat-tile"><div class="stat-value">500</div><div class="stat-label">questions with gold SQL</div></div></div>
-    <div class="col-6 col-md-3 mb-2"><div class="stat-tile"><div class="stat-value">4 &times; 125</div><div class="stat-label">per type: A, J, T, N</div></div></div>
-    <div class="col-6 col-md-3 mb-2"><div class="stat-tile"><div class="stat-value">100 / 11</div><div class="stat-label">patients / tables</div></div></div>
-    <div class="col-6 col-md-3 mb-2"><div class="stat-tile"><div class="stat-value">0.861</div><div class="stat-label">annotator agreement (Cohen's &kappa;)</div></div></div>
+    <div class="col-12 col-md-4 mb-2"><div class="stat-tile"><div class="stat-value">500</div><div class="stat-label">questions, each with a reference (gold) SQL query</div></div></div>
+    <div class="col-6 col-md-4 mb-2"><div class="stat-tile"><div class="stat-value">100 / 11</div><div class="stat-label">synthetic patients / database tables</div></div></div>
+    <div class="col-6 col-md-4 mb-2"><div class="stat-tile"><div class="stat-value">0.861</div><div class="stat-label">annotator agreement (Cohen's &kappa;)</div></div></div>
+  </div>
+  <p class="mt-3 mb-2"><strong>How the 500 questions are divided.</strong> Each question is labeled with its main reasoning challenge, and the four types are perfectly balanced.</p>
+  <div class="split-bar" aria-label="500 questions split equally across four reasoning types">
+    <span class="type-a" style="width: 25%"></span><span class="type-j" style="width: 25%"></span><span class="type-t" style="width: 25%"></span><span class="type-n" style="width: 25%"></span>
+  </div>
+  <div class="row mt-3">
+    <div class="col-6 col-lg-3 mb-2"><div class="count-card type-a"><span class="type-badge">A</span><div class="count-num">125</div><div class="count-name">Ambiguity</div><div class="count-share">25% of the set</div></div></div>
+    <div class="col-6 col-lg-3 mb-2"><div class="count-card type-j"><span class="type-badge">J</span><div class="count-num">125</div><div class="count-name">Join path</div><div class="count-share">25% of the set</div></div></div>
+    <div class="col-6 col-lg-3 mb-2"><div class="count-card type-t"><span class="type-badge">T</span><div class="count-num">125</div><div class="count-name">Temporal</div><div class="count-share">25% of the set</div></div></div>
+    <div class="col-6 col-lg-3 mb-2"><div class="count-card type-n"><span class="type-badge">N</span><div class="count-num">125</div><div class="count-name">Nested</div><div class="count-share">25% of the set</div></div></div>
   </div>
 </div>
 
@@ -316,10 +317,34 @@ links:
 <div class="project-card reveal-on-scroll">
   <div class="section-eyebrow">06 &middot; Takeaways</div>
   <h5 class="project-card-title"><i class="fas fa-flag-checkered"></i> Conclusion</h5>
-  <ul class="takeaway-list">
-    <li>HEAL improves execution accuracy on all three backbones, and the gain holds across ambiguity, join-path, temporal and nested questions.</li>
-    <li>Catching a mistake in the plan, before SQL exists, is what makes the difference. A clinical interface becomes more trustworthy when it is willing to stop at the moment its own agents disagree about what the question means.</li>
-    <li><strong>Cost:</strong> about 8 model calls per question instead of one, a few cents per query (about $0.02 on GPT-4o-mini and $0.05 on GPT-5 mini).</li>
-    <li><strong>Limits:</strong> results come from one synthetic database of 100 patients, so validation on real clinical records is the next step.</li>
-  </ul>
+  <div class="row">
+    <div class="col-md-6 mb-3">
+      <div class="takeaway-card">
+        <div class="takeaway-icon"><i class="fas fa-arrow-trend-up"></i></div>
+        <h6>It is more accurate</h6>
+        <p>HEAL improves execution accuracy on all three backbones (+12.0, +10.0 and +8.6 points over chain-of-thought). The gain holds across ambiguity, join-path, temporal and nested questions.</p>
+      </div>
+    </div>
+    <div class="col-md-6 mb-3">
+      <div class="takeaway-card">
+        <div class="takeaway-icon"><i class="fas fa-hand"></i></div>
+        <h6>It stops before SQL exists</h6>
+        <p>Catching a mistake in the plan is what makes the difference. A clinical interface is more trustworthy when it is willing to stop the moment its own agents disagree about what the question means.</p>
+      </div>
+    </div>
+    <div class="col-md-6 mb-3">
+      <div class="takeaway-card">
+        <div class="takeaway-icon"><i class="fas fa-coins"></i></div>
+        <h6>It costs more per question</h6>
+        <p>About 8 model calls per question instead of one: a few cents per query (about $0.02 on GPT-4o-mini and $0.05 on GPT-5 mini).</p>
+      </div>
+    </div>
+    <div class="col-md-6 mb-3">
+      <div class="takeaway-card">
+        <div class="takeaway-icon"><i class="fas fa-triangle-exclamation"></i></div>
+        <h6>What is still open</h6>
+        <p>Results come from one synthetic database of 100 patients, so testing on real clinical records is the next step.</p>
+      </div>
+    </div>
+  </div>
 </div>

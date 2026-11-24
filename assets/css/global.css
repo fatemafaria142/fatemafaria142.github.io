@@ -1452,3 +1452,123 @@ html:has(.project-hero) {
         transition: none;
     }
 }
+
+/* ---- Idea tile, evaluation-set split, conclusion cards ---- */
+.fact-tile-idea .fact-value {
+    font-size: 0.85rem;
+    font-weight: 500;
+    line-height: 1.45;
+    color: #495057;
+}
+
+.split-bar {
+    display: flex;
+    height: 0.8rem;
+    border-radius: 999px;
+    overflow: hidden;
+    gap: 2px;
+}
+
+.split-bar span {
+    display: block;
+    background-color: var(--tc);
+}
+
+.count-card {
+    height: 100%;
+    text-align: center;
+    border: 1px solid #e9ecef;
+    border-top: 3px solid var(--tc);
+    border-radius: 0.8rem;
+    padding: 0.75rem 0.5rem;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.count-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.count-card .type-badge {
+    margin: 0 0 0.2rem;
+}
+
+.count-num {
+    font-size: 1.6rem;
+    font-weight: 800;
+    line-height: 1.1;
+    color: var(--tc);
+}
+
+.count-name {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.count-share {
+    font-size: 0.75rem;
+    color: #6c757d;
+}
+
+.type-count {
+    float: right;
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--tc);
+    background-color: var(--tc-bg);
+    padding: 0.1rem 0.55rem;
+    border-radius: 999px;
+}
+
+.takeaway-card {
+    height: 100%;
+    border: 1px solid #e9ecef;
+    border-radius: 0.8rem;
+    padding: 0.9rem 1rem;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.takeaway-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.takeaway-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 50%;
+    background-color: #e5f0ff;
+    color: #007bff;
+    margin-bottom: 0.5rem;
+}
+
+.takeaway-card h6 {
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+}
+
+.takeaway-card p {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    margin: 0;
+}
+
+.split-bar span {
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: transform 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.3s;
+}
+
+.project-card.is-visible .split-bar span {
+    transform: scaleX(1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .split-bar span {
+        transform: none;
+        transition: none;
+    }
+}
