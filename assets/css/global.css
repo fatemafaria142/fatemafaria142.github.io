@@ -1343,3 +1343,112 @@ a.author-self:hover {
 .type-card .type-head {
     color: var(--tc);
 }
+
+/* ---- Smooth motion on project pages ---- */
+html:has(.project-hero) {
+    scroll-behavior: smooth;
+}
+
+@keyframes pc-rise {
+    from {
+        opacity: 0;
+        transform: translateY(14px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Header and top tiles ease in on load */
+.project-hero,
+.fact-row,
+.project-keywords {
+    animation: pc-rise 0.7s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+}
+
+.fact-row {
+    animation-delay: 0.1s;
+}
+
+.project-keywords {
+    animation-delay: 0.2s;
+}
+
+/* Cards glide up and fade in as they enter the screen */
+.project-card.reveal-on-scroll {
+    transform: translateY(28px);
+    transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+                transform 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+                box-shadow 0.25s ease-in-out,
+                border-color 0.25s ease-in-out;
+}
+
+.project-card.reveal-on-scroll.is-visible {
+    transform: translateY(0);
+}
+
+/* Items inside a card appear one after another */
+.project-card.is-visible :is(.row > [class*="col"], .decision, .walk-row, .bar-row, .takeaway-list li, .chat-row) {
+    animation: pc-rise 0.6s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+    animation-delay: var(--d, 0.15s);
+}
+
+.project-card.is-visible :is(.row > [class*="col"], .decision, .walk-row, .bar-row, .takeaway-list li, .chat-row):nth-child(2) { --d: 0.25s; }
+.project-card.is-visible :is(.row > [class*="col"], .decision, .walk-row, .bar-row, .takeaway-list li, .chat-row):nth-child(3) { --d: 0.35s; }
+.project-card.is-visible :is(.row > [class*="col"], .decision, .walk-row, .bar-row, .takeaway-list li, .chat-row):nth-child(4) { --d: 0.45s; }
+.project-card.is-visible :is(.row > [class*="col"], .decision, .walk-row, .bar-row, .takeaway-list li, .chat-row):nth-child(5) { --d: 0.55s; }
+.project-card.is-visible :is(.row > [class*="col"], .decision, .walk-row, .bar-row, .takeaway-list li, .chat-row):nth-child(n+6) { --d: 0.65s; }
+
+/* Chart bars grow from the left when the card appears */
+.bar-fill {
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: transform 1.1s cubic-bezier(0.22, 1, 0.36, 1) 0.3s;
+}
+
+.project-card.is-visible .bar-fill {
+    transform: scaleX(1);
+}
+
+/* Smooth hover and focus on interactive pieces */
+.project-figure img {
+    transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.project-figure:hover img {
+    transform: scale(1.01);
+}
+
+.keyword-pill,
+.pub-link-btn,
+.project-back {
+    transition: background-color 0.25s ease, color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.project-back:hover {
+    transform: translateX(-3px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html:has(.project-hero) {
+        scroll-behavior: auto;
+    }
+
+    .project-hero,
+    .fact-row,
+    .project-keywords,
+    .project-card.is-visible :is(.row > [class*="col"], .decision, .walk-row, .bar-row, .takeaway-list li, .chat-row) {
+        animation: none;
+    }
+
+    .project-card.reveal-on-scroll {
+        transform: none;
+        transition: none;
+    }
+
+    .bar-fill {
+        transform: none;
+        transition: none;
+    }
+}
