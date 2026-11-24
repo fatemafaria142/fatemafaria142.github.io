@@ -26,7 +26,7 @@ links:
     <div class="fact-tile"><i class="fas fa-bullseye"></i><div class="fact-label">Task</div><div class="fact-value">Clinical Text-to-SQL</div></div>
   </div>
   <div class="col-6 col-lg-3 mb-2">
-    <div class="fact-tile"><i class="fas fa-lightbulb"></i><div class="fact-label">What we do</div><div class="fact-value">Agents plan and cross-check clinical questions before writing any SQL.</div></div>
+    <div class="fact-tile"><i class="fas fa-lightbulb"></i><div class="fact-label">What we do</div><div class="fact-value">Agents collaborate, cross-check plans, and resolve disagreements before writing SQL.</div></div>
   </div>
   <div class="col-6 col-lg-3 mb-2">
     <div class="fact-tile"><i class="fas fa-database"></i><div class="fact-label">Evaluation set</div><div class="fact-value">SynClin-SQL, 500 questions</div></div>
